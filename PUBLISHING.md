@@ -10,7 +10,7 @@ How an episode gets from `out.mp4` onto YouTube and TikTok.
 | Handle | [@drawnexplainers](https://www.youtube.com/@drawnexplainers) |
 | Channel ID | `UCOrC3gouhHOFmPBIEzWEzoQ` |
 | Studio | https://studio.youtube.com/channel/UCOrC3gouhHOFmPBIEzWEzoQ |
-| Google account | `<the channel owner>` |
+| Google account | the channel owner (see `D:/Projects/tempTestKeys/`, not recorded here) |
 | Created | 2018-11-17 |
 | State as of 2026-09-11 | 2 subscribers, 1 video, 24 views, description and keywords both empty |
 
@@ -42,7 +42,7 @@ was created, and getting it wrong disables comments and suppresses recommendatio
 
 **Nothing here can upload.** An `AIza…` key is read-only on the YouTube Data
 API. Uploading needs OAuth 2.0 with the `youtube.upload` scope, which
-authenticates a *user* — and that user must be **`<the channel owner>`**, since
+authenticates a *user* — and that user must be **the account that owns this channel**, since
 that is who owns this channel. Consenting with the wrong account is the one
 mistake that silently uploads to the wrong channel.
 
@@ -88,10 +88,10 @@ no wordmark.
 Worth doing when uploading by hand stops being a five-minute job. It needs one
 step only you can do, and one decision:
 
-1. In Google Cloud Console, **signed in as `<the channel owner>`**, create a
+1. In Google Cloud Console, **signed in as the channel owner**, create a
    project (or reuse one), enable the **YouTube Data API v3**, and create an
    **OAuth client ID** of type *Desktop app*. Download the client secret JSON.
-2. On the OAuth consent screen, add `<the channel owner>` as a **test user**.
+2. On the OAuth consent screen, add that same address as a **test user**.
    Without this, an unverified app refuses consent after a few days.
 3. Hand me the client secret path. I write an uploader that opens one browser
    consent, stores the refresh token, and never needs the browser again.
