@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s03.and",
+  "text": "A clerk copying Latin writes that word more than any other. So the pen stops lifting between the letters. Then it stops leaving them any room at all.",
+  "durationMs": 11400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1160,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2120,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2400,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3240,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3560,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3920,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4140,
+      "startChar": 60,
+      "endChar": 63
+    },
+    {
+      "startMs": 4140,
+      "endMs": 4360,
+      "startChar": 63,
+      "endChar": 67
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4435,
+      "startChar": 67,
+      "endChar": 71
+    },
+    {
+      "startMs": 4435,
+      "endMs": 4520,
+      "startChar": 71,
+      "endChar": 77
+    },
+    {
+      "startMs": 4520,
+      "endMs": 7440,
+      "startChar": 77,
+      "endChar": 85
+    },
+    {
+      "startMs": 7440,
+      "endMs": 7520,
+      "startChar": 85,
+      "endChar": 93
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7740,
+      "startChar": 93,
+      "endChar": 97
+    },
+    {
+      "startMs": 7740,
+      "endMs": 7960,
+      "startChar": 97,
+      "endChar": 106
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8120,
+      "startChar": 106,
+      "endChar": 111
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8280,
+      "startChar": 111,
+      "endChar": 114
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8600,
+      "startChar": 114,
+      "endChar": 120
+    },
+    {
+      "startMs": 8600,
+      "endMs": 9120,
+      "startChar": 120,
+      "endChar": 128
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9480,
+      "startChar": 128,
+      "endChar": 133
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9880,
+      "startChar": 133,
+      "endChar": 137
+    },
+    {
+      "startMs": 9880,
+      "endMs": 10200,
+      "startChar": 137,
+      "endChar": 142
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10640,
+      "startChar": 142,
+      "endChar": 145
+    },
+    {
+      "startMs": 10640,
+      "endMs": 10880,
+      "startChar": 145,
+      "endChar": 149
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "project": "Drawn Explainers",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "conventions": {
     "runtimeRange": "90-180 seconds",
     "resolution": "1920x1080",
@@ -93,6 +93,16 @@
           "renderedAt": "2026-09-11",
           "video": "sets/not-arbitrary/ep07-roman-numerals/out.mp4",
           "detail": "sets/not-arbitrary/ep07-roman-numerals/episode.json"
+        },
+        {
+          "episode": 8,
+          "slug": "ep08-symbols-are-handwriting",
+          "title": "Four Symbols That Are Just Handwriting",
+          "runtimeSeconds": 158.08,
+          "status": "rendered",
+          "renderedAt": "2026-09-12",
+          "video": "sets/not-arbitrary/ep08-symbols-are-handwriting/out.mp4",
+          "detail": "sets/not-arbitrary/ep08-symbols-are-handwriting/episode.json"
         }
       ]
     }

@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "externalId": "s12.refuse",
+  "text": "You were probably told it is the initials of the United States, one letter laid over the other. Florian Cajori read through thousands of these pages looking for that letter and never found it. The mark was already in use for a Spanish coin.",
+  "durationMs": 16400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1600,
+      "startChar": 23,
+      "endChar": 26
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1800,
+      "startChar": 26,
+      "endChar": 29
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2040,
+      "startChar": 29,
+      "endChar": 33
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2320,
+      "startChar": 33,
+      "endChar": 42
+    },
+    {
+      "startMs": 2320,
+      "endMs": 3040,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3240,
+      "startChar": 45,
+      "endChar": 49
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3360,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3760,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4280,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4680,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5080,
+      "startChar": 75,
+      "endChar": 80
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5400,
+      "startChar": 80,
+      "endChar": 85
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5600,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5760,
+      "startChar": 89,
+      "endChar": 96
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6120,
+      "startChar": 96,
+      "endChar": 104
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6200,
+      "startChar": 104,
+      "endChar": 111
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6280,
+      "startChar": 111,
+      "endChar": 116
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6355,
+      "startChar": 116,
+      "endChar": 124
+    },
+    {
+      "startMs": 6355,
+      "endMs": 7200,
+      "startChar": 124,
+      "endChar": 134
+    },
+    {
+      "startMs": 7200,
+      "endMs": 8120,
+      "startChar": 134,
+      "endChar": 137
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8680,
+      "startChar": 137,
+      "endChar": 143
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9600,
+      "startChar": 143,
+      "endChar": 149
+    },
+    {
+      "startMs": 9600,
+      "endMs": 10120,
+      "startChar": 149,
+      "endChar": 157
+    },
+    {
+      "startMs": 10120,
+      "endMs": 10280,
+      "startChar": 157,
+      "endChar": 161
+    },
+    {
+      "startMs": 10280,
+      "endMs": 10440,
+      "startChar": 161,
+      "endChar": 166
+    },
+    {
+      "startMs": 10440,
+      "endMs": 10760,
+      "startChar": 166,
+      "endChar": 173
+    },
+    {
+      "startMs": 10760,
+      "endMs": 11200,
+      "startChar": 173,
+      "endChar": 177
+    },
+    {
+      "startMs": 11200,
+      "endMs": 11600,
+      "startChar": 177,
+      "endChar": 183
+    },
+    {
+      "startMs": 11600,
+      "endMs": 11920,
+      "startChar": 183,
+      "endChar": 189
+    },
+    {
+      "startMs": 11920,
+      "endMs": 12200,
+      "startChar": 189,
+      "endChar": 193
+    },
+    {
+      "startMs": 12200,
+      "endMs": 12340,
+      "startChar": 193,
+      "endChar": 197
+    },
+    {
+      "startMs": 12340,
+      "endMs": 12480,
+      "startChar": 197,
+      "endChar": 202
+    },
+    {
+      "startMs": 12480,
+      "endMs": 12555,
+      "startChar": 202,
+      "endChar": 206
+    },
+    {
+      "startMs": 12555,
+      "endMs": 12720,
+      "startChar": 206,
+      "endChar": 214
+    },
+    {
+      "startMs": 12720,
+      "endMs": 14400,
+      "startChar": 214,
+      "endChar": 217
+    },
+    {
+      "startMs": 14400,
+      "endMs": 14640,
+      "startChar": 217,
+      "endChar": 221
+    },
+    {
+      "startMs": 14640,
+      "endMs": 14820,
+      "startChar": 221,
+      "endChar": 225
+    },
+    {
+      "startMs": 14820,
+      "endMs": 15000,
+      "startChar": 225,
+      "endChar": 227
+    },
+    {
+      "startMs": 15000,
+      "endMs": 15240,
+      "startChar": 227,
+      "endChar": 235
+    },
+    {
+      "startMs": 15240,
+      "endMs": 15720,
+      "startChar": 235,
+      "endChar": 240
+    }
+  ]
+}

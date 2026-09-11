@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep08",
+    "name": "Not Arbitrary 08 — Four Symbols That Are Just Handwriting",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "These are not symbols. Every one of them is a word, written out in full by somebody in a hurry, until the letters gave way.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, slightly conspiratorial. State the first sentence flatly and let the pause do the work before the second."
+    },
+    {
+      "externalId": "s02.et",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Start in Pompeii, first century, on a plastered wall. Somebody has scratched up the Latin word for and, joined the way everyone joined it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and physical, as if pointing at the wall. Pompeii is pom-PAY. A small beat after 'wall'."
+    },
+    {
+      "externalId": "s03.and",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "A clerk copying Latin writes that word more than any other. So the pen stops lifting between the letters. Then it stops leaving them any room at all.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Build slightly across the three sentences, as if watching it speed up. Land 'at all' quietly."
+    },
+    {
+      "externalId": "s04.amp",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "That is the word et, still spelled out, and you have read it all your life.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The reveal. Say it simply, no emphasis, and let it sit. The Latin word et is a short flat 'ett', not 'ay'."
+    },
+    {
+      "externalId": "s05.capitulum",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Nine hundred years on, a monk marks where a chapter begins. The Latin for chapter is capitulum. He writes its first letter and rules a line down through it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift a little at the start. Capitulum is kah-PIT-oo-lum. Full stop and a clear breath after it before the English resumes."
+    },
+    {
+      "externalId": "s06.pilcrow",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Then the man with the red ink comes through and fills the bowl in. The letter closes, and it never opens again.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet and a little final. 'Never opens again' is the payoff - do not push it."
+    },
+    {
+      "externalId": "s07.percento",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Florence, two centuries on, in a merchant's ledger. Interest is reckoned by the hundred. The Italian for that is per cento. Far too long to keep writing.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Brisk and businesslike, the pace of someone doing accounts. Per cento is Italian, pair-CHEN-toh. Full stop and a clear breath after it before the English resumes."
+    },
+    {
+      "externalId": "s08.percent",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "The letter was dropped. The line ruled through it stayed and kept its job: a line in a fraction is still read as per, even now.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, then a small lift on the second half as the point lands."
+    },
+    {
+      "externalId": "s09.turn",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Those three have to be reconstructed, out of scraps, across centuries. The fourth happened late enough to be watched, on a dated page, in a named man's hand.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The turn of the film. Slow down. A definite pause before 'The fourth'."
+    },
+    {
+      "externalId": "s10.peso",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Spanish America ran on a coin called the peso. Clerks abbreviated the plural, raising the second letter above the first, a few thousand times a week.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Concrete and unhurried. Peso is PAY-so. Keep 'raising the second letter above the first' as one clear unhurried phrase - it is the whole picture of the shot."
+    },
+    {
+      "externalId": "s11.dollar",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "In seventeen seventy eight, a merchant named Oliver Pollock sent the same letter out twice. One copy still carries the loop. The other copy carries this.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The evidence. Quiet and precise, like reading off an archive slip. Land 'this' softly and stop."
+    },
+    {
+      "externalId": "s12.refuse",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "You were probably told it is the initials of the United States, one letter laid over the other. Florian Cajori read through thousands of these pages looking for that letter and never found it. The mark was already in use for a Spanish coin.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Even and unsmug - correcting, not scoring a point. Cajori is kah-JOR-ee. A beat before the last sentence."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "Four trades, seventeen centuries apart, and not one of these was designed by anybody. Each is a word that somebody stopped bothering to finish.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, a little wondering, not a summary read."
+    },
+    {
+      "externalId": "s14.close",
+      "scene": "handwriting",
+      "speaker": "Narrator",
+      "text": "You have been writing Latin all along. You just stopped pronouncing it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop. No lift at the end."
+    }
+  ]
+}

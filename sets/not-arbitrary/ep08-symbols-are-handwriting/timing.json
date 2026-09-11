@@ -1,0 +1,1870 @@
+{
+  "s01.hook": {
+    "durationMs": 10480,
+    "words": [
+      {
+        "word": "These",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "are",
+        "startMs": 340,
+        "endMs": 860
+      },
+      {
+        "word": "not",
+        "startMs": 860,
+        "endMs": 1300
+      },
+      {
+        "word": "symbols.",
+        "startMs": 1300,
+        "endMs": 1780
+      },
+      {
+        "word": "Every",
+        "startMs": 2200,
+        "endMs": 2880
+      },
+      {
+        "word": "one",
+        "startMs": 2880,
+        "endMs": 3180
+      },
+      {
+        "word": "of",
+        "startMs": 3180,
+        "endMs": 3360
+      },
+      {
+        "word": "them",
+        "startMs": 3360,
+        "endMs": 3600
+      },
+      {
+        "word": "is",
+        "startMs": 3600,
+        "endMs": 3920
+      },
+      {
+        "word": "a",
+        "startMs": 3920,
+        "endMs": 4080
+      },
+      {
+        "word": "word,",
+        "startMs": 4080,
+        "endMs": 4520
+      },
+      {
+        "word": "written",
+        "startMs": 4700,
+        "endMs": 5140
+      },
+      {
+        "word": "out",
+        "startMs": 5140,
+        "endMs": 5580
+      },
+      {
+        "word": "in",
+        "startMs": 5580,
+        "endMs": 5820
+      },
+      {
+        "word": "full",
+        "startMs": 5820,
+        "endMs": 6180
+      },
+      {
+        "word": "by",
+        "startMs": 6180,
+        "endMs": 6520
+      },
+      {
+        "word": "somebody",
+        "startMs": 6520,
+        "endMs": 7280
+      },
+      {
+        "word": "in",
+        "startMs": 7280,
+        "endMs": 7680
+      },
+      {
+        "word": "a",
+        "startMs": 7680,
+        "endMs": 7820
+      },
+      {
+        "word": "hurry,",
+        "startMs": 7820,
+        "endMs": 8080
+      },
+      {
+        "word": "until",
+        "startMs": 8340,
+        "endMs": 8880
+      },
+      {
+        "word": "the",
+        "startMs": 8880,
+        "endMs": 9140
+      },
+      {
+        "word": "letters",
+        "startMs": 9140,
+        "endMs": 9460
+      },
+      {
+        "word": "gave",
+        "startMs": 9460,
+        "endMs": 9800
+      },
+      {
+        "word": "way.",
+        "startMs": 9800,
+        "endMs": 10060
+      }
+    ],
+    "heard": "These are not symbols. Every one of them is a word, written out in full by somebody in a hurry, until the letters gave way.",
+    "script": "These are not symbols. Every one of them is a word, written out in full by somebody in a hurry, until the letters gave way."
+  },
+  "s02.et": {
+    "durationMs": 10720,
+    "words": [
+      {
+        "word": "Start",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "in",
+        "startMs": 300,
+        "endMs": 660
+      },
+      {
+        "word": "Pompeii,",
+        "startMs": 660,
+        "endMs": 1260
+      },
+      {
+        "word": "first",
+        "startMs": 1460,
+        "endMs": 1900
+      },
+      {
+        "word": "century,",
+        "startMs": 1900,
+        "endMs": 2440
+      },
+      {
+        "word": "on",
+        "startMs": 2740,
+        "endMs": 3040
+      },
+      {
+        "word": "a",
+        "startMs": 3040,
+        "endMs": 3160
+      },
+      {
+        "word": "plastered",
+        "startMs": 3160,
+        "endMs": 3740
+      },
+      {
+        "word": "wall.",
+        "startMs": 3740,
+        "endMs": 4000
+      },
+      {
+        "word": "Somebody",
+        "startMs": 4320,
+        "endMs": 4940
+      },
+      {
+        "word": "has",
+        "startMs": 4940,
+        "endMs": 5340
+      },
+      {
+        "word": "scratched",
+        "startMs": 5340,
+        "endMs": 5720
+      },
+      {
+        "word": "up",
+        "startMs": 5720,
+        "endMs": 6040
+      },
+      {
+        "word": "the",
+        "startMs": 6040,
+        "endMs": 6260
+      },
+      {
+        "word": "Latin",
+        "startMs": 6260,
+        "endMs": 6580
+      },
+      {
+        "word": "word",
+        "startMs": 6580,
+        "endMs": 6960
+      },
+      {
+        "word": "for",
+        "startMs": 6960,
+        "endMs": 7320
+      },
+      {
+        "word": "and,",
+        "startMs": 7320,
+        "endMs": 7840
+      },
+      {
+        "word": "joined",
+        "startMs": 8080,
+        "endMs": 8700
+      },
+      {
+        "word": "the",
+        "startMs": 8700,
+        "endMs": 8980
+      },
+      {
+        "word": "way",
+        "startMs": 8980,
+        "endMs": 9240
+      },
+      {
+        "word": "everyone",
+        "startMs": 9240,
+        "endMs": 9800
+      },
+      {
+        "word": "joined",
+        "startMs": 9800,
+        "endMs": 10200
+      },
+      {
+        "word": "it.",
+        "startMs": 10200,
+        "endMs": 10420
+      }
+    ],
+    "heard": "Start in Pompeii, first century, on a plastered wall. Somebody has scratched up the Latin word for and, joined the way everyone joined it.",
+    "script": "Start in Pompeii, first century, on a plastered wall. Somebody has scratched up the Latin word for and, joined the way everyone joined it."
+  },
+  "s03.and": {
+    "durationMs": 11400,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "clerk",
+        "startMs": 140,
+        "endMs": 420
+      },
+      {
+        "word": "copying",
+        "startMs": 420,
+        "endMs": 1040
+      },
+      {
+        "word": "Latin",
+        "startMs": 1040,
+        "endMs": 1460
+      },
+      {
+        "word": "writes",
+        "startMs": 1460,
+        "endMs": 2000
+      },
+      {
+        "word": "that",
+        "startMs": 2000,
+        "endMs": 2320
+      },
+      {
+        "word": "word",
+        "startMs": 2320,
+        "endMs": 2660
+      },
+      {
+        "word": "more",
+        "startMs": 2660,
+        "endMs": 3080
+      },
+      {
+        "word": "than",
+        "startMs": 3080,
+        "endMs": 3400
+      },
+      {
+        "word": "any",
+        "startMs": 3400,
+        "endMs": 3780
+      },
+      {
+        "word": "other,",
+        "startMs": 3780,
+        "endMs": 4160
+      },
+      {
+        "word": "so",
+        "startMs": 4420,
+        "endMs": 4960
+      },
+      {
+        "word": "the",
+        "startMs": 4960,
+        "endMs": 5260
+      },
+      {
+        "word": "pen",
+        "startMs": 5260,
+        "endMs": 5480
+      },
+      {
+        "word": "stops",
+        "startMs": 5480,
+        "endMs": 5920
+      },
+      {
+        "word": "lifting",
+        "startMs": 5920,
+        "endMs": 6320
+      },
+      {
+        "word": "between",
+        "startMs": 6320,
+        "endMs": 6680
+      },
+      {
+        "word": "the",
+        "startMs": 6680,
+        "endMs": 6900
+      },
+      {
+        "word": "letters,",
+        "startMs": 6900,
+        "endMs": 7280
+      },
+      {
+        "word": "then",
+        "startMs": 7480,
+        "endMs": 8120
+      },
+      {
+        "word": "it",
+        "startMs": 8120,
+        "endMs": 8520
+      },
+      {
+        "word": "stops",
+        "startMs": 8520,
+        "endMs": 9000
+      },
+      {
+        "word": "leaving",
+        "startMs": 9000,
+        "endMs": 9360
+      },
+      {
+        "word": "them",
+        "startMs": 9360,
+        "endMs": 9700
+      },
+      {
+        "word": "any",
+        "startMs": 9700,
+        "endMs": 10100
+      },
+      {
+        "word": "room",
+        "startMs": 10100,
+        "endMs": 10500
+      },
+      {
+        "word": "at",
+        "startMs": 10500,
+        "endMs": 10840
+      },
+      {
+        "word": "all.",
+        "startMs": 10840,
+        "endMs": 11080
+      }
+    ],
+    "heard": "A clerk copying Latin writes that word more than any other, so the pen stops lifting between the letters, then it stops leaving them any room at all.",
+    "script": "A clerk copying Latin writes that word more than any other. So the pen stops lifting between the letters. Then it stops leaving them any room at all."
+  },
+  "s04.amp": {
+    "durationMs": 5400,
+    "words": [
+      {
+        "word": "That",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "is",
+        "startMs": 340,
+        "endMs": 620
+      },
+      {
+        "word": "the",
+        "startMs": 620,
+        "endMs": 820
+      },
+      {
+        "word": "word",
+        "startMs": 820,
+        "endMs": 1160
+      },
+      {
+        "word": "et,",
+        "startMs": 1160,
+        "endMs": 1680
+      },
+      {
+        "word": "still",
+        "startMs": 1980,
+        "endMs": 2420
+      },
+      {
+        "word": "spelled",
+        "startMs": 2420,
+        "endMs": 2720
+      },
+      {
+        "word": "out,",
+        "startMs": 2720,
+        "endMs": 3040
+      },
+      {
+        "word": "and",
+        "startMs": 3200,
+        "endMs": 3540
+      },
+      {
+        "word": "you",
+        "startMs": 3540,
+        "endMs": 3740
+      },
+      {
+        "word": "have",
+        "startMs": 3740,
+        "endMs": 3920
+      },
+      {
+        "word": "read",
+        "startMs": 3920,
+        "endMs": 4140
+      },
+      {
+        "word": "it",
+        "startMs": 4140,
+        "endMs": 4300
+      },
+      {
+        "word": "all",
+        "startMs": 4300,
+        "endMs": 4500
+      },
+      {
+        "word": "your",
+        "startMs": 4500,
+        "endMs": 4660
+      },
+      {
+        "word": "life.",
+        "startMs": 4660,
+        "endMs": 5000
+      }
+    ],
+    "heard": "That is the word et, still spelled out, and you have read it all your life.",
+    "script": "That is the word et, still spelled out, and you have read it all your life."
+  },
+  "s05.capitulum": {
+    "durationMs": 12360,
+    "words": [
+      {
+        "word": "900",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "years",
+        "startMs": 400,
+        "endMs": 1060
+      },
+      {
+        "word": "on,",
+        "startMs": 1060,
+        "endMs": 1480
+      },
+      {
+        "word": "a",
+        "startMs": 1720,
+        "endMs": 1980
+      },
+      {
+        "word": "monk",
+        "startMs": 1980,
+        "endMs": 2320
+      },
+      {
+        "word": "marks",
+        "startMs": 2320,
+        "endMs": 2860
+      },
+      {
+        "word": "where",
+        "startMs": 2860,
+        "endMs": 3140
+      },
+      {
+        "word": "a",
+        "startMs": 3140,
+        "endMs": 3340
+      },
+      {
+        "word": "chapter",
+        "startMs": 3340,
+        "endMs": 3620
+      },
+      {
+        "word": "begins.",
+        "startMs": 3620,
+        "endMs": 4120
+      },
+      {
+        "word": "The",
+        "startMs": 4460,
+        "endMs": 5040
+      },
+      {
+        "word": "Latin",
+        "startMs": 5040,
+        "endMs": 5340
+      },
+      {
+        "word": "for",
+        "startMs": 5340,
+        "endMs": 5660
+      },
+      {
+        "word": "chapter",
+        "startMs": 5660,
+        "endMs": 6000
+      },
+      {
+        "word": "is",
+        "startMs": 6000,
+        "endMs": 6580
+      },
+      {
+        "word": "capitulum.",
+        "startMs": 6580,
+        "endMs": 7500
+      },
+      {
+        "word": "He",
+        "startMs": 7900,
+        "endMs": 8400
+      },
+      {
+        "word": "writes",
+        "startMs": 8400,
+        "endMs": 8780
+      },
+      {
+        "word": "its",
+        "startMs": 8780,
+        "endMs": 9080
+      },
+      {
+        "word": "first",
+        "startMs": 9080,
+        "endMs": 9420
+      },
+      {
+        "word": "letter",
+        "startMs": 9420,
+        "endMs": 9780
+      },
+      {
+        "word": "and",
+        "startMs": 9780,
+        "endMs": 10320
+      },
+      {
+        "word": "rules",
+        "startMs": 10320,
+        "endMs": 10740
+      },
+      {
+        "word": "a",
+        "startMs": 10740,
+        "endMs": 11020
+      },
+      {
+        "word": "line",
+        "startMs": 11020,
+        "endMs": 11280
+      },
+      {
+        "word": "down",
+        "startMs": 11280,
+        "endMs": 11600
+      },
+      {
+        "word": "through",
+        "startMs": 11600,
+        "endMs": 11880
+      },
+      {
+        "word": "it.",
+        "startMs": 11880,
+        "endMs": 12140
+      }
+    ],
+    "heard": "900 years on, a monk marks where a chapter begins. The Latin for chapter is capitulum. He writes its first letter and rules a line down through it.",
+    "script": "Nine hundred years on, a monk marks where a chapter begins. The Latin for chapter is capitulum. He writes its first letter and rules a line down through it."
+  },
+  "s06.pilcrow": {
+    "durationMs": 8160,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "the",
+        "startMs": 420,
+        "endMs": 840
+      },
+      {
+        "word": "man",
+        "startMs": 840,
+        "endMs": 1140
+      },
+      {
+        "word": "with",
+        "startMs": 1140,
+        "endMs": 1420
+      },
+      {
+        "word": "the",
+        "startMs": 1420,
+        "endMs": 1600
+      },
+      {
+        "word": "red",
+        "startMs": 1600,
+        "endMs": 1820
+      },
+      {
+        "word": "ink",
+        "startMs": 1820,
+        "endMs": 2020
+      },
+      {
+        "word": "comes",
+        "startMs": 2020,
+        "endMs": 2300
+      },
+      {
+        "word": "through",
+        "startMs": 2300,
+        "endMs": 2560
+      },
+      {
+        "word": "and",
+        "startMs": 2560,
+        "endMs": 3120
+      },
+      {
+        "word": "fills",
+        "startMs": 3120,
+        "endMs": 3540
+      },
+      {
+        "word": "the",
+        "startMs": 3540,
+        "endMs": 3720
+      },
+      {
+        "word": "bowl",
+        "startMs": 3720,
+        "endMs": 3920
+      },
+      {
+        "word": "in.",
+        "startMs": 3920,
+        "endMs": 4160
+      },
+      {
+        "word": "The",
+        "startMs": 4500,
+        "endMs": 5020
+      },
+      {
+        "word": "letter",
+        "startMs": 5020,
+        "endMs": 5220
+      },
+      {
+        "word": "closes,",
+        "startMs": 5220,
+        "endMs": 5620
+      },
+      {
+        "word": "and",
+        "startMs": 5980,
+        "endMs": 6680
+      },
+      {
+        "word": "it",
+        "startMs": 6680,
+        "endMs": 6820
+      },
+      {
+        "word": "never",
+        "startMs": 6820,
+        "endMs": 7060
+      },
+      {
+        "word": "opens",
+        "startMs": 7060,
+        "endMs": 7480
+      },
+      {
+        "word": "again.",
+        "startMs": 7480,
+        "endMs": 7800
+      }
+    ],
+    "heard": "Then the man with the red ink comes through and fills the bowl in. The letter closes, and it never opens again.",
+    "script": "Then the man with the red ink comes through and fills the bowl in. The letter closes, and it never opens again."
+  },
+  "s07.percento": {
+    "durationMs": 11960,
+    "words": [
+      {
+        "word": "Florence,",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "two",
+        "startMs": 720,
+        "endMs": 1140
+      },
+      {
+        "word": "centuries",
+        "startMs": 1140,
+        "endMs": 1640
+      },
+      {
+        "word": "on,",
+        "startMs": 1640,
+        "endMs": 2140
+      },
+      {
+        "word": "in",
+        "startMs": 2340,
+        "endMs": 2740
+      },
+      {
+        "word": "a",
+        "startMs": 2740,
+        "endMs": 2960
+      },
+      {
+        "word": "merchant's",
+        "startMs": 2960,
+        "endMs": 3480
+      },
+      {
+        "word": "ledger.",
+        "startMs": 3480,
+        "endMs": 3780
+      },
+      {
+        "word": "Interest",
+        "startMs": 4400,
+        "endMs": 5040
+      },
+      {
+        "word": "is",
+        "startMs": 5040,
+        "endMs": 5240
+      },
+      {
+        "word": "reckoned",
+        "startMs": 5240,
+        "endMs": 5640
+      },
+      {
+        "word": "by",
+        "startMs": 5640,
+        "endMs": 5940
+      },
+      {
+        "word": "the",
+        "startMs": 5940,
+        "endMs": 6160
+      },
+      {
+        "word": "hundred.",
+        "startMs": 6160,
+        "endMs": 6480
+      },
+      {
+        "word": "The",
+        "startMs": 6960,
+        "endMs": 7180
+      },
+      {
+        "word": "Italian",
+        "startMs": 7180,
+        "endMs": 7600
+      },
+      {
+        "word": "for",
+        "startMs": 7600,
+        "endMs": 7860
+      },
+      {
+        "word": "that",
+        "startMs": 7860,
+        "endMs": 8100
+      },
+      {
+        "word": "is",
+        "startMs": 8100,
+        "endMs": 8460
+      },
+      {
+        "word": "per",
+        "startMs": 8460,
+        "endMs": 8800
+      },
+      {
+        "word": "cento.",
+        "startMs": 8800,
+        "endMs": 9380
+      },
+      {
+        "word": "Far",
+        "startMs": 9800,
+        "endMs": 10180
+      },
+      {
+        "word": "too",
+        "startMs": 10180,
+        "endMs": 10460
+      },
+      {
+        "word": "long",
+        "startMs": 10460,
+        "endMs": 10740
+      },
+      {
+        "word": "to",
+        "startMs": 10740,
+        "endMs": 10940
+      },
+      {
+        "word": "keep",
+        "startMs": 10940,
+        "endMs": 11200
+      },
+      {
+        "word": "writing.",
+        "startMs": 11200,
+        "endMs": 11500
+      }
+    ],
+    "heard": "Florence, two centuries on, in a merchant's ledger. Interest is reckoned by the hundred. The Italian for that is per cento. Far too long to keep writing.",
+    "script": "Florence, two centuries on, in a merchant's ledger. Interest is reckoned by the hundred. The Italian for that is per cento. Far too long to keep writing."
+  },
+  "s08.percent": {
+    "durationMs": 9960,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "letter",
+        "startMs": 180,
+        "endMs": 440
+      },
+      {
+        "word": "was",
+        "startMs": 440,
+        "endMs": 820
+      },
+      {
+        "word": "dropped.",
+        "startMs": 820,
+        "endMs": 1280
+      },
+      {
+        "word": "The",
+        "startMs": 1520,
+        "endMs": 1920
+      },
+      {
+        "word": "line",
+        "startMs": 1920,
+        "endMs": 2240
+      },
+      {
+        "word": "ruled",
+        "startMs": 2240,
+        "endMs": 2520
+      },
+      {
+        "word": "through",
+        "startMs": 2520,
+        "endMs": 2820
+      },
+      {
+        "word": "it",
+        "startMs": 2820,
+        "endMs": 3120
+      },
+      {
+        "word": "stayed",
+        "startMs": 3120,
+        "endMs": 3580
+      },
+      {
+        "word": "and",
+        "startMs": 3580,
+        "endMs": 4100
+      },
+      {
+        "word": "kept",
+        "startMs": 4100,
+        "endMs": 4460
+      },
+      {
+        "word": "its",
+        "startMs": 4460,
+        "endMs": 4660
+      },
+      {
+        "word": "job.",
+        "startMs": 4660,
+        "endMs": 5000
+      },
+      {
+        "word": "A",
+        "startMs": 5340,
+        "endMs": 5700
+      },
+      {
+        "word": "line",
+        "startMs": 5700,
+        "endMs": 6060
+      },
+      {
+        "word": "in",
+        "startMs": 6060,
+        "endMs": 6240
+      },
+      {
+        "word": "a",
+        "startMs": 6240,
+        "endMs": 6380
+      },
+      {
+        "word": "fraction",
+        "startMs": 6380,
+        "endMs": 6720
+      },
+      {
+        "word": "is",
+        "startMs": 6720,
+        "endMs": 7180
+      },
+      {
+        "word": "still",
+        "startMs": 7180,
+        "endMs": 7560
+      },
+      {
+        "word": "read",
+        "startMs": 7560,
+        "endMs": 7940
+      },
+      {
+        "word": "as",
+        "startMs": 7940,
+        "endMs": 8300
+      },
+      {
+        "word": "per,",
+        "startMs": 8300,
+        "endMs": 8620
+      },
+      {
+        "word": "even",
+        "startMs": 8880,
+        "endMs": 9280
+      },
+      {
+        "word": "now.",
+        "startMs": 9280,
+        "endMs": 9620
+      }
+    ],
+    "heard": "The letter was dropped. The line ruled through it stayed and kept its job. A line in a fraction is still read as per, even now.",
+    "script": "The letter was dropped. The line ruled through it stayed and kept its job: a line in a fraction is still read as per, even now."
+  },
+  "s09.turn": {
+    "durationMs": 12360,
+    "words": [
+      {
+        "word": "Those",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "three",
+        "startMs": 360,
+        "endMs": 700
+      },
+      {
+        "word": "have",
+        "startMs": 700,
+        "endMs": 1240
+      },
+      {
+        "word": "to",
+        "startMs": 1240,
+        "endMs": 1400
+      },
+      {
+        "word": "be",
+        "startMs": 1400,
+        "endMs": 1640
+      },
+      {
+        "word": "reconstructed",
+        "startMs": 1640,
+        "endMs": 2760
+      },
+      {
+        "word": "out",
+        "startMs": 2760,
+        "endMs": 3200
+      },
+      {
+        "word": "of",
+        "startMs": 3200,
+        "endMs": 3320
+      },
+      {
+        "word": "scraps",
+        "startMs": 3320,
+        "endMs": 3880
+      },
+      {
+        "word": "across",
+        "startMs": 3880,
+        "endMs": 4420
+      },
+      {
+        "word": "centuries.",
+        "startMs": 4420,
+        "endMs": 5000
+      },
+      {
+        "word": "The",
+        "startMs": 5780,
+        "endMs": 6160
+      },
+      {
+        "word": "fourth",
+        "startMs": 6160,
+        "endMs": 6600
+      },
+      {
+        "word": "happened",
+        "startMs": 6600,
+        "endMs": 7280
+      },
+      {
+        "word": "late",
+        "startMs": 7280,
+        "endMs": 7560
+      },
+      {
+        "word": "enough",
+        "startMs": 7560,
+        "endMs": 7860
+      },
+      {
+        "word": "to",
+        "startMs": 7860,
+        "endMs": 8080
+      },
+      {
+        "word": "be",
+        "startMs": 8080,
+        "endMs": 8220
+      },
+      {
+        "word": "watched",
+        "startMs": 8220,
+        "endMs": 8620
+      },
+      {
+        "word": "on",
+        "startMs": 8620,
+        "endMs": 9280
+      },
+      {
+        "word": "a",
+        "startMs": 9280,
+        "endMs": 9400
+      },
+      {
+        "word": "dated",
+        "startMs": 9400,
+        "endMs": 9740
+      },
+      {
+        "word": "page",
+        "startMs": 9740,
+        "endMs": 10320
+      },
+      {
+        "word": "in",
+        "startMs": 10320,
+        "endMs": 10900
+      },
+      {
+        "word": "a",
+        "startMs": 10900,
+        "endMs": 11000
+      },
+      {
+        "word": "named",
+        "startMs": 11000,
+        "endMs": 11300
+      },
+      {
+        "word": "man's",
+        "startMs": 11300,
+        "endMs": 11740
+      },
+      {
+        "word": "hand.",
+        "startMs": 11740,
+        "endMs": 12040
+      }
+    ],
+    "heard": "Those three have to be reconstructed out of scraps across centuries. The fourth happened late enough to be watched on a dated page in a named man's hand.",
+    "script": "Those three have to be reconstructed, out of scraps, across centuries. The fourth happened late enough to be watched, on a dated page, in a named man's hand."
+  },
+  "s10.peso": {
+    "durationMs": 11240,
+    "words": [
+      {
+        "word": "Spanish",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "America",
+        "startMs": 380,
+        "endMs": 940
+      },
+      {
+        "word": "ran",
+        "startMs": 940,
+        "endMs": 1540
+      },
+      {
+        "word": "on",
+        "startMs": 1540,
+        "endMs": 1800
+      },
+      {
+        "word": "a",
+        "startMs": 1800,
+        "endMs": 1960
+      },
+      {
+        "word": "coin",
+        "startMs": 1960,
+        "endMs": 2360
+      },
+      {
+        "word": "called",
+        "startMs": 2360,
+        "endMs": 2800
+      },
+      {
+        "word": "the",
+        "startMs": 2800,
+        "endMs": 2980
+      },
+      {
+        "word": "peso.",
+        "startMs": 2980,
+        "endMs": 3340
+      },
+      {
+        "word": "Clerks",
+        "startMs": 3880,
+        "endMs": 4600
+      },
+      {
+        "word": "abbreviated",
+        "startMs": 4600,
+        "endMs": 5380
+      },
+      {
+        "word": "the",
+        "startMs": 5380,
+        "endMs": 5540
+      },
+      {
+        "word": "plural,",
+        "startMs": 5540,
+        "endMs": 5880
+      },
+      {
+        "word": "raising",
+        "startMs": 6400,
+        "endMs": 6780
+      },
+      {
+        "word": "the",
+        "startMs": 6780,
+        "endMs": 7060
+      },
+      {
+        "word": "second",
+        "startMs": 7060,
+        "endMs": 7400
+      },
+      {
+        "word": "letter",
+        "startMs": 7400,
+        "endMs": 7760
+      },
+      {
+        "word": "above",
+        "startMs": 7760,
+        "endMs": 8140
+      },
+      {
+        "word": "the",
+        "startMs": 8140,
+        "endMs": 8360
+      },
+      {
+        "word": "first",
+        "startMs": 8360,
+        "endMs": 8720
+      },
+      {
+        "word": "a",
+        "startMs": 8720,
+        "endMs": 9240
+      },
+      {
+        "word": "few",
+        "startMs": 9240,
+        "endMs": 9480
+      },
+      {
+        "word": "thousand",
+        "startMs": 9480,
+        "endMs": 10060
+      },
+      {
+        "word": "times",
+        "startMs": 10060,
+        "endMs": 10440
+      },
+      {
+        "word": "a",
+        "startMs": 10440,
+        "endMs": 10620
+      },
+      {
+        "word": "week.",
+        "startMs": 10620,
+        "endMs": 10860
+      }
+    ],
+    "heard": "Spanish America ran on a coin called the peso. Clerks abbreviated the plural, raising the second letter above the first a few thousand times a week.",
+    "script": "Spanish America ran on a coin called the peso. Clerks abbreviated the plural, raising the second letter above the first, a few thousand times a week."
+  },
+  "s11.dollar": {
+    "durationMs": 12360,
+    "words": [
+      {
+        "word": "In",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "1778,",
+        "startMs": 260,
+        "endMs": 1640
+      },
+      {
+        "word": "a",
+        "startMs": 2260,
+        "endMs": 2360
+      },
+      {
+        "word": "merchant",
+        "startMs": 2360,
+        "endMs": 2740
+      },
+      {
+        "word": "named",
+        "startMs": 2740,
+        "endMs": 3240
+      },
+      {
+        "word": "Oliver",
+        "startMs": 3240,
+        "endMs": 3740
+      },
+      {
+        "word": "Pollock",
+        "startMs": 3740,
+        "endMs": 4300
+      },
+      {
+        "word": "sent",
+        "startMs": 4300,
+        "endMs": 4700
+      },
+      {
+        "word": "the",
+        "startMs": 4700,
+        "endMs": 4940
+      },
+      {
+        "word": "same",
+        "startMs": 4940,
+        "endMs": 5300
+      },
+      {
+        "word": "letter",
+        "startMs": 5300,
+        "endMs": 5680
+      },
+      {
+        "word": "out",
+        "startMs": 5680,
+        "endMs": 5980
+      },
+      {
+        "word": "twice.",
+        "startMs": 5980,
+        "endMs": 6460
+      },
+      {
+        "word": "One",
+        "startMs": 7120,
+        "endMs": 7760
+      },
+      {
+        "word": "copy",
+        "startMs": 7760,
+        "endMs": 8120
+      },
+      {
+        "word": "still",
+        "startMs": 8120,
+        "endMs": 8540
+      },
+      {
+        "word": "carries",
+        "startMs": 8540,
+        "endMs": 8980
+      },
+      {
+        "word": "the",
+        "startMs": 8980,
+        "endMs": 9180
+      },
+      {
+        "word": "loop.",
+        "startMs": 9180,
+        "endMs": 9440
+      },
+      {
+        "word": "The",
+        "startMs": 9700,
+        "endMs": 10220
+      },
+      {
+        "word": "other",
+        "startMs": 10220,
+        "endMs": 10480
+      },
+      {
+        "word": "copy",
+        "startMs": 10480,
+        "endMs": 10860
+      },
+      {
+        "word": "carries",
+        "startMs": 10860,
+        "endMs": 11400
+      },
+      {
+        "word": "this.",
+        "startMs": 11400,
+        "endMs": 11880
+      }
+    ],
+    "heard": "In 1778, a merchant named Oliver Pollock sent the same letter out twice. One copy still carries the loop. The other copy carries this.",
+    "script": "In seventeen seventy eight, a merchant named Oliver Pollock sent the same letter out twice. One copy still carries the loop. The other copy carries this."
+  },
+  "s12.refuse": {
+    "durationMs": 16400,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "were",
+        "startMs": 180,
+        "endMs": 420
+      },
+      {
+        "word": "probably",
+        "startMs": 420,
+        "endMs": 960
+      },
+      {
+        "word": "told",
+        "startMs": 960,
+        "endMs": 1420
+      },
+      {
+        "word": "it",
+        "startMs": 1420,
+        "endMs": 1700
+      },
+      {
+        "word": "is",
+        "startMs": 1700,
+        "endMs": 1980
+      },
+      {
+        "word": "the",
+        "startMs": 1980,
+        "endMs": 2240
+      },
+      {
+        "word": "initials",
+        "startMs": 2240,
+        "endMs": 2980
+      },
+      {
+        "word": "of",
+        "startMs": 2980,
+        "endMs": 3200
+      },
+      {
+        "word": "the",
+        "startMs": 3200,
+        "endMs": 3340
+      },
+      {
+        "word": "United",
+        "startMs": 3340,
+        "endMs": 3600
+      },
+      {
+        "word": "States,",
+        "startMs": 3600,
+        "endMs": 4120
+      },
+      {
+        "word": "one",
+        "startMs": 4300,
+        "endMs": 4600
+      },
+      {
+        "word": "letter",
+        "startMs": 4600,
+        "endMs": 4940
+      },
+      {
+        "word": "laid",
+        "startMs": 4940,
+        "endMs": 5320
+      },
+      {
+        "word": "over",
+        "startMs": 5320,
+        "endMs": 5540
+      },
+      {
+        "word": "the",
+        "startMs": 5540,
+        "endMs": 5720
+      },
+      {
+        "word": "other.",
+        "startMs": 5720,
+        "endMs": 5980
+      },
+      {
+        "word": "Florian",
+        "startMs": 6560,
+        "endMs": 7140
+      },
+      {
+        "word": "Cajori",
+        "startMs": 7140,
+        "endMs": 7780
+      },
+      {
+        "word": "read",
+        "startMs": 7780,
+        "endMs": 8240
+      },
+      {
+        "word": "through",
+        "startMs": 8240,
+        "endMs": 8500
+      },
+      {
+        "word": "thousands",
+        "startMs": 8500,
+        "endMs": 9080
+      },
+      {
+        "word": "of",
+        "startMs": 9080,
+        "endMs": 9400
+      },
+      {
+        "word": "these",
+        "startMs": 9400,
+        "endMs": 9580
+      },
+      {
+        "word": "pages",
+        "startMs": 9580,
+        "endMs": 9960
+      },
+      {
+        "word": "looking",
+        "startMs": 9960,
+        "endMs": 10320
+      },
+      {
+        "word": "for",
+        "startMs": 10320,
+        "endMs": 10560
+      },
+      {
+        "word": "that",
+        "startMs": 10560,
+        "endMs": 10760
+      },
+      {
+        "word": "letter",
+        "startMs": 10760,
+        "endMs": 11020
+      },
+      {
+        "word": "and",
+        "startMs": 11020,
+        "endMs": 11440
+      },
+      {
+        "word": "never",
+        "startMs": 11440,
+        "endMs": 11820
+      },
+      {
+        "word": "found",
+        "startMs": 11820,
+        "endMs": 12120
+      },
+      {
+        "word": "it.",
+        "startMs": 12120,
+        "endMs": 12340
+      },
+      {
+        "word": "The",
+        "startMs": 12620,
+        "endMs": 13120
+      },
+      {
+        "word": "mark",
+        "startMs": 13120,
+        "endMs": 13360
+      },
+      {
+        "word": "was",
+        "startMs": 13360,
+        "endMs": 13640
+      },
+      {
+        "word": "already",
+        "startMs": 13640,
+        "endMs": 14240
+      },
+      {
+        "word": "in",
+        "startMs": 14240,
+        "endMs": 14580
+      },
+      {
+        "word": "use",
+        "startMs": 14580,
+        "endMs": 14880
+      },
+      {
+        "word": "for",
+        "startMs": 14880,
+        "endMs": 15140
+      },
+      {
+        "word": "a",
+        "startMs": 15140,
+        "endMs": 15280
+      },
+      {
+        "word": "Spanish",
+        "startMs": 15280,
+        "endMs": 15620
+      },
+      {
+        "word": "coin.",
+        "startMs": 15620,
+        "endMs": 15960
+      }
+    ],
+    "heard": "You were probably told it is the initials of the United States, one letter laid over the other. Florian Cajori read through thousands of these pages looking for that letter and never found it. The mark was already in use for a Spanish coin.",
+    "script": "You were probably told it is the initials of the United States, one letter laid over the other. Florian Cajori read through thousands of these pages looking for that letter and never found it. The mark was already in use for a Spanish coin."
+  },
+  "s13.recap": {
+    "durationMs": 11440,
+    "words": [
+      {
+        "word": "Four",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "trades,",
+        "startMs": 340,
+        "endMs": 940
+      },
+      {
+        "word": "17",
+        "startMs": 1100,
+        "endMs": 1840
+      },
+      {
+        "word": "centuries",
+        "startMs": 1840,
+        "endMs": 2740
+      },
+      {
+        "word": "apart,",
+        "startMs": 2740,
+        "endMs": 3240
+      },
+      {
+        "word": "and",
+        "startMs": 3420,
+        "endMs": 3920
+      },
+      {
+        "word": "not",
+        "startMs": 3920,
+        "endMs": 4260
+      },
+      {
+        "word": "one",
+        "startMs": 4260,
+        "endMs": 4580
+      },
+      {
+        "word": "of",
+        "startMs": 4580,
+        "endMs": 4680
+      },
+      {
+        "word": "these",
+        "startMs": 4680,
+        "endMs": 4900
+      },
+      {
+        "word": "was",
+        "startMs": 4900,
+        "endMs": 5140
+      },
+      {
+        "word": "designed",
+        "startMs": 5140,
+        "endMs": 5740
+      },
+      {
+        "word": "by",
+        "startMs": 5740,
+        "endMs": 6020
+      },
+      {
+        "word": "anybody.",
+        "startMs": 6020,
+        "endMs": 6500
+      },
+      {
+        "word": "Each",
+        "startMs": 7240,
+        "endMs": 7560
+      },
+      {
+        "word": "is",
+        "startMs": 7560,
+        "endMs": 7840
+      },
+      {
+        "word": "a",
+        "startMs": 7840,
+        "endMs": 7980
+      },
+      {
+        "word": "word",
+        "startMs": 7980,
+        "endMs": 8280
+      },
+      {
+        "word": "that",
+        "startMs": 8280,
+        "endMs": 8580
+      },
+      {
+        "word": "somebody",
+        "startMs": 8580,
+        "endMs": 9180
+      },
+      {
+        "word": "stopped",
+        "startMs": 9180,
+        "endMs": 9780
+      },
+      {
+        "word": "bothering",
+        "startMs": 9780,
+        "endMs": 10360
+      },
+      {
+        "word": "to",
+        "startMs": 10360,
+        "endMs": 10680
+      },
+      {
+        "word": "finish.",
+        "startMs": 10680,
+        "endMs": 10960
+      }
+    ],
+    "heard": "Four trades, 17 centuries apart, and not one of these was designed by anybody. Each is a word that somebody stopped bothering to finish.",
+    "script": "Four trades, seventeen centuries apart, and not one of these was designed by anybody. Each is a word that somebody stopped bothering to finish."
+  },
+  "s14.close": {
+    "durationMs": 4680,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "have",
+        "startMs": 160,
+        "endMs": 360
+      },
+      {
+        "word": "been",
+        "startMs": 360,
+        "endMs": 580
+      },
+      {
+        "word": "writing",
+        "startMs": 580,
+        "endMs": 1000
+      },
+      {
+        "word": "Latin",
+        "startMs": 1000,
+        "endMs": 1420
+      },
+      {
+        "word": "all",
+        "startMs": 1420,
+        "endMs": 1720
+      },
+      {
+        "word": "along.",
+        "startMs": 1720,
+        "endMs": 2140
+      },
+      {
+        "word": "You",
+        "startMs": 2320,
+        "endMs": 2800
+      },
+      {
+        "word": "just",
+        "startMs": 2800,
+        "endMs": 3080
+      },
+      {
+        "word": "stopped",
+        "startMs": 3080,
+        "endMs": 3660
+      },
+      {
+        "word": "pronouncing",
+        "startMs": 3660,
+        "endMs": 4180
+      },
+      {
+        "word": "it.",
+        "startMs": 4180,
+        "endMs": 4380
+      }
+    ],
+    "heard": "You have been writing Latin all along. You just stopped pronouncing it.",
+    "script": "You have been writing Latin all along. You just stopped pronouncing it."
+  }
+}

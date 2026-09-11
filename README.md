@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 7 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 8 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also

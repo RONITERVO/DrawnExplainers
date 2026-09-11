@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "externalId": "s02.et",
+  "text": "Start in Pompeii, first century, on a plastered wall. Somebody has scratched up the Latin word for and, joined the way everyone joined it.",
+  "durationMs": 10720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 1360,
+      "endMs": 2080,
+      "startChar": 24,
+      "endChar": 33
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2680,
+      "startChar": 33,
+      "endChar": 36
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2755,
+      "startChar": 36,
+      "endChar": 38
+    },
+    {
+      "startMs": 2755,
+      "endMs": 2830,
+      "startChar": 38,
+      "endChar": 48
+    },
+    {
+      "startMs": 2830,
+      "endMs": 3800,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4160,
+      "startChar": 54,
+      "endChar": 63
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4235,
+      "startChar": 63,
+      "endChar": 67
+    },
+    {
+      "startMs": 4235,
+      "endMs": 5400,
+      "startChar": 67,
+      "endChar": 77
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5920,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6120,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6280,
+      "startChar": 84,
+      "endChar": 90
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6720,
+      "startChar": 90,
+      "endChar": 95
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7080,
+      "startChar": 95,
+      "endChar": 99
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7520,
+      "startChar": 99,
+      "endChar": 104
+    },
+    {
+      "startMs": 7520,
+      "endMs": 8040,
+      "startChar": 104,
+      "endChar": 111
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8460,
+      "startChar": 111,
+      "endChar": 115
+    },
+    {
+      "startMs": 8460,
+      "endMs": 8880,
+      "startChar": 115,
+      "endChar": 119
+    },
+    {
+      "startMs": 8880,
+      "endMs": 9400,
+      "startChar": 119,
+      "endChar": 128
+    },
+    {
+      "startMs": 9400,
+      "endMs": 9960,
+      "startChar": 128,
+      "endChar": 135
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10320,
+      "startChar": 135,
+      "endChar": 138
+    }
+  ]
+}
