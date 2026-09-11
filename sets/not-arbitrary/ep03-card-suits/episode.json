@@ -6,15 +6,12 @@
   "thesis": "The four French suits are the four German ones cut down to fit a stencil: the club is an acorn, the spade is a leaf, the diamond is a hawking bell. The heart never had to change. The English names came from a third pack entirely.",
   "runtimeSeconds": 153.32,
   "renderedAt": "2026-09-10",
-  "status": "rendered",
-
+  "status": "published",
   "author": {
     "model": "Claude Opus 5",
     "session": "https://claude.ai/code/session_01FhJbcN4jHyfdmsJXtVYuvs"
   },
-
   "whyThisSubject": "Episodes 1 and 2 were both writing systems. This one keeps the lane — a daily mark shown to be a picture — but changes the material entirely: objects from a forest and a hunt, and a printing constraint instead of a scribe's hurry. The gate test passes four times over, and unusually the cause is physical rather than cultural: a stencil aperture cannot pass a hatched acorn cup, so the detail had to go.",
-
   "pipeline": {
     "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
     "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
@@ -22,9 +19,7 @@
     "render": "resvg + 24 worker threads -> libx264, 4600 frames in 42s (~113 fps sustained)",
     "loudness": "-14.2 LUFS integrated, -1.2 dBTP, LRA 3.4"
   },
-
   "musicPrompt": "Sparse fingerpicked nylon-string guitar, unhurried, wide space between the notes. A low bass clarinet holding long quiet tones underneath. Faint dusty room tone, no percussion. Contemplative and curious, the patience of a print workshop. Instrumental only, no vocals, no strong melodic hook that competes with a speaking voice.",
-
   "qa": {
     "method": "Whisper transcript of every shot diffed against the script before drawing, then a second transcript of the final mux diffed again",
     "result": "clean; only Whisper's own numeral normalisation ('five hundred' heard as '500') remains in both passes",
@@ -34,7 +29,6 @@
     "fix": "Put a sentence boundary between the German word and the English one ('They called it Eichel. The German word for an acorn.') and said so in the direction field. Content addressing meant only that one line re-synthesised.",
     "note": "No spoken lists of bare single words anywhere in the script, per the set rule from episode 2. The four suits are enumerated on screen only."
   },
-
   "craft": {
     "morphs": [
       "acorn -> club: the nut becomes the top lobe and the cup's two near-coincident ellipses walk apart into the lower two. The topology never changes, which is the only reason it can be one continuous move; at m=0 the doubled outline reads as a pencil line gone over twice.",
@@ -45,24 +39,34 @@
     "device": "The stencil is a real clip path, not a picture of one: the sheet washes the page, the aperture is a clipPath union of the four club pieces, and the drawing shows at full strength only where it falls inside the hole. Every reveal then floods from outline to solid colour with a rising clip wipe.",
     "turn": "Shot 11 puts three questions on the page and the narration answers only two. 'the names — ?' sits there unspoken until shot 12."
   },
-
   "libraryAdditions": [
     "lib/scene-kit.mjs flood() — ink rising into a shape behind a clip wipe. fill() cannot do this for a mark built from overlapping paths, because every overlap doubles at partial opacity and the shape goes blotchy.",
     "lib/scene-kit.mjs clipTo() — show content only inside a union of paths. This is what makes a stencil aperture possible for a mark made of separate pieces."
   ],
-
   "publish": {
     "youtube": {
       "title": "A club is an acorn. A spade is a leaf.",
       "description": "Five hundred years ago German card makers took their suits from the forest and the hunt: an acorn, a leaf, a hawking bell, and a heart. Then the French found a faster way to print them — one outline, one stencil, one colour — and a stencil cannot cut a detail. It can only cut a hole.\n\nWhat came through the hole is the deck you own. The little foot at the bottom of a spade is the leaf's stem.\n\nAnd the names are stranger still: England took the pictures from France and the words from Italy, which is why you are holding a leaf and calling it a sword.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
-      "tags": ["playing cards", "card suits", "design history", "printing", "etymology", "history", "animation", "spades", "clubs"]
+      "tags": [
+        "playing cards",
+        "card suits",
+        "design history",
+        "printing",
+        "etymology",
+        "history",
+        "animation",
+        "spades",
+        "clubs"
+      ],
+      "videoId": "7adWRWyDWD8",
+      "url": "https://www.youtube.com/watch?v=7adWRWyDWD8",
+      "uploadedAt": "2026-09-11"
     },
     "tiktok": {
       "caption": "The club on a playing card is an acorn. The spade is a leaf. A stencil did this 500 years ago.",
       "hook": "First 3 seconds: the club unfolds backwards into an acorn."
     }
   },
-
   "files": {
     "video": "out.mp4",
     "script": ".syncvoice/project.json",
@@ -72,6 +76,5 @@
     "narration": "narration.wav",
     "mixed": "mixed.wav"
   },
-
   "rebuild": "node lib/build.mjs sets/not-arbitrary/ep03-card-suits"
 }

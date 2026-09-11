@@ -6,13 +6,11 @@
   "thesis": "A is an ox head rotated 180 degrees. So are B, M and O pictures, still being read every day.",
   "runtimeSeconds": 122.76,
   "renderedAt": "2026-09-10",
-  "status": "rendered",
-
+  "status": "published",
   "author": {
     "model": "Claude Opus 5",
     "session": "https://claude.ai/code/session_01FhJbcN4jHyfdmsJXtVYuvs"
   },
-
   "pipeline": {
     "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
     "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
@@ -20,9 +18,7 @@
     "render": "resvg + 24 worker threads -> libx264, 3683 frames in 32s",
     "loudness": "-13.9 LUFS integrated, -1.5 dBTP"
   },
-
   "musicPrompt": "Sparse felt piano and a soft plucked kalimba, unhurried, wide space between notes. Warm upright bass far back, faint dusty room tone. Curious and contemplative, a quiet desert-evening patience. Instrumental only, no vocals, no strong melodic hook that competes with a speaking voice.",
-
   "qa": {
     "method": "Whisper transcript of the final mux diffed against the script",
     "result": "clean; only Whisper's own numeral normalisation ('three thousand eight hundred' heard as '3,800') remains",
@@ -35,19 +31,28 @@
     ],
     "fix": "Every isolated single letter and short standalone word was given a carrier phrase, and the spoken letter list was removed in favour of letting the screen carry it. Content addressing meant only the 6 changed lines re-synthesised."
   },
-
   "publish": {
     "youtube": {
       "title": "The letter A is an ox. Upside down.",
       "description": "Around 3,800 years ago someone in the Sinai drew an ox head. Two horns, a narrow face. Turn it over and you are looking at the letter A.\n\nThis one also covers B (a house), M (water) and O (an eye) — and the strange moment where Chinese and the Sinai, with no contact between them, both drew water the same way.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
-      "tags": ["alphabet", "etymology", "writing systems", "linguistics", "phoenician", "history", "animation"]
+      "tags": [
+        "alphabet",
+        "etymology",
+        "writing systems",
+        "linguistics",
+        "phoenician",
+        "history",
+        "animation"
+      ],
+      "videoId": "Fil6nN2nGVw",
+      "url": "https://www.youtube.com/watch?v=Fil6nN2nGVw",
+      "uploadedAt": "2026-09-11"
     },
     "tiktok": {
       "caption": "The letter A is an ox head. Someone drew it 3,800 years ago and we just turned it upside down.",
       "hook": "First 3 seconds: the letter A flips over and becomes an ox."
     }
   },
-
   "files": {
     "video": "out.mp4",
     "script": ".syncvoice/project.json",
@@ -57,6 +62,5 @@
     "narration": "narration.wav",
     "mixed": "mixed.wav"
   },
-
   "rebuild": "node lib/build.mjs sets/not-arbitrary/ep02-alphabet-origins"
 }
