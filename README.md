@@ -43,6 +43,43 @@ sets/<set>/
     out.mp4                 the film
 ```
 
+## Starting from a clone
+
+This repository is **text only** — 216 files, under a megabyte. Every binary
+lives in the media store, indexed by each episode's `media.json`.
+
+```bash
+git clone https://github.com/RONITERVO/DrawnExplainers.git
+cd DrawnExplainers
+npm install
+git config core.hooksPath tools/hooks      # refuses binary commits; not automatic on clone
+
+node tools/media-sync.mjs status           # what is missing
+node tools/media-sync.mjs pull sets/not-arbitrary/ep01-chinese-characters
+```
+
+`pull` fetches the archives named in `media.json`, checks each against the
+SHA-256 recorded at upload, and refuses to extract anything that does not match.
+
+You do not need the media to work on a film. `scene.mjs`, the script, the
+Whisper timings and `lib/` are all here, so the scene renders as soon as the
+`audio` group is pulled; `out.mp4` and everything downstream of it rebuilds
+locally.
+
+### What is kept where, and why
+
+| | Where | Why |
+| --- | --- | --- |
+| scenes, scripts, timings, tools, episode records | git | text, diffable, the actual work |
+| `music.wav`, `assets/syncvoice/` | media store, `audio` group | **irreplaceable** — Lyria has no seed, Gemini TTS is not deterministic, so regenerating changes the film |
+| `out-clips-talking-face-only-video/` | media store, `veo` group | **irreplaceable** — Google video generation, costs money, never identical twice |
+| `out.mp4`, `narration.wav`, `mixed.wav` | media store, `render` group | rebuilt by `node lib/build.mjs <ep>` in ~45s |
+| clips, `vertical-notebook/` | media store, `clips` / `vertical` | rebuilt by `tools/make-speech-clips-v3.mjs` and `tools/Notebook-Compositor` |
+
+The repository reached 1.6GB before this split. A binary committed to git can
+never be pruned again without rewriting history, which is why `tools/hooks/pre-commit`
+refuses them.
+
 ## Making an episode
 
 ```bash

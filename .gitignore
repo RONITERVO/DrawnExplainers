@@ -47,3 +47,6 @@ youtube-token.json
 *.mp3
 *.ttf
 *.otf
+
+# media-sync staging
+.media-tmp/

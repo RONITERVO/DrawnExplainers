@@ -1,0 +1,21 @@
+#!/bin/sh
+# This repository is text only. Media lives in the media store and is indexed by
+# each episode's media.json; see README. A binary committed here can never be
+# pruned from history again without a rewrite, which is how it reached 1.6GB the
+# first time.
+fail=0
+for f in $(git diff --cached --name-only --diff-filter=ACM); do
+  case "$f" in
+    *.wav|*.mp4|*.mov|*.mkv|*.png|*.jpg|*.jpeg|*.gif|*.mp3|*.ttf|*.otf|*.zip|*.tar|*.7z)
+      echo "pre-commit: $f is binary — media belongs in the media store, not git"
+      fail=1 ;;
+  esac
+  if [ -f "$f" ]; then
+    size=$(wc -c < "$f")
+    if [ "$size" -gt 1048576 ]; then
+      echo "pre-commit: $f is $((size/1024))KB — over the 1MB text limit"
+      fail=1
+    fi
+  fi
+done
+[ "$fail" -eq 0 ] || { echo "pre-commit: refused. Use 'git commit --no-verify' only if you are certain."; exit 1; }

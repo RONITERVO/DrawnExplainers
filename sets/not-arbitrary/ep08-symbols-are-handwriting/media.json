@@ -1,0 +1,41 @@
+{
+  "slug": "ep08-symbols-are-handwriting",
+  "remote": "gdrive:DrawnExplainers/ep08-symbols-are-handwriting",
+  "updated": "2026-09-11",
+  "groups": {
+    "audio": {
+      "why": "irreplaceable - Lyria has no seed, Gemini TTS is not deterministic",
+      "archive": "audio.tar",
+      "bytes": 38461440,
+      "sha256": "d3844bce687dd9a2f10a10836d1e8309",
+      "files": [
+        "assets/syncvoice/audio/en-US/s01.hook.wav",
+        "assets/syncvoice/audio/en-US/s02.et.wav",
+        "assets/syncvoice/audio/en-US/s03.and.wav",
+        "assets/syncvoice/audio/en-US/s04.amp.wav",
+        "assets/syncvoice/audio/en-US/s05.capitulum.wav",
+        "assets/syncvoice/audio/en-US/s06.pilcrow.wav",
+        "assets/syncvoice/audio/en-US/s07.percento.wav",
+        "assets/syncvoice/audio/en-US/s08.percent.wav",
+        "assets/syncvoice/audio/en-US/s09.turn.wav",
+        "assets/syncvoice/audio/en-US/s10.peso.wav",
+        "assets/syncvoice/audio/en-US/s11.dollar.wav",
+        "assets/syncvoice/audio/en-US/s12.refuse.wav",
+        "assets/syncvoice/audio/en-US/s13.recap.wav",
+        "assets/syncvoice/audio/en-US/s14.close.wav",
+        "music.wav"
+      ]
+    },
+    "render": {
+      "why": "regenerable: node lib/build.mjs <ep>",
+      "archive": "render.tar",
+      "bytes": 71444480,
+      "sha256": "3848a1ce7b084900b9fa6bbace5c5570",
+      "files": [
+        "mixed.wav",
+        "narration.wav",
+        "out.mp4"
+      ]
+    }
+  }
+}

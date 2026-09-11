@@ -42,9 +42,9 @@ was created, and getting it wrong disables comments and suppresses recommendatio
 
 **Nothing here can upload.** An `AIza…` key is read-only on the YouTube Data
 API. Uploading needs OAuth 2.0 with the `youtube.upload` scope, which
-authenticates a *user* — and that user must be **the account that owns this channel**, since
-that is who owns this channel. Consenting with the wrong account is the one
-mistake that silently uploads to the wrong channel.
+authenticates a *user* — and that user must be **the account that owns this
+channel**. Consenting with the wrong Google account is the one mistake that
+silently uploads somewhere else.
 
 Until that exists, uploads are manual in Studio. See "Automating uploads" below.
 
