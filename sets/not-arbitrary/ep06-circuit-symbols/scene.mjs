@@ -9,7 +9,7 @@
 // working drawings, iterated with lib/glyph.mjs before any of this was written.
 
 import {
-  P, ink, text, arrow, createFilm, smooth, travel, lerp, ramp, clamp01, easeInOut,
+  P, ink, text, arrow, createFilm, smooth, travel, lerp, ramp, clamp01, easeInOut, easeOut,
   INK, INK_SOFT, RED,
 } from '../../../lib/scene-kit.mjs';
 import { disc, discColour, N as PILE_N, ZINC } from './strip-battery.mjs';
@@ -34,11 +34,14 @@ const capX = (morph) => 960 + (HOME - 960) * easeInOut(clamp01(morph));
 const AWAY = 1320;   // where its symbol ends up
 
 // ---------------------------------------------------------------- marks
-function pile(t, cx, opacity) {
+/** `arrive` stacks the discs one at a time - the pile is built, not revealed. */
+function pile(t, cx, opacity, arrive = 1) {
   const out = [];
   for (let i = 0; i < PILE_N; i += 1) {
+    const up = clamp01((arrive - i / PILE_N) * PILE_N);
+    if (up <= 0.01) continue;
     const path = smooth(disc(i, t, { cx, cy: 560, scale: 2.1 }), { closed: true, tension: 0.45 });
-    out.push(`<path d="${path.d()}" fill="${discColour(i, t)}" opacity="${opacity.toFixed(2)}"/>`);
+    out.push(`<path d="${path.d()}" fill="${discColour(i, t)}" opacity="${(opacity * easeOut(up)).toFixed(2)}"/>`);
   }
   if (t > 0.6) {
     const o = ((t - 0.6) / 0.4) * opacity;
@@ -47,14 +50,14 @@ function pile(t, cx, opacity) {
   return out.join('');
 }
 
-function coil(t, cx, opacity) {
+function coil(t, cx, opacity, arrive = 1) {
   const opts = { x0: cx - 315, span: 158, base: 620, scale: 1.5 };
   const out = [];
   if (t < 0.55) {
     out.push(`<rect x="${cx - 340}" y="${500}" width="680" height="138" rx="69" fill="hsl(30,24%,78%)" opacity="${((1 - t / 0.55) * 0.5 * opacity).toFixed(2)}"/>`);
   }
   for (let i = 0; i < TURNS; i += 1) {
-    out.push(ink(smooth(turn(i, t, opts), { tension: 0.9 }), 1, { w: 11, color: INK, opacity }));
+    out.push(ink(smooth(turn(i, t, opts), { tension: 0.9 }), clamp01((arrive - i / TURNS) * TURNS * 1.4), { w: 11, color: INK, opacity }));
   }
   if (t > 0.5) {
     const o = ((t - 0.5) / 0.5) * opacity;
@@ -64,11 +67,11 @@ function coil(t, cx, opacity) {
   return out.join('');
 }
 
-function resistor(t, cx, opacity) {
+function resistor(t, cx, opacity, arrive = 1) {
   const opts = { x0: cx - 300, span: 150, mid: 560, amp: 104, scale: 1 };
   const out = [];
   for (let i = 0; i < TURNS; i += 1) {
-    out.push(ink(smooth(fold(i, t, opts), { tension: lerp(1, 0.12, t) }), 1, { w: 11, color: INK, opacity }));
+    out.push(ink(smooth(fold(i, t, opts), { tension: lerp(1, 0.12, t) }), clamp01((arrive - i / TURNS) * TURNS * 1.4), { w: 11, color: INK, opacity }));
   }
   if (t > 0.5) {
     const o = ((t - 0.5) / 0.5) * opacity;
@@ -105,8 +108,8 @@ function stageBattery(t) {
   const draw = ramp(t, beat(S.pile, 'stacked'), 2400);
   const morph = ramp(t, beat(S.bmorph, 'draw'), 2600);
   // Before the copy leaves, the pile is simply drawn in place.
-  const front = travel(pile, morph, { from: HOME, to: AWAY });
-  return (draw <= 0 ? '' : front)
+  const front = travel((m, cx, o) => pile(m, cx, o, draw), morph, { from: HOME, to: AWAY });
+  return front
     + text("Volta's pile, 1799", { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.name, 'pile'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.breveal, 'Copper'), 'a battery', 'long copper, short zinc') : '');
 }
@@ -114,8 +117,8 @@ function stageBattery(t) {
 function stageCoil(t) {
   const draw = ramp(t, beat(S.coil, 'Wind'), 1800);
   const morph = ramp(t, beat(S.coilrev, 'Press'), 2200);
-  const front = travel(coil, morph, { from: HOME, to: AWAY });
-  return (draw <= 0 ? '' : front)
+  const front = travel((m, cx, o) => coil(m, cx, o, draw), morph, { from: HOME, to: AWAY });
+  return front
     + text('wire wound round a finger', { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.coil, 'finger'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.coilrev, 'object'), 'an inductor', 'the turns that face you') : '');
 }
@@ -123,8 +126,8 @@ function stageCoil(t) {
 function stageResistor(t) {
   const draw = ramp(t, beat(S.res, 'folded'), 2000);
   const morph = ramp(t, beat(S.resrev, 'Draw'), 2200);
-  const front = travel(resistor, morph, { from: HOME, to: AWAY });
-  return (draw <= 0 ? '' : front)
+  const front = travel((m, cx, o) => resistor(m, cx, o, draw), morph, { from: HOME, to: AWAY });
+  return front
     + text('a wire folded to fit', { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.res, 'wire'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.resrev, 'peak'), 'a resistor', 'one peak per fold') : '');
 }
