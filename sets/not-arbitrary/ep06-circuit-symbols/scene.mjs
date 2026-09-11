@@ -9,8 +9,8 @@
 // working drawings, iterated with lib/glyph.mjs before any of this was written.
 
 import {
-  P, ink, text, arrow, createFilm, smooth, lerp, clamp01, ramp, easeInOut,
-  INK, INK_SOFT, RED, GOLD,
+  P, ink, text, arrow, createFilm, smooth, travel, lerp, ramp, clamp01, easeInOut,
+  INK, INK_SOFT, RED,
 } from '../../../lib/scene-kit.mjs';
 import { disc, discColour, N as PILE_N, ZINC } from './strip-battery.mjs';
 import { turn, fold, TURNS } from './strip-coil-resistor.mjs';
@@ -28,18 +28,10 @@ const S = {
   persist: 's13.persist', recap: 's14.recap', close: 's15.close',
 };
 
-const HOME = 660;    // where an object is drawn and where it stays
+const HOME = 660;    // where the object settles once its copy has left
+/** The object's caption travels with it, centre -> HOME. */
+const capX = (morph) => 960 + (HOME - 960) * easeInOut(clamp01(morph));
 const AWAY = 1320;   // where its symbol ends up
-
-/** Object at HOME, ghosted once its copy has left; symbol travelling to AWAY. */
-function travel(drawObject, p) {
-  const e = easeInOut(clamp01(p));
-  const ghost = drawObject(0, HOME, lerp(1, 0.34, e));
-  if (e <= 0.01) return ghost;
-  const tie = ink(new P().M(HOME + 250, 560).L(AWAY - 250, 560), Math.min(1, e * 2),
-    { w: 3, color: INK_SOFT, dash: '12 10', opacity: 0.55 });
-  return ghost + tie + drawObject(e, lerp(HOME, AWAY, e), 1);
-}
 
 // ---------------------------------------------------------------- marks
 function pile(t, cx, opacity) {
@@ -113,27 +105,27 @@ function stageBattery(t) {
   const draw = ramp(t, beat(S.pile, 'stacked'), 2400);
   const morph = ramp(t, beat(S.bmorph, 'draw'), 2600);
   // Before the copy leaves, the pile is simply drawn in place.
-  const front = morph <= 0.01 ? pile(0, HOME, 1) : travel((p, cx, o) => pile(p, cx, o), morph);
+  const front = travel(pile, morph, { from: HOME, to: AWAY });
   return (draw <= 0 ? '' : front)
-    + text("Volta's pile, 1799", { x: HOME, y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.name, 'pile'), 600) })
+    + text("Volta's pile, 1799", { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.name, 'pile'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.breveal, 'Copper'), 'a battery', 'long copper, short zinc') : '');
 }
 
 function stageCoil(t) {
   const draw = ramp(t, beat(S.coil, 'Wind'), 1800);
   const morph = ramp(t, beat(S.coilrev, 'Press'), 2200);
-  const front = morph <= 0.01 ? coil(0, HOME, draw > 0 ? 1 : 0) : travel((p, cx, o) => coil(p, cx, o), morph);
+  const front = travel(coil, morph, { from: HOME, to: AWAY });
   return (draw <= 0 ? '' : front)
-    + text('wire wound round a finger', { x: HOME, y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.coil, 'finger'), 600) })
+    + text('wire wound round a finger', { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.coil, 'finger'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.coilrev, 'object'), 'an inductor', 'the turns that face you') : '');
 }
 
 function stageResistor(t) {
   const draw = ramp(t, beat(S.res, 'folded'), 2000);
   const morph = ramp(t, beat(S.resrev, 'Draw'), 2200);
-  const front = morph <= 0.01 ? resistor(0, HOME, draw > 0 ? 1 : 0) : travel((p, cx, o) => resistor(p, cx, o), morph);
+  const front = travel(resistor, morph, { from: HOME, to: AWAY });
   return (draw <= 0 ? '' : front)
-    + text('a wire folded to fit', { x: HOME, y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.res, 'wire'), 600) })
+    + text('a wire folded to fit', { x: capX(morph), y: 880, size: 38, color: INK_SOFT, p: ramp(t, beat(S.res, 'wire'), 600) })
     + (morph > 0.05 ? nameplate(t, beat(S.resrev, 'peak'), 'a resistor', 'one peak per fold') : '');
 }
 
@@ -141,8 +133,8 @@ function stageResistor(t) {
 function stageCapacitor(t) {
   const draw = ramp(t, beat(S.cap, 'plates'), 1600);
   const second = ramp(t, beat(S.cap, 'centuries'), 1400);
-  return plates(0, HOME, draw)
-    + text('two plates, a gap', { x: HOME, y: 880, size: 38, color: INK_SOFT, p: draw })
+  return plates(0, capX(second), draw)
+    + text('two plates, a gap', { x: capX(second), y: 880, size: 38, color: INK_SOFT, p: draw })
     + (second > 0.02
       ? ink(new P().M(HOME + 230, 560).L(AWAY - 230, 560), Math.min(1, second * 2), { w: 3, color: INK_SOFT, dash: '12 10', opacity: 0.55 })
         + plates(1, AWAY, second)
