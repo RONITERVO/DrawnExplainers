@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "originalDir": "out-clips-talking-face-v3",
+  "narratorDir": "narrator-clips",
+  "maskDir": "narrator-masks",
+  "outputDir": "vertical-notebook",
+  "timing": "timing.json",
+  "master": "out.mp4",
+  "sourceMode": "master",
+  "fps": null,
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "centerHeight": null,
+    "paperColor": "#ebe4db"
+  },
+  "paper": {
+    "color": "#f9f6f1",
+    "edgeColor": "#d4c7b9",
+    "marginColor": "#d17147",
+    "ruling": true,
+    "ruleOpacity": 0.16,
+    "grain": 0.35
+  },
+  "timingOptions": {
+    "headMs": null,
+    "gapMs": null,
+    "sectionOrder": null
+  },
+  "pattern": [
+    "top",
+    "bottom"
+  ],
+  "narrator": {
+    "mode": "opaque",
+    "alphaType": "straight",
+    "durationPolicy": "freeze",
+    "offsetSeconds": 0,
+    "panelMargin": 48,
+    "widthFraction": 0.88,
+    "maxFreezeSeconds": 1,
+    "card": {
+      "enabled": true,
+      "mat": 12,
+      "aspect": 1.7777777777777777,
+      "edgeOpacity": 0.55
+    },
+    "grade": {
+      "mode": "notebook",
+      "colorRetention": 0.18,
+      "strength": 1,
+      "gamma": 1,
+      "autoLevels": true,
+      "sampleFrames": 5,
+      "maxBlackPoint": 0.06,
+      "minWhitePoint": 0.88,
+      "blackPoint": null,
+      "whitePoint": null,
+      "inkColor": "#493e36",
+      "paperColor": "#f9f6f1"
+    },
+    "keyColor": "#ffffff",
+    "keySimilarity": 0.12,
+    "keyBlend": 0.08,
+    "invertMask": false
+  },
+  "transition": {
+    "kind": "paper-edge",
+    "seconds": 0.6,
+    "seed": 11939,
+    "feather": 14,
+    "irregularity": 4
+  },
+  "text": {
+    "source": "script",
+    "locale": "en",
+    "fontFile": null,
+    "fontName": null,
+    "fontSize": 60,
+    "margin": 96,
+    "color": "#493e36",
+    "anchor": "center-facing",
+    "phraseAware": true,
+    "maxHeightFraction": 0.8,
+    "minPageSeconds": 1.2,
+    "fallbackFonts": [],
+    "maxTokensPerPage": 40,
+    "maxGraphemesPerClip": 4000
+  },
+  "audio": {
+    "sampleRate": 48000,
+    "channels": 2,
+    "stream": 0,
+    "codec": "aac",
+    "bitrate": "192k",
+    "maxTailPadSeconds": 0.12
+  },
+  "encode": {
+    "preset": "medium",
+    "crf": 18,
+    "threads": 5,
+    "filterThreads": 2
+  },
+  "verify": "decode",
+  "processTimeoutSeconds": 1800,
+  "maxClipSeconds": 600,
+  "clips": {}
+}

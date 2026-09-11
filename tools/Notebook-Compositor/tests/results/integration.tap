@@ -1,0 +1,162 @@
+TAP version 13
+# Integration fixtures: /tmp/Vertical cafe's test fMCa9J
+# Synthetic test artifacts retained at: /tmp/Vertical cafe's test fMCa9J
+# Subtest: setup: synthetic notebook drawing, authoritative 440Hz audio and silent/voiced narrators
+ok 1 - setup: synthetic notebook drawing, authoritative 440Hz audio and silent/voiced narrators
+  ---
+  duration_ms: 511.356028
+  type: 'test'
+  ...
+# Subtest: data-only and dry-run preflights work without creating output directories
+ok 2 - data-only and dry-run preflights work without creating output directories
+  ---
+  duration_ms: 598.943078
+  type: 'test'
+  ...
+# Subtest: actual 1080x1920 two-clip render: 44 + 46 frames, joined video 90 frames
+ok 3 - actual 1080x1920 two-clip render: 44 + 46 frames, joined video 90 frames
+  ---
+  duration_ms: 15130.729338
+  type: 'test'
+  ...
+# Subtest: joined audio follows original 440Hz, never the narrator 9000Hz
+ok 4 - joined audio follows original 440Hz, never the narrator 9000Hz
+  ---
+  duration_ms: 79.64481
+  type: 'test'
+  ...
+# Subtest: the central drawing matches the independent reference through movement and the join
+ok 5 - the central drawing matches the independent reference through movement and the join
+  ---
+  duration_ms: 2400.306779
+  type: 'test'
+  ...
+# Subtest: resume reuses validated unchanged outputs; damaged cache is rebuilt
+ok 6 - resume reuses validated unchanged outputs; damaged cache is rebuilt
+  ---
+  duration_ms: 7809.061005
+  type: 'test'
+  ...
+# Subtest: changed config without --overwrite fails without modifying good MP4
+ok 7 - changed config without --overwrite fails without modifying good MP4
+  ---
+  duration_ms: 765.925548
+  type: 'test'
+  ...
+# Subtest: alpha narrator render and mask narrator render succeed (270x480 fast fixtures)
+ok 8 - alpha narrator render and mask narrator render succeed (270x480 fast fixtures)
+  ---
+  duration_ms: 4415.806878
+  type: 'test'
+  ...
+# Subtest: opaque input is not silently accepted as an alpha input
+ok 9 - opaque input is not silently accepted as an alpha input
+  ---
+  duration_ms: 497.639515
+  type: 'test'
+  ...
+# Subtest: colorkey mode and loop duration policy execute without early EOF
+ok 10 - colorkey mode and loop duration policy execute without early EOF
+  ---
+  duration_ms: 2172.534874
+  type: 'test'
+  ...
+# Subtest: text pagination uses measured glyph bounds and does not cover the drawing
+ok 11 - text pagination uses measured glyph bounds and does not cover the drawing
+  ---
+  duration_ms: 2251.819048
+  type: 'test'
+  ...
+# Subtest: explicit clips fallback joins PCM, not independently encoded AAC
+ok 12 - explicit clips fallback joins PCM, not independently encoded AAC
+  ---
+  duration_ms: 4240.19149
+  type: 'test'
+  ...
+# Subtest: missing original audio fails before rendering
+ok 13 - missing original audio fails before rendering
+  ---
+  duration_ms: 504.039686
+  type: 'test'
+  ...
+# Subtest: live output lock is not stolen
+ok 14 - live output lock is not stolen
+  ---
+  duration_ms: 501.936962
+  type: 'test'
+  ...
+# Subtest: rational 30000/1001 FPS uses continuous sample rounding across the join
+ok 15 - rational 30000/1001 FPS uses continuous sample rounding across the join
+  ---
+  duration_ms: 4182.757427
+  type: 'test'
+  ...
+# Subtest: a positive original-audio timestamp offset remains silence, not a sync shift
+ok 16 - a positive original-audio timestamp offset remains silence, not a sync shift
+  ---
+  duration_ms: 4073.249121
+  type: 'test'
+  ...
+# Subtest: same-page type-on keeps the already-visible prefix at fixed pixel coordinates
+ok 17 - same-page type-on keeps the already-visible prefix at fixed pixel coordinates
+  ---
+  duration_ms: 177.261322
+  type: 'test'
+  ...
+# Subtest: per-clip grade is sampled once and locked; detailed style report is persisted
+ok 18 - per-clip grade is sampled once and locked; detailed style report is persisted
+  ---
+  duration_ms: 0.401872
+  type: 'test'
+  ...
+# Subtest: rendered captions are inside the expected panels and safety margins in both layouts
+ok 19 - rendered captions are inside the expected panels and safety margins in both layouts
+  ---
+  duration_ms: 234.781571
+  type: 'test'
+  ...
+# Subtest: during the slide, already-revealed narrator pixels do not become globally translucent
+ok 20 - during the slide, already-revealed narrator pixels do not become globally translucent
+  ---
+  duration_ms: 185.893478
+  type: 'test'
+  ...
+# Subtest: narrator is absent at both animated endpoints while the notebook background stays unchanged
+ok 21 - narrator is absent at both animated endpoints while the notebook background stays unchanged
+  ---
+  duration_ms: 194.903057
+  type: 'test'
+  ...
+# Subtest: a static mask with a positive narrator offset stays usable and synchronized
+ok 22 - a static mask with a positive narrator offset stays usable and synchronized
+  ---
+  duration_ms: 2351.562095
+  type: 'test'
+  ...
+# Subtest: declared wrong narrator source-cut bounds fail before any output is created
+ok 23 - declared wrong narrator source-cut bounds fail before any output is created
+  ---
+  duration_ms: 418.170948
+  type: 'test'
+  ...
+# Subtest: unframed alpha and grade-off modes remain available without an opaque rectangle
+ok 24 - unframed alpha and grade-off modes remain available without an opaque rectangle
+  ---
+  duration_ms: 1688.405363
+  type: 'test'
+  ...
+# Subtest: all public synthetic MP4s fully decode with no FFmpeg errors
+ok 25 - all public synthetic MP4s fully decode with no FFmpeg errors
+  ---
+  duration_ms: 1591.253505
+  type: 'test'
+  ...
+1..25
+# tests 25
+# suites 0
+# pass 25
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 57055.130557

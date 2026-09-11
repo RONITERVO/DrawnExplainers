@@ -1,0 +1,14 @@
+{
+  "name": "notebook-vertical-compositor",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test tests/unit.test.mjs tests/integration.test.mjs",
+    "test:unit": "node --test tests/unit.test.mjs",
+    "start": "node tools/launch-notebook.mjs"
+  }
+}

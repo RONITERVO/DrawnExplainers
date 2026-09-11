@@ -1,0 +1,303 @@
+{
+  "tool": "make-speech-clips-v3.mjs",
+  "version": 3,
+  "source": "out.mp4",
+  "timing": "timing.json",
+  "sourceDurationSeconds": 124.266667,
+  "optimization": {
+    "objective": "fewest clips, then fewest extreme-short clips, then lowest shortness/target-distance penalty",
+    "targetSeconds": 10,
+    "extremeShortSeconds": 2,
+    "plannedAverageSeconds": 8.284444466666667,
+    "measuredAverageSeconds": 8.304978533333331,
+    "metrics": {
+      "clipCount": 15,
+      "extremeShortCount": 0,
+      "extremeShortPenalty": 0,
+      "shortPenalty": 54194510.118889,
+      "targetDistancePenalty": 54194510.118889,
+      "clauseCount": 3
+    }
+  },
+  "settings": {
+    "maxSeconds": 10,
+    "minSeconds": 1,
+    "pauseFill": 0.75,
+    "encoderSafetyMs": 100,
+    "headMs": 900,
+    "gapMs": 520,
+    "fps": 30,
+    "textSource": "timing.json script aligned to timing.json words"
+  },
+  "clips": [
+    {
+      "index": 1,
+      "startMs": 0,
+      "endMs": 6775,
+      "durationMs": 6775,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 420,
+      "sourceSections": [
+        "s01.opening"
+      ],
+      "text": "Every Chinese character began as a picture. Not a code, not an alphabet.",
+      "label": "Every-Chinese-character-began-as-a-picture-Not-a-code-not-an-alphabet",
+      "filename": "001__00h00m00.000-00h00m06.775__Every-Chinese-character-began-as-a-picture-Not-a-code-not-an-alphabet.mp4",
+      "actualDurationSeconds": 6.796333,
+      "audioFilename": "001__00h00m00.000-00h00m06.775__Every-Chinese-character-began-as-a-picture-Not-a-code-not-an-alphabet.wav",
+      "audioDurationSeconds": 6.805333
+    },
+    {
+      "index": 2,
+      "startMs": 6775,
+      "endMs": 14505,
+      "durationMs": 7730,
+      "boundaryType": "clause",
+      "pauseAfterLastWordMs": 220,
+      "sourceSections": [
+        "s01.opening",
+        "s02.mountain.draw"
+      ],
+      "text": "A drawing of something a person could actually see. Start with a mountain. Three peaks,",
+      "label": "A-drawing-of-something-a-person-could-actually-see-Start-with-a-mountain-Three-peaks",
+      "filename": "002__00h00m06.775-00h00m14.505__A-drawing-of-something-a-person-could-actually-see-Start-with-a-mountain-Three-peaks.mp4",
+      "actualDurationSeconds": 7.751333,
+      "audioFilename": "002__00h00m06.775-00h00m14.505__A-drawing-of-something-a-person-could-actually-see-Start-with-a-mountain-Three-peaks.wav",
+      "audioDurationSeconds": 7.765333
+    },
+    {
+      "index": 3,
+      "startMs": 14505,
+      "endMs": 21475,
+      "durationMs": 6970,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 900,
+      "sourceSections": [
+        "s02.mountain.draw"
+      ],
+      "text": "the middle one tallest. Anyone can draw that, and three thousand years ago, someone did.",
+      "label": "the-middle-one-tallest-Anyone-can-draw-that-and-three-thousand-years-ago-someone-did",
+      "filename": "003__00h00m14.505-00h00m21.475__the-middle-one-tallest-Anyone-can-draw-that-and-three-thousand-years-ago-someone-did.mp4",
+      "actualDurationSeconds": 6.991333,
+      "audioFilename": "003__00h00m14.505-00h00m21.475__the-middle-one-tallest-Anyone-can-draw-that-and-three-thousand-years-ago-someone-did.wav",
+      "audioDurationSeconds": 6.997333
+    },
+    {
+      "index": 4,
+      "startMs": 21475,
+      "endMs": 30245,
+      "durationMs": 8770,
+      "boundaryType": "clause",
+      "pauseAfterLastWordMs": 300,
+      "sourceSections": [
+        "s03.mountain.straighten"
+      ],
+      "text": "Then hands copied it. Thousands of hands, over thousands of years. A brush is faster than a picture,",
+      "label": "Then-hands-copied-it-Thousands-of-hands-over-thousands-of-years-A-brush-is-faster-th",
+      "filename": "004__00h00m21.475-00h00m30.245__Then-hands-copied-it-Thousands-of-hands-over-thousands-of-years-A-brush-is-faster-th.mp4",
+      "actualDurationSeconds": 8.791333,
+      "audioFilename": "004__00h00m21.475-00h00m30.245__Then-hands-copied-it-Thousands-of-hands-over-thousands-of-years-A-brush-is-faster-th.wav",
+      "audioDurationSeconds": 8.810667
+    },
+    {
+      "index": 5,
+      "startMs": 30245,
+      "endMs": 38650,
+      "durationMs": 8405,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 1000,
+      "sourceSections": [
+        "s03.mountain.straighten",
+        "s04.mountain.reveal"
+      ],
+      "text": "so the curves pulled straight. And there it is. Mountain. The three peaks never left.",
+      "label": "so-the-curves-pulled-straight-And-there-it-is-Mountain-The-three-peaks-never-left",
+      "filename": "005__00h00m30.245-00h00m38.650__so-the-curves-pulled-straight-And-there-it-is-Mountain-The-three-peaks-never-left.mp4",
+      "actualDurationSeconds": 8.426333,
+      "audioFilename": "005__00h00m30.245-00h00m38.650__so-the-curves-pulled-straight-And-there-it-is-Mountain-The-three-peaks-never-left.wav",
+      "audioDurationSeconds": 8.426667
+    },
+    {
+      "index": 6,
+      "startMs": 38650,
+      "endMs": 47165,
+      "durationMs": 8515,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 300,
+      "sourceSections": [
+        "s05.water.draw",
+        "s06.water.reveal"
+      ],
+      "text": "Water was drawn as a current running downward, with droplets thrown off to either side. Straighten the current.",
+      "label": "Water-was-drawn-as-a-current-running-downward-with-droplets-thrown-off-to-either-sid",
+      "filename": "006__00h00m38.650-00h00m47.165__Water-was-drawn-as-a-current-running-downward-with-droplets-thrown-off-to-either-sid.mp4",
+      "actualDurationSeconds": 8.536333,
+      "audioFilename": "006__00h00m38.650-00h00m47.165__Water-was-drawn-as-a-current-running-downward-with-droplets-thrown-off-to-either-sid.wav",
+      "audioDurationSeconds": 8.554667
+    },
+    {
+      "index": 7,
+      "startMs": 47165,
+      "endMs": 54160,
+      "durationMs": 6995,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 320,
+      "sourceSections": [
+        "s06.water.reveal",
+        "s07.sun.draw"
+      ],
+      "text": "Keep the droplets. That is the character for water. The sun was easy. A circle.",
+      "label": "Keep-the-droplets-That-is-the-character-for-water-The-sun-was-easy-A-circle",
+      "filename": "007__00h00m47.165-00h00m54.160__Keep-the-droplets-That-is-the-character-for-water-The-sun-was-easy-A-circle.mp4",
+      "actualDurationSeconds": 7.016333,
+      "audioFilename": "007__00h00m47.165-00h00m54.160__Keep-the-droplets-That-is-the-character-for-water-The-sun-was-easy-A-circle.wav",
+      "audioDurationSeconds": 7.018667
+    },
+    {
+      "index": 8,
+      "startMs": 54160,
+      "endMs": 62505,
+      "durationMs": 8345,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 940,
+      "sourceSections": [
+        "s07.sun.draw"
+      ],
+      "text": "But a circle on its own means very little, so a mark went in the middle to say: this one is the sun.",
+      "label": "But-a-circle-on-its-own-means-very-little-so-a-mark-went-in-the-middle-to-say-this-o",
+      "filename": "008__00h00m54.160-00h01m02.505__But-a-circle-on-its-own-means-very-little-so-a-mark-went-in-the-middle-to-say-this-o.mp4",
+      "actualDurationSeconds": 8.366333,
+      "audioFilename": "008__00h00m54.160-00h01m02.505__But-a-circle-on-its-own-means-very-little-so-a-mark-went-in-the-middle-to-say-this-o.wav",
+      "audioDurationSeconds": 8.384
+    },
+    {
+      "index": 9,
+      "startMs": 62505,
+      "endMs": 71210,
+      "durationMs": 8705,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 840,
+      "sourceSections": [
+        "s08.sun.reveal"
+      ],
+      "text": "Squares are quicker to write than circles. So the sun became this. It is also the word for day.",
+      "label": "Squares-are-quicker-to-write-than-circles-So-the-sun-became-this-It-is-also-the-word",
+      "filename": "009__00h01m02.505-00h01m11.210__Squares-are-quicker-to-write-than-circles-So-the-sun-became-this-It-is-also-the-word.mp4",
+      "actualDurationSeconds": 8.726333,
+      "audioFilename": "009__00h01m02.505-00h01m11.210__Squares-are-quicker-to-write-than-circles-So-the-sun-became-this-It-is-also-the-word.wav",
+      "audioDurationSeconds": 8.746667
+    },
+    {
+      "index": 10,
+      "startMs": 71210,
+      "endMs": 80995,
+      "durationMs": 9785,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 900,
+      "sourceSections": [
+        "s09.moon"
+      ],
+      "text": "The moon got a crescent, precisely because the sun had already taken the round shape. It is also the word for month.",
+      "label": "The-moon-got-a-crescent-precisely-because-the-sun-had-already-taken-the-round-shape",
+      "filename": "010__00h01m11.210-00h01m20.995__The-moon-got-a-crescent-precisely-because-the-sun-had-already-taken-the-round-shape.mp4",
+      "actualDurationSeconds": 9.806333,
+      "audioFilename": "010__00h01m11.210-00h01m20.995__The-moon-got-a-crescent-precisely-because-the-sun-had-already-taken-the-round-shape.wav",
+      "audioDurationSeconds": 9.813333
+    },
+    {
+      "index": 11,
+      "startMs": 80995,
+      "endMs": 90340,
+      "durationMs": 9345,
+      "boundaryType": "clause",
+      "pauseAfterLastWordMs": 0,
+      "sourceSections": [
+        "s10.turn",
+        "s11.person"
+      ],
+      "text": "Now the interesting part. Once you have pictures, you can put them together. A person, seen from the side. Two legs,",
+      "label": "Now-the-interesting-part-Once-you-have-pictures-you-can-put-them-together-A-person-s",
+      "filename": "011__00h01m20.995-00h01m30.340__Now-the-interesting-part-Once-you-have-pictures-you-can-put-them-together-A-person-s.mp4",
+      "actualDurationSeconds": 9.366333,
+      "audioFilename": "011__00h01m20.995-00h01m30.340__Now-the-interesting-part-Once-you-have-pictures-you-can-put-them-together-A-person-s.wav",
+      "audioDurationSeconds": 9.386667
+    },
+    {
+      "index": 12,
+      "startMs": 90340,
+      "endMs": 98935,
+      "durationMs": 8595,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 980,
+      "sourceSections": [
+        "s11.person",
+        "s12.follow"
+      ],
+      "text": "caught mid stride. Set one person behind another, and the meaning follows straight from the picture. To follow.",
+      "label": "caught-mid-stride-Set-one-person-behind-another-and-the-meaning-follows-straight-fro",
+      "filename": "012__00h01m30.340-00h01m38.935__caught-mid-stride-Set-one-person-behind-another-and-the-meaning-follows-straight-fro.mp4",
+      "actualDurationSeconds": 8.616333,
+      "audioFilename": "012__00h01m30.340-00h01m38.935__caught-mid-stride-Set-one-person-behind-another-and-the-meaning-follows-straight-fro.wav",
+      "audioDurationSeconds": 8.618667
+    },
+    {
+      "index": 13,
+      "startMs": 98935,
+      "endMs": 107470,
+      "durationMs": 8535,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 920,
+      "sourceSections": [
+        "s13.forest"
+      ],
+      "text": "A tree. Two trees make a grove. Three trees make a forest, and the character is exactly that.",
+      "label": "A-tree-Two-trees-make-a-grove-Three-trees-make-a-forest-and-the-character-is-exactly",
+      "filename": "013__00h01m38.935-00h01m47.470__A-tree-Two-trees-make-a-grove-Three-trees-make-a-forest-and-the-character-is-exactly.mp4",
+      "actualDurationSeconds": 8.556333,
+      "audioFilename": "013__00h01m38.935-00h01m47.470__A-tree-Two-trees-make-a-grove-Three-trees-make-a-forest-and-the-character-is-exactly.wav",
+      "audioDurationSeconds": 8.576
+    },
+    {
+      "index": 14,
+      "startMs": 107470,
+      "endMs": 115755,
+      "durationMs": 8285,
+      "boundaryType": "sentence",
+      "pauseAfterLastWordMs": 500,
+      "sourceSections": [
+        "s14.closing"
+      ],
+      "text": "This is why looking closely at Chinese pays off. The characters are not arbitrary marks to memorize.",
+      "label": "This-is-why-looking-closely-at-Chinese-pays-off-The-characters-are-not-arbitrary-mar",
+      "filename": "014__00h01m47.470-00h01m55.755__This-is-why-looking-closely-at-Chinese-pays-off-The-characters-are-not-arbitrary-mar.mp4",
+      "actualDurationSeconds": 8.306333,
+      "audioFilename": "014__00h01m47.470-00h01m55.755__This-is-why-looking-closely-at-Chinese-pays-off-The-characters-are-not-arbitrary-mar.wav",
+      "audioDurationSeconds": 8.32
+    },
+    {
+      "index": 15,
+      "startMs": 115755,
+      "endMs": 124266.667,
+      "durationMs": 8511.667000000001,
+      "boundaryType": "episode-end",
+      "pauseAfterLastWordMs": 0,
+      "sourceSections": [
+        "s14.closing"
+      ],
+      "text": "They are drawings, stacked and simplified, still carrying the picture they started as.",
+      "label": "They-are-drawings-stacked-and-simplified-still-carrying-the-picture-they-started-as",
+      "filename": "015__00h01m55.755-00h02m04.267__They-are-drawings-stacked-and-simplified-still-carrying-the-picture-they-started-as.mp4",
+      "actualDurationSeconds": 8.521016,
+      "audioFilename": "015__00h01m55.755-00h02m04.267__They-are-drawings-stacked-and-simplified-still-carrying-the-picture-they-started-as.wav",
+      "audioDurationSeconds": 8.512
+    }
+  ],
+  "audio": {
+    "separateFiles": true,
+    "format": "WAV PCM signed 16-bit little-endian",
+    "sampleRateHz": 48000,
+    "channels": 2,
+    "embeddedInVideoPreserved": true,
+    "measuredAverageSeconds": 8.315733400000001
+  }
+}

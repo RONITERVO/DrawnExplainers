@@ -1,0 +1,160 @@
+TAP version 13
+# Subtest: episode 1: 15 globally quantized clips, no cumulative duration rounding
+ok 1 - episode 1: 15 globally quantized clips, no cumulative duration rounding
+  ---
+  duration_ms: 0.993097
+  type: 'test'
+  ...
+# Subtest: episode 1: head/gap from supplied manifest, not scene-kit
+ok 2 - episode 1: head/gap from supplied manifest, not scene-kit
+  ---
+  duration_ms: 0.161152
+  type: 'test'
+  ...
+# Subtest: episode 1: punctuation, numeric spelling and final as are the script, not ASR
+ok 3 - episode 1: punctuation, numeric spelling and final as are the script, not ASR
+  ---
+  duration_ms: 1.390022
+  type: 'test'
+  ...
+# Subtest: explicit words mode retains recognized words rather than silently correcting them
+ok 4 - explicit words mode retains recognized words rather than silently correcting them
+  ---
+  duration_ms: 2.311472
+  type: 'test'
+  ...
+# Subtest: token mismatch fails rather than stretching arbitrary text over timings
+ok 5 - token mismatch fails rather than stretching arbitrary text over timings
+  ---
+  duration_ms: 1.949861
+  type: 'test'
+  ...
+# Subtest: invalid, overlapping, unordered and out-of-section timings fail
+ok 6 - invalid, overlapping, unordered and out-of-section timings fail
+  ---
+  duration_ms: 1.491383
+  type: 'test'
+  ...
+# Subtest: explicit section order must be complete, unique and chronologically valid
+ok 7 - explicit section order must be complete, unique and chronologically valid
+  ---
+  duration_ms: 0.354261
+  type: 'test'
+  ...
+# Subtest: configuration rejects misspelled keys, zero denominator and empty patterns
+ok 8 - configuration rejects misspelled keys, zero denominator and empty patterns
+  ---
+  duration_ms: 0.697324
+  type: 'test'
+  ...
+# Subtest: CLI rejects typos, duplicate arguments and missing values
+ok 9 - CLI rejects typos, duplicate arguments and missing values
+  ---
+  duration_ms: 0.790053
+  type: 'test'
+  ...
+# Subtest: center geometry is integer; a 16:9 drawing is contained with exact aspect
+ok 10 - center geometry is integer; a 16:9 drawing is contained with exact aspect
+  ---
+  duration_ms: 1.364073
+  type: 'test'
+  ...
+# Subtest: nonstandard coprime dimensions explicitly report aspect rounding
+ok 11 - nonstandard coprime dimensions explicitly report aspect rounding
+  ---
+  duration_ms: 0.25383
+  type: 'test'
+  ...
+# Subtest: subset selection keeps original top/bottom alternation and prevents gap joins
+ok 12 - subset selection keeps original top/bottom alternation and prevents gap joins
+  ---
+  duration_ms: 0.393129
+  type: 'test'
+  ...
+# Subtest: manifest rejects duplicate indices, overlaps and inconsistent durations
+ok 13 - manifest rejects duplicate indices, overlaps and inconsistent durations
+  ---
+  duration_ms: 0.882752
+  type: 'test'
+  ...
+# Subtest: clips longer than 10 seconds are valid; resource cap is configurable
+ok 14 - clips longer than 10 seconds are valid; resource cap is configurable
+  ---
+  duration_ms: 0.169123
+  type: 'test'
+  ...
+# Subtest: rational FPS sample totals use global boundaries, not per-clip rounding
+ok 15 - rational FPS sample totals use global boundaries, not per-clip rounding
+  ---
+  duration_ms: 0.349994
+  type: 'test'
+  ...
+# Subtest: graphemes do not split decomposed accents, surrogate pairs or ZWJ emoji
+ok 16 - graphemes do not split decomposed accents, surrogate pairs or ZWJ emoji
+  ---
+  duration_ms: 0.254171
+  type: 'test'
+  ...
+# Subtest: word clipped halfway is already partially visible and is not re-timed
+ok 17 - word clipped halfway is already partially visible and is not re-timed
+  ---
+  duration_ms: 0.293449
+  type: 'test'
+  ...
+# Subtest: ASS boundaries fall strictly between sampled frames for supported rates
+ok 18 - ASS boundaries fall strictly between sampled frames for supported rates
+  ---
+  duration_ms: 1.345264
+  type: 'test'
+  ...
+# Subtest: motion is continuous, stationary at endpoints, and bounded for short clips
+ok 19 - motion is continuous, stationary at endpoints, and bounded for short clips
+  ---
+  duration_ms: 0.242604
+  type: 'test'
+  ...
+# Subtest: dust is deterministic, finite-size and seed-sensitive
+ok 20 - dust is deterministic, finite-size and seed-sensitive
+  ---
+  duration_ms: 4.441833
+  type: 'test'
+  ...
+# Subtest: filter graph has constant filter count, center last and no shortest truncation
+ok 21 - filter graph has constant filter count, center last and no shortest truncation
+  ---
+  duration_ms: 0.389904
+  type: 'test'
+  ...
+# Subtest: ambiguous numbered filenames fail, and explicit choices are allowed
+ok 22 - ambiguous numbered filenames fail, and explicit choices are allowed
+  ---
+  duration_ms: 1.864793
+  type: 'test'
+  ...
+# Subtest: ASS commands in transcript are rejected, ordinary punctuation is not rewritten
+ok 23 - ASS commands in transcript are rejected, ordinary punctuation is not rewritten
+  ---
+  duration_ms: 0.706498
+  type: 'test'
+  ...
+# Subtest: concat duration microseconds use cumulative endpoints and bounded quantization
+ok 24 - concat duration microseconds use cumulative endpoints and bounded quantization
+  ---
+  duration_ms: 0.479258
+  type: 'test'
+  ...
+# Subtest: padded override indices are rejected instead of being silently ignored
+ok 25 - padded override indices are rejected instead of being silently ignored
+  ---
+  duration_ms: 0.230195
+  type: 'test'
+  ...
+1..25
+# tests 25
+# suites 0
+# pass 25
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 119.703103

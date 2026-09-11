@@ -1,0 +1,28 @@
+Episode: /mnt/data/notebook-reference-demo
+Source mode: master
+Canvas: 1080x1920; center matte 1080x608 at y=656
+FPS: 30/1; head=0ms, gap=0ms
+4/4 clips; 41 timed words; 0 scripted display corrections
+  001 top: 0..5s (150 frames / 240000 audio samples)
+  002 bottom: 5..10s (150 frames / 240000 audio samples)
+  003 top: 10..15s (150 frames / 240000 audio samples)
+  004 bottom: 15..20s (150 frames / 240000 audio samples)
+  pair 1: 001__still-reference.mp4 [opaque], drawing 1056x594, narrator 926x508
+  pair 2: 002__still-reference.mp4 [opaque], drawing 1056x594, narrator 926x444
+  pair 3: 003__still-reference.mp4 [opaque], drawing 1056x594, narrator 926x516
+  pair 4: 004__still-reference.mp4 [opaque], drawing 1056x594, narrator 926x512
+WARNING: Using DejaVu Sans on this platform. Supply your licensed Segoe Print font to match the Windows house typography.
+  001: top, 150 frames, 1 text page(s)
+    rendered N/A
+    rendered 00:00:02.766667
+  002: bottom, 150 frames, 1 text page(s)
+    rendered N/A
+    rendered 00:00:02.233333
+  003: top, 150 frames, 1 text page(s)
+    rendered N/A
+    rendered 00:00:02.633333
+  004: bottom, 150 frames, 1 text page(s)
+    rendered N/A
+    rendered 00:00:02.933333
+Complete: 4 clip(s) + vertical-full.mp4
+/mnt/data/notebook-reference-demo/vertical-notebook

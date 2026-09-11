@@ -1,0 +1,24 @@
+{
+  "version": 3,
+  "originalDir": "out-clips-talking-face-v3",
+  "narratorDir": "narrator-clips",
+  "master": "out.mp4",
+  "outputDir": "vertical-notebook",
+  "narrator": {
+    "mode": "opaque",
+    "grade": {
+      "mode": "notebook",
+      "colorRetention": 0.18,
+      "autoLevels": true
+    }
+  },
+  "text": {
+    "fontSize": 60,
+    "margin": 96,
+    "anchor": "center-facing"
+  },
+  "transition": {
+    "kind": "paper-edge",
+    "seconds": 0.6
+  }
+}

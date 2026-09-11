@@ -1,0 +1,21 @@
+Episode: /mnt/data/Notebook-Compositor/examples/episode-1-data
+Source mode: master
+Canvas: 1080x1920; center matte 1080x608 at y=656
+FPS: 30/1; head=900ms, gap=520ms
+15/15 clips; 260 timed words; 32 scripted display corrections
+  001 top: 0..6.766666667s (203 frames / 324800 audio samples)
+  002 bottom: 6.766666667..14.5s (232 frames / 371200 audio samples)
+  003 top: 14.5..21.466666667s (209 frames / 334400 audio samples)
+  004 bottom: 21.466666667..30.233333333s (263 frames / 420800 audio samples)
+  005 top: 30.233333333..38.666666667s (253 frames / 404800 audio samples)
+  006 bottom: 38.666666667..47.166666667s (255 frames / 408000 audio samples)
+  007 top: 47.166666667..54.166666667s (210 frames / 336000 audio samples)
+  008 bottom: 54.166666667..62.5s (250 frames / 400000 audio samples)
+  009 top: 62.5..71.2s (261 frames / 417600 audio samples)
+  010 bottom: 71.2..81s (294 frames / 470400 audio samples)
+  011 top: 81..90.333333333s (280 frames / 448000 audio samples)
+  012 bottom: 90.333333333..98.933333333s (258 frames / 412800 audio samples)
+  013 top: 98.933333333..107.466666667s (256 frames / 409600 audio samples)
+  014 bottom: 107.466666667..115.766666667s (249 frames / 398400 audio samples)
+  015 top: 115.766666667..124.266666667s (255 frames / 408000 audio samples)
+JSON/timeline checks passed. No media, font, filter, or alignment-by-listening checks were performed.

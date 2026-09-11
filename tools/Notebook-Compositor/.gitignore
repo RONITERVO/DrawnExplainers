@@ -1,0 +1,5 @@
+node_modules/
+work/
+vertical-notebook*/
+*.partial.*
+render.lock.json*

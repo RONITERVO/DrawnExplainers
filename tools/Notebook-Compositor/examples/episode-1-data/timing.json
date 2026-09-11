@@ -1,0 +1,1400 @@
+{
+  "s01.opening": {
+    "durationMs": 10440,
+    "words": [
+      {
+        "word": "Every",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "Chinese",
+        "startMs": 340,
+        "endMs": 780
+      },
+      {
+        "word": "character",
+        "startMs": 780,
+        "endMs": 1420
+      },
+      {
+        "word": "began",
+        "startMs": 1420,
+        "endMs": 2080
+      },
+      {
+        "word": "as",
+        "startMs": 2080,
+        "endMs": 2700
+      },
+      {
+        "word": "a",
+        "startMs": 2700,
+        "endMs": 2860
+      },
+      {
+        "word": "picture,",
+        "startMs": 2860,
+        "endMs": 3220
+      },
+      {
+        "word": "not",
+        "startMs": 3560,
+        "endMs": 4040
+      },
+      {
+        "word": "a",
+        "startMs": 4040,
+        "endMs": 4180
+      },
+      {
+        "word": "code,",
+        "startMs": 4180,
+        "endMs": 4600
+      },
+      {
+        "word": "not",
+        "startMs": 4840,
+        "endMs": 5060
+      },
+      {
+        "word": "an",
+        "startMs": 5060,
+        "endMs": 5180
+      },
+      {
+        "word": "alphabet,",
+        "startMs": 5180,
+        "endMs": 5560
+      },
+      {
+        "word": "a",
+        "startMs": 5980,
+        "endMs": 6380
+      },
+      {
+        "word": "drawing",
+        "startMs": 6380,
+        "endMs": 6940
+      },
+      {
+        "word": "of",
+        "startMs": 6940,
+        "endMs": 7320
+      },
+      {
+        "word": "something",
+        "startMs": 7320,
+        "endMs": 7740
+      },
+      {
+        "word": "a",
+        "startMs": 7740,
+        "endMs": 8160
+      },
+      {
+        "word": "person",
+        "startMs": 8160,
+        "endMs": 8560
+      },
+      {
+        "word": "could",
+        "startMs": 8560,
+        "endMs": 9000
+      },
+      {
+        "word": "actually",
+        "startMs": 9000,
+        "endMs": 9580
+      },
+      {
+        "word": "see.",
+        "startMs": 9580,
+        "endMs": 10020
+      }
+    ],
+    "heard": "Every Chinese character began as a picture, not a code, not an alphabet, a drawing of something a person could actually see.",
+    "script": "Every Chinese character began as a picture. Not a code, not an alphabet. A drawing of something a person could actually see."
+  },
+  "s02.mountain.draw": {
+    "durationMs": 9320,
+    "words": [
+      {
+        "word": "Start",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "with",
+        "startMs": 320,
+        "endMs": 680
+      },
+      {
+        "word": "a",
+        "startMs": 680,
+        "endMs": 820
+      },
+      {
+        "word": "mountain.",
+        "startMs": 820,
+        "endMs": 1220
+      },
+      {
+        "word": "Three",
+        "startMs": 1600,
+        "endMs": 2060
+      },
+      {
+        "word": "peaks,",
+        "startMs": 2060,
+        "endMs": 2480
+      },
+      {
+        "word": "the",
+        "startMs": 2700,
+        "endMs": 2960
+      },
+      {
+        "word": "middle",
+        "startMs": 2960,
+        "endMs": 3200
+      },
+      {
+        "word": "one",
+        "startMs": 3200,
+        "endMs": 3460
+      },
+      {
+        "word": "tallest.",
+        "startMs": 3460,
+        "endMs": 3840
+      },
+      {
+        "word": "Anyone",
+        "startMs": 4320,
+        "endMs": 4880
+      },
+      {
+        "word": "can",
+        "startMs": 4880,
+        "endMs": 5160
+      },
+      {
+        "word": "draw",
+        "startMs": 5160,
+        "endMs": 5360
+      },
+      {
+        "word": "that.",
+        "startMs": 5360,
+        "endMs": 5640
+      },
+      {
+        "word": "And",
+        "startMs": 5880,
+        "endMs": 6160
+      },
+      {
+        "word": "3",
+        "startMs": 6160,
+        "endMs": 6460
+      },
+      {
+        "word": ",000",
+        "startMs": 6460,
+        "endMs": 7240
+      },
+      {
+        "word": "years",
+        "startMs": 7240,
+        "endMs": 7480
+      },
+      {
+        "word": "ago,",
+        "startMs": 7480,
+        "endMs": 7840
+      },
+      {
+        "word": "someone",
+        "startMs": 8080,
+        "endMs": 8520
+      },
+      {
+        "word": "did.",
+        "startMs": 8520,
+        "endMs": 8940
+      }
+    ],
+    "heard": "Start with a mountain. Three peaks, the middle one tallest. Anyone can draw that. And 3,000 years ago, someone did.",
+    "script": "Start with a mountain. Three peaks, the middle one tallest. Anyone can draw that, and three thousand years ago, someone did."
+  },
+  "s03.mountain.straighten": {
+    "durationMs": 10720,
+    "words": [
+      {
+        "word": "Then,",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "hands",
+        "startMs": 480,
+        "endMs": 1000
+      },
+      {
+        "word": "copied",
+        "startMs": 1000,
+        "endMs": 1380
+      },
+      {
+        "word": "it.",
+        "startMs": 1380,
+        "endMs": 1660
+      },
+      {
+        "word": "Thousands",
+        "startMs": 2000,
+        "endMs": 2720
+      },
+      {
+        "word": "of",
+        "startMs": 2720,
+        "endMs": 3060
+      },
+      {
+        "word": "hands,",
+        "startMs": 3060,
+        "endMs": 3460
+      },
+      {
+        "word": "over",
+        "startMs": 3700,
+        "endMs": 4080
+      },
+      {
+        "word": "thousands",
+        "startMs": 4080,
+        "endMs": 4940
+      },
+      {
+        "word": "of",
+        "startMs": 4940,
+        "endMs": 5340
+      },
+      {
+        "word": "years.",
+        "startMs": 5340,
+        "endMs": 5660
+      },
+      {
+        "word": "A",
+        "startMs": 6100,
+        "endMs": 6760
+      },
+      {
+        "word": "brush",
+        "startMs": 6760,
+        "endMs": 7060
+      },
+      {
+        "word": "is",
+        "startMs": 7060,
+        "endMs": 7260
+      },
+      {
+        "word": "faster",
+        "startMs": 7260,
+        "endMs": 7720
+      },
+      {
+        "word": "than",
+        "startMs": 7720,
+        "endMs": 7920
+      },
+      {
+        "word": "a",
+        "startMs": 7920,
+        "endMs": 8020
+      },
+      {
+        "word": "picture,",
+        "startMs": 8020,
+        "endMs": 8320
+      },
+      {
+        "word": "so",
+        "startMs": 8620,
+        "endMs": 9080
+      },
+      {
+        "word": "the",
+        "startMs": 9080,
+        "endMs": 9220
+      },
+      {
+        "word": "curves",
+        "startMs": 9220,
+        "endMs": 9620
+      },
+      {
+        "word": "pulled",
+        "startMs": 9620,
+        "endMs": 10060
+      },
+      {
+        "word": "straight.",
+        "startMs": 10060,
+        "endMs": 10420
+      }
+    ],
+    "heard": "Then, hands copied it. Thousands of hands, over thousands of years. A brush is faster than a picture, so the curves pulled straight.",
+    "script": "Then hands copied it. Thousands of hands, over thousands of years. A brush is faster than a picture, so the curves pulled straight."
+  },
+  "s04.mountain.reveal": {
+    "durationMs": 5440,
+    "words": [
+      {
+        "word": "And",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "there",
+        "startMs": 240,
+        "endMs": 520
+      },
+      {
+        "word": "it",
+        "startMs": 520,
+        "endMs": 680
+      },
+      {
+        "word": "is.",
+        "startMs": 680,
+        "endMs": 1100
+      },
+      {
+        "word": "Mountain!",
+        "startMs": 1380,
+        "endMs": 2020
+      },
+      {
+        "word": "The",
+        "startMs": 2660,
+        "endMs": 2980
+      },
+      {
+        "word": "three",
+        "startMs": 2980,
+        "endMs": 3280
+      },
+      {
+        "word": "peaks",
+        "startMs": 3280,
+        "endMs": 3820
+      },
+      {
+        "word": "never",
+        "startMs": 3820,
+        "endMs": 4400
+      },
+      {
+        "word": "left.",
+        "startMs": 4400,
+        "endMs": 4960
+      }
+    ],
+    "heard": "And there it is. Mountain! The three peaks never left.",
+    "script": "And there it is. Mountain. The three peaks never left."
+  },
+  "s05.water.draw": {
+    "durationMs": 6160,
+    "words": [
+      {
+        "word": "Water",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "was",
+        "startMs": 400,
+        "endMs": 740
+      },
+      {
+        "word": "drawn",
+        "startMs": 740,
+        "endMs": 1100
+      },
+      {
+        "word": "as",
+        "startMs": 1100,
+        "endMs": 1520
+      },
+      {
+        "word": "a",
+        "startMs": 1520,
+        "endMs": 1680
+      },
+      {
+        "word": "current",
+        "startMs": 1680,
+        "endMs": 2060
+      },
+      {
+        "word": "running",
+        "startMs": 2060,
+        "endMs": 2540
+      },
+      {
+        "word": "downward,",
+        "startMs": 2540,
+        "endMs": 3020
+      },
+      {
+        "word": "with",
+        "startMs": 3580,
+        "endMs": 3640
+      },
+      {
+        "word": "droplets",
+        "startMs": 3640,
+        "endMs": 4140
+      },
+      {
+        "word": "thrown",
+        "startMs": 4140,
+        "endMs": 4640
+      },
+      {
+        "word": "off",
+        "startMs": 4640,
+        "endMs": 4880
+      },
+      {
+        "word": "to",
+        "startMs": 4880,
+        "endMs": 5140
+      },
+      {
+        "word": "either",
+        "startMs": 5140,
+        "endMs": 5460
+      },
+      {
+        "word": "side.",
+        "startMs": 5460,
+        "endMs": 5840
+      }
+    ],
+    "heard": "Water was drawn as a current running downward, with droplets thrown off to either side.",
+    "script": "Water was drawn as a current running downward, with droplets thrown off to either side."
+  },
+  "s06.water.reveal": {
+    "durationMs": 5800,
+    "words": [
+      {
+        "word": "Straighten",
+        "startMs": 0,
+        "endMs": 660
+      },
+      {
+        "word": "the",
+        "startMs": 660,
+        "endMs": 860
+      },
+      {
+        "word": "current.",
+        "startMs": 860,
+        "endMs": 1360
+      },
+      {
+        "word": "Keep",
+        "startMs": 1660,
+        "endMs": 2240
+      },
+      {
+        "word": "the",
+        "startMs": 2240,
+        "endMs": 2500
+      },
+      {
+        "word": "droplets.",
+        "startMs": 2500,
+        "endMs": 2900
+      },
+      {
+        "word": "That",
+        "startMs": 3300,
+        "endMs": 3940
+      },
+      {
+        "word": "is",
+        "startMs": 3940,
+        "endMs": 4160
+      },
+      {
+        "word": "the",
+        "startMs": 4160,
+        "endMs": 4300
+      },
+      {
+        "word": "character",
+        "startMs": 4300,
+        "endMs": 4700
+      },
+      {
+        "word": "for",
+        "startMs": 4700,
+        "endMs": 5160
+      },
+      {
+        "word": "water.",
+        "startMs": 5160,
+        "endMs": 5460
+      }
+    ],
+    "heard": "Straighten the current. Keep the droplets. That is the character for water.",
+    "script": "Straighten the current. Keep the droplets. That is the character for water."
+  },
+  "s07.sun.draw": {
+    "durationMs": 10320,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "sun",
+        "startMs": 160,
+        "endMs": 400
+      },
+      {
+        "word": "was",
+        "startMs": 400,
+        "endMs": 720
+      },
+      {
+        "word": "easy,",
+        "startMs": 720,
+        "endMs": 1180
+      },
+      {
+        "word": "a",
+        "startMs": 1440,
+        "endMs": 1720
+      },
+      {
+        "word": "circle.",
+        "startMs": 1720,
+        "endMs": 2020
+      },
+      {
+        "word": "But",
+        "startMs": 2340,
+        "endMs": 2880
+      },
+      {
+        "word": "a",
+        "startMs": 2880,
+        "endMs": 3100
+      },
+      {
+        "word": "circle",
+        "startMs": 3100,
+        "endMs": 3540
+      },
+      {
+        "word": "on",
+        "startMs": 3540,
+        "endMs": 3820
+      },
+      {
+        "word": "its",
+        "startMs": 3820,
+        "endMs": 4000
+      },
+      {
+        "word": "own",
+        "startMs": 4000,
+        "endMs": 4320
+      },
+      {
+        "word": "means",
+        "startMs": 4320,
+        "endMs": 4760
+      },
+      {
+        "word": "very",
+        "startMs": 4760,
+        "endMs": 5160
+      },
+      {
+        "word": "little.",
+        "startMs": 5160,
+        "endMs": 5500
+      },
+      {
+        "word": "So",
+        "startMs": 5740,
+        "endMs": 6140
+      },
+      {
+        "word": "a",
+        "startMs": 6140,
+        "endMs": 6300
+      },
+      {
+        "word": "mark",
+        "startMs": 6300,
+        "endMs": 6540
+      },
+      {
+        "word": "went",
+        "startMs": 6540,
+        "endMs": 6760
+      },
+      {
+        "word": "in",
+        "startMs": 6760,
+        "endMs": 6940
+      },
+      {
+        "word": "the",
+        "startMs": 6940,
+        "endMs": 7040
+      },
+      {
+        "word": "middle",
+        "startMs": 7040,
+        "endMs": 7260
+      },
+      {
+        "word": "to",
+        "startMs": 7260,
+        "endMs": 7540
+      },
+      {
+        "word": "say,",
+        "startMs": 7540,
+        "endMs": 7880
+      },
+      {
+        "word": "this",
+        "startMs": 8140,
+        "endMs": 8560
+      },
+      {
+        "word": "one",
+        "startMs": 8560,
+        "endMs": 8800
+      },
+      {
+        "word": "is",
+        "startMs": 8800,
+        "endMs": 9420
+      },
+      {
+        "word": "the",
+        "startMs": 9420,
+        "endMs": 9660
+      },
+      {
+        "word": "sun.",
+        "startMs": 9660,
+        "endMs": 9900
+      }
+    ],
+    "heard": "The sun was easy, a circle. But a circle on its own means very little. So a mark went in the middle to say, this one is the sun.",
+    "script": "The sun was easy. A circle. But a circle on its own means very little, so a mark went in the middle to say: this one is the sun."
+  },
+  "s08.sun.reveal": {
+    "durationMs": 8160,
+    "words": [
+      {
+        "word": "Squares",
+        "startMs": 0,
+        "endMs": 580
+      },
+      {
+        "word": "are",
+        "startMs": 580,
+        "endMs": 900
+      },
+      {
+        "word": "quicker",
+        "startMs": 900,
+        "endMs": 1380
+      },
+      {
+        "word": "to",
+        "startMs": 1380,
+        "endMs": 1660
+      },
+      {
+        "word": "write",
+        "startMs": 1660,
+        "endMs": 1900
+      },
+      {
+        "word": "than",
+        "startMs": 1900,
+        "endMs": 2120
+      },
+      {
+        "word": "circles,",
+        "startMs": 2120,
+        "endMs": 2520
+      },
+      {
+        "word": "so",
+        "startMs": 2760,
+        "endMs": 3200
+      },
+      {
+        "word": "the",
+        "startMs": 3200,
+        "endMs": 3400
+      },
+      {
+        "word": "sun",
+        "startMs": 3400,
+        "endMs": 3780
+      },
+      {
+        "word": "became",
+        "startMs": 3780,
+        "endMs": 4420
+      },
+      {
+        "word": "this.",
+        "startMs": 4420,
+        "endMs": 5160
+      },
+      {
+        "word": "It",
+        "startMs": 5420,
+        "endMs": 5900
+      },
+      {
+        "word": "is",
+        "startMs": 5900,
+        "endMs": 6040
+      },
+      {
+        "word": "also",
+        "startMs": 6040,
+        "endMs": 6540
+      },
+      {
+        "word": "the",
+        "startMs": 6540,
+        "endMs": 6960
+      },
+      {
+        "word": "word",
+        "startMs": 6960,
+        "endMs": 7240
+      },
+      {
+        "word": "for",
+        "startMs": 7240,
+        "endMs": 7620
+      },
+      {
+        "word": "day.",
+        "startMs": 7620,
+        "endMs": 7840
+      }
+    ],
+    "heard": "Squares are quicker to write than circles, so the sun became this. It is also the word for day.",
+    "script": "Squares are quicker to write than circles. So the sun became this. It is also the word for day."
+  },
+  "s09.moon": {
+    "durationMs": 9280,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "moon",
+        "startMs": 160,
+        "endMs": 440
+      },
+      {
+        "word": "got",
+        "startMs": 440,
+        "endMs": 960
+      },
+      {
+        "word": "a",
+        "startMs": 960,
+        "endMs": 1220
+      },
+      {
+        "word": "crescent",
+        "startMs": 1220,
+        "endMs": 1680
+      },
+      {
+        "word": "precisely",
+        "startMs": 1680,
+        "endMs": 2460
+      },
+      {
+        "word": "because",
+        "startMs": 2460,
+        "endMs": 3240
+      },
+      {
+        "word": "the",
+        "startMs": 3240,
+        "endMs": 3580
+      },
+      {
+        "word": "sun",
+        "startMs": 3580,
+        "endMs": 3900
+      },
+      {
+        "word": "had",
+        "startMs": 3900,
+        "endMs": 4220
+      },
+      {
+        "word": "already",
+        "startMs": 4220,
+        "endMs": 4940
+      },
+      {
+        "word": "taken",
+        "startMs": 4940,
+        "endMs": 5400
+      },
+      {
+        "word": "the",
+        "startMs": 5400,
+        "endMs": 5680
+      },
+      {
+        "word": "round",
+        "startMs": 5680,
+        "endMs": 5980
+      },
+      {
+        "word": "shape.",
+        "startMs": 5980,
+        "endMs": 6400
+      },
+      {
+        "word": "It",
+        "startMs": 6640,
+        "endMs": 7220
+      },
+      {
+        "word": "is",
+        "startMs": 7220,
+        "endMs": 7440
+      },
+      {
+        "word": "also",
+        "startMs": 7440,
+        "endMs": 7840
+      },
+      {
+        "word": "the",
+        "startMs": 7840,
+        "endMs": 8140
+      },
+      {
+        "word": "word",
+        "startMs": 8140,
+        "endMs": 8360
+      },
+      {
+        "word": "for",
+        "startMs": 8360,
+        "endMs": 8660
+      },
+      {
+        "word": "month.",
+        "startMs": 8660,
+        "endMs": 8900
+      }
+    ],
+    "heard": "The moon got a crescent precisely because the sun had already taken the round shape. It is also the word for month.",
+    "script": "The moon got a crescent, precisely because the sun had already taken the round shape. It is also the word for month."
+  },
+  "s10.turn": {
+    "durationMs": 5680,
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "the",
+        "startMs": 340,
+        "endMs": 680
+      },
+      {
+        "word": "interesting",
+        "startMs": 680,
+        "endMs": 1280
+      },
+      {
+        "word": "part.",
+        "startMs": 1280,
+        "endMs": 2000
+      },
+      {
+        "word": "Once",
+        "startMs": 2180,
+        "endMs": 2800
+      },
+      {
+        "word": "you",
+        "startMs": 2800,
+        "endMs": 2980
+      },
+      {
+        "word": "have",
+        "startMs": 2980,
+        "endMs": 3180
+      },
+      {
+        "word": "pictures,",
+        "startMs": 3180,
+        "endMs": 3620
+      },
+      {
+        "word": "you",
+        "startMs": 3980,
+        "endMs": 4200
+      },
+      {
+        "word": "can",
+        "startMs": 4200,
+        "endMs": 4400
+      },
+      {
+        "word": "put",
+        "startMs": 4400,
+        "endMs": 4680
+      },
+      {
+        "word": "them",
+        "startMs": 4680,
+        "endMs": 4860
+      },
+      {
+        "word": "together.",
+        "startMs": 4860,
+        "endMs": 5180
+      }
+    ],
+    "heard": "Now the interesting part. Once you have pictures, you can put them together.",
+    "script": "Now the interesting part. Once you have pictures, you can put them together."
+  },
+  "s11.person": {
+    "durationMs": 4560,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "person",
+        "startMs": 120,
+        "endMs": 460
+      },
+      {
+        "word": "seen",
+        "startMs": 460,
+        "endMs": 1000
+      },
+      {
+        "word": "from",
+        "startMs": 1000,
+        "endMs": 1280
+      },
+      {
+        "word": "the",
+        "startMs": 1280,
+        "endMs": 1420
+      },
+      {
+        "word": "side,",
+        "startMs": 1420,
+        "endMs": 1780
+      },
+      {
+        "word": "two",
+        "startMs": 1940,
+        "endMs": 2480
+      },
+      {
+        "word": "legs",
+        "startMs": 2480,
+        "endMs": 2920
+      },
+      {
+        "word": "caught",
+        "startMs": 2920,
+        "endMs": 3480
+      },
+      {
+        "word": "mid",
+        "startMs": 3480,
+        "endMs": 3800
+      },
+      {
+        "word": "-stride.",
+        "startMs": 3800,
+        "endMs": 4240
+      }
+    ],
+    "heard": "A person seen from the side, two legs caught mid-stride.",
+    "script": "A person, seen from the side. Two legs, caught mid stride."
+  },
+  "s12.follow": {
+    "durationMs": 6160,
+    "words": [
+      {
+        "word": "set",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "one",
+        "startMs": 300,
+        "endMs": 720
+      },
+      {
+        "word": "person",
+        "startMs": 720,
+        "endMs": 1200
+      },
+      {
+        "word": "behind",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "another,",
+        "startMs": 1600,
+        "endMs": 2060
+      },
+      {
+        "word": "and",
+        "startMs": 2260,
+        "endMs": 2660
+      },
+      {
+        "word": "the",
+        "startMs": 2660,
+        "endMs": 2840
+      },
+      {
+        "word": "meaning",
+        "startMs": 2840,
+        "endMs": 3160
+      },
+      {
+        "word": "follows",
+        "startMs": 3160,
+        "endMs": 3660
+      },
+      {
+        "word": "straight",
+        "startMs": 3660,
+        "endMs": 4020
+      },
+      {
+        "word": "from",
+        "startMs": 4020,
+        "endMs": 4280
+      },
+      {
+        "word": "the",
+        "startMs": 4280,
+        "endMs": 4400
+      },
+      {
+        "word": "picture,",
+        "startMs": 4400,
+        "endMs": 4740
+      },
+      {
+        "word": "to",
+        "startMs": 5180,
+        "endMs": 5420
+      },
+      {
+        "word": "follow.",
+        "startMs": 5420,
+        "endMs": 5700
+      }
+    ],
+    "heard": "set one person behind another, and the meaning follows straight from the picture, to follow.",
+    "script": "Set one person behind another, and the meaning follows straight from the picture. To follow."
+  },
+  "s13.forest": {
+    "durationMs": 8000,
+    "words": [
+      {
+        "word": "a",
+        "startMs": 0,
+        "endMs": 100
+      },
+      {
+        "word": "tree,",
+        "startMs": 100,
+        "endMs": 380
+      },
+      {
+        "word": "two",
+        "startMs": 780,
+        "endMs": 1260
+      },
+      {
+        "word": "trees",
+        "startMs": 1260,
+        "endMs": 1600
+      },
+      {
+        "word": "make",
+        "startMs": 1600,
+        "endMs": 2060
+      },
+      {
+        "word": "a",
+        "startMs": 2060,
+        "endMs": 2260
+      },
+      {
+        "word": "grove,",
+        "startMs": 2260,
+        "endMs": 2700
+      },
+      {
+        "word": "three",
+        "startMs": 3200,
+        "endMs": 3460
+      },
+      {
+        "word": "trees",
+        "startMs": 3460,
+        "endMs": 4020
+      },
+      {
+        "word": "make",
+        "startMs": 4020,
+        "endMs": 4420
+      },
+      {
+        "word": "a",
+        "startMs": 4420,
+        "endMs": 4620
+      },
+      {
+        "word": "forest,",
+        "startMs": 4620,
+        "endMs": 5040
+      },
+      {
+        "word": "and",
+        "startMs": 5260,
+        "endMs": 5660
+      },
+      {
+        "word": "the",
+        "startMs": 5660,
+        "endMs": 5780
+      },
+      {
+        "word": "character",
+        "startMs": 5780,
+        "endMs": 6180
+      },
+      {
+        "word": "is",
+        "startMs": 6180,
+        "endMs": 6660
+      },
+      {
+        "word": "exactly",
+        "startMs": 6660,
+        "endMs": 7180
+      },
+      {
+        "word": "that.",
+        "startMs": 7180,
+        "endMs": 7600
+      }
+    ],
+    "heard": "a tree, two trees make a grove, three trees make a forest, and the character is exactly that.",
+    "script": "A tree. Two trees make a grove. Three trees make a forest, and the character is exactly that."
+  },
+  "s14.closing": {
+    "durationMs": 15080,
+    "words": [
+      {
+        "word": "This",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "is",
+        "startMs": 380,
+        "endMs": 720
+      },
+      {
+        "word": "why",
+        "startMs": 720,
+        "endMs": 1040
+      },
+      {
+        "word": "looking",
+        "startMs": 1040,
+        "endMs": 1440
+      },
+      {
+        "word": "closely",
+        "startMs": 1440,
+        "endMs": 1920
+      },
+      {
+        "word": "at",
+        "startMs": 1920,
+        "endMs": 2320
+      },
+      {
+        "word": "Chinese",
+        "startMs": 2320,
+        "endMs": 2780
+      },
+      {
+        "word": "pays",
+        "startMs": 2780,
+        "endMs": 3340
+      },
+      {
+        "word": "off.",
+        "startMs": 3340,
+        "endMs": 3680
+      },
+      {
+        "word": "The",
+        "startMs": 4000,
+        "endMs": 4460
+      },
+      {
+        "word": "characters",
+        "startMs": 4460,
+        "endMs": 4860
+      },
+      {
+        "word": "are",
+        "startMs": 4860,
+        "endMs": 5260
+      },
+      {
+        "word": "not",
+        "startMs": 5260,
+        "endMs": 5640
+      },
+      {
+        "word": "arbitrary",
+        "startMs": 5640,
+        "endMs": 6540
+      },
+      {
+        "word": "marks",
+        "startMs": 6540,
+        "endMs": 7060
+      },
+      {
+        "word": "to",
+        "startMs": 7060,
+        "endMs": 7340
+      },
+      {
+        "word": "memorize.",
+        "startMs": 7340,
+        "endMs": 7680
+      },
+      {
+        "word": "They",
+        "startMs": 8180,
+        "endMs": 8580
+      },
+      {
+        "word": "are",
+        "startMs": 8580,
+        "endMs": 8740
+      },
+      {
+        "word": "drawings,",
+        "startMs": 8740,
+        "endMs": 9280
+      },
+      {
+        "word": "stacked",
+        "startMs": 9640,
+        "endMs": 10300
+      },
+      {
+        "word": "and",
+        "startMs": 10300,
+        "endMs": 10840
+      },
+      {
+        "word": "simplified,",
+        "startMs": 10840,
+        "endMs": 11480
+      },
+      {
+        "word": "still",
+        "startMs": 12140,
+        "endMs": 12500
+      },
+      {
+        "word": "carrying",
+        "startMs": 12500,
+        "endMs": 13040
+      },
+      {
+        "word": "the",
+        "startMs": 13040,
+        "endMs": 13400
+      },
+      {
+        "word": "picture",
+        "startMs": 13400,
+        "endMs": 13780
+      },
+      {
+        "word": "they",
+        "startMs": 13780,
+        "endMs": 14040
+      },
+      {
+        "word": "started",
+        "startMs": 14040,
+        "endMs": 14380
+      },
+      {
+        "word": "us.",
+        "startMs": 14380,
+        "endMs": 14720
+      }
+    ],
+    "heard": "This is why looking closely at Chinese pays off. The characters are not arbitrary marks to memorize. They are drawings, stacked and simplified, still carrying the picture they started us.",
+    "script": "This is why looking closely at Chinese pays off. The characters are not arbitrary marks to memorize. They are drawings, stacked and simplified, still carrying the picture they started as."
+  }
+}

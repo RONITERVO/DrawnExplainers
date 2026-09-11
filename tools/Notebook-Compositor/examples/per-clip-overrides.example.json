@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "clips": {
+    "10": {
+      "narrator": {
+        "grade": {
+          "colorRetention": 0.25,
+          "autoLevels": false,
+          "blackPoint": 0,
+          "whitePoint": 1
+        }
+      }
+    },
+    "12": {
+      "narratorFilename": "012__narrator.mov",
+      "narrator": {
+        "mode": "alpha",
+        "alphaType": "straight"
+      }
+    }
+  }
+}

@@ -1,0 +1,232 @@
+TAP version 13
+# Subtest: episode 1: 15 globally quantized clips, no cumulative duration rounding
+ok 1 - episode 1: 15 globally quantized clips, no cumulative duration rounding
+  ---
+  duration_ms: 1.103672
+  type: 'test'
+  ...
+# Subtest: episode 1: head/gap from supplied manifest, not scene-kit
+ok 2 - episode 1: head/gap from supplied manifest, not scene-kit
+  ---
+  duration_ms: 0.172888
+  type: 'test'
+  ...
+# Subtest: episode 1: punctuation, numeric spelling and final as are the script, not ASR
+ok 3 - episode 1: punctuation, numeric spelling and final as are the script, not ASR
+  ---
+  duration_ms: 0.772666
+  type: 'test'
+  ...
+# Subtest: explicit words mode retains recognized words rather than silently correcting them
+ok 4 - explicit words mode retains recognized words rather than silently correcting them
+  ---
+  duration_ms: 1.407606
+  type: 'test'
+  ...
+# Subtest: token mismatch fails rather than stretching arbitrary text over timings
+ok 5 - token mismatch fails rather than stretching arbitrary text over timings
+  ---
+  duration_ms: 0.945515
+  type: 'test'
+  ...
+# Subtest: invalid, overlapping, unordered and out-of-section timings fail
+ok 6 - invalid, overlapping, unordered and out-of-section timings fail
+  ---
+  duration_ms: 0.938264
+  type: 'test'
+  ...
+# Subtest: explicit section order must be complete, unique and chronologically valid
+ok 7 - explicit section order must be complete, unique and chronologically valid
+  ---
+  duration_ms: 0.287821
+  type: 'test'
+  ...
+# Subtest: configuration rejects misspelled keys, zero denominator and empty patterns
+ok 8 - configuration rejects misspelled keys, zero denominator and empty patterns
+  ---
+  duration_ms: 0.3941
+  type: 'test'
+  ...
+# Subtest: CLI rejects typos, duplicate arguments and missing values
+ok 9 - CLI rejects typos, duplicate arguments and missing values
+  ---
+  duration_ms: 0.455321
+  type: 'test'
+  ...
+# Subtest: center geometry is integer; a 16:9 drawing is contained with exact aspect
+ok 10 - center geometry is integer; a 16:9 drawing is contained with exact aspect
+  ---
+  duration_ms: 0.84227
+  type: 'test'
+  ...
+# Subtest: nonstandard coprime dimensions explicitly report aspect rounding
+ok 11 - nonstandard coprime dimensions explicitly report aspect rounding
+  ---
+  duration_ms: 0.155933
+  type: 'test'
+  ...
+# Subtest: subset selection keeps original top/bottom alternation and prevents gap joins
+ok 12 - subset selection keeps original top/bottom alternation and prevents gap joins
+  ---
+  duration_ms: 0.256204
+  type: 'test'
+  ...
+# Subtest: manifest rejects duplicate indices, overlaps and inconsistent durations
+ok 13 - manifest rejects duplicate indices, overlaps and inconsistent durations
+  ---
+  duration_ms: 0.458696
+  type: 'test'
+  ...
+# Subtest: clips longer than 10 seconds are valid; resource cap is configurable
+ok 14 - clips longer than 10 seconds are valid; resource cap is configurable
+  ---
+  duration_ms: 0.183064
+  type: 'test'
+  ...
+# Subtest: rational FPS sample totals use global boundaries, not per-clip rounding
+ok 15 - rational FPS sample totals use global boundaries, not per-clip rounding
+  ---
+  duration_ms: 0.324395
+  type: 'test'
+  ...
+# Subtest: graphemes do not split decomposed accents, surrogate pairs or ZWJ emoji
+ok 16 - graphemes do not split decomposed accents, surrogate pairs or ZWJ emoji
+  ---
+  duration_ms: 0.163615
+  type: 'test'
+  ...
+# Subtest: word clipped halfway is already partially visible and is not re-timed
+ok 17 - word clipped halfway is already partially visible and is not re-timed
+  ---
+  duration_ms: 0.283013
+  type: 'test'
+  ...
+# Subtest: ASS boundaries fall strictly between sampled frames for supported rates
+ok 18 - ASS boundaries fall strictly between sampled frames for supported rates
+  ---
+  duration_ms: 1.140156
+  type: 'test'
+  ...
+# Subtest: motion is continuous, stationary at endpoints, and bounded for short clips
+ok 19 - motion is continuous, stationary at endpoints, and bounded for short clips
+  ---
+  duration_ms: 0.150966
+  type: 'test'
+  ...
+# Subtest: dust is deterministic, finite-size and seed-sensitive
+ok 20 - dust is deterministic, finite-size and seed-sensitive
+  ---
+  duration_ms: 4.16326
+  type: 'test'
+  ...
+# Subtest: filter graph has constant filter count, center last and no shortest truncation
+ok 21 - filter graph has constant filter count, center last and no shortest truncation
+  ---
+  duration_ms: 0.394601
+  type: 'test'
+  ...
+# Subtest: ambiguous numbered filenames fail, and explicit choices are allowed
+ok 22 - ambiguous numbered filenames fail, and explicit choices are allowed
+  ---
+  duration_ms: 1.841185
+  type: 'test'
+  ...
+# Subtest: ASS commands in transcript are rejected, ordinary punctuation is not rewritten
+ok 23 - ASS commands in transcript are rejected, ordinary punctuation is not rewritten
+  ---
+  duration_ms: 0.676032
+  type: 'test'
+  ...
+# Subtest: concat duration microseconds use cumulative endpoints and bounded quantization
+ok 24 - concat duration microseconds use cumulative endpoints and bounded quantization
+  ---
+  duration_ms: 0.423664
+  type: 'test'
+  ...
+# Subtest: padded override indices are rejected instead of being silently ignored
+ok 25 - padded override indices are rejected instead of being silently ignored
+  ---
+  duration_ms: 0.343775
+  type: 'test'
+  ...
+# Subtest: house palette derives from the drawing kit; v2 yellow preset is not a hidden fallback
+ok 26 - house palette derives from the drawing kit; v2 yellow preset is not a hidden fallback
+  ---
+  duration_ms: 0.236815
+  type: 'test'
+  ...
+# Subtest: one fixed narrator-card footprint contains differently framed illustrations without cropping
+ok 27 - one fixed narrator-card footprint contains differently framed illustrations without cropping
+  ---
+  duration_ms: 0.261832
+  type: 'test'
+  ...
+# Subtest: narrator card is entirely behind the drawing at endpoints and inside its panel when settled
+ok 28 - narrator card is entirely behind the drawing at endpoints and inside its panel when settled
+  ---
+  duration_ms: 0.175313
+  type: 'test'
+  ...
+# Subtest: edge-only dissolve cannot fade the already-visible part of a face far from the center seam
+ok 29 - edge-only dissolve cannot fade the already-visible part of a face far from the center seam
+  ---
+  duration_ms: 0.13341
+  type: 'test'
+  ...
+# Subtest: notebook grade maps neutral endpoints to house paper and ink, with a monotone tonal scale
+ok 30 - notebook grade maps neutral endpoints to house paper and ink, with a monotone tonal scale
+  ---
+  duration_ms: 0.551605
+  type: 'test'
+  ...
+# Subtest: grade is deterministic and disabled mode preserves the input RGB exactly
+ok 31 - grade is deterministic and disabled mode preserves the input RGB exactly
+  ---
+  duration_ms: 0.369403
+  type: 'test'
+  ...
+# Subtest: clip-level exposure uses robust, bounded sample statistics, not unrestricted normalization
+ok 32 - clip-level exposure uses robust, bounded sample statistics, not unrestricted normalization
+  ---
+  duration_ms: 0.197175
+  type: 'test'
+  ...
+# Subtest: phrase-aware pagination prefers a substantial natural sentence ending over a cut mid-clause
+ok 33 - phrase-aware pagination prefers a substantial natural sentence ending over a cut mid-clause
+  ---
+  duration_ms: 0.248902
+  type: 'test'
+  ...
+# Subtest: both caption layouts face the center and are positioned from the complete measured text block
+ok 34 - both caption layouts face the center and are positioned from the complete measured text block
+  ---
+  duration_ms: 0.122584
+  type: 'test'
+  ...
+# Subtest: paper and card raster assets are deterministic and dimensioned, not animated noise
+ok 35 - paper and card raster assets are deterministic and dimensioned, not animated noise
+  ---
+  duration_ms: 60.924395
+  type: 'test'
+  ...
+# Subtest: grade and external masks are separate from the protected drawing branch; key precedes grade
+ok 36 - grade and external masks are separate from the protected drawing branch; key precedes grade
+  ---
+  duration_ms: 0.783022
+  type: 'test'
+  ...
+# Subtest: invalid artistic config fails early rather than introducing NaNs or unbounded video operations
+ok 37 - invalid artistic config fails early rather than introducing NaNs or unbounded video operations
+  ---
+  duration_ms: 0.573408
+  type: 'test'
+  ...
+1..37
+# tests 37
+# suites 0
+# pass 37
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 163.824958

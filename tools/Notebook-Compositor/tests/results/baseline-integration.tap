@@ -1,0 +1,120 @@
+TAP version 13
+# Integration fixtures: /tmp/Vertical cafe's test hfDy0z
+# Synthetic test artifacts retained at: /tmp/Vertical cafe's test hfDy0z
+# Subtest: setup: synthetic notebook drawing, authoritative 440Hz audio and silent/voiced narrators
+ok 1 - setup: synthetic notebook drawing, authoritative 440Hz audio and silent/voiced narrators
+  ---
+  duration_ms: 499.53382
+  type: 'test'
+  ...
+# Subtest: data-only and dry-run preflights work without creating output directories
+ok 2 - data-only and dry-run preflights work without creating output directories
+  ---
+  duration_ms: 588.128892
+  type: 'test'
+  ...
+# Subtest: actual 1080x1920 two-clip render: 44 + 46 frames, joined video 90 frames
+ok 3 - actual 1080x1920 two-clip render: 44 + 46 frames, joined video 90 frames
+  ---
+  duration_ms: 10350.213067
+  type: 'test'
+  ...
+# Subtest: joined audio follows original 440Hz, never the narrator 9000Hz
+ok 4 - joined audio follows original 440Hz, never the narrator 9000Hz
+  ---
+  duration_ms: 71.632049
+  type: 'test'
+  ...
+# Subtest: the central drawing matches the independent reference through movement and the join
+ok 5 - the central drawing matches the independent reference through movement and the join
+  ---
+  duration_ms: 2517.872456
+  type: 'test'
+  ...
+# Subtest: resume reuses validated unchanged outputs; damaged cache is rebuilt
+ok 6 - resume reuses validated unchanged outputs; damaged cache is rebuilt
+  ---
+  duration_ms: 5270.201258
+  type: 'test'
+  ...
+# Subtest: changed config without --overwrite fails without modifying good MP4
+ok 7 - changed config without --overwrite fails without modifying good MP4
+  ---
+  duration_ms: 558.927493
+  type: 'test'
+  ...
+# Subtest: alpha narrator render and mask narrator render succeed (270x480 fast fixtures)
+ok 8 - alpha narrator render and mask narrator render succeed (270x480 fast fixtures)
+  ---
+  duration_ms: 3226.700964
+  type: 'test'
+  ...
+# Subtest: opaque input is not silently accepted as an alpha input
+ok 9 - opaque input is not silently accepted as an alpha input
+  ---
+  duration_ms: 472.361854
+  type: 'test'
+  ...
+# Subtest: colorkey mode and loop duration policy execute without early EOF
+ok 10 - colorkey mode and loop duration policy execute without early EOF
+  ---
+  duration_ms: 1612.703907
+  type: 'test'
+  ...
+# Subtest: text pagination uses measured glyph bounds and does not cover the drawing
+ok 11 - text pagination uses measured glyph bounds and does not cover the drawing
+  ---
+  duration_ms: 1619.164954
+  type: 'test'
+  ...
+# Subtest: explicit clips fallback joins PCM, not independently encoded AAC
+ok 12 - explicit clips fallback joins PCM, not independently encoded AAC
+  ---
+  duration_ms: 3158.31006
+  type: 'test'
+  ...
+# Subtest: missing original audio fails before rendering
+ok 13 - missing original audio fails before rendering
+  ---
+  duration_ms: 486.777115
+  type: 'test'
+  ...
+# Subtest: live output lock is not stolen
+ok 14 - live output lock is not stolen
+  ---
+  duration_ms: 477.446736
+  type: 'test'
+  ...
+# Subtest: rational 30000/1001 FPS uses continuous sample rounding across the join
+ok 15 - rational 30000/1001 FPS uses continuous sample rounding across the join
+  ---
+  duration_ms: 2923.106305
+  type: 'test'
+  ...
+# Subtest: a positive original-audio timestamp offset remains silence, not a sync shift
+ok 16 - a positive original-audio timestamp offset remains silence, not a sync shift
+  ---
+  duration_ms: 2865.687999
+  type: 'test'
+  ...
+# Subtest: same-page type-on keeps the already-visible prefix at fixed pixel coordinates
+ok 17 - same-page type-on keeps the already-visible prefix at fixed pixel coordinates
+  ---
+  duration_ms: 168.247198
+  type: 'test'
+  ...
+# Subtest: all public synthetic MP4s fully decode with no FFmpeg errors
+ok 18 - all public synthetic MP4s fully decode with no FFmpeg errors
+  ---
+  duration_ms: 1518.397591
+  type: 'test'
+  ...
+1..18
+# tests 18
+# suites 0
+# pass 18
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 38459.66415
