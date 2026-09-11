@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "externalId": "s08.resistor.draw",
+  "text": "Resistance used to mean a long, thin wire. The longer the wire, the harder the current had to work, so the wire was folded back and forth to make it fit.",
+  "durationMs": 11240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 11
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 655,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 655,
+      "endMs": 1160,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1420,
+      "startChar": 24,
+      "endChar": 26
+    },
+    {
+      "startMs": 1420,
+      "endMs": 1680,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2440,
+      "startChar": 32,
+      "endChar": 37
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2880,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3160,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3440,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3940,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 3940,
+      "endMs": 4440,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4760,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5080,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5400,
+      "startChar": 75,
+      "endChar": 79
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5720,
+      "startChar": 79,
+      "endChar": 87
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6320,
+      "startChar": 87,
+      "endChar": 91
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6440,
+      "startChar": 91,
+      "endChar": 94
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6560,
+      "startChar": 94,
+      "endChar": 100
+    },
+    {
+      "startMs": 6560,
+      "endMs": 7160,
+      "startChar": 100,
+      "endChar": 103
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7240,
+      "startChar": 103,
+      "endChar": 107
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7800,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8200,
+      "startChar": 112,
+      "endChar": 116
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8480,
+      "startChar": 116,
+      "endChar": 123
+    },
+    {
+      "startMs": 8480,
+      "endMs": 9000,
+      "startChar": 123,
+      "endChar": 128
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9480,
+      "startChar": 128,
+      "endChar": 132
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9680,
+      "startChar": 132,
+      "endChar": 138
+    },
+    {
+      "startMs": 9680,
+      "endMs": 9900,
+      "startChar": 138,
+      "endChar": 141
+    },
+    {
+      "startMs": 9900,
+      "endMs": 10120,
+      "startChar": 141,
+      "endChar": 146
+    },
+    {
+      "startMs": 10120,
+      "endMs": 10300,
+      "startChar": 146,
+      "endChar": 149
+    },
+    {
+      "startMs": 10300,
+      "endMs": 10480,
+      "startChar": 149,
+      "endChar": 153
+    }
+  ]
+}

@@ -72,6 +72,7 @@ for whoever wants them.
 | 03 | The Spade Is a Leaf | 2:33 | rendered |
 | 04 | The Treble Clef Is a Letter G | 2:56 | rendered |
 | 05 | The Bishop Is an Elephant | 2:55 | rendered |
+| 06 | Circuit Diagrams Are a Museum | 2:48 | rendered |
 
 ## Candidates for later episodes
 

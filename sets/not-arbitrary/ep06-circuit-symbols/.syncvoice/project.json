@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep06",
+    "name": "Not Arbitrary 06 — Circuit Diagrams Are a Museum",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Open any circuit diagram and you are looking at drawings. Not symbols somebody agreed on. Drawings of real objects, most of which stopped existing a century ago.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried. The last clause is the hook - let it land without pushing it."
+    },
+    {
+      "externalId": "s02.pile.draw",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "In seventeen ninety nine, Alessandro Volta stacked discs of metal. Zinc, then copper, then cloth soaked in brine, and again, until he had a little tower of them.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if stacking them while speaking. A beat on each metal."
+    },
+    {
+      "externalId": "s03.pile.name",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "He called it a pile, because that is what it was. Build it higher and you get more push, which is why we still measure that push in volts.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Reflective. Slight warmth on the last sentence."
+    },
+    {
+      "externalId": "s04.battery.morph",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Now draw that tower from the side, quickly, in pencil. Every disc flattens into a single line. The copper ones come out wider than the zinc.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Describing a hand at work. Unhurried. Land the final word 'zinc' crisply - do not swallow it."
+    },
+    {
+      "externalId": "s05.battery.reveal",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "And there it is, on every circuit diagram ever drawn. Long line, short line. Copper, zinc. Count the pairs and you are counting Volta's discs.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Let the final sentence sit."
+    },
+    {
+      "externalId": "s06.coil.draw",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "The next one takes no explaining at all. Wind a wire around your finger a few times. You have just made an inductor.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light, quick, a little amused."
+    },
+    {
+      "externalId": "s07.coil.reveal",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Press those loops flat onto the paper and they become bumps along a line. Nothing was abstracted away. The drawing simply is the object.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Clear and settled."
+    },
+    {
+      "externalId": "s08.resistor.draw",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Resistance used to mean a long, thin wire. The longer the wire, the harder the current had to work, so the wire was folded back and forth to make it fit.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Descriptive, tracing the folding with the voice."
+    },
+    {
+      "externalId": "s09.resistor.reveal",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Draw that folded path flat on the page, and it is a zigzag. Every peak in it is one fold of the wire.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Crisp. A small reveal."
+    },
+    {
+      "externalId": "s10.capacitor",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "And one of them never had to change at all. Two metal plates facing each other across a gap. Two centuries later, still two lines facing each other across a gap.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberately flat and even, as if nothing interesting happened - because nothing did."
+    },
+    {
+      "externalId": "s11.turn",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "Here is the part worth stopping on. Almost none of those objects still exist.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Leaning in. The turn of the film. Slower."
+    },
+    {
+      "externalId": "s12.obsolete",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "The battery in your pocket is not a tower of discs. A modern resistor is carbon baked onto ceramic, with no wire in it anywhere.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, a little wondering."
+    },
+    {
+      "externalId": "s13.persist",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "The drawings outlived the things they drew. An engineer today sketches Volta's tower to mean a lithium cell, and everyone understands.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm. The quiet centre of the film. Articulate 'drawings' cleanly off the preceding 'The'."
+    },
+    {
+      "externalId": "s14.recap",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "A tower of discs. A coil of wire. A wire folded back on itself. Two plates facing each other across a gap.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate, one item at a time, like laying objects on a table."
+    },
+    {
+      "externalId": "s15.close",
+      "scene": "circuit-symbols",
+      "speaker": "Narrator",
+      "text": "A circuit diagram is not notation. It is a museum, and everybody who draws one is still drawing the exhibits.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line."
+    }
+  ]
+}

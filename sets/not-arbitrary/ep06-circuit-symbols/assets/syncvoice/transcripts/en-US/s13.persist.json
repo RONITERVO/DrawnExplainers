@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "externalId": "s13.persist",
+  "text": "The drawings outlived the things they drew. An engineer today sketches Volta's tower to mean a lithium cell, and everyone understands.",
+  "durationMs": 10600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1460,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1460,
+      "endMs": 1840,
+      "startChar": 26,
+      "endChar": 33
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2120,
+      "startChar": 33,
+      "endChar": 38
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2400,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2740,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 2740,
+      "endMs": 3080,
+      "startChar": 47,
+      "endChar": 56
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4400,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4880,
+      "startChar": 62,
+      "endChar": 71
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5520,
+      "startChar": 71,
+      "endChar": 79
+    },
+    {
+      "startMs": 5520,
+      "endMs": 6040,
+      "startChar": 79,
+      "endChar": 85
+    },
+    {
+      "startMs": 6040,
+      "endMs": 6340,
+      "startChar": 85,
+      "endChar": 88
+    },
+    {
+      "startMs": 6340,
+      "endMs": 6640,
+      "startChar": 88,
+      "endChar": 93
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6900,
+      "startChar": 93,
+      "endChar": 95
+    },
+    {
+      "startMs": 6900,
+      "endMs": 7160,
+      "startChar": 95,
+      "endChar": 103
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7800,
+      "startChar": 103,
+      "endChar": 109
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8200,
+      "startChar": 109,
+      "endChar": 113
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8800,
+      "startChar": 113,
+      "endChar": 122
+    },
+    {
+      "startMs": 8800,
+      "endMs": 9520,
+      "startChar": 122,
+      "endChar": 134
+    }
+  ]
+}

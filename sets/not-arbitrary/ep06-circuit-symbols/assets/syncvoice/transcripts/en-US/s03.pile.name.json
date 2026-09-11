@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s03.pile.name",
+  "text": "He called it a pile, because that is what it was. Build it higher and you get more push, which is why we still measure that push in volts.",
+  "durationMs": 10720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 15
+    },
+    {
+      "startMs": 300,
+      "endMs": 1040,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1760,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2440,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2720,
+      "startChar": 34,
+      "endChar": 37
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2960,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3035,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 3035,
+      "endMs": 3110,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 3110,
+      "endMs": 3640,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3715,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 3715,
+      "endMs": 3840,
+      "startChar": 59,
+      "endChar": 66
+    },
+    {
+      "startMs": 3840,
+      "endMs": 5400,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5580,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 5580,
+      "endMs": 5760,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6240,
+      "startChar": 78,
+      "endChar": 83
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6640,
+      "startChar": 83,
+      "endChar": 89
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7280,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7355,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 7355,
+      "endMs": 7430,
+      "startChar": 98,
+      "endChar": 102
+    },
+    {
+      "startMs": 7430,
+      "endMs": 7795,
+      "startChar": 102,
+      "endChar": 105
+    },
+    {
+      "startMs": 7795,
+      "endMs": 8160,
+      "startChar": 105,
+      "endChar": 111
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8720,
+      "startChar": 111,
+      "endChar": 119
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9120,
+      "startChar": 119,
+      "endChar": 124
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9360,
+      "startChar": 124,
+      "endChar": 129
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9560,
+      "startChar": 129,
+      "endChar": 132
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9760,
+      "startChar": 132,
+      "endChar": 138
+    }
+  ]
+}

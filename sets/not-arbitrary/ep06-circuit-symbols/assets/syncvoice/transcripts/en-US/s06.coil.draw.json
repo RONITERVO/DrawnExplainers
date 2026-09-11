@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s06.coil.draw",
+  "text": "The next one takes no explaining at all. Wind a wire around your finger a few times. You have just made an inductor.",
+  "durationMs": 8280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 300,
+      "endMs": 1320,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 33
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1820,
+      "startChar": 33,
+      "endChar": 36
+    },
+    {
+      "startMs": 1820,
+      "endMs": 2080,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2560,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2635,
+      "startChar": 46,
+      "endChar": 48
+    },
+    {
+      "startMs": 2635,
+      "endMs": 2710,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 2710,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4160,
+      "startChar": 60,
+      "endChar": 65
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4360,
+      "startChar": 65,
+      "endChar": 72
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4640,
+      "startChar": 72,
+      "endChar": 74
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4920,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5280,
+      "startChar": 78,
+      "endChar": 85
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5520,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5760,
+      "startChar": 89,
+      "endChar": 94
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6520,
+      "startChar": 94,
+      "endChar": 99
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6920,
+      "startChar": 99,
+      "endChar": 104
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7120,
+      "startChar": 104,
+      "endChar": 107
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7320,
+      "startChar": 107,
+      "endChar": 116
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "externalId": "s15.close",
+  "text": "A circuit diagram is not notation. It is a museum, and everybody who draws one is still drawing the exhibits.",
+  "durationMs": 9760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1640,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2800,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2880,
+      "startChar": 38,
+      "endChar": 41
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3360,
+      "startChar": 41,
+      "endChar": 43
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3840,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3840,
+      "endMs": 5000,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5720,
+      "startChar": 55,
+      "endChar": 65
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6480,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6640,
+      "startChar": 69,
+      "endChar": 75
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7000,
+      "startChar": 75,
+      "endChar": 79
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7320,
+      "startChar": 79,
+      "endChar": 82
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7720,
+      "startChar": 82,
+      "endChar": 88
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8160,
+      "startChar": 88,
+      "endChar": 96
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8420,
+      "startChar": 96,
+      "endChar": 100
+    },
+    {
+      "startMs": 8420,
+      "endMs": 8680,
+      "startChar": 100,
+      "endChar": 109
+    }
+  ]
+}

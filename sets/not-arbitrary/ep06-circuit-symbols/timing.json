@@ -1,0 +1,1942 @@
+{
+  "s01.hook": {
+    "durationMs": 12920,
+    "words": [
+      {
+        "word": "Open",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "any",
+        "startMs": 340,
+        "endMs": 900
+      },
+      {
+        "word": "circuit",
+        "startMs": 900,
+        "endMs": 1360
+      },
+      {
+        "word": "diagram,",
+        "startMs": 1360,
+        "endMs": 1860
+      },
+      {
+        "word": "and",
+        "startMs": 1860,
+        "endMs": 2380
+      },
+      {
+        "word": "you",
+        "startMs": 2380,
+        "endMs": 2660
+      },
+      {
+        "word": "are",
+        "startMs": 2660,
+        "endMs": 2820
+      },
+      {
+        "word": "looking",
+        "startMs": 2820,
+        "endMs": 3100
+      },
+      {
+        "word": "at",
+        "startMs": 3100,
+        "endMs": 3480
+      },
+      {
+        "word": "drawings.",
+        "startMs": 3480,
+        "endMs": 4220
+      },
+      {
+        "word": "Not",
+        "startMs": 4600,
+        "endMs": 5000
+      },
+      {
+        "word": "symbols",
+        "startMs": 5000,
+        "endMs": 5640
+      },
+      {
+        "word": "somebody",
+        "startMs": 5640,
+        "endMs": 6060
+      },
+      {
+        "word": "agreed",
+        "startMs": 6060,
+        "endMs": 6440
+      },
+      {
+        "word": "on.",
+        "startMs": 6440,
+        "endMs": 6740
+      },
+      {
+        "word": "Drawings",
+        "startMs": 7040,
+        "endMs": 7800
+      },
+      {
+        "word": "of",
+        "startMs": 7800,
+        "endMs": 8060
+      },
+      {
+        "word": "real",
+        "startMs": 8060,
+        "endMs": 8540
+      },
+      {
+        "word": "objects,",
+        "startMs": 8540,
+        "endMs": 9300
+      },
+      {
+        "word": "most",
+        "startMs": 9600,
+        "endMs": 9920
+      },
+      {
+        "word": "of",
+        "startMs": 9920,
+        "endMs": 10080
+      },
+      {
+        "word": "which",
+        "startMs": 10080,
+        "endMs": 10340
+      },
+      {
+        "word": "stopped",
+        "startMs": 10340,
+        "endMs": 10900
+      },
+      {
+        "word": "existing",
+        "startMs": 10900,
+        "endMs": 11460
+      },
+      {
+        "word": "a",
+        "startMs": 11460,
+        "endMs": 11840
+      },
+      {
+        "word": "century",
+        "startMs": 11840,
+        "endMs": 12200
+      },
+      {
+        "word": "ago.",
+        "startMs": 12200,
+        "endMs": 12560
+      }
+    ],
+    "heard": "Open any circuit diagram, and you are looking at drawings. Not symbols somebody agreed on. Drawings of real objects, most of which stopped existing a century ago.",
+    "script": "Open any circuit diagram and you are looking at drawings. Not symbols somebody agreed on. Drawings of real objects, most of which stopped existing a century ago."
+  },
+  "s02.pile.draw": {
+    "durationMs": 12960,
+    "words": [
+      {
+        "word": "In",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "1799,",
+        "startMs": 220,
+        "endMs": 1460
+      },
+      {
+        "word": "Alessandro",
+        "startMs": 2080,
+        "endMs": 2700
+      },
+      {
+        "word": "Volta",
+        "startMs": 2700,
+        "endMs": 3160
+      },
+      {
+        "word": "stacked",
+        "startMs": 3160,
+        "endMs": 3800
+      },
+      {
+        "word": "discs",
+        "startMs": 3800,
+        "endMs": 4240
+      },
+      {
+        "word": "of",
+        "startMs": 4240,
+        "endMs": 4560
+      },
+      {
+        "word": "metal,",
+        "startMs": 4560,
+        "endMs": 4860
+      },
+      {
+        "word": "zinc,",
+        "startMs": 5220,
+        "endMs": 5900
+      },
+      {
+        "word": "then",
+        "startMs": 6160,
+        "endMs": 6500
+      },
+      {
+        "word": "copper,",
+        "startMs": 6500,
+        "endMs": 7020
+      },
+      {
+        "word": "then",
+        "startMs": 7500,
+        "endMs": 7760
+      },
+      {
+        "word": "cloth",
+        "startMs": 7760,
+        "endMs": 8280
+      },
+      {
+        "word": "soaked",
+        "startMs": 8280,
+        "endMs": 8660
+      },
+      {
+        "word": "in",
+        "startMs": 8660,
+        "endMs": 8880
+      },
+      {
+        "word": "brine,",
+        "startMs": 8880,
+        "endMs": 9220
+      },
+      {
+        "word": "and",
+        "startMs": 9420,
+        "endMs": 9840
+      },
+      {
+        "word": "again,",
+        "startMs": 9840,
+        "endMs": 10300
+      },
+      {
+        "word": "until",
+        "startMs": 10540,
+        "endMs": 10900
+      },
+      {
+        "word": "he",
+        "startMs": 10900,
+        "endMs": 11220
+      },
+      {
+        "word": "had",
+        "startMs": 11220,
+        "endMs": 11520
+      },
+      {
+        "word": "a",
+        "startMs": 11520,
+        "endMs": 11740
+      },
+      {
+        "word": "little",
+        "startMs": 11740,
+        "endMs": 11960
+      },
+      {
+        "word": "tower",
+        "startMs": 11960,
+        "endMs": 12340
+      },
+      {
+        "word": "of",
+        "startMs": 12340,
+        "endMs": 12540
+      },
+      {
+        "word": "them.",
+        "startMs": 12540,
+        "endMs": 12740
+      }
+    ],
+    "heard": "In 1799, Alessandro Volta stacked discs of metal, zinc, then copper, then cloth soaked in brine, and again, until he had a little tower of them.",
+    "script": "In seventeen ninety nine, Alessandro Volta stacked discs of metal. Zinc, then copper, then cloth soaked in brine, and again, until he had a little tower of them."
+  },
+  "s03.pile.name": {
+    "durationMs": 10720,
+    "words": [
+      {
+        "word": "He",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "called",
+        "startMs": 240,
+        "endMs": 600
+      },
+      {
+        "word": "it",
+        "startMs": 600,
+        "endMs": 820
+      },
+      {
+        "word": "a",
+        "startMs": 820,
+        "endMs": 1040
+      },
+      {
+        "word": "pile",
+        "startMs": 1040,
+        "endMs": 1520
+      },
+      {
+        "word": "because",
+        "startMs": 1520,
+        "endMs": 2060
+      },
+      {
+        "word": "that",
+        "startMs": 2060,
+        "endMs": 2640
+      },
+      {
+        "word": "is",
+        "startMs": 2640,
+        "endMs": 2840
+      },
+      {
+        "word": "what",
+        "startMs": 2840,
+        "endMs": 3060
+      },
+      {
+        "word": "it",
+        "startMs": 3060,
+        "endMs": 3180
+      },
+      {
+        "word": "was.",
+        "startMs": 3180,
+        "endMs": 3520
+      },
+      {
+        "word": "Build",
+        "startMs": 3860,
+        "endMs": 4480
+      },
+      {
+        "word": "it",
+        "startMs": 4480,
+        "endMs": 4680
+      },
+      {
+        "word": "higher",
+        "startMs": 4680,
+        "endMs": 5160
+      },
+      {
+        "word": "and",
+        "startMs": 5160,
+        "endMs": 5640
+      },
+      {
+        "word": "you",
+        "startMs": 5640,
+        "endMs": 5860
+      },
+      {
+        "word": "get",
+        "startMs": 5860,
+        "endMs": 6080
+      },
+      {
+        "word": "more",
+        "startMs": 6080,
+        "endMs": 6520
+      },
+      {
+        "word": "push,",
+        "startMs": 6520,
+        "endMs": 7100
+      },
+      {
+        "word": "which",
+        "startMs": 7340,
+        "endMs": 7800
+      },
+      {
+        "word": "is",
+        "startMs": 7800,
+        "endMs": 7920
+      },
+      {
+        "word": "why",
+        "startMs": 7920,
+        "endMs": 8080
+      },
+      {
+        "word": "we",
+        "startMs": 8080,
+        "endMs": 8300
+      },
+      {
+        "word": "still",
+        "startMs": 8300,
+        "endMs": 8620
+      },
+      {
+        "word": "measure",
+        "startMs": 8620,
+        "endMs": 9040
+      },
+      {
+        "word": "that",
+        "startMs": 9040,
+        "endMs": 9300
+      },
+      {
+        "word": "push",
+        "startMs": 9300,
+        "endMs": 9640
+      },
+      {
+        "word": "in",
+        "startMs": 9640,
+        "endMs": 9960
+      },
+      {
+        "word": "volts.",
+        "startMs": 9960,
+        "endMs": 10180
+      }
+    ],
+    "heard": "He called it a pile because that is what it was. Build it higher and you get more push, which is why we still measure that push in volts.",
+    "script": "He called it a pile, because that is what it was. Build it higher and you get more push, which is why we still measure that push in volts."
+  },
+  "s04.battery.morph": {
+    "durationMs": 10600,
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "draw",
+        "startMs": 280,
+        "endMs": 680
+      },
+      {
+        "word": "that",
+        "startMs": 680,
+        "endMs": 960
+      },
+      {
+        "word": "tower",
+        "startMs": 960,
+        "endMs": 1320
+      },
+      {
+        "word": "from",
+        "startMs": 1320,
+        "endMs": 1580
+      },
+      {
+        "word": "the",
+        "startMs": 1580,
+        "endMs": 1740
+      },
+      {
+        "word": "side,",
+        "startMs": 1740,
+        "endMs": 2140
+      },
+      {
+        "word": "quickly,",
+        "startMs": 2340,
+        "endMs": 2840
+      },
+      {
+        "word": "in",
+        "startMs": 3040,
+        "endMs": 3280
+      },
+      {
+        "word": "pencil.",
+        "startMs": 3280,
+        "endMs": 3640
+      },
+      {
+        "word": "Every",
+        "startMs": 4140,
+        "endMs": 4740
+      },
+      {
+        "word": "disc",
+        "startMs": 4740,
+        "endMs": 5120
+      },
+      {
+        "word": "flattens",
+        "startMs": 5120,
+        "endMs": 5760
+      },
+      {
+        "word": "into",
+        "startMs": 5760,
+        "endMs": 6040
+      },
+      {
+        "word": "a",
+        "startMs": 6040,
+        "endMs": 6260
+      },
+      {
+        "word": "single",
+        "startMs": 6260,
+        "endMs": 6660
+      },
+      {
+        "word": "line.",
+        "startMs": 6660,
+        "endMs": 7100
+      },
+      {
+        "word": "The",
+        "startMs": 7420,
+        "endMs": 7820
+      },
+      {
+        "word": "copper",
+        "startMs": 7820,
+        "endMs": 8120
+      },
+      {
+        "word": "ones",
+        "startMs": 8120,
+        "endMs": 8420
+      },
+      {
+        "word": "come",
+        "startMs": 8420,
+        "endMs": 8760
+      },
+      {
+        "word": "out",
+        "startMs": 8760,
+        "endMs": 8960
+      },
+      {
+        "word": "wider",
+        "startMs": 8960,
+        "endMs": 9440
+      },
+      {
+        "word": "than",
+        "startMs": 9440,
+        "endMs": 9820
+      },
+      {
+        "word": "the",
+        "startMs": 9820,
+        "endMs": 9960
+      },
+      {
+        "word": "zinc.",
+        "startMs": 9960,
+        "endMs": 10200
+      }
+    ],
+    "heard": "Now draw that tower from the side, quickly, in pencil. Every disc flattens into a single line. The copper ones come out wider than the zinc.",
+    "script": "Now draw that tower from the side, quickly, in pencil. Every disc flattens into a single line. The copper ones come out wider than the zinc."
+  },
+  "s05.battery.reveal": {
+    "durationMs": 12480,
+    "words": [
+      {
+        "word": "And",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "there",
+        "startMs": 220,
+        "endMs": 460
+      },
+      {
+        "word": "it",
+        "startMs": 460,
+        "endMs": 600
+      },
+      {
+        "word": "is,",
+        "startMs": 600,
+        "endMs": 920
+      },
+      {
+        "word": "on",
+        "startMs": 1040,
+        "endMs": 1420
+      },
+      {
+        "word": "every",
+        "startMs": 1420,
+        "endMs": 2040
+      },
+      {
+        "word": "circuit",
+        "startMs": 2040,
+        "endMs": 2520
+      },
+      {
+        "word": "diagram",
+        "startMs": 2520,
+        "endMs": 3120
+      },
+      {
+        "word": "ever",
+        "startMs": 3120,
+        "endMs": 3640
+      },
+      {
+        "word": "drawn.",
+        "startMs": 3640,
+        "endMs": 4040
+      },
+      {
+        "word": "Long",
+        "startMs": 4460,
+        "endMs": 5000
+      },
+      {
+        "word": "line,",
+        "startMs": 5000,
+        "endMs": 5340
+      },
+      {
+        "word": "short",
+        "startMs": 5540,
+        "endMs": 5920
+      },
+      {
+        "word": "line,",
+        "startMs": 5920,
+        "endMs": 6200
+      },
+      {
+        "word": "copper,",
+        "startMs": 6660,
+        "endMs": 7080
+      },
+      {
+        "word": "zinc.",
+        "startMs": 7540,
+        "endMs": 7820
+      },
+      {
+        "word": "Count",
+        "startMs": 8220,
+        "endMs": 8760
+      },
+      {
+        "word": "the",
+        "startMs": 8760,
+        "endMs": 8920
+      },
+      {
+        "word": "pairs,",
+        "startMs": 8920,
+        "endMs": 9260
+      },
+      {
+        "word": "and",
+        "startMs": 9500,
+        "endMs": 9800
+      },
+      {
+        "word": "you",
+        "startMs": 9800,
+        "endMs": 10140
+      },
+      {
+        "word": "are",
+        "startMs": 10140,
+        "endMs": 10480
+      },
+      {
+        "word": "counting",
+        "startMs": 10480,
+        "endMs": 10960
+      },
+      {
+        "word": "Volta's",
+        "startMs": 10960,
+        "endMs": 11720
+      },
+      {
+        "word": "disks.",
+        "startMs": 11720,
+        "endMs": 11980
+      }
+    ],
+    "heard": "And there it is, on every circuit diagram ever drawn. Long line, short line, copper, zinc. Count the pairs, and you are counting Volta's disks.",
+    "script": "And there it is, on every circuit diagram ever drawn. Long line, short line. Copper, zinc. Count the pairs and you are counting Volta's discs."
+  },
+  "s06.coil.draw": {
+    "durationMs": 8280,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "next",
+        "startMs": 160,
+        "endMs": 440
+      },
+      {
+        "word": "one",
+        "startMs": 440,
+        "endMs": 720
+      },
+      {
+        "word": "takes",
+        "startMs": 720,
+        "endMs": 1140
+      },
+      {
+        "word": "no",
+        "startMs": 1140,
+        "endMs": 1500
+      },
+      {
+        "word": "explaining",
+        "startMs": 1500,
+        "endMs": 1980
+      },
+      {
+        "word": "at",
+        "startMs": 1980,
+        "endMs": 2200
+      },
+      {
+        "word": "all.",
+        "startMs": 2200,
+        "endMs": 2420
+      },
+      {
+        "word": "Wind",
+        "startMs": 2760,
+        "endMs": 3320
+      },
+      {
+        "word": "a",
+        "startMs": 3320,
+        "endMs": 3520
+      },
+      {
+        "word": "wire",
+        "startMs": 3520,
+        "endMs": 3840
+      },
+      {
+        "word": "around",
+        "startMs": 3840,
+        "endMs": 4260
+      },
+      {
+        "word": "your",
+        "startMs": 4260,
+        "endMs": 4460
+      },
+      {
+        "word": "finger",
+        "startMs": 4460,
+        "endMs": 4820
+      },
+      {
+        "word": "a",
+        "startMs": 4820,
+        "endMs": 5040
+      },
+      {
+        "word": "few",
+        "startMs": 5040,
+        "endMs": 5200
+      },
+      {
+        "word": "times.",
+        "startMs": 5200,
+        "endMs": 5620
+      },
+      {
+        "word": "You",
+        "startMs": 5820,
+        "endMs": 6260
+      },
+      {
+        "word": "have",
+        "startMs": 6260,
+        "endMs": 6460
+      },
+      {
+        "word": "just",
+        "startMs": 6460,
+        "endMs": 6780
+      },
+      {
+        "word": "made",
+        "startMs": 6780,
+        "endMs": 7200
+      },
+      {
+        "word": "an",
+        "startMs": 7200,
+        "endMs": 7440
+      },
+      {
+        "word": "inductor.",
+        "startMs": 7440,
+        "endMs": 7860
+      }
+    ],
+    "heard": "The next one takes no explaining at all. Wind a wire around your finger a few times. You have just made an inductor.",
+    "script": "The next one takes no explaining at all. Wind a wire around your finger a few times. You have just made an inductor."
+  },
+  "s07.coil.reveal": {
+    "durationMs": 10120,
+    "words": [
+      {
+        "word": "Press",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "those",
+        "startMs": 300,
+        "endMs": 620
+      },
+      {
+        "word": "loops",
+        "startMs": 620,
+        "endMs": 1000
+      },
+      {
+        "word": "flat",
+        "startMs": 1000,
+        "endMs": 1520
+      },
+      {
+        "word": "onto",
+        "startMs": 1520,
+        "endMs": 1880
+      },
+      {
+        "word": "the",
+        "startMs": 1880,
+        "endMs": 2040
+      },
+      {
+        "word": "paper,",
+        "startMs": 2040,
+        "endMs": 2340
+      },
+      {
+        "word": "and",
+        "startMs": 2500,
+        "endMs": 2840
+      },
+      {
+        "word": "they",
+        "startMs": 2840,
+        "endMs": 3080
+      },
+      {
+        "word": "become",
+        "startMs": 3080,
+        "endMs": 3480
+      },
+      {
+        "word": "bumps",
+        "startMs": 3480,
+        "endMs": 4000
+      },
+      {
+        "word": "along",
+        "startMs": 4000,
+        "endMs": 4340
+      },
+      {
+        "word": "a",
+        "startMs": 4340,
+        "endMs": 4540
+      },
+      {
+        "word": "line.",
+        "startMs": 4540,
+        "endMs": 4820
+      },
+      {
+        "word": "Nothing",
+        "startMs": 5140,
+        "endMs": 5780
+      },
+      {
+        "word": "was",
+        "startMs": 5780,
+        "endMs": 6060
+      },
+      {
+        "word": "abstracted",
+        "startMs": 6060,
+        "endMs": 6620
+      },
+      {
+        "word": "away.",
+        "startMs": 6620,
+        "endMs": 6860
+      },
+      {
+        "word": "The",
+        "startMs": 7120,
+        "endMs": 7440
+      },
+      {
+        "word": "drawing",
+        "startMs": 7440,
+        "endMs": 7800
+      },
+      {
+        "word": "simply",
+        "startMs": 7800,
+        "endMs": 8420
+      },
+      {
+        "word": "is",
+        "startMs": 8420,
+        "endMs": 9040
+      },
+      {
+        "word": "the",
+        "startMs": 9040,
+        "endMs": 9300
+      },
+      {
+        "word": "object.",
+        "startMs": 9300,
+        "endMs": 9620
+      }
+    ],
+    "heard": "Press those loops flat onto the paper, and they become bumps along a line. Nothing was abstracted away. The drawing simply is the object.",
+    "script": "Press those loops flat onto the paper and they become bumps along a line. Nothing was abstracted away. The drawing simply is the object."
+  },
+  "s08.resistor.draw": {
+    "durationMs": 11240,
+    "words": [
+      {
+        "word": "Resistance",
+        "startMs": 0,
+        "endMs": 460
+      },
+      {
+        "word": "used",
+        "startMs": 460,
+        "endMs": 1020
+      },
+      {
+        "word": "to",
+        "startMs": 1020,
+        "endMs": 1220
+      },
+      {
+        "word": "mean",
+        "startMs": 1220,
+        "endMs": 1520
+      },
+      {
+        "word": "a",
+        "startMs": 1520,
+        "endMs": 1800
+      },
+      {
+        "word": "long,",
+        "startMs": 1800,
+        "endMs": 2280
+      },
+      {
+        "word": "thin",
+        "startMs": 2420,
+        "endMs": 2760
+      },
+      {
+        "word": "wire.",
+        "startMs": 2760,
+        "endMs": 3240
+      },
+      {
+        "word": "The",
+        "startMs": 3640,
+        "endMs": 3980
+      },
+      {
+        "word": "longer",
+        "startMs": 3980,
+        "endMs": 4340
+      },
+      {
+        "word": "the",
+        "startMs": 4340,
+        "endMs": 4540
+      },
+      {
+        "word": "wire,",
+        "startMs": 4540,
+        "endMs": 4860
+      },
+      {
+        "word": "the",
+        "startMs": 5180,
+        "endMs": 5280
+      },
+      {
+        "word": "harder",
+        "startMs": 5280,
+        "endMs": 5620
+      },
+      {
+        "word": "the",
+        "startMs": 5620,
+        "endMs": 5860
+      },
+      {
+        "word": "current",
+        "startMs": 5860,
+        "endMs": 6160
+      },
+      {
+        "word": "had",
+        "startMs": 6160,
+        "endMs": 6460
+      },
+      {
+        "word": "to",
+        "startMs": 6460,
+        "endMs": 6640
+      },
+      {
+        "word": "work.",
+        "startMs": 6640,
+        "endMs": 6960
+      },
+      {
+        "word": "So",
+        "startMs": 7160,
+        "endMs": 7620
+      },
+      {
+        "word": "the",
+        "startMs": 7620,
+        "endMs": 7780
+      },
+      {
+        "word": "wire",
+        "startMs": 7780,
+        "endMs": 8100
+      },
+      {
+        "word": "was",
+        "startMs": 8100,
+        "endMs": 8400
+      },
+      {
+        "word": "folded",
+        "startMs": 8400,
+        "endMs": 8820
+      },
+      {
+        "word": "back",
+        "startMs": 8820,
+        "endMs": 9280
+      },
+      {
+        "word": "and",
+        "startMs": 9280,
+        "endMs": 9580
+      },
+      {
+        "word": "forth",
+        "startMs": 9580,
+        "endMs": 9900
+      },
+      {
+        "word": "to",
+        "startMs": 9900,
+        "endMs": 10220
+      },
+      {
+        "word": "make",
+        "startMs": 10220,
+        "endMs": 10440
+      },
+      {
+        "word": "it",
+        "startMs": 10440,
+        "endMs": 10580
+      },
+      {
+        "word": "fit.",
+        "startMs": 10580,
+        "endMs": 10800
+      }
+    ],
+    "heard": "Resistance used to mean a long, thin wire. The longer the wire, the harder the current had to work. So the wire was folded back and forth to make it fit.",
+    "script": "Resistance used to mean a long, thin wire. The longer the wire, the harder the current had to work, so the wire was folded back and forth to make it fit."
+  },
+  "s09.resistor.reveal": {
+    "durationMs": 8400,
+    "words": [
+      {
+        "word": "Draw",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "that",
+        "startMs": 280,
+        "endMs": 620
+      },
+      {
+        "word": "folded",
+        "startMs": 620,
+        "endMs": 1060
+      },
+      {
+        "word": "path",
+        "startMs": 1060,
+        "endMs": 1480
+      },
+      {
+        "word": "flat",
+        "startMs": 1480,
+        "endMs": 1820
+      },
+      {
+        "word": "on",
+        "startMs": 1820,
+        "endMs": 2060
+      },
+      {
+        "word": "the",
+        "startMs": 2060,
+        "endMs": 2160
+      },
+      {
+        "word": "page,",
+        "startMs": 2160,
+        "endMs": 2540
+      },
+      {
+        "word": "and",
+        "startMs": 2700,
+        "endMs": 3080
+      },
+      {
+        "word": "it",
+        "startMs": 3080,
+        "endMs": 3380
+      },
+      {
+        "word": "is",
+        "startMs": 3380,
+        "endMs": 3720
+      },
+      {
+        "word": "a",
+        "startMs": 3720,
+        "endMs": 3980
+      },
+      {
+        "word": "zigzag.",
+        "startMs": 3980,
+        "endMs": 4740
+      },
+      {
+        "word": "Every",
+        "startMs": 5140,
+        "endMs": 5720
+      },
+      {
+        "word": "peak",
+        "startMs": 5720,
+        "endMs": 5960
+      },
+      {
+        "word": "in",
+        "startMs": 5960,
+        "endMs": 6160
+      },
+      {
+        "word": "it",
+        "startMs": 6160,
+        "endMs": 6300
+      },
+      {
+        "word": "is",
+        "startMs": 6300,
+        "endMs": 6720
+      },
+      {
+        "word": "one",
+        "startMs": 6720,
+        "endMs": 7120
+      },
+      {
+        "word": "fold",
+        "startMs": 7120,
+        "endMs": 7440
+      },
+      {
+        "word": "of",
+        "startMs": 7440,
+        "endMs": 7600
+      },
+      {
+        "word": "the",
+        "startMs": 7600,
+        "endMs": 7700
+      },
+      {
+        "word": "wire.",
+        "startMs": 7700,
+        "endMs": 7960
+      }
+    ],
+    "heard": "Draw that folded path flat on the page, and it is a zigzag. Every peak in it is one fold of the wire.",
+    "script": "Draw that folded path flat on the page, and it is a zigzag. Every peak in it is one fold of the wire."
+  },
+  "s10.capacitor": {
+    "durationMs": 11560,
+    "words": [
+      {
+        "word": "and",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "one",
+        "startMs": 240,
+        "endMs": 540
+      },
+      {
+        "word": "of",
+        "startMs": 540,
+        "endMs": 660
+      },
+      {
+        "word": "them",
+        "startMs": 660,
+        "endMs": 900
+      },
+      {
+        "word": "never",
+        "startMs": 900,
+        "endMs": 1280
+      },
+      {
+        "word": "had",
+        "startMs": 1280,
+        "endMs": 1580
+      },
+      {
+        "word": "to",
+        "startMs": 1580,
+        "endMs": 1700
+      },
+      {
+        "word": "change",
+        "startMs": 1700,
+        "endMs": 2000
+      },
+      {
+        "word": "at",
+        "startMs": 2000,
+        "endMs": 2160
+      },
+      {
+        "word": "all.",
+        "startMs": 2160,
+        "endMs": 2380
+      },
+      {
+        "word": "Two",
+        "startMs": 2700,
+        "endMs": 3300
+      },
+      {
+        "word": "metal",
+        "startMs": 3300,
+        "endMs": 3640
+      },
+      {
+        "word": "plates",
+        "startMs": 3640,
+        "endMs": 4100
+      },
+      {
+        "word": "facing",
+        "startMs": 4100,
+        "endMs": 4600
+      },
+      {
+        "word": "each",
+        "startMs": 4600,
+        "endMs": 4840
+      },
+      {
+        "word": "other",
+        "startMs": 4840,
+        "endMs": 5080
+      },
+      {
+        "word": "across",
+        "startMs": 5080,
+        "endMs": 5400
+      },
+      {
+        "word": "a",
+        "startMs": 5400,
+        "endMs": 5580
+      },
+      {
+        "word": "gap.",
+        "startMs": 5580,
+        "endMs": 5860
+      },
+      {
+        "word": "Two",
+        "startMs": 6200,
+        "endMs": 6800
+      },
+      {
+        "word": "centuries",
+        "startMs": 6800,
+        "endMs": 7340
+      },
+      {
+        "word": "later,",
+        "startMs": 7340,
+        "endMs": 7820
+      },
+      {
+        "word": "still",
+        "startMs": 8380,
+        "endMs": 8560
+      },
+      {
+        "word": "two",
+        "startMs": 8560,
+        "endMs": 9000
+      },
+      {
+        "word": "lines",
+        "startMs": 9000,
+        "endMs": 9480
+      },
+      {
+        "word": "facing",
+        "startMs": 9480,
+        "endMs": 9920
+      },
+      {
+        "word": "each",
+        "startMs": 9920,
+        "endMs": 10160
+      },
+      {
+        "word": "other",
+        "startMs": 10160,
+        "endMs": 10400
+      },
+      {
+        "word": "across",
+        "startMs": 10400,
+        "endMs": 10740
+      },
+      {
+        "word": "a",
+        "startMs": 10740,
+        "endMs": 10940
+      },
+      {
+        "word": "gap.",
+        "startMs": 10940,
+        "endMs": 11180
+      }
+    ],
+    "heard": "and one of them never had to change at all. Two metal plates facing each other across a gap. Two centuries later, still two lines facing each other across a gap.",
+    "script": "And one of them never had to change at all. Two metal plates facing each other across a gap. Two centuries later, still two lines facing each other across a gap."
+  },
+  "s11.turn": {
+    "durationMs": 6440,
+    "words": [
+      {
+        "word": "Here",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "is",
+        "startMs": 380,
+        "endMs": 640
+      },
+      {
+        "word": "the",
+        "startMs": 640,
+        "endMs": 780
+      },
+      {
+        "word": "part",
+        "startMs": 780,
+        "endMs": 1140
+      },
+      {
+        "word": "worth",
+        "startMs": 1140,
+        "endMs": 1480
+      },
+      {
+        "word": "stopping",
+        "startMs": 1480,
+        "endMs": 1980
+      },
+      {
+        "word": "on.",
+        "startMs": 1980,
+        "endMs": 2340
+      },
+      {
+        "word": "Almost",
+        "startMs": 2620,
+        "endMs": 3340
+      },
+      {
+        "word": "none",
+        "startMs": 3340,
+        "endMs": 3800
+      },
+      {
+        "word": "of",
+        "startMs": 3800,
+        "endMs": 4160
+      },
+      {
+        "word": "those",
+        "startMs": 4160,
+        "endMs": 4420
+      },
+      {
+        "word": "objects",
+        "startMs": 4420,
+        "endMs": 4880
+      },
+      {
+        "word": "still",
+        "startMs": 4880,
+        "endMs": 5340
+      },
+      {
+        "word": "exist.",
+        "startMs": 5340,
+        "endMs": 5820
+      }
+    ],
+    "heard": "Here is the part worth stopping on. Almost none of those objects still exist.",
+    "script": "Here is the part worth stopping on. Almost none of those objects still exist."
+  },
+  "s12.obsolete": {
+    "durationMs": 11480,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "battery",
+        "startMs": 160,
+        "endMs": 540
+      },
+      {
+        "word": "in",
+        "startMs": 540,
+        "endMs": 940
+      },
+      {
+        "word": "your",
+        "startMs": 940,
+        "endMs": 1140
+      },
+      {
+        "word": "pocket",
+        "startMs": 1140,
+        "endMs": 1540
+      },
+      {
+        "word": "is",
+        "startMs": 1540,
+        "endMs": 2020
+      },
+      {
+        "word": "not",
+        "startMs": 2020,
+        "endMs": 2500
+      },
+      {
+        "word": "a",
+        "startMs": 2500,
+        "endMs": 2800
+      },
+      {
+        "word": "tower",
+        "startMs": 2800,
+        "endMs": 3200
+      },
+      {
+        "word": "of",
+        "startMs": 3200,
+        "endMs": 3500
+      },
+      {
+        "word": "disks.",
+        "startMs": 3500,
+        "endMs": 3920
+      },
+      {
+        "word": "A",
+        "startMs": 4300,
+        "endMs": 4800
+      },
+      {
+        "word": "modern",
+        "startMs": 4800,
+        "endMs": 5180
+      },
+      {
+        "word": "resistor",
+        "startMs": 5180,
+        "endMs": 5640
+      },
+      {
+        "word": "is",
+        "startMs": 5640,
+        "endMs": 6100
+      },
+      {
+        "word": "carbon",
+        "startMs": 6100,
+        "endMs": 6740
+      },
+      {
+        "word": "baked",
+        "startMs": 6740,
+        "endMs": 7320
+      },
+      {
+        "word": "onto",
+        "startMs": 7320,
+        "endMs": 7740
+      },
+      {
+        "word": "ceramic",
+        "startMs": 7740,
+        "endMs": 8260
+      },
+      {
+        "word": "with",
+        "startMs": 8260,
+        "endMs": 8960
+      },
+      {
+        "word": "no",
+        "startMs": 8960,
+        "endMs": 9460
+      },
+      {
+        "word": "wire",
+        "startMs": 9460,
+        "endMs": 9980
+      },
+      {
+        "word": "in",
+        "startMs": 9980,
+        "endMs": 10340
+      },
+      {
+        "word": "it",
+        "startMs": 10340,
+        "endMs": 10520
+      },
+      {
+        "word": "anywhere.",
+        "startMs": 10520,
+        "endMs": 10960
+      }
+    ],
+    "heard": "The battery in your pocket is not a tower of disks. A modern resistor is carbon baked onto ceramic with no wire in it anywhere.",
+    "script": "The battery in your pocket is not a tower of discs. A modern resistor is carbon baked onto ceramic, with no wire in it anywhere."
+  },
+  "s13.persist": {
+    "durationMs": 10600,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "drawings",
+        "startMs": 200,
+        "endMs": 740
+      },
+      {
+        "word": "outlived",
+        "startMs": 740,
+        "endMs": 1680
+      },
+      {
+        "word": "the",
+        "startMs": 1680,
+        "endMs": 1960
+      },
+      {
+        "word": "things",
+        "startMs": 1960,
+        "endMs": 2280
+      },
+      {
+        "word": "they",
+        "startMs": 2280,
+        "endMs": 2520
+      },
+      {
+        "word": "drew.",
+        "startMs": 2520,
+        "endMs": 2860
+      },
+      {
+        "word": "An",
+        "startMs": 3260,
+        "endMs": 3740
+      },
+      {
+        "word": "engineer",
+        "startMs": 3740,
+        "endMs": 4280
+      },
+      {
+        "word": "today",
+        "startMs": 4280,
+        "endMs": 4680
+      },
+      {
+        "word": "sketches",
+        "startMs": 4680,
+        "endMs": 5360
+      },
+      {
+        "word": "Volta's",
+        "startMs": 5360,
+        "endMs": 6000
+      },
+      {
+        "word": "tower",
+        "startMs": 6000,
+        "endMs": 6360
+      },
+      {
+        "word": "to",
+        "startMs": 6360,
+        "endMs": 6800
+      },
+      {
+        "word": "mean",
+        "startMs": 6800,
+        "endMs": 7060
+      },
+      {
+        "word": "a",
+        "startMs": 7060,
+        "endMs": 7320
+      },
+      {
+        "word": "lithium",
+        "startMs": 7320,
+        "endMs": 7560
+      },
+      {
+        "word": "cell,",
+        "startMs": 7560,
+        "endMs": 8060
+      },
+      {
+        "word": "and",
+        "startMs": 8300,
+        "endMs": 8660
+      },
+      {
+        "word": "everyone",
+        "startMs": 8660,
+        "endMs": 9220
+      },
+      {
+        "word": "understands.",
+        "startMs": 9220,
+        "endMs": 10060
+      }
+    ],
+    "heard": "The drawings outlived the things they drew. An engineer today sketches Volta's tower to mean a lithium cell, and everyone understands.",
+    "script": "The drawings outlived the things they drew. An engineer today sketches Volta's tower to mean a lithium cell, and everyone understands."
+  },
+  "s14.recap": {
+    "durationMs": 10840,
+    "words": [
+      {
+        "word": "a",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "tower",
+        "startMs": 120,
+        "endMs": 540
+      },
+      {
+        "word": "of",
+        "startMs": 540,
+        "endMs": 980
+      },
+      {
+        "word": "disks,",
+        "startMs": 980,
+        "endMs": 1460
+      },
+      {
+        "word": "a",
+        "startMs": 1960,
+        "endMs": 2460
+      },
+      {
+        "word": "coil",
+        "startMs": 2460,
+        "endMs": 2840
+      },
+      {
+        "word": "of",
+        "startMs": 2840,
+        "endMs": 3260
+      },
+      {
+        "word": "wire,",
+        "startMs": 3260,
+        "endMs": 3640
+      },
+      {
+        "word": "a",
+        "startMs": 4140,
+        "endMs": 4540
+      },
+      {
+        "word": "wire",
+        "startMs": 4540,
+        "endMs": 4920
+      },
+      {
+        "word": "folded",
+        "startMs": 4920,
+        "endMs": 5540
+      },
+      {
+        "word": "back",
+        "startMs": 5540,
+        "endMs": 5960
+      },
+      {
+        "word": "on",
+        "startMs": 5960,
+        "endMs": 6300
+      },
+      {
+        "word": "itself,",
+        "startMs": 6300,
+        "endMs": 6800
+      },
+      {
+        "word": "two",
+        "startMs": 7500,
+        "endMs": 7720
+      },
+      {
+        "word": "plates",
+        "startMs": 7720,
+        "endMs": 8200
+      },
+      {
+        "word": "facing",
+        "startMs": 8200,
+        "endMs": 8800
+      },
+      {
+        "word": "each",
+        "startMs": 8800,
+        "endMs": 9040
+      },
+      {
+        "word": "other",
+        "startMs": 9040,
+        "endMs": 9300
+      },
+      {
+        "word": "across",
+        "startMs": 9300,
+        "endMs": 9820
+      },
+      {
+        "word": "a",
+        "startMs": 9820,
+        "endMs": 10220
+      },
+      {
+        "word": "gap.",
+        "startMs": 10220,
+        "endMs": 10460
+      }
+    ],
+    "heard": "a tower of disks, a coil of wire, a wire folded back on itself, two plates facing each other across a gap.",
+    "script": "A tower of discs. A coil of wire. A wire folded back on itself. Two plates facing each other across a gap."
+  },
+  "s15.close": {
+    "durationMs": 9760,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "circuit",
+        "startMs": 120,
+        "endMs": 460
+      },
+      {
+        "word": "diagram",
+        "startMs": 460,
+        "endMs": 960
+      },
+      {
+        "word": "is",
+        "startMs": 960,
+        "endMs": 1540
+      },
+      {
+        "word": "not",
+        "startMs": 1540,
+        "endMs": 1920
+      },
+      {
+        "word": "notation.",
+        "startMs": 1920,
+        "endMs": 2500
+      },
+      {
+        "word": "It",
+        "startMs": 2960,
+        "endMs": 3340
+      },
+      {
+        "word": "is",
+        "startMs": 3340,
+        "endMs": 3700
+      },
+      {
+        "word": "a",
+        "startMs": 3700,
+        "endMs": 4000
+      },
+      {
+        "word": "museum.",
+        "startMs": 4000,
+        "endMs": 4600
+      },
+      {
+        "word": "And",
+        "startMs": 5040,
+        "endMs": 5520
+      },
+      {
+        "word": "everybody",
+        "startMs": 5520,
+        "endMs": 6200
+      },
+      {
+        "word": "who",
+        "startMs": 6200,
+        "endMs": 6580
+      },
+      {
+        "word": "draws",
+        "startMs": 6580,
+        "endMs": 6880
+      },
+      {
+        "word": "one",
+        "startMs": 6880,
+        "endMs": 7200
+      },
+      {
+        "word": "is",
+        "startMs": 7200,
+        "endMs": 7580
+      },
+      {
+        "word": "still",
+        "startMs": 7580,
+        "endMs": 8040
+      },
+      {
+        "word": "drawing",
+        "startMs": 8040,
+        "endMs": 8540
+      },
+      {
+        "word": "the",
+        "startMs": 8540,
+        "endMs": 8800
+      },
+      {
+        "word": "exhibits.",
+        "startMs": 8800,
+        "endMs": 9180
+      }
+    ],
+    "heard": "A circuit diagram is not notation. It is a museum. And everybody who draws one is still drawing the exhibits.",
+    "script": "A circuit diagram is not notation. It is a museum, and everybody who draws one is still drawing the exhibits."
+  }
+}

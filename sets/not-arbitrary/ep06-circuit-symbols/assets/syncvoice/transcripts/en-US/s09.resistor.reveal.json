@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s09.resistor.reveal",
+  "text": "Draw that folded path flat on the page, and it is a zigzag. Every peak in it is one fold of the wire.",
+  "durationMs": 8400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1560,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1760,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1760,
+      "endMs": 1960,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2160,
+      "startChar": 34,
+      "endChar": 40
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2720,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3240,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3480,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3800,
+      "startChar": 50,
+      "endChar": 52
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4000,
+      "startChar": 52,
+      "endChar": 60
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4920,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 4920,
+      "endMs": 4995,
+      "startChar": 66,
+      "endChar": 71
+    },
+    {
+      "startMs": 4995,
+      "endMs": 5080,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 5080,
+      "endMs": 6160,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6440,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6880,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7200,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7360,
+      "startChar": 89,
+      "endChar": 92
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7520,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7720,
+      "startChar": 96,
+      "endChar": 101
+    }
+  ]
+}

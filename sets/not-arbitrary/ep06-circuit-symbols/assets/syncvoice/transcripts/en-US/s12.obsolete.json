@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s12.obsolete",
+  "text": "The battery in your pocket is not a tower of discs. A modern resistor is carbon baked onto ceramic, with no wire in it anywhere.",
+  "durationMs": 11480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1160,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1800,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2200,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2440,
+      "startChar": 34,
+      "endChar": 36
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2680,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3360,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3520,
+      "startChar": 45,
+      "endChar": 52
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3860,
+      "startChar": 52,
+      "endChar": 54
+    },
+    {
+      "startMs": 3860,
+      "endMs": 4200,
+      "startChar": 54,
+      "endChar": 61
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4280,
+      "startChar": 61,
+      "endChar": 70
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4440,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 4440,
+      "endMs": 6240,
+      "startChar": 73,
+      "endChar": 80
+    },
+    {
+      "startMs": 6240,
+      "endMs": 7040,
+      "startChar": 80,
+      "endChar": 86
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7480,
+      "startChar": 86,
+      "endChar": 91
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7840,
+      "startChar": 91,
+      "endChar": 100
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8560,
+      "startChar": 100,
+      "endChar": 105
+    },
+    {
+      "startMs": 8560,
+      "endMs": 9120,
+      "startChar": 105,
+      "endChar": 108
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9600,
+      "startChar": 108,
+      "endChar": 113
+    },
+    {
+      "startMs": 9600,
+      "endMs": 10160,
+      "startChar": 113,
+      "endChar": 116
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10360,
+      "startChar": 116,
+      "endChar": 119
+    },
+    {
+      "startMs": 10360,
+      "endMs": 10600,
+      "startChar": 119,
+      "endChar": 128
+    }
+  ]
+}

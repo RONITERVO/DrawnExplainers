@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s02.pile.draw",
+  "text": "In seventeen ninety nine, Alessandro Volta stacked discs of metal. Zinc, then copper, then cloth soaked in brine, and again, until he had a little tower of them.",
+  "durationMs": 12960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1280,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1800,
+      "startChar": 26,
+      "endChar": 37
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2760,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3360,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3960,
+      "startChar": 51,
+      "endChar": 57
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4200,
+      "startChar": 57,
+      "endChar": 60
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4440,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5000,
+      "startChar": 67,
+      "endChar": 73
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5080,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5240,
+      "startChar": 78,
+      "endChar": 86
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6120,
+      "startChar": 86,
+      "endChar": 91
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6720,
+      "startChar": 91,
+      "endChar": 97
+    },
+    {
+      "startMs": 6720,
+      "endMs": 7240,
+      "startChar": 97,
+      "endChar": 104
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8000,
+      "startChar": 104,
+      "endChar": 107
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8760,
+      "startChar": 107,
+      "endChar": 114
+    },
+    {
+      "startMs": 8760,
+      "endMs": 9360,
+      "startChar": 114,
+      "endChar": 118
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9435,
+      "startChar": 118,
+      "endChar": 125
+    },
+    {
+      "startMs": 9435,
+      "endMs": 10480,
+      "startChar": 125,
+      "endChar": 131
+    },
+    {
+      "startMs": 10480,
+      "endMs": 11080,
+      "startChar": 131,
+      "endChar": 134
+    },
+    {
+      "startMs": 11080,
+      "endMs": 11280,
+      "startChar": 134,
+      "endChar": 138
+    },
+    {
+      "startMs": 11280,
+      "endMs": 11440,
+      "startChar": 138,
+      "endChar": 140
+    },
+    {
+      "startMs": 11440,
+      "endMs": 11600,
+      "startChar": 140,
+      "endChar": 147
+    },
+    {
+      "startMs": 11600,
+      "endMs": 12040,
+      "startChar": 147,
+      "endChar": 153
+    },
+    {
+      "startMs": 12040,
+      "endMs": 12240,
+      "startChar": 153,
+      "endChar": 156
+    },
+    {
+      "startMs": 12240,
+      "endMs": 12440,
+      "startChar": 156,
+      "endChar": 161
+    }
+  ]
+}
