@@ -29,6 +29,10 @@ out.mp4
 *oauth*client*.json
 youtube-token.json
 
-# out-clips*/ IS tracked: work in progress on a TikTok cut with a narrating
-# person around the film. Needs core.longpaths (set in this repo's config) -
-# the clip names exceed the Windows path limit git can otherwise index.
+# Media lives outside git. These are either regenerable from what IS tracked
+# (out-clips-talking-face-v3 from out.mp4 via tools/make-speech-clips-v3.mjs;
+# vertical-notebook from those via tools/Notebook-Compositor) or generated and
+# archived elsewhere (out-clips-talking-face-only-video, from Google video gen -
+# irreplaceable, so it belongs in the media store, not in history).
+**/vertical-notebook/
+**/out-clips-talking-face*/
