@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s13.recap",
+  "text": "None of this was designed. It was cut, halved, closed and opened again by people who needed to count things long before they thought to spell them.",
+  "durationMs": 10840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 300,
+      "endMs": 1120,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1920,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1920,
+      "endMs": 1995,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1995,
+      "endMs": 2680,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3320,
+      "startChar": 39,
+      "endChar": 47
+    },
+    {
+      "startMs": 3320,
+      "endMs": 4200,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5120,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5600,
+      "startChar": 58,
+      "endChar": 65
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5880,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6280,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6520,
+      "startChar": 74,
+      "endChar": 81
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6960,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7160,
+      "startChar": 85,
+      "endChar": 92
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7380,
+      "startChar": 92,
+      "endChar": 95
+    },
+    {
+      "startMs": 7380,
+      "endMs": 7600,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 7600,
+      "endMs": 8120,
+      "startChar": 101,
+      "endChar": 108
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8600,
+      "startChar": 108,
+      "endChar": 113
+    },
+    {
+      "startMs": 8600,
+      "endMs": 9160,
+      "startChar": 113,
+      "endChar": 120
+    },
+    {
+      "startMs": 9160,
+      "endMs": 9320,
+      "startChar": 120,
+      "endChar": 125
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9480,
+      "startChar": 125,
+      "endChar": 133
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9680,
+      "startChar": 133,
+      "endChar": 136
+    },
+    {
+      "startMs": 9680,
+      "endMs": 9880,
+      "startChar": 136,
+      "endChar": 142
+    },
+    {
+      "startMs": 9880,
+      "endMs": 10240,
+      "startChar": 142,
+      "endChar": 147
+    }
+  ]
+}

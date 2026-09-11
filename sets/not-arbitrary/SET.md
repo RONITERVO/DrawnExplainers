@@ -61,6 +61,11 @@ for whoever wants them.
 - **A source is a drawing; a mark is an object.** Outline for the thing it used
   to be, `ink()` then `flood()` for the thing it became. Episode 5 runs the same
   horse ring through both and the difference is the whole argument of that shot.
+- **A word that is a homophone of a commoner word is a script defect, not an
+  audio one.** Episode 7 wrote "that halving is not a trick played once" and
+  Whisper heard "having" - correctly, because *halve* has a silent L. No
+  pronunciation note can fix that, and no listener could separate them either.
+  Rewrite the line; the alignment pass is what tells you the line needs it.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -73,6 +78,7 @@ for whoever wants them.
 | 04 | The Treble Clef Is a Letter G | 2:56 | rendered |
 | 05 | The Bishop Is an Elephant | 2:55 | rendered |
 | 06 | Circuit Diagrams Are a Museum | 2:48 | rendered |
+| 07 | Roman Numerals Are Not Letters | 2:36 | rendered |
 
 ## Candidates for later episodes
 
@@ -83,7 +89,10 @@ someone else's set:
 - The dollar sign is a P over an S
 - The @ sign is *ad* written in one stroke
 - Arabic numerals and the angle-counting story (worth fact-checking: the
-  popular version is largely myth, which could itself be the episode)
+  popular version is largely myth, which could itself be the episode). Note
+  that episode 7 did the Roman numerals and found the opposite situation - a
+  scholarly derivation with real morphs in it, and the folk story (C for
+  centum) displaced as a side effect rather than as the subject.
 - Why the pound sign for weight is `lb`
 - The paisley on a tie is a Kashmiri boteh (fails gate 3 as it stands: the
   source and the mark are the same motif, so there is nothing to watch change)

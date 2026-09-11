@@ -1,0 +1,1930 @@
+{
+  "s01.hook": {
+    "durationMs": 10280,
+    "words": [
+      {
+        "word": "Roman",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "numerals",
+        "startMs": 320,
+        "endMs": 900
+      },
+      {
+        "word": "are",
+        "startMs": 900,
+        "endMs": 1240
+      },
+      {
+        "word": "not",
+        "startMs": 1240,
+        "endMs": 1660
+      },
+      {
+        "word": "letters.",
+        "startMs": 1660,
+        "endMs": 2060
+      },
+      {
+        "word": "We",
+        "startMs": 2240,
+        "endMs": 2900
+      },
+      {
+        "word": "read",
+        "startMs": 2900,
+        "endMs": 3180
+      },
+      {
+        "word": "them",
+        "startMs": 3180,
+        "endMs": 3360
+      },
+      {
+        "word": "as",
+        "startMs": 3360,
+        "endMs": 3520
+      },
+      {
+        "word": "letters,",
+        "startMs": 3520,
+        "endMs": 3820
+      },
+      {
+        "word": "and",
+        "startMs": 3820,
+        "endMs": 4300
+      },
+      {
+        "word": "the",
+        "startMs": 4300,
+        "endMs": 4420
+      },
+      {
+        "word": "Romans",
+        "startMs": 4420,
+        "endMs": 4720
+      },
+      {
+        "word": "eventually",
+        "startMs": 4720,
+        "endMs": 5160
+      },
+      {
+        "word": "did",
+        "startMs": 5160,
+        "endMs": 5540
+      },
+      {
+        "word": "too.",
+        "startMs": 5540,
+        "endMs": 5800
+      },
+      {
+        "word": "But",
+        "startMs": 5980,
+        "endMs": 6440
+      },
+      {
+        "word": "every",
+        "startMs": 6440,
+        "endMs": 6900
+      },
+      {
+        "word": "one",
+        "startMs": 6900,
+        "endMs": 7180
+      },
+      {
+        "word": "was",
+        "startMs": 7180,
+        "endMs": 7600
+      },
+      {
+        "word": "a",
+        "startMs": 7600,
+        "endMs": 7720
+      },
+      {
+        "word": "shape",
+        "startMs": 7720,
+        "endMs": 8220
+      },
+      {
+        "word": "before",
+        "startMs": 8220,
+        "endMs": 8640
+      },
+      {
+        "word": "the",
+        "startMs": 8640,
+        "endMs": 8860
+      },
+      {
+        "word": "alphabet",
+        "startMs": 8860,
+        "endMs": 9260
+      },
+      {
+        "word": "got",
+        "startMs": 9260,
+        "endMs": 9660
+      },
+      {
+        "word": "near",
+        "startMs": 9660,
+        "endMs": 9860
+      },
+      {
+        "word": "it.",
+        "startMs": 9860,
+        "endMs": 10060
+      }
+    ],
+    "heard": "Roman numerals are not letters. We read them as letters, and the Romans eventually did too. But every one was a shape before the alphabet got near it.",
+    "script": "Roman numerals are not letters. We read them as letters, and the Romans eventually did too. But every one was a shape before the alphabet got near it."
+  },
+  "s02.stick": {
+    "durationMs": 10200,
+    "words": [
+      {
+        "word": "Start",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "with",
+        "startMs": 320,
+        "endMs": 680
+      },
+      {
+        "word": "a",
+        "startMs": 680,
+        "endMs": 920
+      },
+      {
+        "word": "shepherd",
+        "startMs": 920,
+        "endMs": 1280
+      },
+      {
+        "word": "and",
+        "startMs": 1280,
+        "endMs": 1860
+      },
+      {
+        "word": "a",
+        "startMs": 1860,
+        "endMs": 1980
+      },
+      {
+        "word": "stick.",
+        "startMs": 1980,
+        "endMs": 2320
+      },
+      {
+        "word": "Count",
+        "startMs": 2600,
+        "endMs": 3180
+      },
+      {
+        "word": "the",
+        "startMs": 3180,
+        "endMs": 3380
+      },
+      {
+        "word": "flock",
+        "startMs": 3380,
+        "endMs": 3740
+      },
+      {
+        "word": "past",
+        "startMs": 3740,
+        "endMs": 4140
+      },
+      {
+        "word": "you",
+        "startMs": 4140,
+        "endMs": 4400
+      },
+      {
+        "word": "at",
+        "startMs": 4400,
+        "endMs": 4640
+      },
+      {
+        "word": "dusk",
+        "startMs": 4640,
+        "endMs": 5100
+      },
+      {
+        "word": "and",
+        "startMs": 5100,
+        "endMs": 5520
+      },
+      {
+        "word": "cut",
+        "startMs": 5520,
+        "endMs": 5820
+      },
+      {
+        "word": "one",
+        "startMs": 5820,
+        "endMs": 6200
+      },
+      {
+        "word": "notch",
+        "startMs": 6200,
+        "endMs": 6620
+      },
+      {
+        "word": "for",
+        "startMs": 6620,
+        "endMs": 6900
+      },
+      {
+        "word": "each",
+        "startMs": 6900,
+        "endMs": 7180
+      },
+      {
+        "word": "animal.",
+        "startMs": 7180,
+        "endMs": 7620
+      },
+      {
+        "word": "That",
+        "startMs": 7860,
+        "endMs": 8520
+      },
+      {
+        "word": "is",
+        "startMs": 8520,
+        "endMs": 8860
+      },
+      {
+        "word": "the",
+        "startMs": 8860,
+        "endMs": 9060
+      },
+      {
+        "word": "first",
+        "startMs": 9060,
+        "endMs": 9320
+      },
+      {
+        "word": "numeral.",
+        "startMs": 9320,
+        "endMs": 9760
+      }
+    ],
+    "heard": "Start with a shepherd and a stick. Count the flock past you at dusk and cut one notch for each animal. That is the first numeral.",
+    "script": "Start with a shepherd and a stick. Count the flock past you at dusk and cut one notch for each animal. That is the first numeral."
+  },
+  "s03.notch": {
+    "durationMs": 10040,
+    "words": [
+      {
+        "word": "Reading",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "a",
+        "startMs": 380,
+        "endMs": 680
+      },
+      {
+        "word": "row",
+        "startMs": 680,
+        "endMs": 1100
+      },
+      {
+        "word": "of",
+        "startMs": 1100,
+        "endMs": 1480
+      },
+      {
+        "word": "identical",
+        "startMs": 1480,
+        "endMs": 2220
+      },
+      {
+        "word": "notches",
+        "startMs": 2220,
+        "endMs": 2940
+      },
+      {
+        "word": "is",
+        "startMs": 2940,
+        "endMs": 3300
+      },
+      {
+        "word": "slow",
+        "startMs": 3300,
+        "endMs": 3720
+      },
+      {
+        "word": "work,",
+        "startMs": 3720,
+        "endMs": 4140
+      },
+      {
+        "word": "so",
+        "startMs": 4300,
+        "endMs": 4800
+      },
+      {
+        "word": "the",
+        "startMs": 4800,
+        "endMs": 5120
+      },
+      {
+        "word": "fifth",
+        "startMs": 5120,
+        "endMs": 5460
+      },
+      {
+        "word": "one",
+        "startMs": 5460,
+        "endMs": 5760
+      },
+      {
+        "word": "gets",
+        "startMs": 5760,
+        "endMs": 6160
+      },
+      {
+        "word": "a",
+        "startMs": 6160,
+        "endMs": 6420
+      },
+      {
+        "word": "different",
+        "startMs": 6420,
+        "endMs": 6660
+      },
+      {
+        "word": "cut,",
+        "startMs": 6660,
+        "endMs": 7000
+      },
+      {
+        "word": "and",
+        "startMs": 7120,
+        "endMs": 7520
+      },
+      {
+        "word": "the",
+        "startMs": 7520,
+        "endMs": 7660
+      },
+      {
+        "word": "tenth",
+        "startMs": 7660,
+        "endMs": 7940
+      },
+      {
+        "word": "gets",
+        "startMs": 7940,
+        "endMs": 8460
+      },
+      {
+        "word": "cut",
+        "startMs": 8460,
+        "endMs": 8840
+      },
+      {
+        "word": "clean",
+        "startMs": 8840,
+        "endMs": 9180
+      },
+      {
+        "word": "across.",
+        "startMs": 9180,
+        "endMs": 9500
+      }
+    ],
+    "heard": "Reading a row of identical notches is slow work, so the fifth one gets a different cut, and the tenth gets cut clean across.",
+    "script": "Reading a row of identical notches is slow work, so the fifth one gets a different cut, and the tenth gets cut clean across."
+  },
+  "s04.ten": {
+    "durationMs": 10720,
+    "words": [
+      {
+        "word": "Lift",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "that",
+        "startMs": 360,
+        "endMs": 760
+      },
+      {
+        "word": "crossed",
+        "startMs": 760,
+        "endMs": 1400
+      },
+      {
+        "word": "notch",
+        "startMs": 1400,
+        "endMs": 1980
+      },
+      {
+        "word": "off",
+        "startMs": 1980,
+        "endMs": 2340
+      },
+      {
+        "word": "the",
+        "startMs": 2340,
+        "endMs": 2500
+      },
+      {
+        "word": "wood",
+        "startMs": 2500,
+        "endMs": 2800
+      },
+      {
+        "word": "and",
+        "startMs": 2800,
+        "endMs": 3320
+      },
+      {
+        "word": "put",
+        "startMs": 3320,
+        "endMs": 3580
+      },
+      {
+        "word": "it",
+        "startMs": 3580,
+        "endMs": 3720
+      },
+      {
+        "word": "on",
+        "startMs": 3720,
+        "endMs": 3840
+      },
+      {
+        "word": "a",
+        "startMs": 3840,
+        "endMs": 3940
+      },
+      {
+        "word": "page.",
+        "startMs": 3940,
+        "endMs": 4280
+      },
+      {
+        "word": "Nothing",
+        "startMs": 4600,
+        "endMs": 5240
+      },
+      {
+        "word": "has",
+        "startMs": 5240,
+        "endMs": 5500
+      },
+      {
+        "word": "changed.",
+        "startMs": 5500,
+        "endMs": 5920
+      },
+      {
+        "word": "That",
+        "startMs": 6260,
+        "endMs": 6800
+      },
+      {
+        "word": "is",
+        "startMs": 6800,
+        "endMs": 7040
+      },
+      {
+        "word": "still",
+        "startMs": 7040,
+        "endMs": 7440
+      },
+      {
+        "word": "the",
+        "startMs": 7440,
+        "endMs": 7720
+      },
+      {
+        "word": "cut",
+        "startMs": 7720,
+        "endMs": 8040
+      },
+      {
+        "word": "for",
+        "startMs": 8040,
+        "endMs": 8340
+      },
+      {
+        "word": "ten,",
+        "startMs": 8340,
+        "endMs": 8680
+      },
+      {
+        "word": "straight",
+        "startMs": 9000,
+        "endMs": 9440
+      },
+      {
+        "word": "out",
+        "startMs": 9440,
+        "endMs": 9860
+      },
+      {
+        "word": "of",
+        "startMs": 9860,
+        "endMs": 9980
+      },
+      {
+        "word": "the",
+        "startMs": 9980,
+        "endMs": 10080
+      },
+      {
+        "word": "wood.",
+        "startMs": 10080,
+        "endMs": 10320
+      }
+    ],
+    "heard": "Lift that crossed notch off the wood and put it on a page. Nothing has changed. That is still the cut for ten, straight out of the wood.",
+    "script": "Lift that crossed notch off the wood and put it on a page. Nothing has changed. That is still the cut for ten, straight out of the wood."
+  },
+  "s05.half": {
+    "durationMs": 10320,
+    "words": [
+      {
+        "word": "Cutting",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "a",
+        "startMs": 320,
+        "endMs": 540
+      },
+      {
+        "word": "sign",
+        "startMs": 540,
+        "endMs": 960
+      },
+      {
+        "word": "in",
+        "startMs": 960,
+        "endMs": 1240
+      },
+      {
+        "word": "half",
+        "startMs": 1240,
+        "endMs": 1580
+      },
+      {
+        "word": "is",
+        "startMs": 1580,
+        "endMs": 2000
+      },
+      {
+        "word": "not",
+        "startMs": 2000,
+        "endMs": 2400
+      },
+      {
+        "word": "a",
+        "startMs": 2400,
+        "endMs": 2700
+      },
+      {
+        "word": "trick",
+        "startMs": 2700,
+        "endMs": 3100
+      },
+      {
+        "word": "played",
+        "startMs": 3100,
+        "endMs": 3460
+      },
+      {
+        "word": "once.",
+        "startMs": 3460,
+        "endMs": 3900
+      },
+      {
+        "word": "It",
+        "startMs": 4100,
+        "endMs": 4560
+      },
+      {
+        "word": "is",
+        "startMs": 4560,
+        "endMs": 4740
+      },
+      {
+        "word": "the",
+        "startMs": 4740,
+        "endMs": 4960
+      },
+      {
+        "word": "rule",
+        "startMs": 4960,
+        "endMs": 5380
+      },
+      {
+        "word": "the",
+        "startMs": 5380,
+        "endMs": 5720
+      },
+      {
+        "word": "whole",
+        "startMs": 5720,
+        "endMs": 6120
+      },
+      {
+        "word": "system",
+        "startMs": 6120,
+        "endMs": 6720
+      },
+      {
+        "word": "runs",
+        "startMs": 6720,
+        "endMs": 7060
+      },
+      {
+        "word": "on,",
+        "startMs": 7060,
+        "endMs": 7360
+      },
+      {
+        "word": "long",
+        "startMs": 7500,
+        "endMs": 8040
+      },
+      {
+        "word": "after",
+        "startMs": 8040,
+        "endMs": 8500
+      },
+      {
+        "word": "the",
+        "startMs": 8500,
+        "endMs": 8740
+      },
+      {
+        "word": "stick",
+        "startMs": 8740,
+        "endMs": 9040
+      },
+      {
+        "word": "itself",
+        "startMs": 9040,
+        "endMs": 9480
+      },
+      {
+        "word": "is",
+        "startMs": 9480,
+        "endMs": 9740
+      },
+      {
+        "word": "gone.",
+        "startMs": 9740,
+        "endMs": 9980
+      }
+    ],
+    "heard": "Cutting a sign in half is not a trick played once. It is the rule the whole system runs on, long after the stick itself is gone.",
+    "script": "Cutting a sign in half is not a trick played once. It is the rule the whole system runs on, long after the stick itself is gone."
+  },
+  "s06.star": {
+    "durationMs": 9480,
+    "words": [
+      {
+        "word": "Rome",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "learned",
+        "startMs": 320,
+        "endMs": 700
+      },
+      {
+        "word": "to",
+        "startMs": 700,
+        "endMs": 900
+      },
+      {
+        "word": "count",
+        "startMs": 900,
+        "endMs": 1240
+      },
+      {
+        "word": "from",
+        "startMs": 1240,
+        "endMs": 1620
+      },
+      {
+        "word": "the",
+        "startMs": 1620,
+        "endMs": 1840
+      },
+      {
+        "word": "Etruscans,",
+        "startMs": 1840,
+        "endMs": 2460
+      },
+      {
+        "word": "who",
+        "startMs": 2640,
+        "endMs": 2960
+      },
+      {
+        "word": "wrote",
+        "startMs": 2960,
+        "endMs": 3320
+      },
+      {
+        "word": "100",
+        "startMs": 3320,
+        "endMs": 3780
+      },
+      {
+        "word": "as",
+        "startMs": 3780,
+        "endMs": 4360
+      },
+      {
+        "word": "a",
+        "startMs": 4360,
+        "endMs": 4540
+      },
+      {
+        "word": "star.",
+        "startMs": 4540,
+        "endMs": 4880
+      },
+      {
+        "word": "Cut",
+        "startMs": 5180,
+        "endMs": 5740
+      },
+      {
+        "word": "the",
+        "startMs": 5740,
+        "endMs": 5900
+      },
+      {
+        "word": "star",
+        "startMs": 5900,
+        "endMs": 6160
+      },
+      {
+        "word": "in",
+        "startMs": 6160,
+        "endMs": 6400
+      },
+      {
+        "word": "half,",
+        "startMs": 6400,
+        "endMs": 6780
+      },
+      {
+        "word": "and",
+        "startMs": 6900,
+        "endMs": 7220
+      },
+      {
+        "word": "their",
+        "startMs": 7220,
+        "endMs": 7520
+      },
+      {
+        "word": "50",
+        "startMs": 7520,
+        "endMs": 7880
+      },
+      {
+        "word": "is",
+        "startMs": 7880,
+        "endMs": 8360
+      },
+      {
+        "word": "what",
+        "startMs": 8360,
+        "endMs": 8660
+      },
+      {
+        "word": "is",
+        "startMs": 8660,
+        "endMs": 8800
+      },
+      {
+        "word": "left.",
+        "startMs": 8800,
+        "endMs": 9080
+      }
+    ],
+    "heard": "Rome learned to count from the Etruscans, who wrote 100 as a star. Cut the star in half, and their 50 is what is left.",
+    "script": "Rome learned to count from the Etruscans, who wrote a hundred as a star. Cut the star in half and their fifty is what is left."
+  },
+  "s07.fifty": {
+    "durationMs": 9840,
+    "words": [
+      {
+        "word": "Press",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "that",
+        "startMs": 280,
+        "endMs": 540
+      },
+      {
+        "word": "half",
+        "startMs": 540,
+        "endMs": 840
+      },
+      {
+        "word": "flat,",
+        "startMs": 840,
+        "endMs": 1160
+      },
+      {
+        "word": "slide",
+        "startMs": 1440,
+        "endMs": 1960
+      },
+      {
+        "word": "its",
+        "startMs": 1960,
+        "endMs": 2200
+      },
+      {
+        "word": "stem",
+        "startMs": 2200,
+        "endMs": 2480
+      },
+      {
+        "word": "out",
+        "startMs": 2480,
+        "endMs": 2720
+      },
+      {
+        "word": "to",
+        "startMs": 2720,
+        "endMs": 2860
+      },
+      {
+        "word": "the",
+        "startMs": 2860,
+        "endMs": 3000
+      },
+      {
+        "word": "end,",
+        "startMs": 3000,
+        "endMs": 3280
+      },
+      {
+        "word": "and",
+        "startMs": 3440,
+        "endMs": 3880
+      },
+      {
+        "word": "an",
+        "startMs": 3880,
+        "endMs": 4160
+      },
+      {
+        "word": "ordinary",
+        "startMs": 4160,
+        "endMs": 4760
+      },
+      {
+        "word": "Latin",
+        "startMs": 4760,
+        "endMs": 5160
+      },
+      {
+        "word": "letter",
+        "startMs": 5160,
+        "endMs": 5520
+      },
+      {
+        "word": "is",
+        "startMs": 5520,
+        "endMs": 5880
+      },
+      {
+        "word": "standing",
+        "startMs": 5880,
+        "endMs": 6340
+      },
+      {
+        "word": "there,",
+        "startMs": 6340,
+        "endMs": 6660
+      },
+      {
+        "word": "holding",
+        "startMs": 6800,
+        "endMs": 7040
+      },
+      {
+        "word": "a",
+        "startMs": 7040,
+        "endMs": 7440
+      },
+      {
+        "word": "number",
+        "startMs": 7440,
+        "endMs": 7840
+      },
+      {
+        "word": "far",
+        "startMs": 7840,
+        "endMs": 8340
+      },
+      {
+        "word": "older",
+        "startMs": 8340,
+        "endMs": 8720
+      },
+      {
+        "word": "than",
+        "startMs": 8720,
+        "endMs": 9000
+      },
+      {
+        "word": "itself.",
+        "startMs": 9000,
+        "endMs": 9340
+      }
+    ],
+    "heard": "Press that half flat, slide its stem out to the end, and an ordinary Latin letter is standing there, holding a number far older than itself.",
+    "script": "Press that half flat, slide its stem out to the end, and an ordinary Latin letter is standing there holding a number far older than itself."
+  },
+  "s08.thousand": {
+    "durationMs": 10640,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "large",
+        "startMs": 160,
+        "endMs": 640
+      },
+      {
+        "word": "numbers",
+        "startMs": 640,
+        "endMs": 1060
+      },
+      {
+        "word": "were",
+        "startMs": 1060,
+        "endMs": 1480
+      },
+      {
+        "word": "built,",
+        "startMs": 1480,
+        "endMs": 1980
+      },
+      {
+        "word": "not",
+        "startMs": 2220,
+        "endMs": 2600
+      },
+      {
+        "word": "cut.",
+        "startMs": 2600,
+        "endMs": 3060
+      },
+      {
+        "word": "A",
+        "startMs": 3700,
+        "endMs": 3960
+      },
+      {
+        "word": "thousand",
+        "startMs": 3960,
+        "endMs": 4360
+      },
+      {
+        "word": "was",
+        "startMs": 4360,
+        "endMs": 5040
+      },
+      {
+        "word": "an",
+        "startMs": 5040,
+        "endMs": 5380
+      },
+      {
+        "word": "arc,",
+        "startMs": 5380,
+        "endMs": 5780
+      },
+      {
+        "word": "a",
+        "startMs": 6100,
+        "endMs": 6400
+      },
+      {
+        "word": "stroke,",
+        "startMs": 6400,
+        "endMs": 6800
+      },
+      {
+        "word": "and",
+        "startMs": 7160,
+        "endMs": 7640
+      },
+      {
+        "word": "a",
+        "startMs": 7640,
+        "endMs": 7860
+      },
+      {
+        "word": "second",
+        "startMs": 7860,
+        "endMs": 8280
+      },
+      {
+        "word": "arc",
+        "startMs": 8280,
+        "endMs": 8700
+      },
+      {
+        "word": "turned",
+        "startMs": 8700,
+        "endMs": 9200
+      },
+      {
+        "word": "back",
+        "startMs": 9200,
+        "endMs": 9560
+      },
+      {
+        "word": "the",
+        "startMs": 9560,
+        "endMs": 9840
+      },
+      {
+        "word": "other",
+        "startMs": 9840,
+        "endMs": 10040
+      },
+      {
+        "word": "way.",
+        "startMs": 10040,
+        "endMs": 10320
+      }
+    ],
+    "heard": "The large numbers were built, not cut. A thousand was an arc, a stroke, and a second arc turned back the other way.",
+    "script": "The large numbers were built, not cut. A thousand was an arc, a stroke, and a second arc turned back the other way."
+  },
+  "s09.m": {
+    "durationMs": 14840,
+    "words": [
+      {
+        "word": "Push",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "those",
+        "startMs": 320,
+        "endMs": 820
+      },
+      {
+        "word": "three",
+        "startMs": 820,
+        "endMs": 1220
+      },
+      {
+        "word": "together",
+        "startMs": 1220,
+        "endMs": 1880
+      },
+      {
+        "word": "and",
+        "startMs": 1880,
+        "endMs": 2560
+      },
+      {
+        "word": "they",
+        "startMs": 2560,
+        "endMs": 2920
+      },
+      {
+        "word": "close",
+        "startMs": 2920,
+        "endMs": 3420
+      },
+      {
+        "word": "into",
+        "startMs": 3420,
+        "endMs": 3980
+      },
+      {
+        "word": "a",
+        "startMs": 3980,
+        "endMs": 4300
+      },
+      {
+        "word": "ring.",
+        "startMs": 4300,
+        "endMs": 4580
+      },
+      {
+        "word": "Open",
+        "startMs": 5300,
+        "endMs": 6060
+      },
+      {
+        "word": "it",
+        "startMs": 6060,
+        "endMs": 6280
+      },
+      {
+        "word": "out",
+        "startMs": 6280,
+        "endMs": 6620
+      },
+      {
+        "word": "again",
+        "startMs": 6620,
+        "endMs": 7160
+      },
+      {
+        "word": "in",
+        "startMs": 7160,
+        "endMs": 7620
+      },
+      {
+        "word": "a",
+        "startMs": 7620,
+        "endMs": 7860
+      },
+      {
+        "word": "hurry",
+        "startMs": 7860,
+        "endMs": 8240
+      },
+      {
+        "word": "with",
+        "startMs": 8240,
+        "endMs": 8840
+      },
+      {
+        "word": "a",
+        "startMs": 8840,
+        "endMs": 9080
+      },
+      {
+        "word": "pen",
+        "startMs": 9080,
+        "endMs": 9420
+      },
+      {
+        "word": "rather",
+        "startMs": 9420,
+        "endMs": 9900
+      },
+      {
+        "word": "than",
+        "startMs": 9900,
+        "endMs": 10220
+      },
+      {
+        "word": "a",
+        "startMs": 10220,
+        "endMs": 10480
+      },
+      {
+        "word": "chisel",
+        "startMs": 10480,
+        "endMs": 10820
+      },
+      {
+        "word": "and",
+        "startMs": 10820,
+        "endMs": 11700
+      },
+      {
+        "word": "there",
+        "startMs": 11700,
+        "endMs": 12080
+      },
+      {
+        "word": "is",
+        "startMs": 12080,
+        "endMs": 12440
+      },
+      {
+        "word": "the",
+        "startMs": 12440,
+        "endMs": 12640
+      },
+      {
+        "word": "letter",
+        "startMs": 12640,
+        "endMs": 12960
+      },
+      {
+        "word": "we",
+        "startMs": 12960,
+        "endMs": 13420
+      },
+      {
+        "word": "still",
+        "startMs": 13420,
+        "endMs": 13820
+      },
+      {
+        "word": "use.",
+        "startMs": 13820,
+        "endMs": 14460
+      }
+    ],
+    "heard": "Push those three together and they close into a ring. Open it out again in a hurry with a pen rather than a chisel and there is the letter we still use.",
+    "script": "Push those three together and they close into a ring. Open it out again in a hurry, with a pen rather than a chisel, and there is the letter we still use."
+  },
+  "s10.d": {
+    "durationMs": 9000,
+    "words": [
+      {
+        "word": "Rome",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "halved",
+        "startMs": 360,
+        "endMs": 860
+      },
+      {
+        "word": "its",
+        "startMs": 860,
+        "endMs": 1060
+      },
+      {
+        "word": "big",
+        "startMs": 1060,
+        "endMs": 1340
+      },
+      {
+        "word": "signs",
+        "startMs": 1340,
+        "endMs": 1780
+      },
+      {
+        "word": "exactly",
+        "startMs": 1780,
+        "endMs": 2500
+      },
+      {
+        "word": "as",
+        "startMs": 2500,
+        "endMs": 2940
+      },
+      {
+        "word": "it",
+        "startMs": 2940,
+        "endMs": 3100
+      },
+      {
+        "word": "halved",
+        "startMs": 3100,
+        "endMs": 3520
+      },
+      {
+        "word": "the",
+        "startMs": 3520,
+        "endMs": 3680
+      },
+      {
+        "word": "small",
+        "startMs": 3680,
+        "endMs": 3880
+      },
+      {
+        "word": "ones,",
+        "startMs": 3880,
+        "endMs": 4220
+      },
+      {
+        "word": "because",
+        "startMs": 4440,
+        "endMs": 4980
+      },
+      {
+        "word": "half",
+        "startMs": 4980,
+        "endMs": 5400
+      },
+      {
+        "word": "a",
+        "startMs": 5400,
+        "endMs": 5620
+      },
+      {
+        "word": "sign",
+        "startMs": 5620,
+        "endMs": 5880
+      },
+      {
+        "word": "for",
+        "startMs": 5880,
+        "endMs": 6120
+      },
+      {
+        "word": "half",
+        "startMs": 6120,
+        "endMs": 6440
+      },
+      {
+        "word": "a",
+        "startMs": 6440,
+        "endMs": 6600
+      },
+      {
+        "word": "number",
+        "startMs": 6600,
+        "endMs": 6940
+      },
+      {
+        "word": "costs",
+        "startMs": 6940,
+        "endMs": 7580
+      },
+      {
+        "word": "nothing",
+        "startMs": 7580,
+        "endMs": 7980
+      },
+      {
+        "word": "to",
+        "startMs": 7980,
+        "endMs": 8220
+      },
+      {
+        "word": "remember.",
+        "startMs": 8220,
+        "endMs": 8560
+      }
+    ],
+    "heard": "Rome halved its big signs exactly as it halved the small ones, because half a sign for half a number costs nothing to remember.",
+    "script": "Rome halved its big signs exactly as it halved the small ones, because half a sign for half a number costs nothing to remember."
+  },
+  "s11.turn": {
+    "durationMs": 12360,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "here",
+        "startMs": 240,
+        "endMs": 740
+      },
+      {
+        "word": "is",
+        "startMs": 740,
+        "endMs": 1140
+      },
+      {
+        "word": "what",
+        "startMs": 1140,
+        "endMs": 1420
+      },
+      {
+        "word": "actually",
+        "startMs": 1420,
+        "endMs": 1940
+      },
+      {
+        "word": "happened.",
+        "startMs": 1940,
+        "endMs": 2420
+      },
+      {
+        "word": "The",
+        "startMs": 2660,
+        "endMs": 3180
+      },
+      {
+        "word": "shapes",
+        "startMs": 3180,
+        "endMs": 3540
+      },
+      {
+        "word": "came",
+        "startMs": 3540,
+        "endMs": 3920
+      },
+      {
+        "word": "first,",
+        "startMs": 3920,
+        "endMs": 4460
+      },
+      {
+        "word": "off",
+        "startMs": 4660,
+        "endMs": 5060
+      },
+      {
+        "word": "a",
+        "startMs": 5060,
+        "endMs": 5280
+      },
+      {
+        "word": "stick",
+        "startMs": 5280,
+        "endMs": 5720
+      },
+      {
+        "word": "and",
+        "startMs": 5720,
+        "endMs": 6220
+      },
+      {
+        "word": "out",
+        "startMs": 6220,
+        "endMs": 6640
+      },
+      {
+        "word": "of",
+        "startMs": 6640,
+        "endMs": 7000
+      },
+      {
+        "word": "Etruria.",
+        "startMs": 7000,
+        "endMs": 7560
+      },
+      {
+        "word": "The",
+        "startMs": 7940,
+        "endMs": 8520
+      },
+      {
+        "word": "letters",
+        "startMs": 8520,
+        "endMs": 8860
+      },
+      {
+        "word": "drifted",
+        "startMs": 8860,
+        "endMs": 9480
+      },
+      {
+        "word": "in",
+        "startMs": 9480,
+        "endMs": 9780
+      },
+      {
+        "word": "later",
+        "startMs": 9780,
+        "endMs": 10200
+      },
+      {
+        "word": "because",
+        "startMs": 10200,
+        "endMs": 10740
+      },
+      {
+        "word": "they",
+        "startMs": 10740,
+        "endMs": 11240
+      },
+      {
+        "word": "looked",
+        "startMs": 11240,
+        "endMs": 11640
+      },
+      {
+        "word": "alike.",
+        "startMs": 11640,
+        "endMs": 11960
+      }
+    ],
+    "heard": "So here is what actually happened. The shapes came first, off a stick and out of Etruria. The letters drifted in later because they looked alike.",
+    "script": "So here is what actually happened. The shapes came first, off a stick and out of Etruria. The letters drifted in later, because they looked alike."
+  },
+  "s12.words": {
+    "durationMs": 10760,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "were",
+        "startMs": 180,
+        "endMs": 380
+      },
+      {
+        "word": "probably",
+        "startMs": 380,
+        "endMs": 960
+      },
+      {
+        "word": "taught",
+        "startMs": 960,
+        "endMs": 1420
+      },
+      {
+        "word": "that",
+        "startMs": 1420,
+        "endMs": 1680
+      },
+      {
+        "word": "the",
+        "startMs": 1680,
+        "endMs": 1920
+      },
+      {
+        "word": "hundred",
+        "startMs": 1920,
+        "endMs": 2380
+      },
+      {
+        "word": "stands",
+        "startMs": 2380,
+        "endMs": 2940
+      },
+      {
+        "word": "for",
+        "startMs": 2940,
+        "endMs": 3280
+      },
+      {
+        "word": "kentum",
+        "startMs": 3280,
+        "endMs": 4040
+      },
+      {
+        "word": "and",
+        "startMs": 4040,
+        "endMs": 4640
+      },
+      {
+        "word": "the",
+        "startMs": 4640,
+        "endMs": 4820
+      },
+      {
+        "word": "thousand",
+        "startMs": 4820,
+        "endMs": 5280
+      },
+      {
+        "word": "for",
+        "startMs": 5280,
+        "endMs": 5780
+      },
+      {
+        "word": "mille.",
+        "startMs": 5780,
+        "endMs": 6400
+      },
+      {
+        "word": "Both",
+        "startMs": 6700,
+        "endMs": 7080
+      },
+      {
+        "word": "words",
+        "startMs": 7080,
+        "endMs": 7420
+      },
+      {
+        "word": "do",
+        "startMs": 7420,
+        "endMs": 7680
+      },
+      {
+        "word": "mean",
+        "startMs": 7680,
+        "endMs": 7960
+      },
+      {
+        "word": "that.",
+        "startMs": 7960,
+        "endMs": 8260
+      },
+      {
+        "word": "Neither",
+        "startMs": 8460,
+        "endMs": 9000
+      },
+      {
+        "word": "one",
+        "startMs": 9000,
+        "endMs": 9400
+      },
+      {
+        "word": "explains",
+        "startMs": 9400,
+        "endMs": 10000
+      },
+      {
+        "word": "the",
+        "startMs": 10000,
+        "endMs": 10240
+      },
+      {
+        "word": "shape.",
+        "startMs": 10240,
+        "endMs": 10500
+      }
+    ],
+    "heard": "You were probably taught that the hundred stands for kentum and the thousand for mille. Both words do mean that. Neither one explains the shape.",
+    "script": "You were probably taught that the hundred stands for centum and the thousand for mille. Both words do mean that. Neither one explains the shape."
+  },
+  "s13.recap": {
+    "durationMs": 10840,
+    "words": [
+      {
+        "word": "None",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "of",
+        "startMs": 260,
+        "endMs": 400
+      },
+      {
+        "word": "this",
+        "startMs": 400,
+        "endMs": 700
+      },
+      {
+        "word": "was",
+        "startMs": 700,
+        "endMs": 1000
+      },
+      {
+        "word": "designed.",
+        "startMs": 1000,
+        "endMs": 1600
+      },
+      {
+        "word": "It",
+        "startMs": 1900,
+        "endMs": 2360
+      },
+      {
+        "word": "was",
+        "startMs": 2360,
+        "endMs": 2580
+      },
+      {
+        "word": "cut,",
+        "startMs": 2580,
+        "endMs": 3040
+      },
+      {
+        "word": "halved,",
+        "startMs": 3360,
+        "endMs": 4020
+      },
+      {
+        "word": "closed,",
+        "startMs": 4360,
+        "endMs": 4820
+      },
+      {
+        "word": "and",
+        "startMs": 5280,
+        "endMs": 5380
+      },
+      {
+        "word": "opened",
+        "startMs": 5380,
+        "endMs": 5820
+      },
+      {
+        "word": "again",
+        "startMs": 5820,
+        "endMs": 6140
+      },
+      {
+        "word": "by",
+        "startMs": 6140,
+        "endMs": 6460
+      },
+      {
+        "word": "people",
+        "startMs": 6460,
+        "endMs": 6820
+      },
+      {
+        "word": "who",
+        "startMs": 6820,
+        "endMs": 7100
+      },
+      {
+        "word": "needed",
+        "startMs": 7100,
+        "endMs": 7460
+      },
+      {
+        "word": "to",
+        "startMs": 7460,
+        "endMs": 7700
+      },
+      {
+        "word": "count",
+        "startMs": 7700,
+        "endMs": 8040
+      },
+      {
+        "word": "things",
+        "startMs": 8040,
+        "endMs": 8480
+      },
+      {
+        "word": "long",
+        "startMs": 8480,
+        "endMs": 9040
+      },
+      {
+        "word": "before",
+        "startMs": 9040,
+        "endMs": 9380
+      },
+      {
+        "word": "they",
+        "startMs": 9380,
+        "endMs": 9580
+      },
+      {
+        "word": "thought",
+        "startMs": 9580,
+        "endMs": 9780
+      },
+      {
+        "word": "to",
+        "startMs": 9780,
+        "endMs": 9960
+      },
+      {
+        "word": "spell",
+        "startMs": 9960,
+        "endMs": 10180
+      },
+      {
+        "word": "them.",
+        "startMs": 10180,
+        "endMs": 10440
+      }
+    ],
+    "heard": "None of this was designed. It was cut, halved, closed, and opened again by people who needed to count things long before they thought to spell them.",
+    "script": "None of this was designed. It was cut, halved, closed and opened again by people who needed to count things long before they thought to spell them."
+  },
+  "s14.close": {
+    "durationMs": 8040,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "when",
+        "startMs": 280,
+        "endMs": 680
+      },
+      {
+        "word": "you",
+        "startMs": 680,
+        "endMs": 880
+      },
+      {
+        "word": "next",
+        "startMs": 880,
+        "endMs": 1280
+      },
+      {
+        "word": "meet",
+        "startMs": 1280,
+        "endMs": 1600
+      },
+      {
+        "word": "a",
+        "startMs": 1600,
+        "endMs": 1780
+      },
+      {
+        "word": "date",
+        "startMs": 1780,
+        "endMs": 2120
+      },
+      {
+        "word": "written",
+        "startMs": 2120,
+        "endMs": 2440
+      },
+      {
+        "word": "this",
+        "startMs": 2440,
+        "endMs": 2740
+      },
+      {
+        "word": "way,",
+        "startMs": 2740,
+        "endMs": 3020
+      },
+      {
+        "word": "do",
+        "startMs": 3320,
+        "endMs": 3660
+      },
+      {
+        "word": "not",
+        "startMs": 3660,
+        "endMs": 3940
+      },
+      {
+        "word": "read",
+        "startMs": 3940,
+        "endMs": 4200
+      },
+      {
+        "word": "it",
+        "startMs": 4200,
+        "endMs": 4340
+      },
+      {
+        "word": "as",
+        "startMs": 4340,
+        "endMs": 4600
+      },
+      {
+        "word": "Latin.",
+        "startMs": 4600,
+        "endMs": 4940
+      },
+      {
+        "word": "Read",
+        "startMs": 5200,
+        "endMs": 5680
+      },
+      {
+        "word": "it",
+        "startMs": 5680,
+        "endMs": 5900
+      },
+      {
+        "word": "as",
+        "startMs": 5900,
+        "endMs": 6340
+      },
+      {
+        "word": "a",
+        "startMs": 6340,
+        "endMs": 6600
+      },
+      {
+        "word": "stick",
+        "startMs": 6600,
+        "endMs": 6900
+      },
+      {
+        "word": "with",
+        "startMs": 6900,
+        "endMs": 7220
+      },
+      {
+        "word": "cuts",
+        "startMs": 7220,
+        "endMs": 7500
+      },
+      {
+        "word": "in",
+        "startMs": 7500,
+        "endMs": 7680
+      },
+      {
+        "word": "it.",
+        "startMs": 7680,
+        "endMs": 7800
+      }
+    ],
+    "heard": "So when you next meet a date written this way, do not read it as Latin. Read it as a stick with cuts in it.",
+    "script": "So when you next meet a date written this way, do not read it as Latin. Read it as a stick with cuts in it."
+  }
+}

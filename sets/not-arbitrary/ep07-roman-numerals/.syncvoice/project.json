@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep07",
+    "name": "Not Arbitrary 07 — Roman Numerals Are Not Letters",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Roman numerals are not letters. We read them as letters, and the Romans eventually did too. But every one was a shape before the alphabet got near it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, slightly conspiratorial. The first sentence is the hook - state it flatly and let the pause do the work."
+    },
+    {
+      "externalId": "s02.stick",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Start with a shepherd and a stick. Count the flock past you at dusk and cut one notch for each animal. That is the first numeral.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and physical, as if describing someone at work. A small beat before the last sentence."
+    },
+    {
+      "externalId": "s03.notch",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Reading a row of identical notches is slow work, so the fifth one gets a different cut, and the tenth gets cut clean across.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Practical, matter of fact. Land 'across' crisply."
+    },
+    {
+      "externalId": "s04.ten",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Lift that crossed notch off the wood and put it on a page. Nothing has changed. That is still the cut for ten, straight out of the wood.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Do not push the reveal - let the middle sentence sit."
+    },
+    {
+      "externalId": "s05.half",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Cutting a sign in half is not a trick played once. It is the rule the whole system runs on, long after the stick itself is gone.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Building slightly. This is the promise the rest of the film pays off."
+    },
+    {
+      "externalId": "s06.star",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Rome learned to count from the Etruscans, who wrote a hundred as a star. Cut the star in half and their fifty is what is left.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational. Pronounce Etruscans clearly, ih-TRUS-kans, and do not carry that colour into the next word."
+    },
+    {
+      "externalId": "s07.fifty",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Press that half flat, slide its stem out to the end, and an ordinary Latin letter is standing there holding a number far older than itself.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "One continuous thought, no pause until the end. Slight lift on 'older'."
+    },
+    {
+      "externalId": "s08.thousand",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "The large numbers were built, not cut. A thousand was an arc, a stroke, and a second arc turned back the other way.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate, one item at a time, as if drawing each mark while speaking."
+    },
+    {
+      "externalId": "s09.m",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Push those three together and they close into a ring. Open it out again in a hurry, with a pen rather than a chisel, and there is the letter we still use.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried through the middle, then land the final clause with quiet certainty. Open on a clean firm P in 'Push' - do not soften it into a K."
+    },
+    {
+      "externalId": "s10.d",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "Rome halved its big signs exactly as it halved the small ones, because half a sign for half a number costs nothing to remember.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Even and explanatory. The picture is doing the reveal here, so stay out of its way."
+    },
+    {
+      "externalId": "s11.turn",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "So here is what actually happened. The shapes came first, off a stick and out of Etruria. The letters drifted in later, because they looked alike.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "This is the turn. Slow down. Pronounce Etruria as ih-TROOR-ee-uh and keep the following words clean of it."
+    },
+    {
+      "externalId": "s12.words",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "You were probably taught that the hundred stands for centum and the thousand for mille. Both words do mean that. Neither one explains the shape.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gentle, not smug. Latin centum as KEN-tum and mille as MIL-lay, each finished before the next English word begins."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "None of this was designed. It was cut, halved, closed and opened again by people who needed to count things long before they thought to spell them.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm summary. Let the list of verbs breathe."
+    },
+    {
+      "externalId": "s14.close",
+      "scene": "roman-numerals",
+      "speaker": "Narrator",
+      "text": "So when you next meet a date written this way, do not read it as Latin. Read it as a stick with cuts in it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it softly and stop. Do not rush the final sentence."
+    }
+  ]
+}

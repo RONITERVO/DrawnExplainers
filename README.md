@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 6 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 7 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -90,6 +90,15 @@ node lib/build.mjs <ep>
   `tension` below about 0.4 for anything carved, ruled or printed.** At the
   default a Catmull-Rom balloons at every corner; a rook's battlements are
   unreadable until the tension comes down.
+- **`travel()` for a free-standing object, `detach()` for a detail of one.**
+  `travel()` assumes the source owns the page centre and makes room by sliding
+  sideways; a notch in a stick or a pip on a card can do neither, because it
+  starts at its parent's scale and cannot leave its parent. `detach()` grows the
+  copy from source scale to page scale, lets it travel diagonally, and thins the
+  whole parent in place. Also watch `travel()` with a wide source: its
+  trajectory keeps the copy near the source for the first half of the move, so
+  anything much over 400px across needs `from`/`to` spread wider than the usual
+  660/1320 or the ghost and its own copy collide mid-morph.
 - **Never fade a source to zero.** Thin it to about a quarter and leave it where
   it stood. The commonest empty page in these films is the six seconds between a
   mark landing and the narrator finishing, and the commonest cause is having

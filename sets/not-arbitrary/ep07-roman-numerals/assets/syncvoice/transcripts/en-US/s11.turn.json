@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "externalId": "s11.turn",
+  "text": "So here is what actually happened. The shapes came first, off a stick and out of Etruria. The letters drifted in later, because they looked alike.",
+  "durationMs": 12360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 960,
+      "endMs": 1240,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1560,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2040,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2340,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 2340,
+      "endMs": 2640,
+      "startChar": 39,
+      "endChar": 46
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2720,
+      "startChar": 46,
+      "endChar": 51
+    },
+    {
+      "startMs": 2720,
+      "endMs": 4000,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4680,
+      "startChar": 58,
+      "endChar": 62
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4920,
+      "startChar": 62,
+      "endChar": 64
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5160,
+      "startChar": 64,
+      "endChar": 70
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5960,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6400,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 6400,
+      "endMs": 6760,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 6760,
+      "endMs": 7040,
+      "startChar": 81,
+      "endChar": 90
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7440,
+      "startChar": 90,
+      "endChar": 94
+    },
+    {
+      "startMs": 7440,
+      "endMs": 7840,
+      "startChar": 94,
+      "endChar": 102
+    },
+    {
+      "startMs": 7840,
+      "endMs": 7915,
+      "startChar": 102,
+      "endChar": 110
+    },
+    {
+      "startMs": 7915,
+      "endMs": 7990,
+      "startChar": 110,
+      "endChar": 113
+    },
+    {
+      "startMs": 7990,
+      "endMs": 8065,
+      "startChar": 113,
+      "endChar": 120
+    },
+    {
+      "startMs": 8065,
+      "endMs": 10440,
+      "startChar": 120,
+      "endChar": 128
+    },
+    {
+      "startMs": 10440,
+      "endMs": 11040,
+      "startChar": 128,
+      "endChar": 133
+    },
+    {
+      "startMs": 11040,
+      "endMs": 11360,
+      "startChar": 133,
+      "endChar": 140
+    },
+    {
+      "startMs": 11360,
+      "endMs": 11720,
+      "startChar": 140,
+      "endChar": 146
+    }
+  ]
+}

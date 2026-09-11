@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "externalId": "s02.stick",
+  "text": "Start with a shepherd and a stick. Count the flock past you at dusk and cut one notch for each animal. That is the first numeral.",
+  "durationMs": 10200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 300,
+      "endMs": 1640,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1780,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 1780,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2520,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2900,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 2900,
+      "endMs": 3280,
+      "startChar": 45,
+      "endChar": 51
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3840,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4280,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4480,
+      "startChar": 60,
+      "endChar": 63
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4680,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5280,
+      "startChar": 68,
+      "endChar": 72
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5600,
+      "startChar": 72,
+      "endChar": 76
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6000,
+      "startChar": 76,
+      "endChar": 80
+    },
+    {
+      "startMs": 6000,
+      "endMs": 6320,
+      "startChar": 80,
+      "endChar": 86
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6760,
+      "startChar": 86,
+      "endChar": 90
+    },
+    {
+      "startMs": 6760,
+      "endMs": 7000,
+      "startChar": 90,
+      "endChar": 95
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7280,
+      "startChar": 95,
+      "endChar": 103
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7800,
+      "startChar": 103,
+      "endChar": 108
+    },
+    {
+      "startMs": 7800,
+      "endMs": 7875,
+      "startChar": 108,
+      "endChar": 111
+    },
+    {
+      "startMs": 7875,
+      "endMs": 7950,
+      "startChar": 111,
+      "endChar": 115
+    },
+    {
+      "startMs": 7950,
+      "endMs": 8025,
+      "startChar": 115,
+      "endChar": 121
+    },
+    {
+      "startMs": 8025,
+      "endMs": 9440,
+      "startChar": 121,
+      "endChar": 129
+    }
+  ]
+}
