@@ -1,0 +1,1875 @@
+{
+  "s01.opening": {
+    "durationMs": 10760,
+    "words": [
+      {
+        "word": "Look",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "at",
+        "startMs": 220,
+        "endMs": 500
+      },
+      {
+        "word": "a",
+        "startMs": 500,
+        "endMs": 640
+      },
+      {
+        "word": "club",
+        "startMs": 640,
+        "endMs": 960
+      },
+      {
+        "word": "on",
+        "startMs": 960,
+        "endMs": 1360
+      },
+      {
+        "word": "a",
+        "startMs": 1360,
+        "endMs": 1480
+      },
+      {
+        "word": "playing",
+        "startMs": 1480,
+        "endMs": 1700
+      },
+      {
+        "word": "card.",
+        "startMs": 1700,
+        "endMs": 2060
+      },
+      {
+        "word": "It",
+        "startMs": 2320,
+        "endMs": 2820
+      },
+      {
+        "word": "is",
+        "startMs": 2820,
+        "endMs": 3060
+      },
+      {
+        "word": "not",
+        "startMs": 3060,
+        "endMs": 3400
+      },
+      {
+        "word": "a",
+        "startMs": 3400,
+        "endMs": 3600
+      },
+      {
+        "word": "club,",
+        "startMs": 3600,
+        "endMs": 3940
+      },
+      {
+        "word": "and",
+        "startMs": 3940,
+        "endMs": 4580
+      },
+      {
+        "word": "it",
+        "startMs": 4580,
+        "endMs": 4980
+      },
+      {
+        "word": "is",
+        "startMs": 4980,
+        "endMs": 5360
+      },
+      {
+        "word": "not",
+        "startMs": 5360,
+        "endMs": 5660
+      },
+      {
+        "word": "a",
+        "startMs": 5660,
+        "endMs": 5880
+      },
+      {
+        "word": "clover.",
+        "startMs": 5880,
+        "endMs": 6240
+      },
+      {
+        "word": "It",
+        "startMs": 6500,
+        "endMs": 7100
+      },
+      {
+        "word": "is",
+        "startMs": 7100,
+        "endMs": 7280
+      },
+      {
+        "word": "an",
+        "startMs": 7280,
+        "endMs": 7460
+      },
+      {
+        "word": "acorn",
+        "startMs": 7460,
+        "endMs": 8180
+      },
+      {
+        "word": "drawn",
+        "startMs": 8180,
+        "endMs": 8740
+      },
+      {
+        "word": "by",
+        "startMs": 8740,
+        "endMs": 9120
+      },
+      {
+        "word": "somebody",
+        "startMs": 9120,
+        "endMs": 9600
+      },
+      {
+        "word": "in",
+        "startMs": 9600,
+        "endMs": 9980
+      },
+      {
+        "word": "a",
+        "startMs": 9980,
+        "endMs": 10080
+      },
+      {
+        "word": "hurry.",
+        "startMs": 10080,
+        "endMs": 10340
+      }
+    ],
+    "heard": "Look at a club on a playing card. It is not a club, and it is not a clover. It is an acorn drawn by somebody in a hurry.",
+    "script": "Look at a club on a playing card. It is not a club, and it is not a clover. It is an acorn, drawn by somebody in a hurry."
+  },
+  "s02.acorn.draw": {
+    "durationMs": 9280,
+    "words": [
+      {
+        "word": "500",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "years",
+        "startMs": 420,
+        "endMs": 960
+      },
+      {
+        "word": "ago,",
+        "startMs": 960,
+        "endMs": 1300
+      },
+      {
+        "word": "German",
+        "startMs": 1520,
+        "endMs": 1920
+      },
+      {
+        "word": "card",
+        "startMs": 1920,
+        "endMs": 2360
+      },
+      {
+        "word": "makers",
+        "startMs": 2360,
+        "endMs": 2700
+      },
+      {
+        "word": "took",
+        "startMs": 2700,
+        "endMs": 3060
+      },
+      {
+        "word": "their",
+        "startMs": 3060,
+        "endMs": 3300
+      },
+      {
+        "word": "suits",
+        "startMs": 3300,
+        "endMs": 3600
+      },
+      {
+        "word": "from",
+        "startMs": 3600,
+        "endMs": 3960
+      },
+      {
+        "word": "the",
+        "startMs": 3960,
+        "endMs": 4220
+      },
+      {
+        "word": "forest",
+        "startMs": 4220,
+        "endMs": 4660
+      },
+      {
+        "word": "and",
+        "startMs": 4660,
+        "endMs": 4900
+      },
+      {
+        "word": "the",
+        "startMs": 4900,
+        "endMs": 5000
+      },
+      {
+        "word": "hunt.",
+        "startMs": 5000,
+        "endMs": 5240
+      },
+      {
+        "word": "This",
+        "startMs": 5420,
+        "endMs": 6100
+      },
+      {
+        "word": "one",
+        "startMs": 6100,
+        "endMs": 6300
+      },
+      {
+        "word": "is",
+        "startMs": 6300,
+        "endMs": 6640
+      },
+      {
+        "word": "an",
+        "startMs": 6640,
+        "endMs": 6900
+      },
+      {
+        "word": "acorn",
+        "startMs": 6900,
+        "endMs": 7500
+      },
+      {
+        "word": "hanging",
+        "startMs": 7500,
+        "endMs": 7980
+      },
+      {
+        "word": "by",
+        "startMs": 7980,
+        "endMs": 8380
+      },
+      {
+        "word": "its",
+        "startMs": 8380,
+        "endMs": 8560
+      },
+      {
+        "word": "stalk.",
+        "startMs": 8560,
+        "endMs": 8820
+      }
+    ],
+    "heard": "500 years ago, German card makers took their suits from the forest and the hunt. This one is an acorn hanging by its stalk.",
+    "script": "Five hundred years ago, German card makers took their suits from the forest and the hunt. This one is an acorn, hanging by its stalk."
+  },
+  "s03.acorn.name": {
+    "durationMs": 12960,
+    "words": [
+      {
+        "word": "They",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "called",
+        "startMs": 220,
+        "endMs": 580
+      },
+      {
+        "word": "it",
+        "startMs": 580,
+        "endMs": 880
+      },
+      {
+        "word": "Eichel,",
+        "startMs": 880,
+        "endMs": 1860
+      },
+      {
+        "word": "the",
+        "startMs": 2160,
+        "endMs": 2620
+      },
+      {
+        "word": "German",
+        "startMs": 2620,
+        "endMs": 2920
+      },
+      {
+        "word": "word",
+        "startMs": 2920,
+        "endMs": 3240
+      },
+      {
+        "word": "for",
+        "startMs": 3240,
+        "endMs": 3480
+      },
+      {
+        "word": "an",
+        "startMs": 3480,
+        "endMs": 3640
+      },
+      {
+        "word": "acorn.",
+        "startMs": 3640,
+        "endMs": 4100
+      },
+      {
+        "word": "Every",
+        "startMs": 4420,
+        "endMs": 5120
+      },
+      {
+        "word": "card",
+        "startMs": 5120,
+        "endMs": 5500
+      },
+      {
+        "word": "was",
+        "startMs": 5500,
+        "endMs": 5740
+      },
+      {
+        "word": "a",
+        "startMs": 5740,
+        "endMs": 5880
+      },
+      {
+        "word": "woodcut,",
+        "startMs": 5880,
+        "endMs": 6380
+      },
+      {
+        "word": "cut",
+        "startMs": 6740,
+        "endMs": 7040
+      },
+      {
+        "word": "and",
+        "startMs": 7040,
+        "endMs": 7440
+      },
+      {
+        "word": "colored",
+        "startMs": 7440,
+        "endMs": 7840
+      },
+      {
+        "word": "by",
+        "startMs": 7840,
+        "endMs": 8080
+      },
+      {
+        "word": "hand,",
+        "startMs": 8080,
+        "endMs": 8460
+      },
+      {
+        "word": "and",
+        "startMs": 8600,
+        "endMs": 9120
+      },
+      {
+        "word": "all",
+        "startMs": 9120,
+        "endMs": 9460
+      },
+      {
+        "word": "that",
+        "startMs": 9460,
+        "endMs": 9760
+      },
+      {
+        "word": "detail",
+        "startMs": 9760,
+        "endMs": 10300
+      },
+      {
+        "word": "cost",
+        "startMs": 10300,
+        "endMs": 10860
+      },
+      {
+        "word": "somebody",
+        "startMs": 10860,
+        "endMs": 11400
+      },
+      {
+        "word": "an",
+        "startMs": 11400,
+        "endMs": 11840
+      },
+      {
+        "word": "afternoon.",
+        "startMs": 11840,
+        "endMs": 12400
+      }
+    ],
+    "heard": "They called it Eichel, the German word for an acorn. Every card was a woodcut, cut and colored by hand, and all that detail cost somebody an afternoon.",
+    "script": "They called it Eichel. The German word for an acorn. Every card was a woodcut, cut and coloured by hand, and all that detail cost somebody an afternoon."
+  },
+  "s04.stencil": {
+    "durationMs": 12040,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "the",
+        "startMs": 240,
+        "endMs": 460
+      },
+      {
+        "word": "French",
+        "startMs": 460,
+        "endMs": 760
+      },
+      {
+        "word": "found",
+        "startMs": 760,
+        "endMs": 1260
+      },
+      {
+        "word": "a",
+        "startMs": 1260,
+        "endMs": 1420
+      },
+      {
+        "word": "faster",
+        "startMs": 1420,
+        "endMs": 1860
+      },
+      {
+        "word": "way.",
+        "startMs": 1860,
+        "endMs": 2180
+      },
+      {
+        "word": "Print",
+        "startMs": 2460,
+        "endMs": 3000
+      },
+      {
+        "word": "the",
+        "startMs": 3000,
+        "endMs": 3180
+      },
+      {
+        "word": "outline",
+        "startMs": 3180,
+        "endMs": 3540
+      },
+      {
+        "word": "once",
+        "startMs": 3540,
+        "endMs": 3980
+      },
+      {
+        "word": "and",
+        "startMs": 3980,
+        "endMs": 4460
+      },
+      {
+        "word": "lay",
+        "startMs": 4460,
+        "endMs": 4720
+      },
+      {
+        "word": "a",
+        "startMs": 4720,
+        "endMs": 4860
+      },
+      {
+        "word": "stencil",
+        "startMs": 4860,
+        "endMs": 5220
+      },
+      {
+        "word": "over",
+        "startMs": 5220,
+        "endMs": 5620
+      },
+      {
+        "word": "it",
+        "startMs": 5620,
+        "endMs": 5780
+      },
+      {
+        "word": "for",
+        "startMs": 5780,
+        "endMs": 5920
+      },
+      {
+        "word": "the",
+        "startMs": 5920,
+        "endMs": 6060
+      },
+      {
+        "word": "color.",
+        "startMs": 6060,
+        "endMs": 6320
+      },
+      {
+        "word": "But",
+        "startMs": 6620,
+        "endMs": 7160
+      },
+      {
+        "word": "a",
+        "startMs": 7160,
+        "endMs": 7280
+      },
+      {
+        "word": "stencil",
+        "startMs": 7280,
+        "endMs": 7740
+      },
+      {
+        "word": "cannot",
+        "startMs": 7740,
+        "endMs": 8300
+      },
+      {
+        "word": "cut",
+        "startMs": 8300,
+        "endMs": 8820
+      },
+      {
+        "word": "a",
+        "startMs": 8820,
+        "endMs": 9020
+      },
+      {
+        "word": "detail.",
+        "startMs": 9020,
+        "endMs": 9500
+      },
+      {
+        "word": "It",
+        "startMs": 9780,
+        "endMs": 10220
+      },
+      {
+        "word": "can",
+        "startMs": 10220,
+        "endMs": 10400
+      },
+      {
+        "word": "only",
+        "startMs": 10400,
+        "endMs": 10640
+      },
+      {
+        "word": "cut",
+        "startMs": 10640,
+        "endMs": 10980
+      },
+      {
+        "word": "a",
+        "startMs": 10980,
+        "endMs": 11360
+      },
+      {
+        "word": "hole.",
+        "startMs": 11360,
+        "endMs": 11580
+      }
+    ],
+    "heard": "Then the French found a faster way. Print the outline once and lay a stencil over it for the color. But a stencil cannot cut a detail. It can only cut a hole.",
+    "script": "Then the French found a faster way. Print the outline once, and lay a stencil over it for the colour. But a stencil cannot cut a detail. It can only cut a hole."
+  },
+  "s05.club.reveal": {
+    "durationMs": 5960,
+    "words": [
+      {
+        "word": "That",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "is",
+        "startMs": 180,
+        "endMs": 500
+      },
+      {
+        "word": "a",
+        "startMs": 500,
+        "endMs": 620
+      },
+      {
+        "word": "club.",
+        "startMs": 620,
+        "endMs": 1060
+      },
+      {
+        "word": "Still",
+        "startMs": 1440,
+        "endMs": 2060
+      },
+      {
+        "word": "an",
+        "startMs": 2060,
+        "endMs": 2360
+      },
+      {
+        "word": "acorn",
+        "startMs": 2360,
+        "endMs": 2880
+      },
+      {
+        "word": "with",
+        "startMs": 2880,
+        "endMs": 3440
+      },
+      {
+        "word": "everything",
+        "startMs": 3440,
+        "endMs": 4040
+      },
+      {
+        "word": "expensive",
+        "startMs": 4040,
+        "endMs": 4860
+      },
+      {
+        "word": "cut",
+        "startMs": 4860,
+        "endMs": 5260
+      },
+      {
+        "word": "out",
+        "startMs": 5260,
+        "endMs": 5420
+      },
+      {
+        "word": "of",
+        "startMs": 5420,
+        "endMs": 5520
+      },
+      {
+        "word": "it.",
+        "startMs": 5520,
+        "endMs": 5680
+      }
+    ],
+    "heard": "That is a club. Still an acorn with everything expensive cut out of it.",
+    "script": "That is a club. Still an acorn, with everything expensive cut out of it."
+  },
+  "s06.leaf.draw": {
+    "durationMs": 9520,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "next",
+        "startMs": 180,
+        "endMs": 420
+      },
+      {
+        "word": "suit",
+        "startMs": 420,
+        "endMs": 700
+      },
+      {
+        "word": "came",
+        "startMs": 700,
+        "endMs": 1040
+      },
+      {
+        "word": "off",
+        "startMs": 1040,
+        "endMs": 1400
+      },
+      {
+        "word": "the",
+        "startMs": 1400,
+        "endMs": 1600
+      },
+      {
+        "word": "same",
+        "startMs": 1600,
+        "endMs": 1800
+      },
+      {
+        "word": "tree,",
+        "startMs": 1800,
+        "endMs": 2120
+      },
+      {
+        "word": "a",
+        "startMs": 2460,
+        "endMs": 2800
+      },
+      {
+        "word": "leaf",
+        "startMs": 2800,
+        "endMs": 3080
+      },
+      {
+        "word": "on",
+        "startMs": 3080,
+        "endMs": 3500
+      },
+      {
+        "word": "its",
+        "startMs": 3500,
+        "endMs": 3660
+      },
+      {
+        "word": "stalk.",
+        "startMs": 3660,
+        "endMs": 3940
+      },
+      {
+        "word": "The",
+        "startMs": 4440,
+        "endMs": 4720
+      },
+      {
+        "word": "Germans",
+        "startMs": 4720,
+        "endMs": 5060
+      },
+      {
+        "word": "called",
+        "startMs": 5060,
+        "endMs": 5500
+      },
+      {
+        "word": "that",
+        "startMs": 5500,
+        "endMs": 5740
+      },
+      {
+        "word": "suit",
+        "startMs": 5740,
+        "endMs": 6140
+      },
+      {
+        "word": "laub,",
+        "startMs": 6140,
+        "endMs": 6840
+      },
+      {
+        "word": "which",
+        "startMs": 7080,
+        "endMs": 7480
+      },
+      {
+        "word": "simply",
+        "startMs": 7480,
+        "endMs": 8020
+      },
+      {
+        "word": "means",
+        "startMs": 8020,
+        "endMs": 8480
+      },
+      {
+        "word": "leaves.",
+        "startMs": 8480,
+        "endMs": 9020
+      }
+    ],
+    "heard": "The next suit came off the same tree, a leaf on its stalk. The Germans called that suit laub, which simply means leaves.",
+    "script": "The next suit came off the same tree. A leaf, on its stalk. The Germans called that suit Laub, which simply means leaves."
+  },
+  "s07.spade.reveal": {
+    "durationMs": 9640,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "stencil",
+        "startMs": 160,
+        "endMs": 560
+      },
+      {
+        "word": "keeps",
+        "startMs": 560,
+        "endMs": 1240
+      },
+      {
+        "word": "the",
+        "startMs": 1240,
+        "endMs": 1460
+      },
+      {
+        "word": "outline",
+        "startMs": 1460,
+        "endMs": 1880
+      },
+      {
+        "word": "and",
+        "startMs": 1880,
+        "endMs": 2440
+      },
+      {
+        "word": "throws",
+        "startMs": 2440,
+        "endMs": 2880
+      },
+      {
+        "word": "away",
+        "startMs": 2880,
+        "endMs": 3200
+      },
+      {
+        "word": "the",
+        "startMs": 3200,
+        "endMs": 3400
+      },
+      {
+        "word": "inside.",
+        "startMs": 3400,
+        "endMs": 3760
+      },
+      {
+        "word": "That",
+        "startMs": 4160,
+        "endMs": 4760
+      },
+      {
+        "word": "is",
+        "startMs": 4760,
+        "endMs": 4900
+      },
+      {
+        "word": "why",
+        "startMs": 4900,
+        "endMs": 5160
+      },
+      {
+        "word": "a",
+        "startMs": 5160,
+        "endMs": 5380
+      },
+      {
+        "word": "spade",
+        "startMs": 5380,
+        "endMs": 5940
+      },
+      {
+        "word": "has",
+        "startMs": 5940,
+        "endMs": 6260
+      },
+      {
+        "word": "a",
+        "startMs": 6260,
+        "endMs": 6420
+      },
+      {
+        "word": "little",
+        "startMs": 6420,
+        "endMs": 6720
+      },
+      {
+        "word": "foot",
+        "startMs": 6720,
+        "endMs": 7220
+      },
+      {
+        "word": "at",
+        "startMs": 7220,
+        "endMs": 7520
+      },
+      {
+        "word": "the",
+        "startMs": 7520,
+        "endMs": 7620
+      },
+      {
+        "word": "bottom.",
+        "startMs": 7620,
+        "endMs": 7920
+      },
+      {
+        "word": "It",
+        "startMs": 8160,
+        "endMs": 8720
+      },
+      {
+        "word": "is",
+        "startMs": 8720,
+        "endMs": 8840
+      },
+      {
+        "word": "a",
+        "startMs": 8840,
+        "endMs": 8960
+      },
+      {
+        "word": "stem.",
+        "startMs": 8960,
+        "endMs": 9180
+      }
+    ],
+    "heard": "A stencil keeps the outline and throws away the inside. That is why a spade has a little foot at the bottom. It is a stem.",
+    "script": "A stencil keeps the outline and throws away the inside. That is why a spade has a little foot at the bottom. It is a stem."
+  },
+  "s08.bell.draw": {
+    "durationMs": 7120,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "third",
+        "startMs": 180,
+        "endMs": 500
+      },
+      {
+        "word": "suit",
+        "startMs": 500,
+        "endMs": 900
+      },
+      {
+        "word": "was",
+        "startMs": 900,
+        "endMs": 1440
+      },
+      {
+        "word": "a",
+        "startMs": 1440,
+        "endMs": 1660
+      },
+      {
+        "word": "bell,",
+        "startMs": 1660,
+        "endMs": 1960
+      },
+      {
+        "word": "a",
+        "startMs": 2280,
+        "endMs": 2680
+      },
+      {
+        "word": "small,",
+        "startMs": 2680,
+        "endMs": 3260
+      },
+      {
+        "word": "round",
+        "startMs": 3420,
+        "endMs": 3980
+      },
+      {
+        "word": "hawking",
+        "startMs": 3980,
+        "endMs": 4440
+      },
+      {
+        "word": "bell,",
+        "startMs": 4440,
+        "endMs": 4720
+      },
+      {
+        "word": "the",
+        "startMs": 4900,
+        "endMs": 5320
+      },
+      {
+        "word": "kind",
+        "startMs": 5320,
+        "endMs": 5560
+      },
+      {
+        "word": "tied",
+        "startMs": 5560,
+        "endMs": 5900
+      },
+      {
+        "word": "to",
+        "startMs": 5900,
+        "endMs": 6100
+      },
+      {
+        "word": "a",
+        "startMs": 6100,
+        "endMs": 6240
+      },
+      {
+        "word": "hunting",
+        "startMs": 6240,
+        "endMs": 6460
+      },
+      {
+        "word": "bird.",
+        "startMs": 6460,
+        "endMs": 6780
+      }
+    ],
+    "heard": "The third suit was a bell, a small, round hawking bell, the kind tied to a hunting bird.",
+    "script": "The third suit was a bell. A small round hawking bell, the kind tied to a hunting bird."
+  },
+  "s09.diamond.reveal": {
+    "durationMs": 10800,
+    "words": [
+      {
+        "word": "But",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "you",
+        "startMs": 180,
+        "endMs": 520
+      },
+      {
+        "word": "never",
+        "startMs": 520,
+        "endMs": 880
+      },
+      {
+        "word": "see",
+        "startMs": 880,
+        "endMs": 1300
+      },
+      {
+        "word": "a",
+        "startMs": 1300,
+        "endMs": 1520
+      },
+      {
+        "word": "whole",
+        "startMs": 1520,
+        "endMs": 1680
+      },
+      {
+        "word": "card.",
+        "startMs": 1680,
+        "endMs": 2060
+      },
+      {
+        "word": "You",
+        "startMs": 2260,
+        "endMs": 2720
+      },
+      {
+        "word": "see",
+        "startMs": 2720,
+        "endMs": 2980
+      },
+      {
+        "word": "a",
+        "startMs": 2980,
+        "endMs": 3160
+      },
+      {
+        "word": "corner",
+        "startMs": 3160,
+        "endMs": 3580
+      },
+      {
+        "word": "of",
+        "startMs": 3580,
+        "endMs": 3860
+      },
+      {
+        "word": "one",
+        "startMs": 3860,
+        "endMs": 4100
+      },
+      {
+        "word": "in",
+        "startMs": 4100,
+        "endMs": 4360
+      },
+      {
+        "word": "a",
+        "startMs": 4360,
+        "endMs": 4460
+      },
+      {
+        "word": "fan.",
+        "startMs": 4460,
+        "endMs": 4700
+      },
+      {
+        "word": "A",
+        "startMs": 5060,
+        "endMs": 5480
+      },
+      {
+        "word": "bell",
+        "startMs": 5480,
+        "endMs": 5760
+      },
+      {
+        "word": "and",
+        "startMs": 5760,
+        "endMs": 6040
+      },
+      {
+        "word": "a",
+        "startMs": 6040,
+        "endMs": 6160
+      },
+      {
+        "word": "heart",
+        "startMs": 6160,
+        "endMs": 6440
+      },
+      {
+        "word": "are",
+        "startMs": 6440,
+        "endMs": 6720
+      },
+      {
+        "word": "both",
+        "startMs": 6720,
+        "endMs": 7160
+      },
+      {
+        "word": "just",
+        "startMs": 7160,
+        "endMs": 7500
+      },
+      {
+        "word": "round,",
+        "startMs": 7500,
+        "endMs": 7860
+      },
+      {
+        "word": "so",
+        "startMs": 8100,
+        "endMs": 8440
+      },
+      {
+        "word": "the",
+        "startMs": 8440,
+        "endMs": 8700
+      },
+      {
+        "word": "bell",
+        "startMs": 8700,
+        "endMs": 9080
+      },
+      {
+        "word": "had",
+        "startMs": 9080,
+        "endMs": 9400
+      },
+      {
+        "word": "to",
+        "startMs": 9400,
+        "endMs": 9540
+      },
+      {
+        "word": "grow",
+        "startMs": 9540,
+        "endMs": 9800
+      },
+      {
+        "word": "corners.",
+        "startMs": 9800,
+        "endMs": 10260
+      }
+    ],
+    "heard": "But you never see a whole card. You see a corner of one in a fan. A bell and a heart are both just round, so the bell had to grow corners.",
+    "script": "But you never see a whole card. You see a corner of one, in a fan. A bell and a heart are both just round, so the bell had to grow corners."
+  },
+  "s10.heart": {
+    "durationMs": 9160,
+    "words": [
+      {
+        "word": "Only",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "one",
+        "startMs": 280,
+        "endMs": 840
+      },
+      {
+        "word": "of",
+        "startMs": 840,
+        "endMs": 1260
+      },
+      {
+        "word": "the",
+        "startMs": 1260,
+        "endMs": 1460
+      },
+      {
+        "word": "four",
+        "startMs": 1460,
+        "endMs": 1740
+      },
+      {
+        "word": "never",
+        "startMs": 1740,
+        "endMs": 2180
+      },
+      {
+        "word": "had",
+        "startMs": 2180,
+        "endMs": 2520
+      },
+      {
+        "word": "to",
+        "startMs": 2520,
+        "endMs": 2680
+      },
+      {
+        "word": "change.",
+        "startMs": 2680,
+        "endMs": 3120
+      },
+      {
+        "word": "A",
+        "startMs": 3380,
+        "endMs": 3960
+      },
+      {
+        "word": "heart",
+        "startMs": 3960,
+        "endMs": 4240
+      },
+      {
+        "word": "was",
+        "startMs": 4240,
+        "endMs": 4700
+      },
+      {
+        "word": "already",
+        "startMs": 4700,
+        "endMs": 5420
+      },
+      {
+        "word": "a",
+        "startMs": 5420,
+        "endMs": 5820
+      },
+      {
+        "word": "stencil.",
+        "startMs": 5820,
+        "endMs": 6220
+      },
+      {
+        "word": "Two",
+        "startMs": 6600,
+        "endMs": 7320
+      },
+      {
+        "word": "curves",
+        "startMs": 7320,
+        "endMs": 7780
+      },
+      {
+        "word": "and",
+        "startMs": 7780,
+        "endMs": 8280
+      },
+      {
+        "word": "a",
+        "startMs": 8280,
+        "endMs": 8420
+      },
+      {
+        "word": "point.",
+        "startMs": 8420,
+        "endMs": 8680
+      }
+    ],
+    "heard": "Only one of the four never had to change. A heart was already a stencil. Two curves and a point.",
+    "script": "Only one of the four never had to change. A heart was already a stencil. Two curves and a point."
+  },
+  "s11.turn": {
+    "durationMs": 7760,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "the",
+        "startMs": 280,
+        "endMs": 820
+      },
+      {
+        "word": "pictures",
+        "startMs": 820,
+        "endMs": 1360
+      },
+      {
+        "word": "are",
+        "startMs": 1360,
+        "endMs": 1900
+      },
+      {
+        "word": "German",
+        "startMs": 1900,
+        "endMs": 2340
+      },
+      {
+        "word": "and",
+        "startMs": 2340,
+        "endMs": 2860
+      },
+      {
+        "word": "the",
+        "startMs": 2860,
+        "endMs": 3060
+      },
+      {
+        "word": "printing",
+        "startMs": 3060,
+        "endMs": 3440
+      },
+      {
+        "word": "is",
+        "startMs": 3440,
+        "endMs": 3940
+      },
+      {
+        "word": "French.",
+        "startMs": 3940,
+        "endMs": 4400
+      },
+      {
+        "word": "The",
+        "startMs": 4660,
+        "endMs": 5220
+      },
+      {
+        "word": "names",
+        "startMs": 5220,
+        "endMs": 5560
+      },
+      {
+        "word": "you",
+        "startMs": 5560,
+        "endMs": 5760
+      },
+      {
+        "word": "use",
+        "startMs": 5760,
+        "endMs": 6020
+      },
+      {
+        "word": "for",
+        "startMs": 6020,
+        "endMs": 6180
+      },
+      {
+        "word": "them",
+        "startMs": 6180,
+        "endMs": 6400
+      },
+      {
+        "word": "are",
+        "startMs": 6400,
+        "endMs": 6740
+      },
+      {
+        "word": "neither.",
+        "startMs": 6740,
+        "endMs": 7220
+      }
+    ],
+    "heard": "So the pictures are German and the printing is French. The names you use for them are neither.",
+    "script": "So the pictures are German, and the printing is French. The names you use for them are neither."
+  },
+  "s12.italian": {
+    "durationMs": 11800,
+    "words": [
+      {
+        "word": "Italy",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "and",
+        "startMs": 300,
+        "endMs": 660
+      },
+      {
+        "word": "Spain",
+        "startMs": 660,
+        "endMs": 1080
+      },
+      {
+        "word": "never",
+        "startMs": 1080,
+        "endMs": 1720
+      },
+      {
+        "word": "used",
+        "startMs": 1720,
+        "endMs": 2220
+      },
+      {
+        "word": "the",
+        "startMs": 2220,
+        "endMs": 2400
+      },
+      {
+        "word": "German",
+        "startMs": 2400,
+        "endMs": 2640
+      },
+      {
+        "word": "suits",
+        "startMs": 2640,
+        "endMs": 2960
+      },
+      {
+        "word": "at",
+        "startMs": 2960,
+        "endMs": 3160
+      },
+      {
+        "word": "all.",
+        "startMs": 3160,
+        "endMs": 3400
+      },
+      {
+        "word": "Their",
+        "startMs": 3760,
+        "endMs": 4200
+      },
+      {
+        "word": "cards",
+        "startMs": 4200,
+        "endMs": 4540
+      },
+      {
+        "word": "had",
+        "startMs": 4540,
+        "endMs": 4860
+      },
+      {
+        "word": "swords",
+        "startMs": 4860,
+        "endMs": 5260
+      },
+      {
+        "word": "on",
+        "startMs": 5260,
+        "endMs": 5520
+      },
+      {
+        "word": "them",
+        "startMs": 5520,
+        "endMs": 5740
+      },
+      {
+        "word": "and",
+        "startMs": 5740,
+        "endMs": 6160
+      },
+      {
+        "word": "heavy",
+        "startMs": 6160,
+        "endMs": 6580
+      },
+      {
+        "word": "wooden",
+        "startMs": 6580,
+        "endMs": 6900
+      },
+      {
+        "word": "sticks.",
+        "startMs": 6900,
+        "endMs": 7380
+      },
+      {
+        "word": "England",
+        "startMs": 7860,
+        "endMs": 8560
+      },
+      {
+        "word": "took",
+        "startMs": 8560,
+        "endMs": 9040
+      },
+      {
+        "word": "the",
+        "startMs": 9040,
+        "endMs": 9240
+      },
+      {
+        "word": "French",
+        "startMs": 9240,
+        "endMs": 9480
+      },
+      {
+        "word": "pictures",
+        "startMs": 9480,
+        "endMs": 9880
+      },
+      {
+        "word": "and",
+        "startMs": 9880,
+        "endMs": 10480
+      },
+      {
+        "word": "the",
+        "startMs": 10480,
+        "endMs": 10700
+      },
+      {
+        "word": "Italian",
+        "startMs": 10700,
+        "endMs": 11040
+      },
+      {
+        "word": "names.",
+        "startMs": 11040,
+        "endMs": 11420
+      }
+    ],
+    "heard": "Italy and Spain never used the German suits at all. Their cards had swords on them and heavy wooden sticks. England took the French pictures and the Italian names.",
+    "script": "Italy and Spain never used the German suits at all. Their cards had swords on them, and heavy wooden sticks. England took the French pictures, and the Italian names."
+  },
+  "s13.recap": {
+    "durationMs": 16280,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "you",
+        "startMs": 320,
+        "endMs": 1000
+      },
+      {
+        "word": "are",
+        "startMs": 1000,
+        "endMs": 1460
+      },
+      {
+        "word": "holding",
+        "startMs": 1460,
+        "endMs": 1940
+      },
+      {
+        "word": "a",
+        "startMs": 1940,
+        "endMs": 2420
+      },
+      {
+        "word": "leaf",
+        "startMs": 2420,
+        "endMs": 2820
+      },
+      {
+        "word": "and",
+        "startMs": 2820,
+        "endMs": 3560
+      },
+      {
+        "word": "calling",
+        "startMs": 3560,
+        "endMs": 4060
+      },
+      {
+        "word": "it",
+        "startMs": 4060,
+        "endMs": 4360
+      },
+      {
+        "word": "a",
+        "startMs": 4360,
+        "endMs": 4640
+      },
+      {
+        "word": "sword,",
+        "startMs": 4640,
+        "endMs": 5000
+      },
+      {
+        "word": "an",
+        "startMs": 5440,
+        "endMs": 6120
+      },
+      {
+        "word": "acorn",
+        "startMs": 6120,
+        "endMs": 6880
+      },
+      {
+        "word": "and",
+        "startMs": 6880,
+        "endMs": 7500
+      },
+      {
+        "word": "calling",
+        "startMs": 7500,
+        "endMs": 8000
+      },
+      {
+        "word": "it",
+        "startMs": 8000,
+        "endMs": 8320
+      },
+      {
+        "word": "a",
+        "startMs": 8320,
+        "endMs": 8640
+      },
+      {
+        "word": "stick,",
+        "startMs": 8640,
+        "endMs": 9020
+      },
+      {
+        "word": "and",
+        "startMs": 9460,
+        "endMs": 10100
+      },
+      {
+        "word": "a",
+        "startMs": 10100,
+        "endMs": 10340
+      },
+      {
+        "word": "bell",
+        "startMs": 10340,
+        "endMs": 10880
+      },
+      {
+        "word": "that",
+        "startMs": 10880,
+        "endMs": 11360
+      },
+      {
+        "word": "grew",
+        "startMs": 11360,
+        "endMs": 11640
+      },
+      {
+        "word": "corners",
+        "startMs": 11640,
+        "endMs": 12280
+      },
+      {
+        "word": "so",
+        "startMs": 12280,
+        "endMs": 12940
+      },
+      {
+        "word": "you",
+        "startMs": 12940,
+        "endMs": 13300
+      },
+      {
+        "word": "could",
+        "startMs": 13300,
+        "endMs": 13700
+      },
+      {
+        "word": "tell",
+        "startMs": 13700,
+        "endMs": 13980
+      },
+      {
+        "word": "it",
+        "startMs": 13980,
+        "endMs": 14220
+      },
+      {
+        "word": "apart",
+        "startMs": 14220,
+        "endMs": 14740
+      },
+      {
+        "word": "from",
+        "startMs": 14740,
+        "endMs": 15240
+      },
+      {
+        "word": "a",
+        "startMs": 15240,
+        "endMs": 15580
+      },
+      {
+        "word": "heart.",
+        "startMs": 15580,
+        "endMs": 15820
+      }
+    ],
+    "heard": "So you are holding a leaf and calling it a sword, an acorn and calling it a stick, and a bell that grew corners so you could tell it apart from a heart.",
+    "script": "So you are holding a leaf and calling it a sword. An acorn, and calling it a stick. And a bell that grew corners so you could tell it apart from a heart."
+  },
+  "s14.closing": {
+    "durationMs": 11080,
+    "words": [
+      {
+        "word": "None",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "of",
+        "startMs": 240,
+        "endMs": 440
+      },
+      {
+        "word": "it",
+        "startMs": 440,
+        "endMs": 600
+      },
+      {
+        "word": "was",
+        "startMs": 600,
+        "endMs": 820
+      },
+      {
+        "word": "designed.",
+        "startMs": 820,
+        "endMs": 1340
+      },
+      {
+        "word": "It",
+        "startMs": 1660,
+        "endMs": 2120
+      },
+      {
+        "word": "is",
+        "startMs": 2120,
+        "endMs": 2260
+      },
+      {
+        "word": "a",
+        "startMs": 2260,
+        "endMs": 2380
+      },
+      {
+        "word": "forest",
+        "startMs": 2380,
+        "endMs": 2880
+      },
+      {
+        "word": "cut",
+        "startMs": 2880,
+        "endMs": 3360
+      },
+      {
+        "word": "down",
+        "startMs": 3360,
+        "endMs": 3760
+      },
+      {
+        "word": "to",
+        "startMs": 3760,
+        "endMs": 3980
+      },
+      {
+        "word": "fit",
+        "startMs": 3980,
+        "endMs": 4260
+      },
+      {
+        "word": "a",
+        "startMs": 4260,
+        "endMs": 4480
+      },
+      {
+        "word": "stencil",
+        "startMs": 4480,
+        "endMs": 4940
+      },
+      {
+        "word": "and",
+        "startMs": 4940,
+        "endMs": 5580
+      },
+      {
+        "word": "misnamed",
+        "startMs": 5580,
+        "endMs": 6100
+      },
+      {
+        "word": "for",
+        "startMs": 6100,
+        "endMs": 6420
+      },
+      {
+        "word": "500",
+        "startMs": 6420,
+        "endMs": 6840
+      },
+      {
+        "word": "years.",
+        "startMs": 6840,
+        "endMs": 7420
+      },
+      {
+        "word": "You",
+        "startMs": 7800,
+        "endMs": 8260
+      },
+      {
+        "word": "have",
+        "startMs": 8260,
+        "endMs": 8460
+      },
+      {
+        "word": "been",
+        "startMs": 8460,
+        "endMs": 8640
+      },
+      {
+        "word": "holding",
+        "startMs": 8640,
+        "endMs": 8980
+      },
+      {
+        "word": "the",
+        "startMs": 8980,
+        "endMs": 9260
+      },
+      {
+        "word": "evidence",
+        "startMs": 9260,
+        "endMs": 9760
+      },
+      {
+        "word": "all",
+        "startMs": 9760,
+        "endMs": 10240
+      },
+      {
+        "word": "along.",
+        "startMs": 10240,
+        "endMs": 10640
+      }
+    ],
+    "heard": "None of it was designed. It is a forest cut down to fit a stencil and misnamed for 500 years. You have been holding the evidence all along.",
+    "script": "None of it was designed. It is a forest, cut down to fit a stencil, and misnamed for five hundred years. You have been holding the evidence all along."
+  }
+}

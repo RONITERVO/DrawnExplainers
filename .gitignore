@@ -1,0 +1,24 @@
+node_modules/
+
+# Transient: frames written by `build.mjs --preview` / `--at=`
+preview/
+
+# Derived audio. `node lib/build.mjs <ep> --audio` rebuilds both in seconds
+# from assets/syncvoice/ + music.wav, so there is no reason to version ~110MB
+# of WAV that changes whenever a timing does.
+narration.wav
+mixed.wav
+
+# Derived video. renderFrame is pure in (t, frameIndex) and music.wav is
+# committed, so `node lib/build.mjs <ep>` reproduces the exact film in ~40s.
+out.mp4
+
+# NOT ignored, deliberately:
+#   music.wav          Lyria is generative with no seed - regenerating gives a
+#                      different bed, so the committed file IS the master.
+#   assets/syncvoice/  narration costs API calls; content-addressed, so keeping
+#                      it is what makes regeneration incremental.
+#   timing.json        the Whisper alignment and the QA record.
+
+# SyncVoice checkpoint: transient by its own docs, rewritten every run.
+**/.syncvoice/generation-state.json

@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s06.leaf.draw",
+  "text": "The next suit came off the same tree. A leaf, on its stalk. The Germans called that suit Laub, which simply means leaves.",
+  "durationMs": 9520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 300,
+      "endMs": 1200,
+      "startChar": 19,
+      "endChar": 23
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1340,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 1340,
+      "endMs": 1480,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1840,
+      "startChar": 32,
+      "endChar": 38
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2060,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 2060,
+      "endMs": 2280,
+      "startChar": 40,
+      "endChar": 46
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2800,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3320,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3680,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3920,
+      "startChar": 60,
+      "endChar": 64
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4160,
+      "startChar": 64,
+      "endChar": 72
+    },
+    {
+      "startMs": 4160,
+      "endMs": 5240,
+      "startChar": 72,
+      "endChar": 79
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5560,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5800,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6320,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 6320,
+      "endMs": 7040,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7720,
+      "startChar": 101,
+      "endChar": 108
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8120,
+      "startChar": 108,
+      "endChar": 114
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8640,
+      "startChar": 114,
+      "endChar": 121
+    }
+  ]
+}

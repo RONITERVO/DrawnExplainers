@@ -1,0 +1,56 @@
+{
+  "set": "not-arbitrary",
+  "episode": 1,
+  "slug": "ep01-chinese-characters",
+  "title": "How Chinese Characters Began as Pictures",
+  "thesis": "山 is three peaks. 人 is a pair of walking legs. 从 is one of them standing behind another.",
+  "runtimeSeconds": 124.28,
+  "renderedAt": "2026-09-10",
+  "status": "rendered",
+
+  "author": {
+    "model": "Claude Opus 5",
+    "session": "https://claude.ai/code/session_01NPs6vqZQobDMYtQqbUqXp6"
+  },
+
+  "pipeline": {
+    "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 127s bed, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 3729 frames in 34s",
+    "loudness": "-13.9 LUFS integrated, -1.5 dBTP"
+  },
+
+  "musicPrompt": "Sparse solo piano with felt hammers, unhurried, wide space between notes. Soft upright bass notes far back. Warm room tone, faint brushed cymbal texture. Contemplative study-room mood, gentle and curious, never sentimental. Instrumental only, no vocals, no strong melodic hook that competes with a speaking voice.",
+
+  "qa": {
+    "method": "Whisper transcript of the final mux diffed against the script",
+    "result": "clean; 260 script words, 260 heard",
+    "defectsFound": [],
+    "notes": "Two diffs are Whisper artifacts, not TTS defects: 'three thousand' transcribed as '3 000', and a trailing unstressed 'as' heard as 'us'."
+  },
+
+  "publish": {
+    "youtube": {
+      "title": "Chinese characters are drawings. Here are eight of them.",
+      "description": "山 is three peaks with the middle one tallest. 水 is a current with droplets thrown off either side. 人 is a person mid-stride — and put one person behind another and you get 从, to follow.\n\nNone of it is arbitrary. It is drawings, stacked and simplified, for three thousand years.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": ["chinese", "hanzi", "mandarin", "etymology", "writing systems", "linguistics", "animation"]
+    },
+    "tiktok": {
+      "caption": "人 is a walking person. Put one behind another and you get 从 — to follow. Chinese characters are drawings.",
+      "hook": "First 3 seconds: three hand-drawn hills pull straight into 山."
+    }
+  },
+
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "timing": "timing.json",
+    "music": "music.wav",
+    "narration": "narration.wav",
+    "mixed": "mixed.wav"
+  },
+
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep01-chinese-characters"
+}

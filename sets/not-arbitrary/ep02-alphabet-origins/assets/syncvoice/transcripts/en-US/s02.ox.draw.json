@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "externalId": "s02.ox.draw",
+  "text": "Around three thousand eight hundred years ago, in the Sinai desert, someone drew an ox head. Two horns, and a narrow face.",
+  "durationMs": 10520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 960,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 960,
+      "endMs": 1280,
+      "startChar": 13,
+      "endChar": 22
+    },
+    {
+      "startMs": 1280,
+      "endMs": 2040,
+      "startChar": 22,
+      "endChar": 28
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2320,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2760,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3000,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3200,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3400,
+      "startChar": 50,
+      "endChar": 54
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3840,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4360,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 4360,
+      "endMs": 5000,
+      "startChar": 68,
+      "endChar": 76
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5840,
+      "startChar": 76,
+      "endChar": 81
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6360,
+      "startChar": 81,
+      "endChar": 84
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6640,
+      "startChar": 84,
+      "endChar": 87
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6920,
+      "startChar": 87,
+      "endChar": 93
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7320,
+      "startChar": 93,
+      "endChar": 97
+    },
+    {
+      "startMs": 7320,
+      "endMs": 8000,
+      "startChar": 97,
+      "endChar": 104
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8640,
+      "startChar": 104,
+      "endChar": 108
+    },
+    {
+      "startMs": 8640,
+      "endMs": 8940,
+      "startChar": 108,
+      "endChar": 110
+    },
+    {
+      "startMs": 8940,
+      "endMs": 9240,
+      "startChar": 110,
+      "endChar": 117
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9760,
+      "startChar": 117,
+      "endChar": 122
+    }
+  ]
+}

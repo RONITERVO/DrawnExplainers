@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s01.opening",
+  "text": "Look at the letter A. It does not look like anything in particular. That is only because it has been turned upside down.",
+  "durationMs": 8960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 300,
+      "endMs": 1120,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1360,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1600,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2320,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2600,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3120,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3360,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3600,
+      "startChar": 56,
+      "endChar": 68
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4480,
+      "startChar": 68,
+      "endChar": 73
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4555,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 4555,
+      "endMs": 4630,
+      "startChar": 76,
+      "endChar": 81
+    },
+    {
+      "startMs": 4630,
+      "endMs": 4705,
+      "startChar": 81,
+      "endChar": 89
+    },
+    {
+      "startMs": 4705,
+      "endMs": 6360,
+      "startChar": 89,
+      "endChar": 92
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6560,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6920,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7200,
+      "startChar": 101,
+      "endChar": 108
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7720,
+      "startChar": 108,
+      "endChar": 115
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8280,
+      "startChar": 115,
+      "endChar": 120
+    }
+  ]
+}

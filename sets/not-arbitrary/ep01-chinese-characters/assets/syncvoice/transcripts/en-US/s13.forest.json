@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "externalId": "s13.forest",
+  "text": "A tree. Two trees make a grove. Three trees make a forest, and the character is exactly that.",
+  "durationMs": 8000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 2
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 2,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 300,
+      "endMs": 1840,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2000,
+      "startChar": 23,
+      "endChar": 25
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2160,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2840,
+      "startChar": 32,
+      "endChar": 38
+    },
+    {
+      "startMs": 2840,
+      "endMs": 2960,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 2960,
+      "endMs": 4200,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4360,
+      "startChar": 49,
+      "endChar": 51
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4520,
+      "startChar": 51,
+      "endChar": 59
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5280,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5500,
+      "startChar": 63,
+      "endChar": 67
+    },
+    {
+      "startMs": 5500,
+      "endMs": 5720,
+      "startChar": 67,
+      "endChar": 77
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6480,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6680,
+      "startChar": 80,
+      "endChar": 88
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7320,
+      "startChar": 88,
+      "endChar": 93
+    }
+  ]
+}

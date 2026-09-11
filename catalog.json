@@ -1,0 +1,95 @@
+{
+  "project": "Drawn Explainers",
+  "updated": "2026-09-10",
+  "conventions": {
+    "runtimeRange": "90-180 seconds",
+    "resolution": "1920x1080",
+    "fps": 30,
+    "loudnessTarget": "-14 LUFS, -1.5 dBTP",
+    "platforms": [
+      "youtube",
+      "tiktok"
+    ]
+  },
+  "sets": [
+    {
+      "slug": "not-arbitrary",
+      "name": "Not Arbitrary",
+      "author": "Claude Opus 5",
+      "lane": "Things that look like arbitrary convention, shown to be pictures. The explanation is always a transformation, animated continuously so the viewer sees two shapes are one shape.",
+      "started": "2026-09-10",
+      "charter": "sets/not-arbitrary/SET.md",
+      "episodes": [
+        {
+          "episode": 1,
+          "slug": "ep01-chinese-characters",
+          "title": "How Chinese Characters Began as Pictures",
+          "runtimeSeconds": 124.28,
+          "status": "rendered",
+          "renderedAt": "2026-09-10",
+          "video": "sets/not-arbitrary/ep01-chinese-characters/out.mp4",
+          "detail": "sets/not-arbitrary/ep01-chinese-characters/episode.json"
+        },
+        {
+          "episode": 2,
+          "slug": "ep02-alphabet-origins",
+          "title": "Where Our Letters Came From",
+          "runtimeSeconds": 122.76,
+          "status": "rendered",
+          "renderedAt": "2026-09-10",
+          "video": "sets/not-arbitrary/ep02-alphabet-origins/out.mp4",
+          "detail": "sets/not-arbitrary/ep02-alphabet-origins/episode.json"
+        },
+        {
+          "episode": 3,
+          "slug": "ep03-card-suits",
+          "title": "The Spade Is a Leaf",
+          "runtimeSeconds": 153.32,
+          "status": "rendered",
+          "renderedAt": "2026-09-10",
+          "video": "sets/not-arbitrary/ep03-card-suits/out.mp4",
+          "detail": "sets/not-arbitrary/ep03-card-suits/episode.json"
+        },
+        {
+          "episode": 4,
+          "slug": "ep04-music-notation",
+          "title": "The Treble Clef Is a Letter G",
+          "runtimeSeconds": 176.24,
+          "status": "rendered",
+          "renderedAt": "2026-09-10",
+          "video": "sets/not-arbitrary/ep04-music-notation/out.mp4",
+          "detail": "sets/not-arbitrary/ep04-music-notation/episode.json"
+        }
+      ]
+    }
+  ],
+  "toolchain": {
+    "narration": {
+      "tool": "SyncVoice",
+      "path": "D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+      "model": "gemini native audio (Lyria-adjacent Live API)",
+      "voice": "Kore",
+      "keys": "D:/Projects/tempTestKeys/.env"
+    },
+    "music": {
+      "tool": "lib/music.mjs",
+      "model": "models/lyria-realtime-exp"
+    },
+    "alignment": {
+      "tool": "lib/align.py",
+      "model": "whisper large-v3-turbo",
+      "path": "D:/AI/ComfyUI/models/stt/whisper/large-v3-turbo.pt",
+      "python": "D:/AI/ComfyUI/.venv/Scripts/python.exe",
+      "device": "cuda"
+    },
+    "render": {
+      "rasteriser": "@resvg/resvg-js (CPU only, no GPU backend)",
+      "encoder": "ffmpeg libx264",
+      "fonts": [
+        "C:/Windows/Fonts/segoepr.ttf",
+        "C:/Windows/Fonts/segoeprb.ttf",
+        "C:/Windows/Fonts/hyswlongfangsong.ttf"
+      ]
+    }
+  }
+}

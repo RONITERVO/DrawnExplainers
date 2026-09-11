@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "externalId": "s07.greveal",
+  "text": "Nine hundred years of not lifting the pen. And it still winds around the line it was put there to name.",
+  "durationMs": 8880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 423,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 423,
+      "endMs": 846,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 846,
+      "endMs": 1269,
+      "startChar": 13,
+      "endChar": 19
+    },
+    {
+      "startMs": 1269,
+      "endMs": 1691,
+      "startChar": 19,
+      "endChar": 22
+    },
+    {
+      "startMs": 1691,
+      "endMs": 2114,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 2114,
+      "endMs": 2537,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 2537,
+      "endMs": 2960,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3383,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 3383,
+      "endMs": 3806,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3806,
+      "endMs": 4229,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 4229,
+      "endMs": 4651,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 4651,
+      "endMs": 5074,
+      "startChar": 56,
+      "endChar": 62
+    },
+    {
+      "startMs": 5074,
+      "endMs": 5497,
+      "startChar": 62,
+      "endChar": 69
+    },
+    {
+      "startMs": 5497,
+      "endMs": 5920,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6343,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 6343,
+      "endMs": 6766,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 6766,
+      "endMs": 7189,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 7189,
+      "endMs": 7611,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 7611,
+      "endMs": 8034,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 8034,
+      "endMs": 8457,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 8457,
+      "endMs": 8880,
+      "startChar": 98,
+      "endChar": 103
+    }
+  ]
+}

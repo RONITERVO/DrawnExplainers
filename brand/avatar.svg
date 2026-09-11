@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- Temporary channel avatar. House palette from scene-kit.mjs.
+       YouTube crops to a circle, so everything sits inside r=340 and the
+       paper fills the full square. No wordmark: the channel naming is
+       undecided, and text is unreadable at 32px anyway.
+       The mark is episode 1's payoff - three peaks, already pulled straight,
+       one stroke short of the character they became. -->
+
+  <rect width="800" height="800" fill="hsl(39, 40%, 96%)"/>
+
+  <!-- dashed ring, just inside the circular crop -->
+  <circle cx="400" cy="400" r="352" fill="none"
+          stroke="hsl(30, 24%, 78%)" stroke-width="5" stroke-dasharray="20 15"/>
+
+  <!-- the three peaks: middle tallest, drawn as one hand would -->
+  <!-- lifted and scaled: a cluster of triangles carries its mass low, so
+       geometric centring reads as sunk once the circle crop is applied -->
+  <g transform="translate(0 -38) translate(400 400) scale(1.12) translate(-400 -400)"
+     fill="none" stroke="hsl(25, 15%, 25%)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 178 540 Q 232 462 276 372 Q 322 460 372 540" stroke-width="30"/>
+    <path d="M 300 540 Q 352 400 402 244 Q 456 402 508 540" stroke-width="32"/>
+    <path d="M 440 540 Q 492 470 536 392 Q 580 468 626 540" stroke-width="30"/>
+    <path d="M 152 548 Q 400 538 652 548" stroke-width="26" stroke="hsl(25, 14%, 42%)"/>
+  </g>
+</svg>

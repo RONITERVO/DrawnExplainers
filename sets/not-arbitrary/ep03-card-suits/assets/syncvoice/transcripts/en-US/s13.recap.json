@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "externalId": "s13.recap",
+  "text": "So you are holding a leaf and calling it a sword. An acorn, and calling it a stick. And a bell that grew corners so you could tell it apart from a heart.",
+  "durationMs": 16280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 1280,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1560,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1920,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2280,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 2280,
+      "endMs": 3040,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3760,
+      "startChar": 30,
+      "endChar": 38
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4200,
+      "startChar": 38,
+      "endChar": 41
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4360,
+      "startChar": 41,
+      "endChar": 43
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4520,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 4520,
+      "endMs": 5200,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5280,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 5280,
+      "endMs": 7120,
+      "startChar": 60,
+      "endChar": 64
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7720,
+      "startChar": 64,
+      "endChar": 72
+    },
+    {
+      "startMs": 7720,
+      "endMs": 8160,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8320,
+      "startChar": 75,
+      "endChar": 77
+    },
+    {
+      "startMs": 8320,
+      "endMs": 8480,
+      "startChar": 77,
+      "endChar": 84
+    },
+    {
+      "startMs": 8480,
+      "endMs": 9240,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9315,
+      "startChar": 88,
+      "endChar": 90
+    },
+    {
+      "startMs": 9315,
+      "endMs": 9390,
+      "startChar": 90,
+      "endChar": 95
+    },
+    {
+      "startMs": 9390,
+      "endMs": 9600,
+      "startChar": 95,
+      "endChar": 100
+    },
+    {
+      "startMs": 9600,
+      "endMs": 11240,
+      "startChar": 100,
+      "endChar": 105
+    },
+    {
+      "startMs": 11240,
+      "endMs": 11760,
+      "startChar": 105,
+      "endChar": 113
+    },
+    {
+      "startMs": 11760,
+      "endMs": 12600,
+      "startChar": 113,
+      "endChar": 116
+    },
+    {
+      "startMs": 12600,
+      "endMs": 13040,
+      "startChar": 116,
+      "endChar": 120
+    },
+    {
+      "startMs": 13040,
+      "endMs": 13520,
+      "startChar": 120,
+      "endChar": 126
+    },
+    {
+      "startMs": 13520,
+      "endMs": 13840,
+      "startChar": 126,
+      "endChar": 131
+    },
+    {
+      "startMs": 13840,
+      "endMs": 14080,
+      "startChar": 131,
+      "endChar": 134
+    },
+    {
+      "startMs": 14080,
+      "endMs": 14360,
+      "startChar": 134,
+      "endChar": 140
+    },
+    {
+      "startMs": 14360,
+      "endMs": 15000,
+      "startChar": 140,
+      "endChar": 145
+    },
+    {
+      "startMs": 15000,
+      "endMs": 15220,
+      "startChar": 145,
+      "endChar": 147
+    },
+    {
+      "startMs": 15220,
+      "endMs": 15440,
+      "startChar": 147,
+      "endChar": 153
+    }
+  ]
+}

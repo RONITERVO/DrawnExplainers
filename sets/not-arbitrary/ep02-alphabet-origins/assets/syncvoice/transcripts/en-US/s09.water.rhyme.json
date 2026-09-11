@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "externalId": "s09.water.rhyme",
+  "text": "This one is worth stopping on. In China, the picture for water was a current with droplets flying off it. In the Sinai, it was a wave. Two systems that never met, reaching for the same picture.",
+  "durationMs": 17560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 12,
+      "endChar": 18
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1800,
+      "startChar": 18,
+      "endChar": 27
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2360,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2720,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2795,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 2795,
+      "endMs": 3678,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3678,
+      "endMs": 4560,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5200,
+      "startChar": 53,
+      "endChar": 57
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5360,
+      "startChar": 57,
+      "endChar": 63
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5960,
+      "startChar": 63,
+      "endChar": 67
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6240,
+      "startChar": 67,
+      "endChar": 69
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6520,
+      "startChar": 69,
+      "endChar": 77
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7280,
+      "startChar": 77,
+      "endChar": 82
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7600,
+      "startChar": 82,
+      "endChar": 91
+    },
+    {
+      "startMs": 7600,
+      "endMs": 8240,
+      "startChar": 91,
+      "endChar": 98
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8560,
+      "startChar": 98,
+      "endChar": 102
+    },
+    {
+      "startMs": 8560,
+      "endMs": 8800,
+      "startChar": 102,
+      "endChar": 106
+    },
+    {
+      "startMs": 8800,
+      "endMs": 8960,
+      "startChar": 106,
+      "endChar": 109
+    },
+    {
+      "startMs": 8960,
+      "endMs": 9120,
+      "startChar": 109,
+      "endChar": 113
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9195,
+      "startChar": 113,
+      "endChar": 120
+    },
+    {
+      "startMs": 9195,
+      "endMs": 9270,
+      "startChar": 120,
+      "endChar": 123
+    },
+    {
+      "startMs": 9270,
+      "endMs": 10880,
+      "startChar": 123,
+      "endChar": 127
+    },
+    {
+      "startMs": 10880,
+      "endMs": 11080,
+      "startChar": 127,
+      "endChar": 129
+    },
+    {
+      "startMs": 11080,
+      "endMs": 11280,
+      "startChar": 129,
+      "endChar": 135
+    },
+    {
+      "startMs": 11280,
+      "endMs": 12000,
+      "startChar": 135,
+      "endChar": 139
+    },
+    {
+      "startMs": 12000,
+      "endMs": 12120,
+      "startChar": 139,
+      "endChar": 147
+    },
+    {
+      "startMs": 12120,
+      "endMs": 13760,
+      "startChar": 147,
+      "endChar": 152
+    },
+    {
+      "startMs": 13760,
+      "endMs": 14080,
+      "startChar": 152,
+      "endChar": 158
+    },
+    {
+      "startMs": 14080,
+      "endMs": 14560,
+      "startChar": 158,
+      "endChar": 163
+    },
+    {
+      "startMs": 14560,
+      "endMs": 15120,
+      "startChar": 163,
+      "endChar": 172
+    },
+    {
+      "startMs": 15120,
+      "endMs": 15195,
+      "startChar": 172,
+      "endChar": 176
+    },
+    {
+      "startMs": 15195,
+      "endMs": 15718,
+      "startChar": 176,
+      "endChar": 180
+    },
+    {
+      "startMs": 15718,
+      "endMs": 16240,
+      "startChar": 180,
+      "endChar": 185
+    },
+    {
+      "startMs": 16240,
+      "endMs": 16800,
+      "startChar": 185,
+      "endChar": 193
+    }
+  ]
+}

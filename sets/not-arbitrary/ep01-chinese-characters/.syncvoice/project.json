@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "maestro-style-reel",
+    "name": "Maestro Style Reel — How Chinese Characters Began as Pictures",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.opening",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Every Chinese character began as a picture. Not a code, not an alphabet. A drawing of something a person could actually see.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, opening a story. Slight smile."
+    },
+    {
+      "externalId": "s02.mountain.draw",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Start with a mountain. Three peaks, the middle one tallest. Anyone can draw that, and three thousand years ago, someone did.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if sketching while speaking."
+    },
+    {
+      "externalId": "s03.mountain.straighten",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Then hands copied it. Thousands of hands, over thousands of years. A brush is faster than a picture, so the curves pulled straight.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Reflective, letting the long span of time land."
+    },
+    {
+      "externalId": "s04.mountain.reveal",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "And there it is. Mountain. The three peaks never left.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction, like showing someone the answer."
+    },
+    {
+      "externalId": "s05.water.draw",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Water was drawn as a current running downward, with droplets thrown off to either side.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Descriptive, tracing the shape with the voice."
+    },
+    {
+      "externalId": "s06.water.reveal",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Straighten the current. Keep the droplets. That is the character for water.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Two crisp beats, then a settled reveal."
+    },
+    {
+      "externalId": "s07.sun.draw",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "The sun was easy. A circle. But a circle on its own means very little, so a mark went in the middle to say: this one is the sun.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light, a little amused at the practicality of it."
+    },
+    {
+      "externalId": "s08.sun.reveal",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Squares are quicker to write than circles. So the sun became this. It is also the word for day.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, with a small lift on the last sentence."
+    },
+    {
+      "externalId": "s09.moon",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "The moon got a crescent, precisely because the sun had already taken the round shape. It is also the word for month.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gentle, letting the logic click into place."
+    },
+    {
+      "externalId": "s10.turn",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Now the interesting part. Once you have pictures, you can put them together.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Leaning in. A turn in the story."
+    },
+    {
+      "externalId": "s11.person",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "A person, seen from the side. Two legs, caught mid stride.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Simple and clear, one idea."
+    },
+    {
+      "externalId": "s12.follow",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "Set one person behind another, and the meaning follows straight from the picture. To follow.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Pleased, as if handing over a small gift."
+    },
+    {
+      "externalId": "s13.forest",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "A tree. Two trees make a grove. Three trees make a forest, and the character is exactly that.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Building in three clear steps, faster each time."
+    },
+    {
+      "externalId": "s14.closing",
+      "scene": "hanzi-origins",
+      "speaker": "Narrator",
+      "text": "This is why looking closely at Chinese pays off. The characters are not arbitrary marks to memorize. They are drawings, stacked and simplified, still carrying the picture they started as.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line."
+    }
+  ]
+}

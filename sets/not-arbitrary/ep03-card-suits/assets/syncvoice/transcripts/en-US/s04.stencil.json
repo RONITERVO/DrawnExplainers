@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "externalId": "s04.stencil",
+  "text": "Then the French found a faster way. Print the outline once, and lay a stencil over it for the colour. But a stencil cannot cut a detail. It can only cut a hole.",
+  "durationMs": 12040,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1180,
+      "startChar": 22,
+      "endChar": 24
+    },
+    {
+      "startMs": 1180,
+      "endMs": 1360,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1960,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2280,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2355,
+      "startChar": 42,
+      "endChar": 46
+    },
+    {
+      "startMs": 2355,
+      "endMs": 2430,
+      "startChar": 46,
+      "endChar": 54
+    },
+    {
+      "startMs": 2430,
+      "endMs": 2505,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 2505,
+      "endMs": 4200,
+      "startChar": 60,
+      "endChar": 64
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4600,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4600,
+      "endMs": 4680,
+      "startChar": 68,
+      "endChar": 70
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4760,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5440,
+      "startChar": 78,
+      "endChar": 83
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5580,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 5580,
+      "endMs": 5720,
+      "startChar": 86,
+      "endChar": 90
+    },
+    {
+      "startMs": 5720,
+      "endMs": 5840,
+      "startChar": 90,
+      "endChar": 94
+    },
+    {
+      "startMs": 5840,
+      "endMs": 5960,
+      "startChar": 94,
+      "endChar": 102
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6520,
+      "startChar": 102,
+      "endChar": 106
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6595,
+      "startChar": 106,
+      "endChar": 108
+    },
+    {
+      "startMs": 6595,
+      "endMs": 6670,
+      "startChar": 108,
+      "endChar": 116
+    },
+    {
+      "startMs": 6670,
+      "endMs": 6745,
+      "startChar": 116,
+      "endChar": 123
+    },
+    {
+      "startMs": 6745,
+      "endMs": 8560,
+      "startChar": 123,
+      "endChar": 127
+    },
+    {
+      "startMs": 8560,
+      "endMs": 8740,
+      "startChar": 127,
+      "endChar": 129
+    },
+    {
+      "startMs": 8740,
+      "endMs": 8920,
+      "startChar": 129,
+      "endChar": 137
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9300,
+      "startChar": 137,
+      "endChar": 140
+    },
+    {
+      "startMs": 9300,
+      "endMs": 9680,
+      "startChar": 140,
+      "endChar": 144
+    },
+    {
+      "startMs": 9680,
+      "endMs": 9800,
+      "startChar": 144,
+      "endChar": 149
+    },
+    {
+      "startMs": 9800,
+      "endMs": 10720,
+      "startChar": 149,
+      "endChar": 153
+    },
+    {
+      "startMs": 10720,
+      "endMs": 10940,
+      "startChar": 153,
+      "endChar": 155
+    },
+    {
+      "startMs": 10940,
+      "endMs": 11160,
+      "startChar": 155,
+      "endChar": 160
+    }
+  ]
+}

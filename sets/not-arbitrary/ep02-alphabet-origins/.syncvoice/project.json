@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep02",
+    "name": "Not Arbitrary 02 — Where Our Letters Came From",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.opening",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "Look at the letter A. It does not look like anything in particular. That is only because it has been turned upside down.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, opening a story. A small hook in the last sentence."
+    },
+    {
+      "externalId": "s02.ox.draw",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "Around three thousand eight hundred years ago, in the Sinai desert, someone drew an ox head. Two horns, and a narrow face.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if sketching while speaking."
+    },
+    {
+      "externalId": "s03.ox.name",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "They called it aleph, their word for ox. The picture stood for the sound that word began with. A drawing, doing the job of a letter.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Reflective, landing the idea gently."
+    },
+    {
+      "externalId": "s04.ox.rotate",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "The Phoenicians simplified it. The Greeks turned it over. The horns became legs, and the face became a point.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Three clear beats, one per step, slightly quickening."
+    },
+    {
+      "externalId": "s05.a.reveal",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "That is the letter A. Still an ox, standing on its head.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Let the last phrase sit."
+    },
+    {
+      "externalId": "s06.house",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "The second letter was a house. A floor plan seen from above, with a doorway on one side.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Descriptive, tracing the shape with the voice."
+    },
+    {
+      "externalId": "s07.b.reveal",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "Beth means house. Turn it upright, round off the corners, and you are looking at the letter B.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, with a lift on the final letter."
+    },
+    {
+      "externalId": "s08.water.draw",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "Water was a wave. Three crests, drawn in a single stroke.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Simple and clear, one idea."
+    },
+    {
+      "externalId": "s09.water.rhyme",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "This one is worth stopping on. In China, the picture for water was a current with droplets flying off it. In the Sinai, it was a wave. Two systems that never met, reaching for the same picture.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Slower, a little wonder in it. The quiet centre of the film."
+    },
+    {
+      "externalId": "s10.m.reveal",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "Stand that wave on its end, and it is M.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Crisp, a small reveal."
+    },
+    {
+      "externalId": "s11.eye",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "And an eye. An outline, and a pupil in the middle of it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light and quick."
+    },
+    {
+      "externalId": "s12.o.reveal",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "The pupil fell away. The outline stayed, and became the letter O.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Three short beats, the last one settled."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "An ox, a house, water, and an eye. Four drawings. Four of the letters you use every single day.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate, one item at a time, like laying cards down."
+    },
+    {
+      "externalId": "s14.closing",
+      "scene": "alphabet-origins",
+      "speaker": "Narrator",
+      "text": "You have been reading pictures your entire life. They only stopped looking like anything about two and a half thousand years ago.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line."
+    }
+  ]
+}

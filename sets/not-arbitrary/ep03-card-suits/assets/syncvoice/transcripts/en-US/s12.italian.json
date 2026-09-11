@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s12.italian",
+  "text": "Italy and Spain never used the German suits at all. Their cards had swords on them, and heavy wooden sticks. England took the French pictures, and the Italian names.",
+  "durationMs": 11800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1880,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2100,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2100,
+      "endMs": 2320,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2760,
+      "startChar": 38,
+      "endChar": 44
+    },
+    {
+      "startMs": 2760,
+      "endMs": 2920,
+      "startChar": 44,
+      "endChar": 47
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3080,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3520,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3600,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4640,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4640,
+      "endMs": 4960,
+      "startChar": 68,
+      "endChar": 75
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5400,
+      "startChar": 75,
+      "endChar": 78
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5560,
+      "startChar": 78,
+      "endChar": 84
+    },
+    {
+      "startMs": 5560,
+      "endMs": 5920,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6320,
+      "startChar": 88,
+      "endChar": 94
+    },
+    {
+      "startMs": 6320,
+      "endMs": 6680,
+      "startChar": 94,
+      "endChar": 101
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7000,
+      "startChar": 101,
+      "endChar": 109
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7560,
+      "startChar": 109,
+      "endChar": 117
+    },
+    {
+      "startMs": 7560,
+      "endMs": 7635,
+      "startChar": 117,
+      "endChar": 122
+    },
+    {
+      "startMs": 7635,
+      "endMs": 8378,
+      "startChar": 122,
+      "endChar": 126
+    },
+    {
+      "startMs": 8378,
+      "endMs": 9120,
+      "startChar": 126,
+      "endChar": 133
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9560,
+      "startChar": 133,
+      "endChar": 143
+    },
+    {
+      "startMs": 9560,
+      "endMs": 10160,
+      "startChar": 143,
+      "endChar": 147
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10380,
+      "startChar": 147,
+      "endChar": 151
+    },
+    {
+      "startMs": 10380,
+      "endMs": 10600,
+      "startChar": 151,
+      "endChar": 159
+    },
+    {
+      "startMs": 10600,
+      "endMs": 11160,
+      "startChar": 159,
+      "endChar": 165
+    }
+  ]
+}

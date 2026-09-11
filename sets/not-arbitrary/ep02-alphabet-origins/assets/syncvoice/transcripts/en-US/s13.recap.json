@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "externalId": "s13.recap",
+  "text": "An ox, a house, water, and an eye. Four drawings. Four of the letters you use every single day.",
+  "durationMs": 10600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 7,
+      "endChar": 9
+    },
+    {
+      "startMs": 960,
+      "endMs": 1520,
+      "startChar": 9,
+      "endChar": 16
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2200,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3360,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4200,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4440,
+      "startChar": 30,
+      "endChar": 35
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4880,
+      "startChar": 35,
+      "endChar": 40
+    },
+    {
+      "startMs": 4880,
+      "endMs": 4960,
+      "startChar": 40,
+      "endChar": 50
+    },
+    {
+      "startMs": 4960,
+      "endMs": 6800,
+      "startChar": 50,
+      "endChar": 55
+    },
+    {
+      "startMs": 6800,
+      "endMs": 6875,
+      "startChar": 55,
+      "endChar": 58
+    },
+    {
+      "startMs": 6875,
+      "endMs": 7358,
+      "startChar": 58,
+      "endChar": 62
+    },
+    {
+      "startMs": 7358,
+      "endMs": 7840,
+      "startChar": 62,
+      "endChar": 70
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8480,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8680,
+      "startChar": 74,
+      "endChar": 78
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9200,
+      "startChar": 78,
+      "endChar": 84
+    },
+    {
+      "startMs": 9200,
+      "endMs": 9600,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 9600,
+      "endMs": 10000,
+      "startChar": 91,
+      "endChar": 95
+    }
+  ]
+}

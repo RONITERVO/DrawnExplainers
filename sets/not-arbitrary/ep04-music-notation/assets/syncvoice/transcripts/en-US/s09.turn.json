@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s09.turn",
+  "text": "Those marks tell you where you are. The two that tell you what to play are letters as well. And they are the same letter.",
+  "durationMs": 7720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1040,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1240,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1480,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1680,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1860,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 1860,
+      "endMs": 2040,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2115,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 2115,
+      "endMs": 3160,
+      "startChar": 49,
+      "endChar": 54
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3360,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3600,
+      "startChar": 58,
+      "endChar": 63
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3840,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 3840,
+      "endMs": 3960,
+      "startChar": 66,
+      "endChar": 71
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4560,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 4560,
+      "endMs": 4840,
+      "startChar": 75,
+      "endChar": 83
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5240,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5400,
+      "startChar": 86,
+      "endChar": 92
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5580,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 5580,
+      "endMs": 5760,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 5760,
+      "endMs": 5835,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 5835,
+      "endMs": 5910,
+      "startChar": 105,
+      "endChar": 109
+    },
+    {
+      "startMs": 5910,
+      "endMs": 6800,
+      "startChar": 109,
+      "endChar": 114
+    },
+    {
+      "startMs": 6800,
+      "endMs": 7040,
+      "startChar": 114,
+      "endChar": 121
+    }
+  ]
+}

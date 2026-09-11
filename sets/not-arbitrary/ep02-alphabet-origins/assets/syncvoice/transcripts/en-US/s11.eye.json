@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "s11.eye",
+  "text": "And an eye. An outline, and a pupil in the middle of it.",
+  "durationMs": 3800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 300,
+      "endMs": 375,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 375,
+      "endMs": 1228,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 1228,
+      "endMs": 2080,
+      "startChar": 28,
+      "endChar": 30
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2640,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3000,
+      "startChar": 43,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3120,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3240,
+      "startChar": 53,
+      "endChar": 56
+    }
+  ]
+}

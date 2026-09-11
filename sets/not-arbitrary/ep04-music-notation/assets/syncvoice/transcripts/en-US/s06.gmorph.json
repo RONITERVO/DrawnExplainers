@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "externalId": "s06.gmorph",
+  "text": "He wrote it ten thousand times. A hand that writes the same letter that often stops lifting the pen. It is only what happens to a letter that is never drawn slowly.",
+  "durationMs": 15520,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 300,
+      "endMs": 1400,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 2120,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2347,
+      "startChar": 32,
+      "endChar": 34
+    },
+    {
+      "startMs": 2347,
+      "endMs": 2573,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2573,
+      "endMs": 2800,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2920,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3080,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3080,
+      "endMs": 4720,
+      "startChar": 55,
+      "endChar": 60
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5280,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5720,
+      "startChar": 67,
+      "endChar": 72
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6200,
+      "startChar": 72,
+      "endChar": 78
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6760,
+      "startChar": 78,
+      "endChar": 84
+    },
+    {
+      "startMs": 6760,
+      "endMs": 6880,
+      "startChar": 84,
+      "endChar": 92
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7580,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 7580,
+      "endMs": 8280,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8840,
+      "startChar": 101,
+      "endChar": 104
+    },
+    {
+      "startMs": 8840,
+      "endMs": 8915,
+      "startChar": 104,
+      "endChar": 107
+    },
+    {
+      "startMs": 8915,
+      "endMs": 8990,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 8990,
+      "endMs": 10640,
+      "startChar": 112,
+      "endChar": 117
+    },
+    {
+      "startMs": 10640,
+      "endMs": 10880,
+      "startChar": 117,
+      "endChar": 125
+    },
+    {
+      "startMs": 10880,
+      "endMs": 11600,
+      "startChar": 125,
+      "endChar": 128
+    },
+    {
+      "startMs": 11600,
+      "endMs": 11680,
+      "startChar": 128,
+      "endChar": 130
+    },
+    {
+      "startMs": 11680,
+      "endMs": 11760,
+      "startChar": 130,
+      "endChar": 137
+    },
+    {
+      "startMs": 11760,
+      "endMs": 12400,
+      "startChar": 137,
+      "endChar": 142
+    },
+    {
+      "startMs": 12400,
+      "endMs": 12475,
+      "startChar": 142,
+      "endChar": 145
+    },
+    {
+      "startMs": 12475,
+      "endMs": 13520,
+      "startChar": 145,
+      "endChar": 151
+    },
+    {
+      "startMs": 13520,
+      "endMs": 14160,
+      "startChar": 151,
+      "endChar": 157
+    },
+    {
+      "startMs": 14160,
+      "endMs": 14680,
+      "startChar": 157,
+      "endChar": 164
+    }
+  ]
+}

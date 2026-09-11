@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "externalId": "s06.house",
+  "text": "The second letter was a house. A floor plan seen from above, with a doorway on one side.",
+  "durationMs": 7240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1420,
+      "startChar": 22,
+      "endChar": 24
+    },
+    {
+      "startMs": 1420,
+      "endMs": 1640,
+      "startChar": 24,
+      "endChar": 31
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1960,
+      "startChar": 31,
+      "endChar": 33
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2280,
+      "startChar": 33,
+      "endChar": 39
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2400,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 2400,
+      "endMs": 3680,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4040,
+      "startChar": 49,
+      "endChar": 54
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4240,
+      "startChar": 54,
+      "endChar": 61
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4800,
+      "startChar": 61,
+      "endChar": 66
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5080,
+      "startChar": 66,
+      "endChar": 68
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5360,
+      "startChar": 68,
+      "endChar": 76
+    },
+    {
+      "startMs": 5360,
+      "endMs": 6120,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6360,
+      "startChar": 79,
+      "endChar": 83
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6600,
+      "startChar": 83,
+      "endChar": 88
+    }
+  ]
+}

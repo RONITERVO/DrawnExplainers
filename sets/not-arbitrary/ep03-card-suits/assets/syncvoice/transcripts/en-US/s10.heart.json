@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "externalId": "s10.heart",
+  "text": "Only one of the four never had to change. A heart was already a stencil. Two curves and a point.",
+  "durationMs": 9160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 1080,
+      "startChar": 9,
+      "endChar": 12
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1200,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1880,
+      "startChar": 21,
+      "endChar": 27
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2360,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2480,
+      "startChar": 31,
+      "endChar": 34
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2600,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2600,
+      "endMs": 2960,
+      "startChar": 42,
+      "endChar": 44
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3320,
+      "startChar": 44,
+      "endChar": 50
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3395,
+      "startChar": 50,
+      "endChar": 54
+    },
+    {
+      "startMs": 3395,
+      "endMs": 4920,
+      "startChar": 54,
+      "endChar": 62
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5300,
+      "startChar": 62,
+      "endChar": 64
+    },
+    {
+      "startMs": 5300,
+      "endMs": 5680,
+      "startChar": 64,
+      "endChar": 73
+    },
+    {
+      "startMs": 5680,
+      "endMs": 6480,
+      "startChar": 73,
+      "endChar": 77
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6555,
+      "startChar": 77,
+      "endChar": 84
+    },
+    {
+      "startMs": 6555,
+      "endMs": 6630,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 6630,
+      "endMs": 7355,
+      "startChar": 88,
+      "endChar": 90
+    },
+    {
+      "startMs": 7355,
+      "endMs": 8080,
+      "startChar": 90,
+      "endChar": 96
+    }
+  ]
+}

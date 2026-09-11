@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "externalId": "s05.gdraw",
+  "text": "Then music started climbing. When a tune went above the letters already in use, a scribe reached for the next one along, and put a capital G at the head of its line.",
+  "durationMs": 11320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1400,
+      "startChar": 19,
+      "endChar": 29
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1960,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2035,
+      "startChar": 34,
+      "endChar": 36
+    },
+    {
+      "startMs": 2035,
+      "endMs": 2110,
+      "startChar": 36,
+      "endChar": 41
+    },
+    {
+      "startMs": 2110,
+      "endMs": 3080,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3400,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3640,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 3640,
+      "endMs": 3880,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4480,
+      "startChar": 64,
+      "endChar": 72
+    },
+    {
+      "startMs": 4480,
+      "endMs": 4680,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4880,
+      "startChar": 75,
+      "endChar": 80
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5180,
+      "startChar": 80,
+      "endChar": 82
+    },
+    {
+      "startMs": 5180,
+      "endMs": 5480,
+      "startChar": 82,
+      "endChar": 89
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6400,
+      "startChar": 89,
+      "endChar": 97
+    },
+    {
+      "startMs": 6400,
+      "endMs": 6620,
+      "startChar": 97,
+      "endChar": 101
+    },
+    {
+      "startMs": 6620,
+      "endMs": 6840,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7040,
+      "startChar": 105,
+      "endChar": 110
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7220,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 7220,
+      "endMs": 7400,
+      "startChar": 114,
+      "endChar": 121
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7960,
+      "startChar": 121,
+      "endChar": 125
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8035,
+      "startChar": 125,
+      "endChar": 129
+    },
+    {
+      "startMs": 8035,
+      "endMs": 8298,
+      "startChar": 129,
+      "endChar": 131
+    },
+    {
+      "startMs": 8298,
+      "endMs": 8560,
+      "startChar": 131,
+      "endChar": 139
+    },
+    {
+      "startMs": 8560,
+      "endMs": 9240,
+      "startChar": 139,
+      "endChar": 141
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9800,
+      "startChar": 141,
+      "endChar": 144
+    },
+    {
+      "startMs": 9800,
+      "endMs": 9880,
+      "startChar": 144,
+      "endChar": 148
+    },
+    {
+      "startMs": 9880,
+      "endMs": 9960,
+      "startChar": 148,
+      "endChar": 153
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10180,
+      "startChar": 153,
+      "endChar": 156
+    },
+    {
+      "startMs": 10180,
+      "endMs": 10400,
+      "startChar": 156,
+      "endChar": 160
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10680,
+      "startChar": 160,
+      "endChar": 165
+    }
+  ]
+}

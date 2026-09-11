@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep03",
+    "name": "Not Arbitrary 03 — The Spade Is a Leaf",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.opening",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "Look at a club on a playing card. It is not a club, and it is not a clover. It is an acorn, drawn by somebody in a hurry.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, opening a story. The last sentence is the hook — land it plainly, no wink."
+    },
+    {
+      "externalId": "s02.acorn.draw",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "Five hundred years ago, German card makers took their suits from the forest and the hunt. This one is an acorn, hanging by its stalk.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if sketching while speaking."
+    },
+    {
+      "externalId": "s03.acorn.name",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "They called it Eichel. The German word for an acorn. Every card was a woodcut, cut and coloured by hand, and all that detail cost somebody an afternoon.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Reflective, with a small dry emphasis on the cost. Say the German word Eichel with a German colour, then say acorn plainly in English."
+    },
+    {
+      "externalId": "s04.stencil",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "Then the French found a faster way. Print the outline once, and lay a stencil over it for the colour. But a stencil cannot cut a detail. It can only cut a hole.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Building, practical, three clear steps. A slight lift on the last sentence."
+    },
+    {
+      "externalId": "s05.club.reveal",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "That is a club. Still an acorn, with everything expensive cut out of it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Let the last phrase sit."
+    },
+    {
+      "externalId": "s06.leaf.draw",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "The next suit came off the same tree. A leaf, on its stalk. The Germans called that suit Laub, which simply means leaves.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light and quick, moving on."
+    },
+    {
+      "externalId": "s07.spade.reveal",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "A stencil keeps the outline and throws away the inside. That is why a spade has a little foot at the bottom. It is a stem.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, then land the final sentence like a small discovery."
+    },
+    {
+      "externalId": "s08.bell.draw",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "The third suit was a bell. A small round hawking bell, the kind tied to a hunting bird.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Descriptive, unhurried."
+    },
+    {
+      "externalId": "s09.diamond.reveal",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "But you never see a whole card. You see a corner of one, in a fan. A bell and a heart are both just round, so the bell had to grow corners.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Explaining a reason, warming into it. The last clause is the point."
+    },
+    {
+      "externalId": "s10.heart",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "Only one of the four never had to change. A heart was already a stencil. Two curves and a point.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Slower, a little warmth. The quiet middle of the film."
+    },
+    {
+      "externalId": "s11.turn",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "So the pictures are German, and the printing is French. The names you use for them are neither.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A turn. Set it down cleanly and pause before the last sentence."
+    },
+    {
+      "externalId": "s12.italian",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "Italy and Spain never used the German suits at all. Their cards had swords on them, and heavy wooden sticks. England took the French pictures, and the Italian names.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Curious, building to the last clause."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "So you are holding a leaf and calling it a sword. An acorn, and calling it a stick. And a bell that grew corners so you could tell it apart from a heart.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate, one item at a time, like laying cards down."
+    },
+    {
+      "externalId": "s14.closing",
+      "scene": "card-suits",
+      "speaker": "Narrator",
+      "text": "None of it was designed. It is a forest, cut down to fit a stencil, and misnamed for five hundred years. You have been holding the evidence all along.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line."
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "externalId": "s02.stave",
+  "text": "Before the stave, a scribe drew the shape of a melody above the words. It told a singer the tune went up. It never told him how far. So a monk in Arezzo ruled lines across the page.",
+  "durationMs": 14120,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 773,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 773,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1320,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2220,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2220,
+      "endMs": 2400,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2680,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2960,
+      "startChar": 45,
+      "endChar": 47
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3160,
+      "startChar": 47,
+      "endChar": 54
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3680,
+      "startChar": 54,
+      "endChar": 60
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3840,
+      "startChar": 60,
+      "endChar": 64
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4000,
+      "startChar": 64,
+      "endChar": 71
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4600,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 4600,
+      "endMs": 4680,
+      "startChar": 74,
+      "endChar": 79
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5040,
+      "startChar": 79,
+      "endChar": 81
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5400,
+      "startChar": 81,
+      "endChar": 88
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5660,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 5660,
+      "endMs": 5920,
+      "startChar": 92,
+      "endChar": 97
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6520,
+      "startChar": 97,
+      "endChar": 102
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6840,
+      "startChar": 102,
+      "endChar": 106
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7240,
+      "startChar": 106,
+      "endChar": 109
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7800,
+      "startChar": 109,
+      "endChar": 115
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8080,
+      "startChar": 115,
+      "endChar": 120
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8320,
+      "startChar": 120,
+      "endChar": 124
+    },
+    {
+      "startMs": 8320,
+      "endMs": 8600,
+      "startChar": 124,
+      "endChar": 128
+    },
+    {
+      "startMs": 8600,
+      "endMs": 8840,
+      "startChar": 128,
+      "endChar": 133
+    },
+    {
+      "startMs": 8840,
+      "endMs": 9027,
+      "startChar": 133,
+      "endChar": 136
+    },
+    {
+      "startMs": 9027,
+      "endMs": 9213,
+      "startChar": 136,
+      "endChar": 138
+    },
+    {
+      "startMs": 9213,
+      "endMs": 9400,
+      "startChar": 138,
+      "endChar": 143
+    },
+    {
+      "startMs": 9400,
+      "endMs": 9475,
+      "startChar": 143,
+      "endChar": 146
+    },
+    {
+      "startMs": 9475,
+      "endMs": 10840,
+      "startChar": 146,
+      "endChar": 153
+    },
+    {
+      "startMs": 10840,
+      "endMs": 11720,
+      "startChar": 153,
+      "endChar": 159
+    },
+    {
+      "startMs": 11720,
+      "endMs": 12280,
+      "startChar": 159,
+      "endChar": 165
+    },
+    {
+      "startMs": 12280,
+      "endMs": 12800,
+      "startChar": 165,
+      "endChar": 172
+    },
+    {
+      "startMs": 12800,
+      "endMs": 13040,
+      "startChar": 172,
+      "endChar": 176
+    },
+    {
+      "startMs": 13040,
+      "endMs": 13280,
+      "startChar": 176,
+      "endChar": 181
+    }
+  ]
+}

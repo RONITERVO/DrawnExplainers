@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "externalId": "s02.mountain.draw",
+  "text": "Start with a mountain. Three peaks, the middle one tallest. Anyone can draw that, and three thousand years ago, someone did.",
+  "durationMs": 9320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 23
+    },
+    {
+      "startMs": 300,
+      "endMs": 1440,
+      "startChar": 23,
+      "endChar": 29
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1520,
+      "startChar": 29,
+      "endChar": 36
+    },
+    {
+      "startMs": 1520,
+      "endMs": 2100,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 2100,
+      "endMs": 2680,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3280,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3560,
+      "startChar": 51,
+      "endChar": 60
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3880,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4200,
+      "startChar": 67,
+      "endChar": 71
+    },
+    {
+      "startMs": 4200,
+      "endMs": 5200,
+      "startChar": 71,
+      "endChar": 76
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5400,
+      "startChar": 76,
+      "endChar": 82
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5800,
+      "startChar": 82,
+      "endChar": 86
+    },
+    {
+      "startMs": 5800,
+      "endMs": 5880,
+      "startChar": 86,
+      "endChar": 92
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6680,
+      "startChar": 92,
+      "endChar": 101
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7360,
+      "startChar": 101,
+      "endChar": 107
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7560,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 7560,
+      "endMs": 8040,
+      "startChar": 112,
+      "endChar": 120
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8720,
+      "startChar": 120,
+      "endChar": 124
+    }
+  ]
+}

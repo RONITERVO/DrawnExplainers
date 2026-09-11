@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep04",
+    "name": "Not Arbitrary 04 — The Treble Clef Is a Letter G",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.opening",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "The curl at the start of a line of music is not a symbol. It is a letter, written badly for nine hundred years. This is what was left.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, opening a story. The last clause is the hook — land it plainly, no wink."
+    },
+    {
+      "externalId": "s02.stave",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "Before the stave, a scribe drew the shape of a melody above the words. It told a singer the tune went up. It never told him how far. So a monk in Arezzo ruled lines across the page.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if sketching while speaking. A small beat of dryness on how far."
+    },
+    {
+      "externalId": "s03.letters",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "But one ruled line looks like every other. So he wrote a letter at the head of one, to say which note it was, and inked one line red and another yellow.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Practical and clear, building through the sentence."
+    },
+    {
+      "externalId": "s04.clavis",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "He called those letters litterae clavis. The key letters. Which is all the word clef has ever meant.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Say the Latin phrase litterae clavis plainly, with a clear short i in the first syllable of litterae, and let it finish before the English. Then a small, satisfied landing on the last sentence."
+    },
+    {
+      "externalId": "s05.gdraw",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "Then music started climbing. When a tune went above the letters already in use, a scribe reached for the next one along, and put a capital G at the head of its line.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light and moving. Give the capital G its full weight, do not swallow it."
+    },
+    {
+      "externalId": "s06.gmorph",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "He wrote it ten thousand times. A hand that writes the same letter that often stops lifting the pen. It is only what happens to a letter that is never drawn slowly.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Reflective, slowing. The last sentence is the idea of the whole film — let it sit."
+    },
+    {
+      "externalId": "s07.greveal",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "Nine hundred years of not lifting the pen. And it still winds around the line it was put there to name.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Short. Let the final phrase rest."
+    },
+    {
+      "externalId": "s08.fclef",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "The letter on the red line came out unrecognisable. Its arms did not survive. What replaced them was a dot above the line and a dot below, so nobody could mistake the line.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Brisker than the previous shots — this one moves. Dry on did not survive."
+    },
+    {
+      "externalId": "s09.turn",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "Those marks tell you where you are. The two that tell you what to play are letters as well. And they are the same letter.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A turn. Set the first two sentences down cleanly, pause, then the last one as a small provocation."
+    },
+    {
+      "externalId": "s10.roundb",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "In the medieval scale, exactly one note could be sung two ways. They called the lower one b rotundum. A scribe wrote it as the letter b, with a round bowl.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Curious and steady. Say the Latin phrase b rotundum plainly and finish it before the next sentence begins."
+    },
+    {
+      "externalId": "s11.flat",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "It barely had to change at all. Which is why, in Germany, the letter B still means the flat one, and nobody there finds that strange.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, a little amused. Give the letter B its full weight."
+    },
+    {
+      "externalId": "s12.squareb",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "The higher of the two had to look different, or a singer would sing the wrong note. So they squared the bowl off. They called it b quadratum.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, one step at a time. Say the Latin phrase b quadratum plainly, at the very end, and let it finish."
+    },
+    {
+      "externalId": "s13.sharp",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "A sharp is that square. So is a natural. Two of the most common marks in music, and both of them are one letter that nobody could be bothered to round off.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate. The first two sentences are short and flat on purpose; the last one opens out."
+    },
+    {
+      "externalId": "s14.recap",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "Nothing on that page was designed. Every mark there is handwriting, worn down by a thousand years of copying. And the letters themselves had been pictures once.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Slower, laying things down one at a time. The last sentence is an aside, thrown away lightly."
+    },
+    {
+      "externalId": "s15.closing",
+      "scene": "music-notation",
+      "speaker": "Narrator",
+      "text": "You never learned a new set of symbols. You learned three letters, drawn by people in a hurry. You have known the alphabet all along.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line. Keep the last sentence simple and unhurried."
+    }
+  ]
+}

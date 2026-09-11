@@ -1,0 +1,62 @@
+{
+  "set": "not-arbitrary",
+  "episode": 2,
+  "slug": "ep02-alphabet-origins",
+  "title": "Where Our Letters Came From",
+  "thesis": "A is an ox head rotated 180 degrees. So are B, M and O pictures, still being read every day.",
+  "runtimeSeconds": 122.76,
+  "renderedAt": "2026-09-10",
+  "status": "rendered",
+
+  "author": {
+    "model": "Claude Opus 5",
+    "session": "https://claude.ai/code/session_01FhJbcN4jHyfdmsJXtVYuvs"
+  },
+
+  "pipeline": {
+    "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 126s bed, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 3683 frames in 32s",
+    "loudness": "-13.9 LUFS integrated, -1.5 dBTP"
+  },
+
+  "musicPrompt": "Sparse felt piano and a soft plucked kalimba, unhurried, wide space between notes. Warm upright bass far back, faint dusty room tone. Curious and contemplative, a quiet desert-evening patience. Instrumental only, no vocals, no strong melodic hook that competes with a speaking voice.",
+
+  "qa": {
+    "method": "Whisper transcript of the final mux diffed against the script",
+    "result": "clean; only Whisper's own numeral normalisation ('three thousand eight hundred' heard as '3,800') remains",
+    "defectsFound": [
+      "s05: the standalone letter 'A.' was spoken as 'Ah'",
+      "s07: the word 'House.' was dropped entirely",
+      "s09: 'water' was dropped from 'In China, water was drawn as'",
+      "s12: the trailing 'O.' was dropped",
+      "s13: the recap list lost 'Water', 'Eye' and the letter 'B', and duplicated 'a house'"
+    ],
+    "fix": "Every isolated single letter and short standalone word was given a carrier phrase, and the spoken letter list was removed in favour of letting the screen carry it. Content addressing meant only the 6 changed lines re-synthesised."
+  },
+
+  "publish": {
+    "youtube": {
+      "title": "The letter A is an ox. Upside down.",
+      "description": "Around 3,800 years ago someone in the Sinai drew an ox head. Two horns, a narrow face. Turn it over and you are looking at the letter A.\n\nThis one also covers B (a house), M (water) and O (an eye) — and the strange moment where Chinese and the Sinai, with no contact between them, both drew water the same way.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": ["alphabet", "etymology", "writing systems", "linguistics", "phoenician", "history", "animation"]
+    },
+    "tiktok": {
+      "caption": "The letter A is an ox head. Someone drew it 3,800 years ago and we just turned it upside down.",
+      "hook": "First 3 seconds: the letter A flips over and becomes an ox."
+    }
+  },
+
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "timing": "timing.json",
+    "music": "music.wav",
+    "narration": "narration.wav",
+    "mixed": "mixed.wav"
+  },
+
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep02-alphabet-origins"
+}

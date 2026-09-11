@@ -1,0 +1,2247 @@
+{
+  "s01.opening": {
+    "durationMs": 11840,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "curl",
+        "startMs": 180,
+        "endMs": 640
+      },
+      {
+        "word": "at",
+        "startMs": 640,
+        "endMs": 1020
+      },
+      {
+        "word": "the",
+        "startMs": 1020,
+        "endMs": 1180
+      },
+      {
+        "word": "start",
+        "startMs": 1180,
+        "endMs": 1600
+      },
+      {
+        "word": "of",
+        "startMs": 1600,
+        "endMs": 1820
+      },
+      {
+        "word": "a",
+        "startMs": 1820,
+        "endMs": 1960
+      },
+      {
+        "word": "line",
+        "startMs": 1960,
+        "endMs": 2160
+      },
+      {
+        "word": "of",
+        "startMs": 2160,
+        "endMs": 2280
+      },
+      {
+        "word": "music",
+        "startMs": 2280,
+        "endMs": 2640
+      },
+      {
+        "word": "is",
+        "startMs": 2640,
+        "endMs": 3220
+      },
+      {
+        "word": "not",
+        "startMs": 3220,
+        "endMs": 3620
+      },
+      {
+        "word": "a",
+        "startMs": 3620,
+        "endMs": 3920
+      },
+      {
+        "word": "symbol.",
+        "startMs": 3920,
+        "endMs": 4240
+      },
+      {
+        "word": "It",
+        "startMs": 4640,
+        "endMs": 5080
+      },
+      {
+        "word": "is",
+        "startMs": 5080,
+        "endMs": 5460
+      },
+      {
+        "word": "a",
+        "startMs": 5460,
+        "endMs": 5680
+      },
+      {
+        "word": "letter,",
+        "startMs": 5680,
+        "endMs": 6020
+      },
+      {
+        "word": "written",
+        "startMs": 6300,
+        "endMs": 6760
+      },
+      {
+        "word": "badly",
+        "startMs": 6760,
+        "endMs": 7320
+      },
+      {
+        "word": "for",
+        "startMs": 7320,
+        "endMs": 7800
+      },
+      {
+        "word": "900",
+        "startMs": 7800,
+        "endMs": 8460
+      },
+      {
+        "word": "years.",
+        "startMs": 8460,
+        "endMs": 9220
+      },
+      {
+        "word": "This",
+        "startMs": 9660,
+        "endMs": 10260
+      },
+      {
+        "word": "is",
+        "startMs": 10260,
+        "endMs": 10740
+      },
+      {
+        "word": "what",
+        "startMs": 10740,
+        "endMs": 10920
+      },
+      {
+        "word": "was",
+        "startMs": 10920,
+        "endMs": 11100
+      },
+      {
+        "word": "left.",
+        "startMs": 11100,
+        "endMs": 11420
+      }
+    ],
+    "heard": "The curl at the start of a line of music is not a symbol. It is a letter, written badly for 900 years. This is what was left.",
+    "script": "The curl at the start of a line of music is not a symbol. It is a letter, written badly for nine hundred years. This is what was left."
+  },
+  "s02.stave": {
+    "durationMs": 14120,
+    "words": [
+      {
+        "word": "Before",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "the",
+        "startMs": 380,
+        "endMs": 640
+      },
+      {
+        "word": "stave,",
+        "startMs": 640,
+        "endMs": 1140
+      },
+      {
+        "word": "a",
+        "startMs": 1300,
+        "endMs": 1500
+      },
+      {
+        "word": "scribe",
+        "startMs": 1500,
+        "endMs": 1980
+      },
+      {
+        "word": "drew",
+        "startMs": 1980,
+        "endMs": 2260
+      },
+      {
+        "word": "the",
+        "startMs": 2260,
+        "endMs": 2520
+      },
+      {
+        "word": "shape",
+        "startMs": 2520,
+        "endMs": 2860
+      },
+      {
+        "word": "of",
+        "startMs": 2860,
+        "endMs": 3060
+      },
+      {
+        "word": "a",
+        "startMs": 3060,
+        "endMs": 3180
+      },
+      {
+        "word": "melody",
+        "startMs": 3180,
+        "endMs": 3520
+      },
+      {
+        "word": "above",
+        "startMs": 3520,
+        "endMs": 3880
+      },
+      {
+        "word": "the",
+        "startMs": 3880,
+        "endMs": 4080
+      },
+      {
+        "word": "words.",
+        "startMs": 4080,
+        "endMs": 4420
+      },
+      {
+        "word": "It",
+        "startMs": 4740,
+        "endMs": 5140
+      },
+      {
+        "word": "told",
+        "startMs": 5140,
+        "endMs": 5320
+      },
+      {
+        "word": "a",
+        "startMs": 5320,
+        "endMs": 5480
+      },
+      {
+        "word": "singer",
+        "startMs": 5480,
+        "endMs": 5760
+      },
+      {
+        "word": "the",
+        "startMs": 5760,
+        "endMs": 6060
+      },
+      {
+        "word": "tune",
+        "startMs": 6060,
+        "endMs": 6400
+      },
+      {
+        "word": "went",
+        "startMs": 6400,
+        "endMs": 6740
+      },
+      {
+        "word": "up.",
+        "startMs": 6740,
+        "endMs": 7060
+      },
+      {
+        "word": "It",
+        "startMs": 7220,
+        "endMs": 7620
+      },
+      {
+        "word": "never",
+        "startMs": 7620,
+        "endMs": 8000
+      },
+      {
+        "word": "told",
+        "startMs": 8000,
+        "endMs": 8280
+      },
+      {
+        "word": "him",
+        "startMs": 8280,
+        "endMs": 8500
+      },
+      {
+        "word": "how",
+        "startMs": 8500,
+        "endMs": 8780
+      },
+      {
+        "word": "far.",
+        "startMs": 8780,
+        "endMs": 9160
+      },
+      {
+        "word": "So",
+        "startMs": 9560,
+        "endMs": 10120
+      },
+      {
+        "word": "a",
+        "startMs": 10120,
+        "endMs": 10420
+      },
+      {
+        "word": "monk",
+        "startMs": 10420,
+        "endMs": 10680
+      },
+      {
+        "word": "in",
+        "startMs": 10680,
+        "endMs": 10960
+      },
+      {
+        "word": "Arezzo",
+        "startMs": 10960,
+        "endMs": 11520
+      },
+      {
+        "word": "ruled",
+        "startMs": 11520,
+        "endMs": 12120
+      },
+      {
+        "word": "lines",
+        "startMs": 12120,
+        "endMs": 12700
+      },
+      {
+        "word": "across",
+        "startMs": 12700,
+        "endMs": 13100
+      },
+      {
+        "word": "the",
+        "startMs": 13100,
+        "endMs": 13380
+      },
+      {
+        "word": "page.",
+        "startMs": 13380,
+        "endMs": 13760
+      }
+    ],
+    "heard": "Before the stave, a scribe drew the shape of a melody above the words. It told a singer the tune went up. It never told him how far. So a monk in Arezzo ruled lines across the page.",
+    "script": "Before the stave, a scribe drew the shape of a melody above the words. It told a singer the tune went up. It never told him how far. So a monk in Arezzo ruled lines across the page."
+  },
+  "s03.letters": {
+    "durationMs": 11320,
+    "words": [
+      {
+        "word": "But",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "one",
+        "startMs": 260,
+        "endMs": 740
+      },
+      {
+        "word": "ruled",
+        "startMs": 740,
+        "endMs": 1140
+      },
+      {
+        "word": "line",
+        "startMs": 1140,
+        "endMs": 1560
+      },
+      {
+        "word": "looks",
+        "startMs": 1560,
+        "endMs": 1960
+      },
+      {
+        "word": "like",
+        "startMs": 1960,
+        "endMs": 2360
+      },
+      {
+        "word": "every",
+        "startMs": 2360,
+        "endMs": 2660
+      },
+      {
+        "word": "other.",
+        "startMs": 2660,
+        "endMs": 2980
+      },
+      {
+        "word": "So",
+        "startMs": 3180,
+        "endMs": 3720
+      },
+      {
+        "word": "he",
+        "startMs": 3720,
+        "endMs": 3920
+      },
+      {
+        "word": "wrote",
+        "startMs": 3920,
+        "endMs": 4220
+      },
+      {
+        "word": "a",
+        "startMs": 4220,
+        "endMs": 4460
+      },
+      {
+        "word": "letter",
+        "startMs": 4460,
+        "endMs": 4720
+      },
+      {
+        "word": "at",
+        "startMs": 4720,
+        "endMs": 5040
+      },
+      {
+        "word": "the",
+        "startMs": 5040,
+        "endMs": 5180
+      },
+      {
+        "word": "head",
+        "startMs": 5180,
+        "endMs": 5420
+      },
+      {
+        "word": "of",
+        "startMs": 5420,
+        "endMs": 5540
+      },
+      {
+        "word": "one",
+        "startMs": 5540,
+        "endMs": 5780
+      },
+      {
+        "word": "to",
+        "startMs": 5780,
+        "endMs": 6280
+      },
+      {
+        "word": "say",
+        "startMs": 6280,
+        "endMs": 6560
+      },
+      {
+        "word": "which",
+        "startMs": 6560,
+        "endMs": 6920
+      },
+      {
+        "word": "note",
+        "startMs": 6920,
+        "endMs": 7200
+      },
+      {
+        "word": "it",
+        "startMs": 7200,
+        "endMs": 7320
+      },
+      {
+        "word": "was,",
+        "startMs": 7320,
+        "endMs": 7600
+      },
+      {
+        "word": "and",
+        "startMs": 7780,
+        "endMs": 8160
+      },
+      {
+        "word": "inked",
+        "startMs": 8160,
+        "endMs": 8560
+      },
+      {
+        "word": "one",
+        "startMs": 8560,
+        "endMs": 8920
+      },
+      {
+        "word": "line",
+        "startMs": 8920,
+        "endMs": 9260
+      },
+      {
+        "word": "red",
+        "startMs": 9260,
+        "endMs": 9560
+      },
+      {
+        "word": "and",
+        "startMs": 9560,
+        "endMs": 10120
+      },
+      {
+        "word": "another",
+        "startMs": 10120,
+        "endMs": 10520
+      },
+      {
+        "word": "yellow.",
+        "startMs": 10520,
+        "endMs": 10880
+      }
+    ],
+    "heard": "But one ruled line looks like every other. So he wrote a letter at the head of one to say which note it was, and inked one line red and another yellow.",
+    "script": "But one ruled line looks like every other. So he wrote a letter at the head of one, to say which note it was, and inked one line red and another yellow."
+  },
+  "s04.clavis": {
+    "durationMs": 6440,
+    "words": [
+      {
+        "word": "He",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "called",
+        "startMs": 140,
+        "endMs": 400
+      },
+      {
+        "word": "those",
+        "startMs": 400,
+        "endMs": 600
+      },
+      {
+        "word": "letters",
+        "startMs": 600,
+        "endMs": 1000
+      },
+      {
+        "word": "literae",
+        "startMs": 1000,
+        "endMs": 1980
+      },
+      {
+        "word": "clavis,",
+        "startMs": 1980,
+        "endMs": 2520
+      },
+      {
+        "word": "the",
+        "startMs": 2740,
+        "endMs": 3060
+      },
+      {
+        "word": "key",
+        "startMs": 3060,
+        "endMs": 3220
+      },
+      {
+        "word": "letters,",
+        "startMs": 3220,
+        "endMs": 3580
+      },
+      {
+        "word": "which",
+        "startMs": 3900,
+        "endMs": 4240
+      },
+      {
+        "word": "is",
+        "startMs": 4240,
+        "endMs": 4380
+      },
+      {
+        "word": "all",
+        "startMs": 4380,
+        "endMs": 4600
+      },
+      {
+        "word": "the",
+        "startMs": 4600,
+        "endMs": 4740
+      },
+      {
+        "word": "word",
+        "startMs": 4740,
+        "endMs": 5000
+      },
+      {
+        "word": "clef",
+        "startMs": 5000,
+        "endMs": 5460
+      },
+      {
+        "word": "has",
+        "startMs": 5460,
+        "endMs": 5720
+      },
+      {
+        "word": "ever",
+        "startMs": 5720,
+        "endMs": 5960
+      },
+      {
+        "word": "meant.",
+        "startMs": 5960,
+        "endMs": 6220
+      }
+    ],
+    "heard": "He called those letters literae clavis, the key letters, which is all the word clef has ever meant.",
+    "script": "He called those letters litterae clavis. The key letters. Which is all the word clef has ever meant."
+  },
+  "s05.gdraw": {
+    "durationMs": 11320,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "music",
+        "startMs": 280,
+        "endMs": 820
+      },
+      {
+        "word": "started",
+        "startMs": 820,
+        "endMs": 1320
+      },
+      {
+        "word": "climbing.",
+        "startMs": 1320,
+        "endMs": 1720
+      },
+      {
+        "word": "When",
+        "startMs": 2060,
+        "endMs": 2540
+      },
+      {
+        "word": "a",
+        "startMs": 2540,
+        "endMs": 2700
+      },
+      {
+        "word": "tune",
+        "startMs": 2700,
+        "endMs": 2940
+      },
+      {
+        "word": "went",
+        "startMs": 2940,
+        "endMs": 3280
+      },
+      {
+        "word": "above",
+        "startMs": 3280,
+        "endMs": 3720
+      },
+      {
+        "word": "the",
+        "startMs": 3720,
+        "endMs": 4000
+      },
+      {
+        "word": "letters",
+        "startMs": 4000,
+        "endMs": 4340
+      },
+      {
+        "word": "already",
+        "startMs": 4340,
+        "endMs": 4720
+      },
+      {
+        "word": "in",
+        "startMs": 4720,
+        "endMs": 4980
+      },
+      {
+        "word": "use,",
+        "startMs": 4980,
+        "endMs": 5300
+      },
+      {
+        "word": "a",
+        "startMs": 5740,
+        "endMs": 5880
+      },
+      {
+        "word": "scribe",
+        "startMs": 5880,
+        "endMs": 6300
+      },
+      {
+        "word": "reached",
+        "startMs": 6300,
+        "endMs": 6660
+      },
+      {
+        "word": "for",
+        "startMs": 6660,
+        "endMs": 6940
+      },
+      {
+        "word": "the",
+        "startMs": 6940,
+        "endMs": 7060
+      },
+      {
+        "word": "next",
+        "startMs": 7060,
+        "endMs": 7300
+      },
+      {
+        "word": "one",
+        "startMs": 7300,
+        "endMs": 7480
+      },
+      {
+        "word": "along",
+        "startMs": 7480,
+        "endMs": 7800
+      },
+      {
+        "word": "and",
+        "startMs": 7800,
+        "endMs": 8360
+      },
+      {
+        "word": "put",
+        "startMs": 8360,
+        "endMs": 8540
+      },
+      {
+        "word": "a",
+        "startMs": 8540,
+        "endMs": 8660
+      },
+      {
+        "word": "capital",
+        "startMs": 8660,
+        "endMs": 9100
+      },
+      {
+        "word": "G",
+        "startMs": 9100,
+        "endMs": 9460
+      },
+      {
+        "word": "at",
+        "startMs": 9460,
+        "endMs": 9940
+      },
+      {
+        "word": "the",
+        "startMs": 9940,
+        "endMs": 10080
+      },
+      {
+        "word": "head",
+        "startMs": 10080,
+        "endMs": 10320
+      },
+      {
+        "word": "of",
+        "startMs": 10320,
+        "endMs": 10460
+      },
+      {
+        "word": "its",
+        "startMs": 10460,
+        "endMs": 10600
+      },
+      {
+        "word": "line.",
+        "startMs": 10600,
+        "endMs": 10940
+      }
+    ],
+    "heard": "Then music started climbing. When a tune went above the letters already in use, a scribe reached for the next one along and put a capital G at the head of its line.",
+    "script": "Then music started climbing. When a tune went above the letters already in use, a scribe reached for the next one along, and put a capital G at the head of its line."
+  },
+  "s06.gmorph": {
+    "durationMs": 15520,
+    "words": [
+      {
+        "word": "He",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "wrote",
+        "startMs": 120,
+        "endMs": 420
+      },
+      {
+        "word": "it",
+        "startMs": 420,
+        "endMs": 660
+      },
+      {
+        "word": "10",
+        "startMs": 660,
+        "endMs": 1200
+      },
+      {
+        "word": ",000",
+        "startMs": 1200,
+        "endMs": 1960
+      },
+      {
+        "word": "times.",
+        "startMs": 1960,
+        "endMs": 2540
+      },
+      {
+        "word": "A",
+        "startMs": 3160,
+        "endMs": 3580
+      },
+      {
+        "word": "hand",
+        "startMs": 3580,
+        "endMs": 3900
+      },
+      {
+        "word": "that",
+        "startMs": 3900,
+        "endMs": 4160
+      },
+      {
+        "word": "writes",
+        "startMs": 4160,
+        "endMs": 4460
+      },
+      {
+        "word": "the",
+        "startMs": 4460,
+        "endMs": 4720
+      },
+      {
+        "word": "same",
+        "startMs": 4720,
+        "endMs": 5160
+      },
+      {
+        "word": "letter",
+        "startMs": 5160,
+        "endMs": 5580
+      },
+      {
+        "word": "that",
+        "startMs": 5580,
+        "endMs": 6040
+      },
+      {
+        "word": "often",
+        "startMs": 6040,
+        "endMs": 6560
+      },
+      {
+        "word": "stops",
+        "startMs": 6560,
+        "endMs": 7640
+      },
+      {
+        "word": "lifting",
+        "startMs": 7640,
+        "endMs": 8120
+      },
+      {
+        "word": "the",
+        "startMs": 8120,
+        "endMs": 8380
+      },
+      {
+        "word": "pen.",
+        "startMs": 8380,
+        "endMs": 8660
+      },
+      {
+        "word": "It",
+        "startMs": 9360,
+        "endMs": 9780
+      },
+      {
+        "word": "is",
+        "startMs": 9780,
+        "endMs": 9940
+      },
+      {
+        "word": "only",
+        "startMs": 9940,
+        "endMs": 10380
+      },
+      {
+        "word": "what",
+        "startMs": 10380,
+        "endMs": 10800
+      },
+      {
+        "word": "happens",
+        "startMs": 10800,
+        "endMs": 11300
+      },
+      {
+        "word": "to",
+        "startMs": 11300,
+        "endMs": 11780
+      },
+      {
+        "word": "a",
+        "startMs": 11780,
+        "endMs": 11940
+      },
+      {
+        "word": "letter",
+        "startMs": 11940,
+        "endMs": 12240
+      },
+      {
+        "word": "that",
+        "startMs": 12240,
+        "endMs": 13040
+      },
+      {
+        "word": "is",
+        "startMs": 13040,
+        "endMs": 13300
+      },
+      {
+        "word": "never",
+        "startMs": 13300,
+        "endMs": 13980
+      },
+      {
+        "word": "drawn",
+        "startMs": 13980,
+        "endMs": 14520
+      },
+      {
+        "word": "slowly.",
+        "startMs": 14520,
+        "endMs": 15000
+      }
+    ],
+    "heard": "He wrote it 10,000 times. A hand that writes the same letter that often stops lifting the pen. It is only what happens to a letter that is never drawn slowly.",
+    "script": "He wrote it ten thousand times. A hand that writes the same letter that often stops lifting the pen. It is only what happens to a letter that is never drawn slowly."
+  },
+  "s07.greveal": {
+    "durationMs": 8880,
+    "words": [
+      {
+        "word": "900",
+        "startMs": 0,
+        "endMs": 480
+      },
+      {
+        "word": "years",
+        "startMs": 480,
+        "endMs": 1420
+      },
+      {
+        "word": "of",
+        "startMs": 1420,
+        "endMs": 2000
+      },
+      {
+        "word": "not",
+        "startMs": 2000,
+        "endMs": 2400
+      },
+      {
+        "word": "lifting",
+        "startMs": 2400,
+        "endMs": 2860
+      },
+      {
+        "word": "the",
+        "startMs": 2860,
+        "endMs": 3120
+      },
+      {
+        "word": "pen,",
+        "startMs": 3120,
+        "endMs": 3440
+      },
+      {
+        "word": "and",
+        "startMs": 3680,
+        "endMs": 4360
+      },
+      {
+        "word": "it",
+        "startMs": 4360,
+        "endMs": 4520
+      },
+      {
+        "word": "still",
+        "startMs": 4520,
+        "endMs": 5000
+      },
+      {
+        "word": "winds",
+        "startMs": 5000,
+        "endMs": 5640
+      },
+      {
+        "word": "around",
+        "startMs": 5640,
+        "endMs": 6200
+      },
+      {
+        "word": "the",
+        "startMs": 6200,
+        "endMs": 6480
+      },
+      {
+        "word": "line",
+        "startMs": 6480,
+        "endMs": 6860
+      },
+      {
+        "word": "it",
+        "startMs": 6860,
+        "endMs": 7180
+      },
+      {
+        "word": "was",
+        "startMs": 7180,
+        "endMs": 7400
+      },
+      {
+        "word": "put",
+        "startMs": 7400,
+        "endMs": 7700
+      },
+      {
+        "word": "there",
+        "startMs": 7700,
+        "endMs": 7960
+      },
+      {
+        "word": "to",
+        "startMs": 7960,
+        "endMs": 8180
+      },
+      {
+        "word": "name.",
+        "startMs": 8180,
+        "endMs": 8460
+      }
+    ],
+    "heard": "900 years of not lifting the pen, and it still winds around the line it was put there to name.",
+    "script": "Nine hundred years of not lifting the pen. And it still winds around the line it was put there to name."
+  },
+  "s08.fclef": {
+    "durationMs": 12840,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "letter",
+        "startMs": 160,
+        "endMs": 460
+      },
+      {
+        "word": "on",
+        "startMs": 460,
+        "endMs": 740
+      },
+      {
+        "word": "the",
+        "startMs": 740,
+        "endMs": 860
+      },
+      {
+        "word": "red",
+        "startMs": 860,
+        "endMs": 1100
+      },
+      {
+        "word": "line",
+        "startMs": 1100,
+        "endMs": 1520
+      },
+      {
+        "word": "came",
+        "startMs": 1520,
+        "endMs": 1860
+      },
+      {
+        "word": "out",
+        "startMs": 1860,
+        "endMs": 2160
+      },
+      {
+        "word": "unrecognizable.",
+        "startMs": 2160,
+        "endMs": 3200
+      },
+      {
+        "word": "Its",
+        "startMs": 3840,
+        "endMs": 4020
+      },
+      {
+        "word": "arms",
+        "startMs": 4020,
+        "endMs": 4380
+      },
+      {
+        "word": "did",
+        "startMs": 4380,
+        "endMs": 4740
+      },
+      {
+        "word": "not",
+        "startMs": 4740,
+        "endMs": 4940
+      },
+      {
+        "word": "survive.",
+        "startMs": 4940,
+        "endMs": 5320
+      },
+      {
+        "word": "What",
+        "startMs": 5760,
+        "endMs": 6200
+      },
+      {
+        "word": "replaced",
+        "startMs": 6200,
+        "endMs": 6620
+      },
+      {
+        "word": "them",
+        "startMs": 6620,
+        "endMs": 6900
+      },
+      {
+        "word": "was",
+        "startMs": 6900,
+        "endMs": 7320
+      },
+      {
+        "word": "a",
+        "startMs": 7320,
+        "endMs": 7600
+      },
+      {
+        "word": "dot",
+        "startMs": 7600,
+        "endMs": 7820
+      },
+      {
+        "word": "above",
+        "startMs": 7820,
+        "endMs": 8160
+      },
+      {
+        "word": "the",
+        "startMs": 8160,
+        "endMs": 8340
+      },
+      {
+        "word": "line",
+        "startMs": 8340,
+        "endMs": 8600
+      },
+      {
+        "word": "and",
+        "startMs": 8600,
+        "endMs": 9160
+      },
+      {
+        "word": "a",
+        "startMs": 9160,
+        "endMs": 9440
+      },
+      {
+        "word": "dot",
+        "startMs": 9440,
+        "endMs": 9660
+      },
+      {
+        "word": "below,",
+        "startMs": 9660,
+        "endMs": 10060
+      },
+      {
+        "word": "so",
+        "startMs": 10320,
+        "endMs": 10780
+      },
+      {
+        "word": "nobody",
+        "startMs": 10780,
+        "endMs": 11220
+      },
+      {
+        "word": "could",
+        "startMs": 11220,
+        "endMs": 11600
+      },
+      {
+        "word": "mistake",
+        "startMs": 11600,
+        "endMs": 11940
+      },
+      {
+        "word": "the",
+        "startMs": 11940,
+        "endMs": 12160
+      },
+      {
+        "word": "line.",
+        "startMs": 12160,
+        "endMs": 12460
+      }
+    ],
+    "heard": "The letter on the red line came out unrecognizable. Its arms did not survive. What replaced them was a dot above the line and a dot below, so nobody could mistake the line.",
+    "script": "The letter on the red line came out unrecognisable. Its arms did not survive. What replaced them was a dot above the line and a dot below, so nobody could mistake the line."
+  },
+  "s09.turn": {
+    "durationMs": 7720,
+    "words": [
+      {
+        "word": "Those",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "marks",
+        "startMs": 280,
+        "endMs": 600
+      },
+      {
+        "word": "tell",
+        "startMs": 600,
+        "endMs": 980
+      },
+      {
+        "word": "you",
+        "startMs": 980,
+        "endMs": 1200
+      },
+      {
+        "word": "where",
+        "startMs": 1200,
+        "endMs": 1400
+      },
+      {
+        "word": "you",
+        "startMs": 1400,
+        "endMs": 1580
+      },
+      {
+        "word": "are.",
+        "startMs": 1580,
+        "endMs": 1880
+      },
+      {
+        "word": "The",
+        "startMs": 2160,
+        "endMs": 2640
+      },
+      {
+        "word": "two",
+        "startMs": 2640,
+        "endMs": 2840
+      },
+      {
+        "word": "that",
+        "startMs": 2840,
+        "endMs": 3080
+      },
+      {
+        "word": "tell",
+        "startMs": 3080,
+        "endMs": 3320
+      },
+      {
+        "word": "you",
+        "startMs": 3320,
+        "endMs": 3540
+      },
+      {
+        "word": "what",
+        "startMs": 3540,
+        "endMs": 3780
+      },
+      {
+        "word": "to",
+        "startMs": 3780,
+        "endMs": 3940
+      },
+      {
+        "word": "play",
+        "startMs": 3940,
+        "endMs": 4340
+      },
+      {
+        "word": "are",
+        "startMs": 4340,
+        "endMs": 4760
+      },
+      {
+        "word": "letters",
+        "startMs": 4760,
+        "endMs": 5140
+      },
+      {
+        "word": "as",
+        "startMs": 5140,
+        "endMs": 5360
+      },
+      {
+        "word": "well,",
+        "startMs": 5360,
+        "endMs": 5620
+      },
+      {
+        "word": "and",
+        "startMs": 5860,
+        "endMs": 6300
+      },
+      {
+        "word": "they",
+        "startMs": 6300,
+        "endMs": 6500
+      },
+      {
+        "word": "are",
+        "startMs": 6500,
+        "endMs": 6660
+      },
+      {
+        "word": "the",
+        "startMs": 6660,
+        "endMs": 6780
+      },
+      {
+        "word": "same",
+        "startMs": 6780,
+        "endMs": 7000
+      },
+      {
+        "word": "letter.",
+        "startMs": 7000,
+        "endMs": 7280
+      }
+    ],
+    "heard": "Those marks tell you where you are. The two that tell you what to play are letters as well, and they are the same letter.",
+    "script": "Those marks tell you where you are. The two that tell you what to play are letters as well. And they are the same letter."
+  },
+  "s10.roundb": {
+    "durationMs": 11960,
+    "words": [
+      {
+        "word": "In",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "the",
+        "startMs": 140,
+        "endMs": 240
+      },
+      {
+        "word": "medieval",
+        "startMs": 240,
+        "endMs": 600
+      },
+      {
+        "word": "scale,",
+        "startMs": 600,
+        "endMs": 1100
+      },
+      {
+        "word": "exactly",
+        "startMs": 1320,
+        "endMs": 1840
+      },
+      {
+        "word": "one",
+        "startMs": 1840,
+        "endMs": 2320
+      },
+      {
+        "word": "note",
+        "startMs": 2320,
+        "endMs": 2640
+      },
+      {
+        "word": "could",
+        "startMs": 2640,
+        "endMs": 2880
+      },
+      {
+        "word": "be",
+        "startMs": 2880,
+        "endMs": 3040
+      },
+      {
+        "word": "sung",
+        "startMs": 3040,
+        "endMs": 3340
+      },
+      {
+        "word": "two",
+        "startMs": 3340,
+        "endMs": 3620
+      },
+      {
+        "word": "ways.",
+        "startMs": 3620,
+        "endMs": 4020
+      },
+      {
+        "word": "They",
+        "startMs": 4240,
+        "endMs": 4740
+      },
+      {
+        "word": "called",
+        "startMs": 4740,
+        "endMs": 5040
+      },
+      {
+        "word": "the",
+        "startMs": 5040,
+        "endMs": 5180
+      },
+      {
+        "word": "lower",
+        "startMs": 5180,
+        "endMs": 5460
+      },
+      {
+        "word": "one",
+        "startMs": 5460,
+        "endMs": 5840
+      },
+      {
+        "word": "B",
+        "startMs": 5840,
+        "endMs": 6380
+      },
+      {
+        "word": "rotundum.",
+        "startMs": 6380,
+        "endMs": 7320
+      },
+      {
+        "word": "A",
+        "startMs": 7640,
+        "endMs": 8120
+      },
+      {
+        "word": "scribe",
+        "startMs": 8120,
+        "endMs": 8600
+      },
+      {
+        "word": "wrote",
+        "startMs": 8600,
+        "endMs": 8800
+      },
+      {
+        "word": "it",
+        "startMs": 8800,
+        "endMs": 9000
+      },
+      {
+        "word": "as",
+        "startMs": 9000,
+        "endMs": 9340
+      },
+      {
+        "word": "the",
+        "startMs": 9340,
+        "endMs": 9520
+      },
+      {
+        "word": "letter",
+        "startMs": 9520,
+        "endMs": 9820
+      },
+      {
+        "word": "B",
+        "startMs": 9820,
+        "endMs": 10160
+      },
+      {
+        "word": "with",
+        "startMs": 10160,
+        "endMs": 10800
+      },
+      {
+        "word": "a",
+        "startMs": 10800,
+        "endMs": 11120
+      },
+      {
+        "word": "round",
+        "startMs": 11120,
+        "endMs": 11340
+      },
+      {
+        "word": "bowl.",
+        "startMs": 11340,
+        "endMs": 11620
+      }
+    ],
+    "heard": "In the medieval scale, exactly one note could be sung two ways. They called the lower one B rotundum. A scribe wrote it as the letter B with a round bowl.",
+    "script": "In the medieval scale, exactly one note could be sung two ways. They called the lower one b rotundum. A scribe wrote it as the letter b, with a round bowl."
+  },
+  "s11.flat": {
+    "durationMs": 9720,
+    "words": [
+      {
+        "word": "it",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "barely",
+        "startMs": 180,
+        "endMs": 640
+      },
+      {
+        "word": "had",
+        "startMs": 640,
+        "endMs": 1020
+      },
+      {
+        "word": "to",
+        "startMs": 1020,
+        "endMs": 1160
+      },
+      {
+        "word": "change",
+        "startMs": 1160,
+        "endMs": 1480
+      },
+      {
+        "word": "at",
+        "startMs": 1480,
+        "endMs": 1620
+      },
+      {
+        "word": "all,",
+        "startMs": 1620,
+        "endMs": 1920
+      },
+      {
+        "word": "which",
+        "startMs": 2080,
+        "endMs": 2540
+      },
+      {
+        "word": "is",
+        "startMs": 2540,
+        "endMs": 2680
+      },
+      {
+        "word": "why",
+        "startMs": 2680,
+        "endMs": 2940
+      },
+      {
+        "word": "in",
+        "startMs": 2940,
+        "endMs": 3260
+      },
+      {
+        "word": "Germany,",
+        "startMs": 3260,
+        "endMs": 3700
+      },
+      {
+        "word": "the",
+        "startMs": 4280,
+        "endMs": 4300
+      },
+      {
+        "word": "letter",
+        "startMs": 4300,
+        "endMs": 4600
+      },
+      {
+        "word": "B",
+        "startMs": 4600,
+        "endMs": 5120
+      },
+      {
+        "word": "still",
+        "startMs": 5120,
+        "endMs": 5900
+      },
+      {
+        "word": "means",
+        "startMs": 5900,
+        "endMs": 6320
+      },
+      {
+        "word": "the",
+        "startMs": 6320,
+        "endMs": 6620
+      },
+      {
+        "word": "flat",
+        "startMs": 6620,
+        "endMs": 6860
+      },
+      {
+        "word": "one,",
+        "startMs": 6860,
+        "endMs": 7120
+      },
+      {
+        "word": "and",
+        "startMs": 7300,
+        "endMs": 7740
+      },
+      {
+        "word": "nobody",
+        "startMs": 7740,
+        "endMs": 8100
+      },
+      {
+        "word": "there",
+        "startMs": 8100,
+        "endMs": 8380
+      },
+      {
+        "word": "finds",
+        "startMs": 8380,
+        "endMs": 8680
+      },
+      {
+        "word": "that",
+        "startMs": 8680,
+        "endMs": 8900
+      },
+      {
+        "word": "strange.",
+        "startMs": 8900,
+        "endMs": 9200
+      }
+    ],
+    "heard": "it barely had to change at all, which is why in Germany, the letter B still means the flat one, and nobody there finds that strange.",
+    "script": "It barely had to change at all. Which is why, in Germany, the letter B still means the flat one, and nobody there finds that strange."
+  },
+  "s12.squareb": {
+    "durationMs": 10280,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "higher",
+        "startMs": 160,
+        "endMs": 480
+      },
+      {
+        "word": "of",
+        "startMs": 480,
+        "endMs": 720
+      },
+      {
+        "word": "the",
+        "startMs": 720,
+        "endMs": 860
+      },
+      {
+        "word": "two",
+        "startMs": 860,
+        "endMs": 1100
+      },
+      {
+        "word": "had",
+        "startMs": 1100,
+        "endMs": 1480
+      },
+      {
+        "word": "to",
+        "startMs": 1480,
+        "endMs": 1700
+      },
+      {
+        "word": "look",
+        "startMs": 1700,
+        "endMs": 2040
+      },
+      {
+        "word": "different,",
+        "startMs": 2040,
+        "endMs": 2480
+      },
+      {
+        "word": "or",
+        "startMs": 2640,
+        "endMs": 3140
+      },
+      {
+        "word": "a",
+        "startMs": 3140,
+        "endMs": 3360
+      },
+      {
+        "word": "singer",
+        "startMs": 3360,
+        "endMs": 3620
+      },
+      {
+        "word": "would",
+        "startMs": 3620,
+        "endMs": 3980
+      },
+      {
+        "word": "sing",
+        "startMs": 3980,
+        "endMs": 4240
+      },
+      {
+        "word": "the",
+        "startMs": 4240,
+        "endMs": 4400
+      },
+      {
+        "word": "wrong",
+        "startMs": 4400,
+        "endMs": 4620
+      },
+      {
+        "word": "note.",
+        "startMs": 4620,
+        "endMs": 4940
+      },
+      {
+        "word": "So",
+        "startMs": 5200,
+        "endMs": 5740
+      },
+      {
+        "word": "they",
+        "startMs": 5740,
+        "endMs": 6160
+      },
+      {
+        "word": "squared",
+        "startMs": 6160,
+        "endMs": 6700
+      },
+      {
+        "word": "the",
+        "startMs": 6700,
+        "endMs": 6920
+      },
+      {
+        "word": "bowl",
+        "startMs": 6920,
+        "endMs": 7140
+      },
+      {
+        "word": "off.",
+        "startMs": 7140,
+        "endMs": 7420
+      },
+      {
+        "word": "They",
+        "startMs": 7580,
+        "endMs": 8020
+      },
+      {
+        "word": "called",
+        "startMs": 8020,
+        "endMs": 8300
+      },
+      {
+        "word": "it",
+        "startMs": 8300,
+        "endMs": 8580
+      },
+      {
+        "word": "B",
+        "startMs": 8580,
+        "endMs": 9040
+      },
+      {
+        "word": "-quadratum.",
+        "startMs": 9040,
+        "endMs": 9940
+      }
+    ],
+    "heard": "The higher of the two had to look different, or a singer would sing the wrong note. So they squared the bowl off. They called it B-quadratum.",
+    "script": "The higher of the two had to look different, or a singer would sing the wrong note. So they squared the bowl off. They called it b quadratum."
+  },
+  "s13.sharp": {
+    "durationMs": 11040,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "sharp",
+        "startMs": 140,
+        "endMs": 420
+      },
+      {
+        "word": "is",
+        "startMs": 420,
+        "endMs": 980
+      },
+      {
+        "word": "that",
+        "startMs": 980,
+        "endMs": 1260
+      },
+      {
+        "word": "square.",
+        "startMs": 1260,
+        "endMs": 1640
+      },
+      {
+        "word": "So",
+        "startMs": 1900,
+        "endMs": 2380
+      },
+      {
+        "word": "is",
+        "startMs": 2380,
+        "endMs": 2800
+      },
+      {
+        "word": "a",
+        "startMs": 2800,
+        "endMs": 3020
+      },
+      {
+        "word": "natural.",
+        "startMs": 3020,
+        "endMs": 3320
+      },
+      {
+        "word": "Two",
+        "startMs": 3660,
+        "endMs": 4260
+      },
+      {
+        "word": "of",
+        "startMs": 4260,
+        "endMs": 4420
+      },
+      {
+        "word": "the",
+        "startMs": 4420,
+        "endMs": 4540
+      },
+      {
+        "word": "most",
+        "startMs": 4540,
+        "endMs": 4760
+      },
+      {
+        "word": "common",
+        "startMs": 4760,
+        "endMs": 5280
+      },
+      {
+        "word": "marks",
+        "startMs": 5280,
+        "endMs": 5580
+      },
+      {
+        "word": "in",
+        "startMs": 5580,
+        "endMs": 5760
+      },
+      {
+        "word": "music,",
+        "startMs": 5760,
+        "endMs": 6100
+      },
+      {
+        "word": "and",
+        "startMs": 6280,
+        "endMs": 6660
+      },
+      {
+        "word": "both",
+        "startMs": 6660,
+        "endMs": 6880
+      },
+      {
+        "word": "of",
+        "startMs": 6880,
+        "endMs": 7000
+      },
+      {
+        "word": "them",
+        "startMs": 7000,
+        "endMs": 7220
+      },
+      {
+        "word": "are",
+        "startMs": 7220,
+        "endMs": 7520
+      },
+      {
+        "word": "one",
+        "startMs": 7520,
+        "endMs": 7920
+      },
+      {
+        "word": "letter",
+        "startMs": 7920,
+        "endMs": 8260
+      },
+      {
+        "word": "that",
+        "startMs": 8260,
+        "endMs": 8640
+      },
+      {
+        "word": "nobody",
+        "startMs": 8640,
+        "endMs": 9120
+      },
+      {
+        "word": "could",
+        "startMs": 9120,
+        "endMs": 9420
+      },
+      {
+        "word": "be",
+        "startMs": 9420,
+        "endMs": 9580
+      },
+      {
+        "word": "bothered",
+        "startMs": 9580,
+        "endMs": 9900
+      },
+      {
+        "word": "to",
+        "startMs": 9900,
+        "endMs": 10120
+      },
+      {
+        "word": "round",
+        "startMs": 10120,
+        "endMs": 10340
+      },
+      {
+        "word": "off.",
+        "startMs": 10340,
+        "endMs": 10660
+      }
+    ],
+    "heard": "A sharp is that square. So is a natural. Two of the most common marks in music, and both of them are one letter that nobody could be bothered to round off.",
+    "script": "A sharp is that square. So is a natural. Two of the most common marks in music, and both of them are one letter that nobody could be bothered to round off."
+  },
+  "s14.recap": {
+    "durationMs": 14000,
+    "words": [
+      {
+        "word": "Nothing",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "on",
+        "startMs": 380,
+        "endMs": 940
+      },
+      {
+        "word": "that",
+        "startMs": 940,
+        "endMs": 1200
+      },
+      {
+        "word": "page",
+        "startMs": 1200,
+        "endMs": 1680
+      },
+      {
+        "word": "was",
+        "startMs": 1680,
+        "endMs": 2080
+      },
+      {
+        "word": "designed.",
+        "startMs": 2080,
+        "endMs": 2760
+      },
+      {
+        "word": "Every",
+        "startMs": 3200,
+        "endMs": 3940
+      },
+      {
+        "word": "mark",
+        "startMs": 3940,
+        "endMs": 4340
+      },
+      {
+        "word": "there",
+        "startMs": 4340,
+        "endMs": 4680
+      },
+      {
+        "word": "is",
+        "startMs": 4680,
+        "endMs": 5120
+      },
+      {
+        "word": "handwriting,",
+        "startMs": 5120,
+        "endMs": 5780
+      },
+      {
+        "word": "worn",
+        "startMs": 6260,
+        "endMs": 6740
+      },
+      {
+        "word": "down",
+        "startMs": 6740,
+        "endMs": 7140
+      },
+      {
+        "word": "by",
+        "startMs": 7140,
+        "endMs": 7520
+      },
+      {
+        "word": "a",
+        "startMs": 7520,
+        "endMs": 7800
+      },
+      {
+        "word": "thousand",
+        "startMs": 7800,
+        "endMs": 8420
+      },
+      {
+        "word": "years",
+        "startMs": 8420,
+        "endMs": 8980
+      },
+      {
+        "word": "of",
+        "startMs": 8980,
+        "endMs": 9320
+      },
+      {
+        "word": "copying.",
+        "startMs": 9320,
+        "endMs": 9720
+      },
+      {
+        "word": "And",
+        "startMs": 10440,
+        "endMs": 10880
+      },
+      {
+        "word": "the",
+        "startMs": 10880,
+        "endMs": 11020
+      },
+      {
+        "word": "letters",
+        "startMs": 11020,
+        "endMs": 11340
+      },
+      {
+        "word": "themselves",
+        "startMs": 11340,
+        "endMs": 11940
+      },
+      {
+        "word": "had",
+        "startMs": 11940,
+        "endMs": 12380
+      },
+      {
+        "word": "been",
+        "startMs": 12380,
+        "endMs": 12620
+      },
+      {
+        "word": "pictures",
+        "startMs": 12620,
+        "endMs": 13100
+      },
+      {
+        "word": "once.",
+        "startMs": 13100,
+        "endMs": 13540
+      }
+    ],
+    "heard": "Nothing on that page was designed. Every mark there is handwriting, worn down by a thousand years of copying. And the letters themselves had been pictures once.",
+    "script": "Nothing on that page was designed. Every mark there is handwriting, worn down by a thousand years of copying. And the letters themselves had been pictures once."
+  },
+  "s15.closing": {
+    "durationMs": 9560,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "never",
+        "startMs": 160,
+        "endMs": 620
+      },
+      {
+        "word": "learned",
+        "startMs": 620,
+        "endMs": 1100
+      },
+      {
+        "word": "a",
+        "startMs": 1100,
+        "endMs": 1260
+      },
+      {
+        "word": "new",
+        "startMs": 1260,
+        "endMs": 1480
+      },
+      {
+        "word": "set",
+        "startMs": 1480,
+        "endMs": 1720
+      },
+      {
+        "word": "of",
+        "startMs": 1720,
+        "endMs": 1860
+      },
+      {
+        "word": "symbols.",
+        "startMs": 1860,
+        "endMs": 2220
+      },
+      {
+        "word": "You",
+        "startMs": 2520,
+        "endMs": 3040
+      },
+      {
+        "word": "learned",
+        "startMs": 3040,
+        "endMs": 3360
+      },
+      {
+        "word": "three",
+        "startMs": 3360,
+        "endMs": 3700
+      },
+      {
+        "word": "letters",
+        "startMs": 3700,
+        "endMs": 4160
+      },
+      {
+        "word": "drawn",
+        "startMs": 4160,
+        "endMs": 4760
+      },
+      {
+        "word": "by",
+        "startMs": 4760,
+        "endMs": 5100
+      },
+      {
+        "word": "people",
+        "startMs": 5100,
+        "endMs": 5540
+      },
+      {
+        "word": "in",
+        "startMs": 5540,
+        "endMs": 5860
+      },
+      {
+        "word": "a",
+        "startMs": 5860,
+        "endMs": 6000
+      },
+      {
+        "word": "hurry.",
+        "startMs": 6000,
+        "endMs": 6260
+      },
+      {
+        "word": "You",
+        "startMs": 6600,
+        "endMs": 7200
+      },
+      {
+        "word": "have",
+        "startMs": 7200,
+        "endMs": 7360
+      },
+      {
+        "word": "known",
+        "startMs": 7360,
+        "endMs": 7620
+      },
+      {
+        "word": "the",
+        "startMs": 7620,
+        "endMs": 7820
+      },
+      {
+        "word": "alphabet",
+        "startMs": 7820,
+        "endMs": 8220
+      },
+      {
+        "word": "all",
+        "startMs": 8220,
+        "endMs": 8820
+      },
+      {
+        "word": "along.",
+        "startMs": 8820,
+        "endMs": 9160
+      }
+    ],
+    "heard": "You never learned a new set of symbols. You learned three letters drawn by people in a hurry. You have known the alphabet all along.",
+    "script": "You never learned a new set of symbols. You learned three letters, drawn by people in a hurry. You have known the alphabet all along."
+  }
+}

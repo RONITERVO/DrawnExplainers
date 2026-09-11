@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "externalId": "s07.b.reveal",
+  "text": "Beth means house. Turn it upright, round off the corners, and you are looking at the letter B.",
+  "durationMs": 6800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 11,
+      "endChar": 18
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1480,
+      "startChar": 18,
+      "endChar": 23
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1640,
+      "startChar": 23,
+      "endChar": 26
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2240,
+      "startChar": 26,
+      "endChar": 35
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2880,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3400,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3400,
+      "endMs": 3480,
+      "startChar": 45,
+      "endChar": 49
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3560,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4280,
+      "startChar": 58,
+      "endChar": 62
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4540,
+      "startChar": 62,
+      "endChar": 66
+    },
+    {
+      "startMs": 4540,
+      "endMs": 4800,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 4800,
+      "endMs": 5120,
+      "startChar": 70,
+      "endChar": 78
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5520,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 5520,
+      "endMs": 5640,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5760,
+      "startChar": 85,
+      "endChar": 92
+    },
+    {
+      "startMs": 5760,
+      "endMs": 6160,
+      "startChar": 92,
+      "endChar": 94
+    }
+  ]
+}

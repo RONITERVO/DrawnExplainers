@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s15.closing",
+  "text": "You never learned a new set of symbols. You learned three letters, drawn by people in a hurry. You have known the alphabet all along.",
+  "durationMs": 9560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 18
+    },
+    {
+      "startMs": 225,
+      "endMs": 693,
+      "startChar": 18,
+      "endChar": 20
+    },
+    {
+      "startMs": 693,
+      "endMs": 1160,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1520,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1640,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1760,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2480,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 2480,
+      "endMs": 2560,
+      "startChar": 44,
+      "endChar": 52
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3480,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3760,
+      "startChar": 58,
+      "endChar": 67
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4400,
+      "startChar": 67,
+      "endChar": 73
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4960,
+      "startChar": 73,
+      "endChar": 76
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5160,
+      "startChar": 76,
+      "endChar": 83
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5720,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 5720,
+      "endMs": 5800,
+      "startChar": 86,
+      "endChar": 88
+    },
+    {
+      "startMs": 5800,
+      "endMs": 5880,
+      "startChar": 88,
+      "endChar": 95
+    },
+    {
+      "startMs": 5880,
+      "endMs": 6200,
+      "startChar": 95,
+      "endChar": 99
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6520,
+      "startChar": 99,
+      "endChar": 104
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6595,
+      "startChar": 104,
+      "endChar": 110
+    },
+    {
+      "startMs": 6595,
+      "endMs": 6670,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 6670,
+      "endMs": 7840,
+      "startChar": 114,
+      "endChar": 123
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8640,
+      "startChar": 123,
+      "endChar": 127
+    },
+    {
+      "startMs": 8640,
+      "endMs": 8840,
+      "startChar": 127,
+      "endChar": 133
+    }
+  ]
+}

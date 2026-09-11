@@ -1,0 +1,103 @@
+{
+  "set": "not-arbitrary",
+  "episode": 4,
+  "slug": "ep04-music-notation",
+  "title": "The Treble Clef Is a Letter G",
+  "thesis": "Every mark at the head of a stave is a letter of the alphabet. The clefs are the letters G, F and C, written at the start of the line they name and worn smooth by a thousand years of copying. The flat and the sharp are two ways of writing the letter b — round for the soft one, square for the hard one.",
+  "runtimeSeconds": 176.24,
+  "renderedAt": "2026-09-10",
+  "status": "rendered",
+
+  "author": {
+    "model": "Claude Opus 5",
+    "session": "https://claude.ai/code/session_01FhJbcN4jHyfdmsJXtVYuvs"
+  },
+
+  "whyThisSubject": "Episodes 1 and 2 were writing systems and episode 3 was playing cards, so this one changes the material again: notation, and a cause that is neither a scribe's culture nor a printing press but sheer repetition — a hand that writes the same letter ten thousand times stops lifting the pen. It also inverts the set's usual direction. Episodes 1 and 2 went picture to letter; this one goes letter to symbol, which makes the closing rhyme (the letters had been pictures once) a genuine payoff for a returning viewer and merely a nice fact for anyone else.",
+
+  "gate": {
+    "morph": "Four, all continuous: G to treble clef, F to bass clef, round b to flat, square b through natural to sharp.",
+    "topology": "Every pair is one connected stroke at every value of the morph parameter. The treble clef's spine and tail are the letter G's own right-hand terminal extended, not a new stroke; the bass clef's two dots are placed as separate marks rather than morphed, because claiming they are the letter's arms is not something the sources support; the flat's bowl begins and ends on the stem at both ends of its morph; and the sharp is the square b's four sides let out past their corners, with the letter's ascender serving as the left vertical, so nothing ever splits.",
+    "shapesDiffer": "The G to clef morph changes the shape completely — the bowl tightens into a spiral, the terminal grows a spine and a tail three times the letter's height. The round b to flat is deliberately the small one, and the shot says so out loud ('it barely had to change at all') rather than pretending otherwise."
+  },
+
+  "scholarship": {
+    "verdict": "Sound. This is not a case where a popular story competes with the scholarly one — there is no folk etymology of the clefs to displace.",
+    "claims": [
+      "Clefs are letters. Wikipedia's Clef article, citing Smits van Waesberghe (1951) and Kidson (1908): 'Before the advent of clefs, the reference line of a staff was simply labeled with the name of the note it was intended to bear: F, C, or sometimes G,' and 'Over time the shapes of these letters became stylised.' The medieval term litterae clavis (key-letters) is the direct ancestor of the word clef, which is simply French for key.",
+      "Guido of Arezzo coloured the F line red and the C line yellow and wrote the key letter at the head of each. Catholic Encyclopedia (Guido of Arezzo) and Britannica agree; Smits van Waesberghe's 1951 monograph is on exactly these coloured lines.",
+      "The accidentals are two forms of the letter b. Guido's Micrologus distinguished b rotundum (round b, the soft hexachord) from b quadratum (square b, the hard hexachord); the round b became the flat and the square b became both the natural and the sharp, by extending the sides of the square two different ways. Standard musicology — Wikipedia's Flat, Sharp and Natural articles and Grove's Dictionary, Accidentals.",
+      "In German the letter B still names the flat note, which follows directly from the round b being the soft one."
+    ],
+    "deliberatelyNotClaimed": [
+      "That the bass clef's two dots are descended from the letter F's horizontal arms. This is asserted all over the teaching web and is not in any scholarly source I could find. What is sourced is that a scribe put a dot on either side of the F line to make the line unmistakable, so that is what the film says and what the animation shows: the arms fade, and the dots arrive as new marks.",
+      "Kidson's 1908 Musical Times theory that the modern treble clef is a corruption of 'G, Sol' shortened to G.S. It is a minority speculation about the final flourish, not about whether the mark is a G, and the film does not go near it.",
+      "The story that German H comes from printers substituting a lowercase h for a square b they had no sort for. Sources hedge it ('probably on account of its similarity of shape'), so the film keeps only the unhedged half: in German, B means the flat one."
+    ]
+  },
+
+  "pipeline": {
+    "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 183s bed, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 5288 frames in 47s (~116 fps sustained)",
+    "loudness": "-14.0 LUFS integrated, LRA 3.3"
+  },
+
+  "musicPrompt": "Sparse felted upright piano, single notes with long space between them, no melody that repeats. A low bowed double bass holding quiet sustained tones underneath. Faint room tone, no percussion, no drums. Patient and curious, the air of a scriptorium in winter light. Instrumental only, no vocals, nothing that competes with a speaking voice.",
+
+  "qa": {
+    "method": "Whisper transcript of every shot diffed against the script before drawing, then a second transcript of the final mux diffed against the whole script",
+    "result": "clean; the remaining diffs in both passes are Whisper's own normalisations",
+    "defectsFound": [
+      "s04: 'litterae' was pronounced with the wrong first vowel — Whisper heard 'letere'. The word occurs once, so the set's usual test (the same word right in other shots) was unavailable. Instead: add an explicit pronunciation note to `direction` and re-measure. It came back as 'literae', a spelling variant of the same word, which both confirms the original was a real mispronunciation and confirms the fix."
+    ],
+    "fix": "direction gained 'with a clear short i in the first syllable of litterae'. Content addressing meant only that one line re-synthesised.",
+    "residualArtifacts": [
+      "'nine hundred' -> '900' and 'ten thousand' -> '10,000' (numeral normalisation, x3)",
+      "'unrecognisable' -> 'unrecognizable' (spelling)",
+      "'litterae' -> 'literae' (Latin orthography; both are attested)",
+      "mux pass only: 'But' -> 'that' at the head of s03, a shot-boundary artifact of transcribing the continuous mix — the per-shot pass has it right"
+    ],
+    "note": "No spoken lists of single letters, per the set rule from episode 2. Each of G, F and b appears only inside a carrier phrase ('a capital G', 'the letter b'), never alone or in a list; the enumerations are carried on screen. Each Latin phrase gets its own sentence before any English word, per the set rule from episode 3."
+  },
+
+  "craft": {
+    "morphs": [
+      "G -> treble clef: sixteen anchors, Catmull-Rom controls derived rather than hand-placed, so the two shapes can be lerped anchor-for-anchor and the in-between is always one connected stroke. Anchors 0-4 are the letter's crossbar tightening into the spiral eye; 5-10 the bowl opening into the belly and the loop; 11-15 the letter's short right-hand terminal, which is the only part that actually grows — it straightens into the spine and runs on below the stave as the tail. That is the shot's argument made geometric: the pen never lifts, the last stroke just carries on.",
+      "F -> bass clef: the top arm and the upright are one stroke that rolls into the curl. The middle arm is a second stroke and it fades out (element subtraction, not a cross-fade). The dots are placed, not morphed.",
+      "round b -> flat: arc tension. The bowl's widest point rides up and its lower join pulls to a point. Small on purpose — the narration names the smallness rather than hiding it.",
+      "b -> square b -> natural -> sharp: one parameter walked along four states, each side a three-anchor stroke that keeps its direction across all four so no side flips through itself. Stopping at 0.5 gives the natural; running to 1 gives the sharp. The film shows the mark pass through the natural on its way to the sharp, then leaves a copy of the halfway state standing beside it."
+    ],
+    "device": "The two staves are the continuity. Shots 2 to 9 are one page that never resets: the stave is ruled where the neumes were, the key letters are written on it, each is lifted into the working area to be walked into its mark, and each mark then takes its seat back on the stave. When the second stave is ruled underneath, the first slides up to make room — which is also what turns the page into a grand staff by the turn.",
+    "compositionFix": "The reveal shots were the classic failure: one mark seated on a stave with the top half of the page empty. Fixed by leaving the letter it came from on the page — for the G, the whole stack of copies from 'he wrote it ten thousand times', with a dashed line down to the clef. The page then argues for itself and is composed at the same time.",
+    "turn": "Shot 9. Both clefs are on the grand staff, labelled 'which line'; a flat and a sharp arrive beside them labelled 'which note'; and on 'the same letter' a faint round b and a faint square b appear behind them. The narration never says which letter.",
+    "rhyme": "The last line of the recap — 'and the letters themselves had been pictures once' — is thrown away as an aside. It is the best moment in the film for anyone who saw episode 2 and a pleasant fact for anyone who did not."
+  },
+
+  "libraryAdditions": [],
+
+  "publish": {
+    "youtube": {
+      "title": "The treble clef is a letter G",
+      "description": "A thousand years ago a monk in Arezzo ruled lines across a page so a singer could finally tell how far a tune went up. One ruled line looks like every other, so he wrote a letter at the head of one to say which note it was, and inked one line red and another yellow. He called them litterae clavis — the key letters. Which is all the word clef has ever meant.\n\nThe treble clef is that letter G, written ten thousand times by a hand that stopped lifting the pen. The bass clef is an F that came out unrecognisable. And the two marks that tell you what to play are the same letter as each other: a round b for the soft note, a square b for the hard one. Extend the square's sides and you have a sharp. Extend them less and you have a natural.\n\nYou never learned a new set of symbols. You learned three letters, drawn by people in a hurry.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": ["music theory", "music notation", "treble clef", "bass clef", "history of music", "medieval music", "Guido of Arezzo", "etymology", "animation"]
+    },
+    "tiktok": {
+      "caption": "The treble clef is a letter G. The flat is a letter b. Nobody designed any of it.",
+      "hook": "First 3 seconds: the treble clef unwinds backwards into a capital G."
+    }
+  },
+
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "timing": "timing.json",
+    "music": "music.wav",
+    "narration": "narration.wav",
+    "mixed": "mixed.wav"
+  },
+
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep04-music-notation"
+}

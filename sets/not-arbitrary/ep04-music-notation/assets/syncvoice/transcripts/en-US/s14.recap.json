@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s14.recap",
+  "text": "Nothing on that page was designed. Every mark there is handwriting, worn down by a thousand years of copying. And the letters themselves had been pictures once.",
+  "durationMs": 14000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 21
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1840,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2200,
+      "startChar": 25,
+      "endChar": 35
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2640,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3080,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 3080,
+      "endMs": 3155,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 3155,
+      "endMs": 4840,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5240,
+      "startChar": 55,
+      "endChar": 68
+    },
+    {
+      "startMs": 5240,
+      "endMs": 6080,
+      "startChar": 68,
+      "endChar": 73
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6155,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 6155,
+      "endMs": 7320,
+      "startChar": 78,
+      "endChar": 81
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7480,
+      "startChar": 81,
+      "endChar": 83
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7640,
+      "startChar": 83,
+      "endChar": 92
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8680,
+      "startChar": 92,
+      "endChar": 98
+    },
+    {
+      "startMs": 8680,
+      "endMs": 8940,
+      "startChar": 98,
+      "endChar": 101
+    },
+    {
+      "startMs": 8940,
+      "endMs": 9200,
+      "startChar": 101,
+      "endChar": 110
+    },
+    {
+      "startMs": 9200,
+      "endMs": 10000,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 10000,
+      "endMs": 10075,
+      "startChar": 114,
+      "endChar": 118
+    },
+    {
+      "startMs": 10075,
+      "endMs": 10150,
+      "startChar": 118,
+      "endChar": 126
+    },
+    {
+      "startMs": 10150,
+      "endMs": 10240,
+      "startChar": 126,
+      "endChar": 137
+    },
+    {
+      "startMs": 10240,
+      "endMs": 11220,
+      "startChar": 137,
+      "endChar": 141
+    },
+    {
+      "startMs": 11220,
+      "endMs": 12200,
+      "startChar": 141,
+      "endChar": 146
+    },
+    {
+      "startMs": 12200,
+      "endMs": 12760,
+      "startChar": 146,
+      "endChar": 155
+    },
+    {
+      "startMs": 12760,
+      "endMs": 13320,
+      "startChar": 155,
+      "endChar": 160
+    }
+  ]
+}

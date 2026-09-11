@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "externalId": "s12.o.reveal",
+  "text": "The pupil fell away. The outline stayed, and became the letter O.",
+  "durationMs": 6200,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1600,
+      "startChar": 21,
+      "endChar": 25
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1680,
+      "startChar": 25,
+      "endChar": 33
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2960,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3720,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4360,
+      "startChar": 45,
+      "endChar": 52
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4660,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4660,
+      "endMs": 4960,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5600,
+      "startChar": 63,
+      "endChar": 65
+    }
+  ]
+}

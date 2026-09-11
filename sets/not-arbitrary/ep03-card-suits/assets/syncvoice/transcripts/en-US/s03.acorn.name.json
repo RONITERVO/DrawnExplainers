@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s03.acorn.name",
+  "text": "They called it Eichel. The German word for an acorn. Every card was a woodcut, cut and coloured by hand, and all that detail cost somebody an afternoon.",
+  "durationMs": 12960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 463,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 463,
+      "endMs": 926,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 926,
+      "endMs": 1389,
+      "startChar": 12,
+      "endChar": 15
+    },
+    {
+      "startMs": 1389,
+      "endMs": 1851,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 1851,
+      "endMs": 2314,
+      "startChar": 23,
+      "endChar": 27
+    },
+    {
+      "startMs": 2314,
+      "endMs": 2777,
+      "startChar": 27,
+      "endChar": 34
+    },
+    {
+      "startMs": 2777,
+      "endMs": 3240,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3703,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 3703,
+      "endMs": 4166,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 4166,
+      "endMs": 4629,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 4629,
+      "endMs": 5091,
+      "startChar": 53,
+      "endChar": 59
+    },
+    {
+      "startMs": 5091,
+      "endMs": 5554,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 5554,
+      "endMs": 6017,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 6017,
+      "endMs": 6480,
+      "startChar": 68,
+      "endChar": 70
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6943,
+      "startChar": 70,
+      "endChar": 79
+    },
+    {
+      "startMs": 6943,
+      "endMs": 7406,
+      "startChar": 79,
+      "endChar": 83
+    },
+    {
+      "startMs": 7406,
+      "endMs": 7869,
+      "startChar": 83,
+      "endChar": 87
+    },
+    {
+      "startMs": 7869,
+      "endMs": 8331,
+      "startChar": 87,
+      "endChar": 96
+    },
+    {
+      "startMs": 8331,
+      "endMs": 8794,
+      "startChar": 96,
+      "endChar": 99
+    },
+    {
+      "startMs": 8794,
+      "endMs": 9257,
+      "startChar": 99,
+      "endChar": 105
+    },
+    {
+      "startMs": 9257,
+      "endMs": 9720,
+      "startChar": 105,
+      "endChar": 109
+    },
+    {
+      "startMs": 9720,
+      "endMs": 10183,
+      "startChar": 109,
+      "endChar": 113
+    },
+    {
+      "startMs": 10183,
+      "endMs": 10646,
+      "startChar": 113,
+      "endChar": 118
+    },
+    {
+      "startMs": 10646,
+      "endMs": 11109,
+      "startChar": 118,
+      "endChar": 125
+    },
+    {
+      "startMs": 11109,
+      "endMs": 11571,
+      "startChar": 125,
+      "endChar": 130
+    },
+    {
+      "startMs": 11571,
+      "endMs": 12034,
+      "startChar": 130,
+      "endChar": 139
+    },
+    {
+      "startMs": 12034,
+      "endMs": 12497,
+      "startChar": 139,
+      "endChar": 142
+    },
+    {
+      "startMs": 12497,
+      "endMs": 12960,
+      "startChar": 142,
+      "endChar": 152
+    }
+  ]
+}

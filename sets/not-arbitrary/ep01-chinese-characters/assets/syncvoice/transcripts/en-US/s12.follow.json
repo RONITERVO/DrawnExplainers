@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "s12.follow",
+  "text": "Set one person behind another, and the meaning follows straight from the picture. To follow.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1320,
+      "startChar": 15,
+      "endChar": 22
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1760,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2280,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2500,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 2500,
+      "endMs": 2720,
+      "startChar": 39,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3280,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3800,
+      "startChar": 55,
+      "endChar": 64
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4160,
+      "startChar": 64,
+      "endChar": 69
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4240,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4320,
+      "startChar": 73,
+      "endChar": 82
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4620,
+      "startChar": 82,
+      "endChar": 85
+    },
+    {
+      "startMs": 4620,
+      "endMs": 4920,
+      "startChar": 85,
+      "endChar": 92
+    }
+  ]
+}

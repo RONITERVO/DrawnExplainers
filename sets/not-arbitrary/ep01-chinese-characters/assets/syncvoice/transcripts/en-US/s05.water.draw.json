@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "s05.water.draw",
+  "text": "Water was drawn as a current running downward, with droplets thrown off to either side.",
+  "durationMs": 6160,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 16,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1440,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1600,
+      "startChar": 21,
+      "endChar": 29
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2320,
+      "startChar": 29,
+      "endChar": 37
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2640,
+      "startChar": 37,
+      "endChar": 47
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3280,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3720,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4360,
+      "startChar": 61,
+      "endChar": 68
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4720,
+      "startChar": 68,
+      "endChar": 72
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5000,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5280,
+      "startChar": 75,
+      "endChar": 82
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5560,
+      "startChar": 82,
+      "endChar": 87
+    }
+  ]
+}

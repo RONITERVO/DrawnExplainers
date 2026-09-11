@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "externalId": "s03.letters",
+  "text": "But one ruled line looks like every other. So he wrote a letter at the head of one, to say which note it was, and inked one line red and another yellow.",
+  "durationMs": 11320,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1720,
+      "startChar": 19,
+      "endChar": 25
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2120,
+      "startChar": 25,
+      "endChar": 30
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2440,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2440,
+      "endMs": 2760,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3160,
+      "startChar": 43,
+      "endChar": 46
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3235,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 3235,
+      "endMs": 3960,
+      "startChar": 49,
+      "endChar": 55
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4160,
+      "startChar": 55,
+      "endChar": 57
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4360,
+      "startChar": 57,
+      "endChar": 64
+    },
+    {
+      "startMs": 4360,
+      "endMs": 4920,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5000,
+      "startChar": 67,
+      "endChar": 71
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5080,
+      "startChar": 71,
+      "endChar": 76
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5260,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 5260,
+      "endMs": 5440,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5680,
+      "startChar": 84,
+      "endChar": 87
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5920,
+      "startChar": 87,
+      "endChar": 91
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6680,
+      "startChar": 91,
+      "endChar": 97
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7040,
+      "startChar": 97,
+      "endChar": 102
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7140,
+      "startChar": 102,
+      "endChar": 105
+    },
+    {
+      "startMs": 7140,
+      "endMs": 7240,
+      "startChar": 105,
+      "endChar": 110
+    },
+    {
+      "startMs": 7240,
+      "endMs": 7720,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 7720,
+      "endMs": 7800,
+      "startChar": 114,
+      "endChar": 120
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8680,
+      "startChar": 120,
+      "endChar": 124
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9000,
+      "startChar": 124,
+      "endChar": 129
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9360,
+      "startChar": 129,
+      "endChar": 133
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9800,
+      "startChar": 133,
+      "endChar": 137
+    },
+    {
+      "startMs": 9800,
+      "endMs": 10200,
+      "startChar": 137,
+      "endChar": 145
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10640,
+      "startChar": 145,
+      "endChar": 152
+    }
+  ]
+}
