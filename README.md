@@ -57,7 +57,7 @@ cd <ep> && cp ../../../lib/align.py . && D:/AI/ComfyUI/.venv/Scripts/python.exe 
 
 # 4. Read the QA before drawing anything. Fix defects in the script, regenerate.
 # 5. Write scene.mjs, anchoring beats to words with beat(shotId, 'word').
-node lib/build.mjs <ep> --preview        # one frame late in each shot, named by shot id
+node lib/build.mjs <ep> --preview        # two frames per shot (15% and 82%), named by shot id
 node lib/build.mjs <ep> --at=62,138      # or exactly these timestamps
 
 # 6. Music, then the film
@@ -78,6 +78,9 @@ node lib/build.mjs <ep>
   word in other shots: right in three and wrong in one is bad audio.
 - **Outline to solid is `flood()`, never `fill()`.** Overlapping paths double at
   partial opacity and go blotchy mid-fade.
+- **Budget runtime as words / 2.4**, not 2.2 — Kore measures 2.26-2.58 w/s
+  across episodes 1-5. Re-check against manifest.json durationMs after
+  synthesis, which is exact.
 - **Marks that morph are defined as anchors, not control points.** `smooth()`
   derives the beziers and `morph()` lerps anchor-for-anchor, refusing unequal
   counts. Equal counts are not enough: corresponding runs must also travel the

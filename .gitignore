@@ -28,3 +28,7 @@ out.mp4
 *client_secret*
 *oauth*client*.json
 youtube-token.json
+
+# Clip exports from the talking-face tooling. Derived from out.mp4, ~290MB,
+# and their filenames exceed the Windows path limit git can index.
+out-clips*/
