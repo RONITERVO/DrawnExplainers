@@ -27,7 +27,8 @@ lib/                        shared pipeline — every set uses this
   build.mjs                 audio bed -> worker pool -> ffmpeg
   worker.mjs                one rasteriser per core
   music.mjs                 Lyria RealTime backing track
-  align.py                  Whisper word alignment + QA transcript
+  align.py                  Whisper word alignment + QA transcript (all shots, or a subset)
+  glyph.mjs                 morph strip for designing a mark, outside the film
 sets/<set>/
   SET.md                    the lane, the rules, the author
   <epNN-slug>/
@@ -77,6 +78,10 @@ node lib/build.mjs <ep>
   word in other shots: right in three and wrong in one is bad audio.
 - **Outline to solid is `flood()`, never `fill()`.** Overlapping paths double at
   partial opacity and go blotchy mid-fade.
+- **Marks that morph are defined as anchors, not control points.** `smooth()`
+  derives the beziers and `morph()` lerps anchor-for-anchor, refusing unequal
+  counts. Equal counts are not enough: corresponding runs must also travel the
+  same direction, or the shape folds through itself mid-morph.
 - **No filters in the frame SVG.** `feTurbulence` cost more than the entire rest
   of the pipeline; the hand tremble is baked into path geometry instead, and the
   drop shadow is two offset rects. This is the difference between 1 fps and
