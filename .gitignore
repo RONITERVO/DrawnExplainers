@@ -36,3 +36,14 @@ youtube-token.json
 # irreplaceable, so it belongs in the media store, not in history).
 **/vertical-notebook/
 **/out-clips-talking-face*/
+
+# Text only in this repository. Every binary lives in the media store and is
+# referenced from each episode's media.json by id and checksum.
+*.wav
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.ttf
+*.otf
