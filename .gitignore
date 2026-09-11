@@ -22,3 +22,9 @@ out.mp4
 
 # SyncVoice checkpoint: transient by its own docs, rewritten every run.
 **/.syncvoice/generation-state.json
+
+# Defensive: OAuth material never belongs in the repo. It lives in
+# D:/Projects/tempTestKeys/ alongside the other keys.
+*client_secret*
+*oauth*client*.json
+youtube-token.json
