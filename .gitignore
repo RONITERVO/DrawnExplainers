@@ -29,6 +29,6 @@ out.mp4
 *oauth*client*.json
 youtube-token.json
 
-# Clip exports from the talking-face tooling. Derived from out.mp4, ~290MB,
-# and their filenames exceed the Windows path limit git can index.
-out-clips*/
+# out-clips*/ IS tracked: work in progress on a TikTok cut with a narrating
+# person around the film. Needs core.longpaths (set in this repo's config) -
+# the clip names exceed the Windows path limit git can otherwise index.
