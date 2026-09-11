@@ -1,0 +1,2027 @@
+{
+  "s01.open": {
+    "durationMs": 8360,
+    "words": [
+      {
+        "word": "There",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "is",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "an",
+        "startMs": 600,
+        "endMs": 820
+      },
+      {
+        "word": "elephant",
+        "startMs": 820,
+        "endMs": 1280
+      },
+      {
+        "word": "on",
+        "startMs": 1280,
+        "endMs": 1700
+      },
+      {
+        "word": "your",
+        "startMs": 1700,
+        "endMs": 1860
+      },
+      {
+        "word": "chessboard.",
+        "startMs": 1860,
+        "endMs": 2380
+      },
+      {
+        "word": "It",
+        "startMs": 2600,
+        "endMs": 3100
+      },
+      {
+        "word": "has",
+        "startMs": 3100,
+        "endMs": 3280
+      },
+      {
+        "word": "been",
+        "startMs": 3280,
+        "endMs": 3460
+      },
+      {
+        "word": "there",
+        "startMs": 3460,
+        "endMs": 3700
+      },
+      {
+        "word": "1",
+        "startMs": 3700,
+        "endMs": 4020
+      },
+      {
+        "word": ",400",
+        "startMs": 4020,
+        "endMs": 4820
+      },
+      {
+        "word": "years,",
+        "startMs": 4820,
+        "endMs": 5480
+      },
+      {
+        "word": "and",
+        "startMs": 5720,
+        "endMs": 6140
+      },
+      {
+        "word": "you",
+        "startMs": 6140,
+        "endMs": 6460
+      },
+      {
+        "word": "call",
+        "startMs": 6460,
+        "endMs": 7080
+      },
+      {
+        "word": "it",
+        "startMs": 7080,
+        "endMs": 7280
+      },
+      {
+        "word": "a",
+        "startMs": 7280,
+        "endMs": 7620
+      },
+      {
+        "word": "bishop.",
+        "startMs": 7620,
+        "endMs": 7860
+      }
+    ],
+    "heard": "There is an elephant on your chessboard. It has been there 1,400 years, and you call it a bishop.",
+    "script": "There is an elephant on your chessboard. It has been there fourteen hundred years, and you call it a bishop."
+  },
+  "s02.army": {
+    "durationMs": 11720,
+    "words": [
+      {
+        "word": "Chess",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "begins",
+        "startMs": 380,
+        "endMs": 880
+      },
+      {
+        "word": "in",
+        "startMs": 880,
+        "endMs": 1320
+      },
+      {
+        "word": "India",
+        "startMs": 1320,
+        "endMs": 1740
+      },
+      {
+        "word": "as",
+        "startMs": 1740,
+        "endMs": 2440
+      },
+      {
+        "word": "a",
+        "startMs": 2440,
+        "endMs": 2680
+      },
+      {
+        "word": "picture",
+        "startMs": 2680,
+        "endMs": 2960
+      },
+      {
+        "word": "of",
+        "startMs": 2960,
+        "endMs": 3280
+      },
+      {
+        "word": "an",
+        "startMs": 3280,
+        "endMs": 3400
+      },
+      {
+        "word": "army.",
+        "startMs": 3400,
+        "endMs": 3760
+      },
+      {
+        "word": "Foot",
+        "startMs": 4020,
+        "endMs": 4580
+      },
+      {
+        "word": "soldiers,",
+        "startMs": 4580,
+        "endMs": 4980
+      },
+      {
+        "word": "horses,",
+        "startMs": 5460,
+        "endMs": 5920
+      },
+      {
+        "word": "chariots,",
+        "startMs": 6640,
+        "endMs": 7160
+      },
+      {
+        "word": "and",
+        "startMs": 7500,
+        "endMs": 7640
+      },
+      {
+        "word": "elephants.",
+        "startMs": 7640,
+        "endMs": 8240
+      },
+      {
+        "word": "Every",
+        "startMs": 8720,
+        "endMs": 9480
+      },
+      {
+        "word": "piece",
+        "startMs": 9480,
+        "endMs": 9940
+      },
+      {
+        "word": "is",
+        "startMs": 9940,
+        "endMs": 10320
+      },
+      {
+        "word": "one",
+        "startMs": 10320,
+        "endMs": 10580
+      },
+      {
+        "word": "of",
+        "startMs": 10580,
+        "endMs": 10700
+      },
+      {
+        "word": "those",
+        "startMs": 10700,
+        "endMs": 10980
+      },
+      {
+        "word": "four.",
+        "startMs": 10980,
+        "endMs": 11300
+      }
+    ],
+    "heard": "Chess begins in India as a picture of an army. Foot soldiers, horses, chariots, and elephants. Every piece is one of those four.",
+    "script": "Chess begins in India, as a picture of an army. Foot soldiers, horses, chariots and elephants. Every piece is one of those four."
+  },
+  "s03.elephant": {
+    "durationMs": 9920,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "elephant",
+        "startMs": 160,
+        "endMs": 520
+      },
+      {
+        "word": "was",
+        "startMs": 520,
+        "endMs": 940
+      },
+      {
+        "word": "carved",
+        "startMs": 940,
+        "endMs": 1340
+      },
+      {
+        "word": "as",
+        "startMs": 1340,
+        "endMs": 1780
+      },
+      {
+        "word": "an",
+        "startMs": 1780,
+        "endMs": 2020
+      },
+      {
+        "word": "elephant,",
+        "startMs": 2020,
+        "endMs": 2420
+      },
+      {
+        "word": "with",
+        "startMs": 2680,
+        "endMs": 3020
+      },
+      {
+        "word": "a",
+        "startMs": 3020,
+        "endMs": 3240
+      },
+      {
+        "word": "rider",
+        "startMs": 3240,
+        "endMs": 3540
+      },
+      {
+        "word": "on",
+        "startMs": 3540,
+        "endMs": 3900
+      },
+      {
+        "word": "its",
+        "startMs": 3900,
+        "endMs": 4040
+      },
+      {
+        "word": "back.",
+        "startMs": 4040,
+        "endMs": 4340
+      },
+      {
+        "word": "In",
+        "startMs": 4680,
+        "endMs": 5100
+      },
+      {
+        "word": "Persian,",
+        "startMs": 5100,
+        "endMs": 5400
+      },
+      {
+        "word": "the",
+        "startMs": 5780,
+        "endMs": 5840
+      },
+      {
+        "word": "word",
+        "startMs": 5840,
+        "endMs": 6120
+      },
+      {
+        "word": "is",
+        "startMs": 6120,
+        "endMs": 6520
+      },
+      {
+        "word": "peel.",
+        "startMs": 6520,
+        "endMs": 6980
+      },
+      {
+        "word": "The",
+        "startMs": 7360,
+        "endMs": 7740
+      },
+      {
+        "word": "Arabs",
+        "startMs": 7740,
+        "endMs": 8120
+      },
+      {
+        "word": "made",
+        "startMs": 8120,
+        "endMs": 8480
+      },
+      {
+        "word": "that",
+        "startMs": 8480,
+        "endMs": 8760
+      },
+      {
+        "word": "all",
+        "startMs": 8760,
+        "endMs": 9220
+      },
+      {
+        "word": "feel.",
+        "startMs": 9220,
+        "endMs": 9460
+      }
+    ],
+    "heard": "The elephant was carved as an elephant, with a rider on its back. In Persian, the word is peel. The Arabs made that all feel.",
+    "script": "The elephant was carved as an elephant, with a rider on its back. In Persian the word is pil. The Arabs made that al fil."
+  },
+  "s04.abstract": {
+    "durationMs": 13640,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 520
+      },
+      {
+        "word": "the",
+        "startMs": 520,
+        "endMs": 860
+      },
+      {
+        "word": "game",
+        "startMs": 860,
+        "endMs": 1220
+      },
+      {
+        "word": "crossed",
+        "startMs": 1220,
+        "endMs": 1780
+      },
+      {
+        "word": "into",
+        "startMs": 1780,
+        "endMs": 2200
+      },
+      {
+        "word": "lands",
+        "startMs": 2200,
+        "endMs": 2660
+      },
+      {
+        "word": "where",
+        "startMs": 2660,
+        "endMs": 3020
+      },
+      {
+        "word": "nobody",
+        "startMs": 3020,
+        "endMs": 3640
+      },
+      {
+        "word": "carved",
+        "startMs": 3640,
+        "endMs": 4260
+      },
+      {
+        "word": "living",
+        "startMs": 4260,
+        "endMs": 4600
+      },
+      {
+        "word": "things.",
+        "startMs": 4600,
+        "endMs": 5060
+      },
+      {
+        "word": "So",
+        "startMs": 5320,
+        "endMs": 5960
+      },
+      {
+        "word": "a",
+        "startMs": 5960,
+        "endMs": 6200
+      },
+      {
+        "word": "carver",
+        "startMs": 6200,
+        "endMs": 6620
+      },
+      {
+        "word": "made",
+        "startMs": 6620,
+        "endMs": 7080
+      },
+      {
+        "word": "the",
+        "startMs": 7080,
+        "endMs": 7300
+      },
+      {
+        "word": "elephant",
+        "startMs": 7300,
+        "endMs": 7700
+      },
+      {
+        "word": "without",
+        "startMs": 7700,
+        "endMs": 8360
+      },
+      {
+        "word": "making",
+        "startMs": 8360,
+        "endMs": 9040
+      },
+      {
+        "word": "an",
+        "startMs": 9040,
+        "endMs": 9500
+      },
+      {
+        "word": "elephant.",
+        "startMs": 9500,
+        "endMs": 9860
+      },
+      {
+        "word": "He",
+        "startMs": 10220,
+        "endMs": 10820
+      },
+      {
+        "word": "kept",
+        "startMs": 10820,
+        "endMs": 11100
+      },
+      {
+        "word": "the",
+        "startMs": 11100,
+        "endMs": 11320
+      },
+      {
+        "word": "tusks",
+        "startMs": 11320,
+        "endMs": 11760
+      },
+      {
+        "word": "and",
+        "startMs": 11760,
+        "endMs": 12280
+      },
+      {
+        "word": "dropped",
+        "startMs": 12280,
+        "endMs": 12760
+      },
+      {
+        "word": "the",
+        "startMs": 12760,
+        "endMs": 12980
+      },
+      {
+        "word": "rest.",
+        "startMs": 12980,
+        "endMs": 13280
+      }
+    ],
+    "heard": "Then the game crossed into lands where nobody carved living things. So a carver made the elephant without making an elephant. He kept the tusks and dropped the rest.",
+    "script": "Then the game crossed into lands where nobody carved living things. So a carver made the elephant without making an elephant. He kept the tusks and dropped the rest."
+  },
+  "s05.block": {
+    "durationMs": 6360,
+    "words": [
+      {
+        "word": "a",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "block",
+        "startMs": 160,
+        "endMs": 480
+      },
+      {
+        "word": "of",
+        "startMs": 480,
+        "endMs": 700
+      },
+      {
+        "word": "ivory",
+        "startMs": 700,
+        "endMs": 1020
+      },
+      {
+        "word": "with",
+        "startMs": 1020,
+        "endMs": 1400
+      },
+      {
+        "word": "two",
+        "startMs": 1400,
+        "endMs": 1680
+      },
+      {
+        "word": "points",
+        "startMs": 1680,
+        "endMs": 2000
+      },
+      {
+        "word": "on",
+        "startMs": 2000,
+        "endMs": 2180
+      },
+      {
+        "word": "top.",
+        "startMs": 2180,
+        "endMs": 2440
+      },
+      {
+        "word": "The",
+        "startMs": 2620,
+        "endMs": 3140
+      },
+      {
+        "word": "same",
+        "startMs": 3140,
+        "endMs": 3360
+      },
+      {
+        "word": "rule",
+        "startMs": 3360,
+        "endMs": 3620
+      },
+      {
+        "word": "emptied",
+        "startMs": 3620,
+        "endMs": 4040
+      },
+      {
+        "word": "the",
+        "startMs": 4040,
+        "endMs": 4180
+      },
+      {
+        "word": "faces",
+        "startMs": 4180,
+        "endMs": 4560
+      },
+      {
+        "word": "off",
+        "startMs": 4560,
+        "endMs": 4920
+      },
+      {
+        "word": "a",
+        "startMs": 4920,
+        "endMs": 5020
+      },
+      {
+        "word": "deck",
+        "startMs": 5020,
+        "endMs": 5200
+      },
+      {
+        "word": "of",
+        "startMs": 5200,
+        "endMs": 5340
+      },
+      {
+        "word": "playing",
+        "startMs": 5340,
+        "endMs": 5560
+      },
+      {
+        "word": "cards.",
+        "startMs": 5560,
+        "endMs": 5940
+      }
+    ],
+    "heard": "a block of ivory with two points on top. The same rule emptied the faces off a deck of playing cards.",
+    "script": "A block of ivory with two points on top. The same rule emptied the faces off a deck of playing cards."
+  },
+  "s06.europe": {
+    "durationMs": 14920,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "it",
+        "startMs": 400,
+        "endMs": 860
+      },
+      {
+        "word": "reaches",
+        "startMs": 860,
+        "endMs": 1300
+      },
+      {
+        "word": "Europe,",
+        "startMs": 1300,
+        "endMs": 1900
+      },
+      {
+        "word": "where",
+        "startMs": 1900,
+        "endMs": 2680
+      },
+      {
+        "word": "nobody",
+        "startMs": 2680,
+        "endMs": 3440
+      },
+      {
+        "word": "knows",
+        "startMs": 3440,
+        "endMs": 3920
+      },
+      {
+        "word": "the",
+        "startMs": 3920,
+        "endMs": 4100
+      },
+      {
+        "word": "word",
+        "startMs": 4100,
+        "endMs": 4380
+      },
+      {
+        "word": "or",
+        "startMs": 4380,
+        "endMs": 4700
+      },
+      {
+        "word": "the",
+        "startMs": 4700,
+        "endMs": 4900
+      },
+      {
+        "word": "animal.",
+        "startMs": 4900,
+        "endMs": 5280
+      },
+      {
+        "word": "So",
+        "startMs": 5580,
+        "endMs": 6180
+      },
+      {
+        "word": "every",
+        "startMs": 6180,
+        "endMs": 6720
+      },
+      {
+        "word": "country",
+        "startMs": 6720,
+        "endMs": 7200
+      },
+      {
+        "word": "guesses.",
+        "startMs": 7200,
+        "endMs": 7580
+      },
+      {
+        "word": "England",
+        "startMs": 8220,
+        "endMs": 8840
+      },
+      {
+        "word": "sees",
+        "startMs": 8840,
+        "endMs": 9400
+      },
+      {
+        "word": "a",
+        "startMs": 9400,
+        "endMs": 9820
+      },
+      {
+        "word": "bishop's",
+        "startMs": 9820,
+        "endMs": 10220
+      },
+      {
+        "word": "hat.",
+        "startMs": 10220,
+        "endMs": 10460
+      },
+      {
+        "word": "France",
+        "startMs": 10680,
+        "endMs": 11240
+      },
+      {
+        "word": "sees",
+        "startMs": 11240,
+        "endMs": 11900
+      },
+      {
+        "word": "a",
+        "startMs": 11900,
+        "endMs": 12260
+      },
+      {
+        "word": "jester's",
+        "startMs": 12260,
+        "endMs": 12800
+      },
+      {
+        "word": "cap",
+        "startMs": 12800,
+        "endMs": 13100
+      },
+      {
+        "word": "and",
+        "startMs": 13100,
+        "endMs": 13420
+      },
+      {
+        "word": "calls",
+        "startMs": 13420,
+        "endMs": 13700
+      },
+      {
+        "word": "it",
+        "startMs": 13700,
+        "endMs": 13920
+      },
+      {
+        "word": "the",
+        "startMs": 13920,
+        "endMs": 14260
+      },
+      {
+        "word": "fool.",
+        "startMs": 14260,
+        "endMs": 14500
+      }
+    ],
+    "heard": "Then it reaches Europe, where nobody knows the word or the animal. So every country guesses. England sees a bishop's hat. France sees a jester's cap and calls it the fool.",
+    "script": "Then it reaches Europe, where nobody knows the word or the animal. So every country guesses. England sees a bishop's hat. France sees a jester's cap and calls it the fool."
+  },
+  "s07.reveal": {
+    "durationMs": 5680,
+    "words": [
+      {
+        "word": "Russia",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "never",
+        "startMs": 280,
+        "endMs": 660
+      },
+      {
+        "word": "had",
+        "startMs": 660,
+        "endMs": 940
+      },
+      {
+        "word": "to",
+        "startMs": 940,
+        "endMs": 1080
+      },
+      {
+        "word": "guess.",
+        "startMs": 1080,
+        "endMs": 1460
+      },
+      {
+        "word": "It",
+        "startMs": 1700,
+        "endMs": 2060
+      },
+      {
+        "word": "has",
+        "startMs": 2060,
+        "endMs": 2220
+      },
+      {
+        "word": "called",
+        "startMs": 2220,
+        "endMs": 2500
+      },
+      {
+        "word": "that",
+        "startMs": 2500,
+        "endMs": 2740
+      },
+      {
+        "word": "piece",
+        "startMs": 2740,
+        "endMs": 3120
+      },
+      {
+        "word": "the",
+        "startMs": 3120,
+        "endMs": 3500
+      },
+      {
+        "word": "elephant",
+        "startMs": 3500,
+        "endMs": 3900
+      },
+      {
+        "word": "the",
+        "startMs": 3900,
+        "endMs": 4420
+      },
+      {
+        "word": "whole",
+        "startMs": 4420,
+        "endMs": 4760
+      },
+      {
+        "word": "time.",
+        "startMs": 4760,
+        "endMs": 5260
+      }
+    ],
+    "heard": "Russia never had to guess. It has called that piece the elephant the whole time.",
+    "script": "Russia never had to guess. It has called that piece the elephant the whole time."
+  },
+  "s08.chariot": {
+    "durationMs": 11800,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "chariot",
+        "startMs": 200,
+        "endMs": 760
+      },
+      {
+        "word": "went",
+        "startMs": 760,
+        "endMs": 1060
+      },
+      {
+        "word": "the",
+        "startMs": 1060,
+        "endMs": 1320
+      },
+      {
+        "word": "same",
+        "startMs": 1320,
+        "endMs": 1560
+      },
+      {
+        "word": "way,",
+        "startMs": 1560,
+        "endMs": 1920
+      },
+      {
+        "word": "everything",
+        "startMs": 2260,
+        "endMs": 2980
+      },
+      {
+        "word": "gone",
+        "startMs": 2980,
+        "endMs": 3400
+      },
+      {
+        "word": "but",
+        "startMs": 3400,
+        "endMs": 3760
+      },
+      {
+        "word": "a",
+        "startMs": 3760,
+        "endMs": 4120
+      },
+      {
+        "word": "notch",
+        "startMs": 4120,
+        "endMs": 4520
+      },
+      {
+        "word": "in",
+        "startMs": 4520,
+        "endMs": 4820
+      },
+      {
+        "word": "a",
+        "startMs": 4820,
+        "endMs": 4920
+      },
+      {
+        "word": "block.",
+        "startMs": 4920,
+        "endMs": 5240
+      },
+      {
+        "word": "And",
+        "startMs": 5560,
+        "endMs": 6180
+      },
+      {
+        "word": "a",
+        "startMs": 6180,
+        "endMs": 6460
+      },
+      {
+        "word": "notch",
+        "startMs": 6460,
+        "endMs": 6900
+      },
+      {
+        "word": "in",
+        "startMs": 6900,
+        "endMs": 7180
+      },
+      {
+        "word": "a",
+        "startMs": 7180,
+        "endMs": 7320
+      },
+      {
+        "word": "block,",
+        "startMs": 7320,
+        "endMs": 7740
+      },
+      {
+        "word": "to",
+        "startMs": 7860,
+        "endMs": 8120
+      },
+      {
+        "word": "an",
+        "startMs": 8120,
+        "endMs": 8440
+      },
+      {
+        "word": "Italian",
+        "startMs": 8440,
+        "endMs": 8840
+      },
+      {
+        "word": "carver,",
+        "startMs": 8840,
+        "endMs": 9320
+      },
+      {
+        "word": "is",
+        "startMs": 9720,
+        "endMs": 9920
+      },
+      {
+        "word": "a",
+        "startMs": 9920,
+        "endMs": 10060
+      },
+      {
+        "word": "wall",
+        "startMs": 10060,
+        "endMs": 10340
+      },
+      {
+        "word": "you",
+        "startMs": 10340,
+        "endMs": 10680
+      },
+      {
+        "word": "can",
+        "startMs": 10680,
+        "endMs": 10860
+      },
+      {
+        "word": "shoot",
+        "startMs": 10860,
+        "endMs": 11080
+      },
+      {
+        "word": "over.",
+        "startMs": 11080,
+        "endMs": 11400
+      }
+    ],
+    "heard": "The chariot went the same way, everything gone but a notch in a block. And a notch in a block, to an Italian carver, is a wall you can shoot over.",
+    "script": "The chariot went the same way. Everything gone but a notch in a block. And a notch in a block, to an Italian carver, is a wall you can shoot over."
+  },
+  "s09.rook": {
+    "durationMs": 13560,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "Europe",
+        "startMs": 320,
+        "endMs": 840
+      },
+      {
+        "word": "put",
+        "startMs": 840,
+        "endMs": 1280
+      },
+      {
+        "word": "a",
+        "startMs": 1280,
+        "endMs": 1420
+      },
+      {
+        "word": "castle",
+        "startMs": 1420,
+        "endMs": 1760
+      },
+      {
+        "word": "on",
+        "startMs": 1760,
+        "endMs": 1980
+      },
+      {
+        "word": "the",
+        "startMs": 1980,
+        "endMs": 2080
+      },
+      {
+        "word": "board.",
+        "startMs": 2080,
+        "endMs": 2360
+      },
+      {
+        "word": "England",
+        "startMs": 2700,
+        "endMs": 3340
+      },
+      {
+        "word": "did",
+        "startMs": 3340,
+        "endMs": 3860
+      },
+      {
+        "word": "not.",
+        "startMs": 3860,
+        "endMs": 4140
+      },
+      {
+        "word": "It",
+        "startMs": 4540,
+        "endMs": 4940
+      },
+      {
+        "word": "kept",
+        "startMs": 4940,
+        "endMs": 5220
+      },
+      {
+        "word": "the",
+        "startMs": 5220,
+        "endMs": 5440
+      },
+      {
+        "word": "Persian",
+        "startMs": 5440,
+        "endMs": 5820
+      },
+      {
+        "word": "word",
+        "startMs": 5820,
+        "endMs": 6140
+      },
+      {
+        "word": "for",
+        "startMs": 6140,
+        "endMs": 6400
+      },
+      {
+        "word": "a",
+        "startMs": 6400,
+        "endMs": 6600
+      },
+      {
+        "word": "chariot,",
+        "startMs": 6600,
+        "endMs": 7020
+      },
+      {
+        "word": "and",
+        "startMs": 7180,
+        "endMs": 7540
+      },
+      {
+        "word": "that",
+        "startMs": 7540,
+        "endMs": 7780
+      },
+      {
+        "word": "word",
+        "startMs": 7780,
+        "endMs": 8100
+      },
+      {
+        "word": "is",
+        "startMs": 8100,
+        "endMs": 8640
+      },
+      {
+        "word": "rook.",
+        "startMs": 8640,
+        "endMs": 9200
+      },
+      {
+        "word": "The",
+        "startMs": 9660,
+        "endMs": 10240
+      },
+      {
+        "word": "only",
+        "startMs": 10240,
+        "endMs": 10500
+      },
+      {
+        "word": "people",
+        "startMs": 10500,
+        "endMs": 10840
+      },
+      {
+        "word": "who",
+        "startMs": 10840,
+        "endMs": 11060
+      },
+      {
+        "word": "still",
+        "startMs": 11060,
+        "endMs": 11340
+      },
+      {
+        "word": "say",
+        "startMs": 11340,
+        "endMs": 11620
+      },
+      {
+        "word": "it",
+        "startMs": 11620,
+        "endMs": 11800
+      },
+      {
+        "word": "think",
+        "startMs": 11800,
+        "endMs": 12120
+      },
+      {
+        "word": "it",
+        "startMs": 12120,
+        "endMs": 12440
+      },
+      {
+        "word": "means",
+        "startMs": 12440,
+        "endMs": 12720
+      },
+      {
+        "word": "a",
+        "startMs": 12720,
+        "endMs": 12880
+      },
+      {
+        "word": "castle.",
+        "startMs": 12880,
+        "endMs": 13180
+      }
+    ],
+    "heard": "So Europe put a castle on the board. England did not. It kept the Persian word for a chariot, and that word is rook. The only people who still say it think it means a castle.",
+    "script": "So Europe put a castle on the board. England did not. It kept the Persian word for a chariot, and that word is rook. The only people who still say it think it means a castle."
+  },
+  "s10.horse": {
+    "durationMs": 7920,
+    "words": [
+      {
+        "word": "One",
+        "startMs": 0,
+        "endMs": 380
+      },
+      {
+        "word": "piece",
+        "startMs": 380,
+        "endMs": 720
+      },
+      {
+        "word": "never",
+        "startMs": 720,
+        "endMs": 1100
+      },
+      {
+        "word": "changed.",
+        "startMs": 1100,
+        "endMs": 1600
+      },
+      {
+        "word": "A",
+        "startMs": 2000,
+        "endMs": 2240
+      },
+      {
+        "word": "horse",
+        "startMs": 2240,
+        "endMs": 2600
+      },
+      {
+        "word": "is",
+        "startMs": 2600,
+        "endMs": 3020
+      },
+      {
+        "word": "a",
+        "startMs": 3020,
+        "endMs": 3180
+      },
+      {
+        "word": "horse",
+        "startMs": 3180,
+        "endMs": 3540
+      },
+      {
+        "word": "in",
+        "startMs": 3540,
+        "endMs": 4020
+      },
+      {
+        "word": "every",
+        "startMs": 4020,
+        "endMs": 4520
+      },
+      {
+        "word": "language",
+        "startMs": 4520,
+        "endMs": 4980
+      },
+      {
+        "word": "around",
+        "startMs": 4980,
+        "endMs": 5280
+      },
+      {
+        "word": "the",
+        "startMs": 5280,
+        "endMs": 5440
+      },
+      {
+        "word": "board,",
+        "startMs": 5440,
+        "endMs": 5720
+      },
+      {
+        "word": "so",
+        "startMs": 5960,
+        "endMs": 6340
+      },
+      {
+        "word": "nobody",
+        "startMs": 6340,
+        "endMs": 6840
+      },
+      {
+        "word": "had",
+        "startMs": 6840,
+        "endMs": 7120
+      },
+      {
+        "word": "to",
+        "startMs": 7120,
+        "endMs": 7240
+      },
+      {
+        "word": "guess.",
+        "startMs": 7240,
+        "endMs": 7500
+      }
+    ],
+    "heard": "One piece never changed. A horse is a horse in every language around the board, so nobody had to guess.",
+    "script": "One piece never changed. A horse is a horse in every language around the board, so nobody had to guess."
+  },
+  "s11.turn": {
+    "durationMs": 12360,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "pieces",
+        "startMs": 200,
+        "endMs": 600
+      },
+      {
+        "word": "crossed",
+        "startMs": 600,
+        "endMs": 1300
+      },
+      {
+        "word": "intact,",
+        "startMs": 1300,
+        "endMs": 1860
+      },
+      {
+        "word": "the",
+        "startMs": 1860,
+        "endMs": 2560
+      },
+      {
+        "word": "meanings",
+        "startMs": 2560,
+        "endMs": 2900
+      },
+      {
+        "word": "did",
+        "startMs": 2900,
+        "endMs": 3320
+      },
+      {
+        "word": "not,",
+        "startMs": 3320,
+        "endMs": 3620
+      },
+      {
+        "word": "and",
+        "startMs": 3920,
+        "endMs": 4400
+      },
+      {
+        "word": "one",
+        "startMs": 4400,
+        "endMs": 4760
+      },
+      {
+        "word": "guess",
+        "startMs": 4760,
+        "endMs": 5180
+      },
+      {
+        "word": "changed",
+        "startMs": 5180,
+        "endMs": 5820
+      },
+      {
+        "word": "the",
+        "startMs": 5820,
+        "endMs": 6080
+      },
+      {
+        "word": "game.",
+        "startMs": 6080,
+        "endMs": 6380
+      },
+      {
+        "word": "The",
+        "startMs": 6620,
+        "endMs": 7260
+      },
+      {
+        "word": "square",
+        "startMs": 7260,
+        "endMs": 7580
+      },
+      {
+        "word": "beside",
+        "startMs": 7580,
+        "endMs": 7980
+      },
+      {
+        "word": "the",
+        "startMs": 7980,
+        "endMs": 8260
+      },
+      {
+        "word": "king",
+        "startMs": 8260,
+        "endMs": 8540
+      },
+      {
+        "word": "never",
+        "startMs": 8540,
+        "endMs": 9200
+      },
+      {
+        "word": "held",
+        "startMs": 9200,
+        "endMs": 9500
+      },
+      {
+        "word": "a",
+        "startMs": 9500,
+        "endMs": 9640
+      },
+      {
+        "word": "queen.",
+        "startMs": 9640,
+        "endMs": 9860
+      },
+      {
+        "word": "It",
+        "startMs": 10160,
+        "endMs": 10500
+      },
+      {
+        "word": "held",
+        "startMs": 10500,
+        "endMs": 10800
+      },
+      {
+        "word": "the",
+        "startMs": 10800,
+        "endMs": 11120
+      },
+      {
+        "word": "king's",
+        "startMs": 11120,
+        "endMs": 11540
+      },
+      {
+        "word": "counselor.",
+        "startMs": 11540,
+        "endMs": 11840
+      }
+    ],
+    "heard": "The pieces crossed intact, the meanings did not, and one guess changed the game. The square beside the king never held a queen. It held the king's counselor.",
+    "script": "The pieces crossed intact. The meanings did not. And one guess changed the game. The square beside the king never held a queen. It held the king's counsellor."
+  },
+  "s12.vizier": {
+    "durationMs": 14440,
+    "words": [
+      {
+        "word": "He",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "moved",
+        "startMs": 140,
+        "endMs": 540
+      },
+      {
+        "word": "one",
+        "startMs": 540,
+        "endMs": 1080
+      },
+      {
+        "word": "square",
+        "startMs": 1080,
+        "endMs": 1640
+      },
+      {
+        "word": "diagonally",
+        "startMs": 1640,
+        "endMs": 2580
+      },
+      {
+        "word": "and",
+        "startMs": 2580,
+        "endMs": 3260
+      },
+      {
+        "word": "nothing",
+        "startMs": 3260,
+        "endMs": 3560
+      },
+      {
+        "word": "else.",
+        "startMs": 3560,
+        "endMs": 3960
+      },
+      {
+        "word": "He",
+        "startMs": 4610,
+        "endMs": 5020
+      },
+      {
+        "word": "was",
+        "startMs": 5020,
+        "endMs": 5320
+      },
+      {
+        "word": "the",
+        "startMs": 5320,
+        "endMs": 5540
+      },
+      {
+        "word": "weakest",
+        "startMs": 5540,
+        "endMs": 6060
+      },
+      {
+        "word": "thing",
+        "startMs": 6060,
+        "endMs": 6580
+      },
+      {
+        "word": "on",
+        "startMs": 6580,
+        "endMs": 7000
+      },
+      {
+        "word": "the",
+        "startMs": 7000,
+        "endMs": 7160
+      },
+      {
+        "word": "board",
+        "startMs": 7160,
+        "endMs": 7480
+      },
+      {
+        "word": "for",
+        "startMs": 7480,
+        "endMs": 7860
+      },
+      {
+        "word": "500",
+        "startMs": 7860,
+        "endMs": 8580
+      },
+      {
+        "word": "years.",
+        "startMs": 8580,
+        "endMs": 9400
+      },
+      {
+        "word": "Europe",
+        "startMs": 10270,
+        "endMs": 10680
+      },
+      {
+        "word": "had",
+        "startMs": 10680,
+        "endMs": 11100
+      },
+      {
+        "word": "no",
+        "startMs": 11100,
+        "endMs": 11360
+      },
+      {
+        "word": "viziers.",
+        "startMs": 11360,
+        "endMs": 11780
+      },
+      {
+        "word": "Europe",
+        "startMs": 12530,
+        "endMs": 12940
+      },
+      {
+        "word": "had",
+        "startMs": 12940,
+        "endMs": 13440
+      },
+      {
+        "word": "queens.",
+        "startMs": 13440,
+        "endMs": 13840
+      }
+    ],
+    "heard": "He moved one square diagonally and nothing else. He was the weakest thing on the board for 500 years. Europe had no viziers. Europe had queens.",
+    "script": "He moved one square diagonally and nothing else. He was the weakest thing on the board for five hundred years. Europe had no viziers. Europe had queens."
+  },
+  "s13.queen": {
+    "durationMs": 12800,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "they",
+        "startMs": 260,
+        "endMs": 640
+      },
+      {
+        "word": "called",
+        "startMs": 640,
+        "endMs": 1020
+      },
+      {
+        "word": "her",
+        "startMs": 1020,
+        "endMs": 1200
+      },
+      {
+        "word": "a",
+        "startMs": 1200,
+        "endMs": 1360
+      },
+      {
+        "word": "queen.",
+        "startMs": 1360,
+        "endMs": 1640
+      },
+      {
+        "word": "And",
+        "startMs": 1900,
+        "endMs": 2380
+      },
+      {
+        "word": "in",
+        "startMs": 2380,
+        "endMs": 2520
+      },
+      {
+        "word": "Valencia,",
+        "startMs": 2520,
+        "endMs": 3120
+      },
+      {
+        "word": "somebody",
+        "startMs": 3500,
+        "endMs": 3800
+      },
+      {
+        "word": "decided",
+        "startMs": 3800,
+        "endMs": 4420
+      },
+      {
+        "word": "a",
+        "startMs": 4420,
+        "endMs": 4840
+      },
+      {
+        "word": "queen",
+        "startMs": 4840,
+        "endMs": 5220
+      },
+      {
+        "word": "should",
+        "startMs": 5220,
+        "endMs": 5620
+      },
+      {
+        "word": "not",
+        "startMs": 5620,
+        "endMs": 6060
+      },
+      {
+        "word": "be",
+        "startMs": 6060,
+        "endMs": 6360
+      },
+      {
+        "word": "the",
+        "startMs": 6360,
+        "endMs": 6600
+      },
+      {
+        "word": "weakest",
+        "startMs": 6600,
+        "endMs": 6980
+      },
+      {
+        "word": "piece",
+        "startMs": 6980,
+        "endMs": 7380
+      },
+      {
+        "word": "on",
+        "startMs": 7380,
+        "endMs": 7580
+      },
+      {
+        "word": "the",
+        "startMs": 7580,
+        "endMs": 7680
+      },
+      {
+        "word": "board.",
+        "startMs": 7680,
+        "endMs": 7940
+      },
+      {
+        "word": "They",
+        "startMs": 8220,
+        "endMs": 8780
+      },
+      {
+        "word": "gave",
+        "startMs": 8780,
+        "endMs": 9040
+      },
+      {
+        "word": "her",
+        "startMs": 9040,
+        "endMs": 9280
+      },
+      {
+        "word": "the",
+        "startMs": 9280,
+        "endMs": 9560
+      },
+      {
+        "word": "chariot's",
+        "startMs": 9560,
+        "endMs": 10220
+      },
+      {
+        "word": "line",
+        "startMs": 10220,
+        "endMs": 10560
+      },
+      {
+        "word": "and",
+        "startMs": 10560,
+        "endMs": 11220
+      },
+      {
+        "word": "the",
+        "startMs": 11220,
+        "endMs": 11640
+      },
+      {
+        "word": "elephant's",
+        "startMs": 11640,
+        "endMs": 12160
+      },
+      {
+        "word": "line.",
+        "startMs": 12160,
+        "endMs": 12460
+      }
+    ],
+    "heard": "So they called her a queen. And in Valencia, somebody decided a queen should not be the weakest piece on the board. They gave her the chariot's line and the elephant's line.",
+    "script": "So they called her a queen. And in Valencia somebody decided a queen should not be the weakest piece on the board. They gave her the chariot's line and the elephant's line."
+  },
+  "s14.recap": {
+    "durationMs": 11800,
+    "words": [
+      {
+        "word": "Nothing",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "on",
+        "startMs": 360,
+        "endMs": 920
+      },
+      {
+        "word": "that",
+        "startMs": 920,
+        "endMs": 1180
+      },
+      {
+        "word": "board",
+        "startMs": 1180,
+        "endMs": 1500
+      },
+      {
+        "word": "was",
+        "startMs": 1500,
+        "endMs": 1940
+      },
+      {
+        "word": "designed.",
+        "startMs": 1940,
+        "endMs": 2500
+      },
+      {
+        "word": "There",
+        "startMs": 2800,
+        "endMs": 3320
+      },
+      {
+        "word": "is",
+        "startMs": 3320,
+        "endMs": 3660
+      },
+      {
+        "word": "a",
+        "startMs": 3660,
+        "endMs": 3960
+      },
+      {
+        "word": "foot",
+        "startMs": 3960,
+        "endMs": 4200
+      },
+      {
+        "word": "soldier,",
+        "startMs": 4200,
+        "endMs": 4600
+      },
+      {
+        "word": "a",
+        "startMs": 4980,
+        "endMs": 5360
+      },
+      {
+        "word": "horse,",
+        "startMs": 5360,
+        "endMs": 5840
+      },
+      {
+        "word": "a",
+        "startMs": 6220,
+        "endMs": 6520
+      },
+      {
+        "word": "chariot,",
+        "startMs": 6520,
+        "endMs": 7160
+      },
+      {
+        "word": "an",
+        "startMs": 7580,
+        "endMs": 7760
+      },
+      {
+        "word": "elephant,",
+        "startMs": 7760,
+        "endMs": 8280
+      },
+      {
+        "word": "and",
+        "startMs": 8720,
+        "endMs": 9060
+      },
+      {
+        "word": "a",
+        "startMs": 9060,
+        "endMs": 9460
+      },
+      {
+        "word": "civil",
+        "startMs": 9460,
+        "endMs": 9840
+      },
+      {
+        "word": "servant",
+        "startMs": 9840,
+        "endMs": 10380
+      },
+      {
+        "word": "wearing",
+        "startMs": 10380,
+        "endMs": 10880
+      },
+      {
+        "word": "a",
+        "startMs": 10880,
+        "endMs": 11100
+      },
+      {
+        "word": "crown.",
+        "startMs": 11100,
+        "endMs": 11400
+      }
+    ],
+    "heard": "Nothing on that board was designed. There is a foot soldier, a horse, a chariot, an elephant, and a civil servant wearing a crown.",
+    "script": "Nothing on that board was designed. There is a foot soldier, a horse, a chariot, an elephant, and a civil servant wearing a crown."
+  },
+  "s15.close": {
+    "durationMs": 10120,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "were",
+        "startMs": 220,
+        "endMs": 540
+      },
+      {
+        "word": "never",
+        "startMs": 540,
+        "endMs": 940
+      },
+      {
+        "word": "moving",
+        "startMs": 940,
+        "endMs": 1480
+      },
+      {
+        "word": "symbols.",
+        "startMs": 1480,
+        "endMs": 1960
+      },
+      {
+        "word": "You",
+        "startMs": 2340,
+        "endMs": 3060
+      },
+      {
+        "word": "were",
+        "startMs": 3060,
+        "endMs": 3420
+      },
+      {
+        "word": "moving",
+        "startMs": 3420,
+        "endMs": 3800
+      },
+      {
+        "word": "an",
+        "startMs": 3800,
+        "endMs": 4220
+      },
+      {
+        "word": "army",
+        "startMs": 4220,
+        "endMs": 4700
+      },
+      {
+        "word": "out",
+        "startMs": 4700,
+        "endMs": 5460
+      },
+      {
+        "word": "of",
+        "startMs": 5460,
+        "endMs": 5740
+      },
+      {
+        "word": "a",
+        "startMs": 5740,
+        "endMs": 5900
+      },
+      {
+        "word": "kingdom",
+        "startMs": 5900,
+        "endMs": 6220
+      },
+      {
+        "word": "that",
+        "startMs": 6220,
+        "endMs": 6720
+      },
+      {
+        "word": "fell",
+        "startMs": 6720,
+        "endMs": 7220
+      },
+      {
+        "word": "before",
+        "startMs": 7220,
+        "endMs": 7740
+      },
+      {
+        "word": "any",
+        "startMs": 7740,
+        "endMs": 8260
+      },
+      {
+        "word": "of",
+        "startMs": 8260,
+        "endMs": 8540
+      },
+      {
+        "word": "this",
+        "startMs": 8540,
+        "endMs": 8840
+      },
+      {
+        "word": "was",
+        "startMs": 8840,
+        "endMs": 9100
+      },
+      {
+        "word": "written",
+        "startMs": 9100,
+        "endMs": 9320
+      },
+      {
+        "word": "down.",
+        "startMs": 9320,
+        "endMs": 9700
+      }
+    ],
+    "heard": "You were never moving symbols. You were moving an army out of a kingdom that fell before any of this was written down.",
+    "script": "You were never moving symbols. You were moving an army, out of a kingdom that fell before any of this was written down."
+  }
+}

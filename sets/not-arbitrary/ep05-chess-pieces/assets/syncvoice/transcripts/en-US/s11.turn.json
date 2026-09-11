@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s11.turn",
+  "text": "The pieces crossed intact. The meanings did not. And one guess changed the game. The square beside the king never held a queen. It held the king's counsellor.",
+  "durationMs": 12360,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1480,
+      "startChar": 19,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1840,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2200,
+      "startChar": 31,
+      "endChar": 40
+    },
+    {
+      "startMs": 2200,
+      "endMs": 3160,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3360,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3620,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 3620,
+      "endMs": 3880,
+      "startChar": 53,
+      "endChar": 57
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4880,
+      "startChar": 57,
+      "endChar": 63
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5360,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5660,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 5660,
+      "endMs": 5960,
+      "startChar": 75,
+      "endChar": 81
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6160,
+      "startChar": 81,
+      "endChar": 85
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6360,
+      "startChar": 85,
+      "endChar": 92
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6560,
+      "startChar": 92,
+      "endChar": 99
+    },
+    {
+      "startMs": 6560,
+      "endMs": 7360,
+      "startChar": 99,
+      "endChar": 103
+    },
+    {
+      "startMs": 7360,
+      "endMs": 8160,
+      "startChar": 103,
+      "endChar": 108
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8800,
+      "startChar": 108,
+      "endChar": 114
+    },
+    {
+      "startMs": 8800,
+      "endMs": 9320,
+      "startChar": 114,
+      "endChar": 119
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9440,
+      "startChar": 119,
+      "endChar": 121
+    },
+    {
+      "startMs": 9440,
+      "endMs": 9560,
+      "startChar": 121,
+      "endChar": 128
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9840,
+      "startChar": 128,
+      "endChar": 131
+    },
+    {
+      "startMs": 9840,
+      "endMs": 10120,
+      "startChar": 131,
+      "endChar": 136
+    },
+    {
+      "startMs": 10120,
+      "endMs": 10540,
+      "startChar": 136,
+      "endChar": 140
+    },
+    {
+      "startMs": 10540,
+      "endMs": 10960,
+      "startChar": 140,
+      "endChar": 147
+    },
+    {
+      "startMs": 10960,
+      "endMs": 11480,
+      "startChar": 147,
+      "endChar": 158
+    }
+  ]
+}

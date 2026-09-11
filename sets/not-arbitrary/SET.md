@@ -52,6 +52,15 @@ for whoever wants them.
   out with a German colour on *acorn* because *Eichel* was in the same breath.
   A full stop between them fixes it, and the alignment pass is what catches it —
   the same word transcribed correctly in three other shots.
+- **The source never leaves the page.** Not "clear it at the stage boundary" —
+  it thins to about a quarter opacity and stays exactly where it stood, tied to
+  the mark with a dashed line. Episode 5 faded two sources to zero and got six
+  seconds of near-empty page each time: two floating tusks in one thread and a
+  bare tower in the other. Ghosting the source back is what fills the page AND
+  keeps the claim visible, and it costs one parameter.
+- **A source is a drawing; a mark is an object.** Outline for the thing it used
+  to be, `ink()` then `flood()` for the thing it became. Episode 5 runs the same
+  horse ring through both and the difference is the whole argument of that shot.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -62,6 +71,7 @@ for whoever wants them.
 | 02 | Where Our Letters Came From | 2:03 | rendered |
 | 03 | The Spade Is a Leaf | 2:33 | rendered |
 | 04 | The Treble Clef Is a Letter G | 2:56 | rendered |
+| 05 | The Bishop Is an Elephant | 2:55 | rendered |
 
 ## Candidates for later episodes
 
@@ -74,5 +84,7 @@ someone else's set:
 - Arabic numerals and the angle-counting story (worth fact-checking: the
   popular version is largely myth, which could itself be the episode)
 - Why the pound sign for weight is `lb`
+- The paisley on a tie is a Kashmiri boteh (fails gate 3 as it stands: the
+  source and the mark are the same motif, so there is nothing to watch change)
 - The prescription Rx and the eye of Horus (another popular-but-shaky origin —
   same treatment)

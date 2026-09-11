@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s12.vizier",
+  "text": "He moved one square diagonally and nothing else. He was the weakest thing on the board for five hundred years. Europe had no viziers. Europe had queens.",
+  "durationMs": 14440,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 1240,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1800,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2760,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 2760,
+      "endMs": 3320,
+      "startChar": 35,
+      "endChar": 43
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3680,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4120,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4195,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4195,
+      "endMs": 5400,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5600,
+      "startChar": 60,
+      "endChar": 68
+    },
+    {
+      "startMs": 5600,
+      "endMs": 6360,
+      "startChar": 68,
+      "endChar": 74
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6800,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 6800,
+      "endMs": 6920,
+      "startChar": 77,
+      "endChar": 81
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7040,
+      "startChar": 81,
+      "endChar": 87
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7680,
+      "startChar": 87,
+      "endChar": 91
+    },
+    {
+      "startMs": 7680,
+      "endMs": 7920,
+      "startChar": 91,
+      "endChar": 96
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8480,
+      "startChar": 96,
+      "endChar": 104
+    },
+    {
+      "startMs": 8480,
+      "endMs": 9080,
+      "startChar": 104,
+      "endChar": 111
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9360,
+      "startChar": 111,
+      "endChar": 118
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9640,
+      "startChar": 118,
+      "endChar": 122
+    },
+    {
+      "startMs": 9640,
+      "endMs": 11160,
+      "startChar": 122,
+      "endChar": 125
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11360,
+      "startChar": 125,
+      "endChar": 134
+    },
+    {
+      "startMs": 11360,
+      "endMs": 12000,
+      "startChar": 134,
+      "endChar": 141
+    },
+    {
+      "startMs": 12000,
+      "endMs": 12120,
+      "startChar": 141,
+      "endChar": 145
+    },
+    {
+      "startMs": 12120,
+      "endMs": 13520,
+      "startChar": 145,
+      "endChar": 152
+    }
+  ]
+}

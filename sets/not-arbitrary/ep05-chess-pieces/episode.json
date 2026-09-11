@@ -1,0 +1,124 @@
+{
+  "set": "not-arbitrary",
+  "episode": 5,
+  "slug": "ep05-chess-pieces",
+  "title": "The Bishop Is an Elephant",
+  "thesis": "Every piece on a chessboard is one of the four arms of a sixth-century Indian army — foot, horse, chariot, elephant — carried west through lands where nobody carved images of living things, so that each animal was reduced to an abstract block with a couple of protrusions on it. Europe received the blocks without the words and guessed. The shapes crossed intact; the meanings did not. One of those guesses turned the weakest piece on the board into the strongest.",
+  "runtimeSeconds": 175.08,
+  "renderedAt": "2026-09-11",
+  "status": "rendered",
+  "author": {
+    "model": "Claude Opus 5",
+    "session": "https://claude.ai/code/session_01SbF1fEuAzNHgDSLM8cL2Qp"
+  },
+  "whyThisSubject": "Episodes 1 and 2 were writing systems, 3 was playing cards and 4 was music notation — four films about marks made on a flat surface. This one is about carved three-dimensional objects, which is new material for the set and changes what the drawings have to do: a source is an outline drawing and a mark is a flooded silhouette, and the difference between a picture and an object is visible in every frame. The causes are also of a kind the set has not used. Episode 4's cause was repetition; this one's are a religious prohibition on images, a word nobody at the receiving end could read, and a carver who had never seen the animal. And the derivation is unusually strong: nobody disputes that the bishop is the elephant piece, because the piece's name, move and square are continuous the whole way.",
+  "gate": {
+    "morph": "Three continuous morphs plus one deliberate non-morph. Elephant tusks -> the two nubs of the abstract alfil -> the two halves of a bishop's cleft mitre. Chariot basket -> the rook block with its V cut -> a crenellated tower. Vizier -> queen. And horse -> knight, which does not morph at all, on purpose.",
+    "topology": "Every mark is one closed anchor ring built with mirrorRing(), indexed clockwise from an apex on the axis, so corresponding runs travel the same way round on both sides of every morph. The bishop chain is 26 anchors, the rook chain 28, the queen chain 24. The rook's four merlons are not a part-count change: anchors 2..7 already exist, lying flat along the top edge of the block, and separate into battlements on the way to the tower — episode 3's trick of drawing the source so its part count already matches. The elephant itself is NOT in the bishop's ring: the animal is a line drawing and only the tusks travel, which is the honest account of what the carver kept.",
+    "shapesDiffer": "A profile elephant with a rider and a hanging trunk against a mitre on a baluster stem is about as far apart as two shapes in this set have been. Chariot to tower likewise. The one pair that does not differ is the horse and the knight, and that shot exists precisely to say so: it is the piece nobody had to guess at, and the two shapes sitting there being the same shape is the point.",
+    "notAMorph": "The queen shot's argument is the move, not the outline, so the weight is on the board beside the piece: four dashed steps to the adjacent diagonals, then eight rays to the edges of the board."
+  },
+  "scholarship": {
+    "verdict": "Sound, and unusually clean. This is not one of the cases where a popular origin story competes with a scholarly one; the bishop-is-the-elephant lineage is the standard account in every reference from Murray (1913) onward, because the piece's name, move and starting square are continuous from chaturanga to now.",
+    "claims": [
+      "Chess begins as chaturanga, 'four limbs', a picture of an army in four arms: infantry, cavalry, chariotry, elephants. Each modern piece descends from one of them.",
+      "The bishop's ancestor is the elephant. Sanskrit gaja/hasti -> Persian pil -> Arabic al-fil -> Spanish alfil, Italian alfiere. Russian still calls the piece slon, 'elephant'. Wikipedia, Bishop (chess): 'The bishop's predecessor in medieval chess, shatranj, was the alfil, meaning elephant, which could leap two squares along any diagonal.'",
+      "The abstraction is physical and dated, not inferred. The earliest abstract chessmen are twelve ivory pieces excavated by the Metropolitan Museum at Nishapur in eastern Iran in the 1930s-40s, from a house datable to the early ninth century and probably made at the end of the eighth. In that set the alfil is a block with paired protrusions standing for the elephant's tusks; the rook is a rectangular block with a V-shaped wedge cut in the top; the knight is a stylised horse; the pawns are faceted with knobs on top. Islamic chess sets of this kind avoided depicting living creatures.",
+      "The rook is a chariot. Sanskrit ratha, Persian rukh — the English word rook descends from rukhkh via Old French roc, and it still means chariot. Most of Europe replaced the word with its own for tower (torre, la tour, der Turm); English kept the Persian word and reads it as a castle.",
+      "The queen's ancestor is the ferz / farzin, the king's counsellor or vizier, which moved one square diagonally and was the weakest piece on the board. Europe renamed it queen and, in late-fifteenth-century Spain and Italy, gave it the combined moves of rook and bishop. The Valencian poem Scachs d'amor (c. 1475) is the earliest record of the modern queen; contemporaries called the new game scacchi de la donna, mad queen's chess. Marilyn Yalom, Birth of the Chess Queen, is the standard treatment."
+    ],
+    "deliberatelyNotClaimed": [
+      "That the two points on top of the block CAUSED the English name 'bishop'. This is the version told everywhere, and it is not established — the Lewis chessmen (c. 1150-1200) already show bishops as figures in ecclesiastical dress, so the ecclesiastical reading may well predate the mitre-shaped piece rather than follow from it. The film therefore never asserts causation. It says only what is documented: nobody in Europe knew the word or the animal, so every country guessed, and here is what each of them guessed. That reframing is better than the causal claim would have been, because the list of guesses (bishop, fou, Läufer, alfiere, slon) is itself the evidence that the shape crossed intact while the meaning did not.",
+      "That the tower's battlements descend from the chariot's V-notch. The film shows the notch squaring off into the middle gap of the battlement, which is a picture of a re-reading, and the narration frames it as exactly that: 'a notch in a block, to an Italian carver, is a wall you can shoot over.' The claim is about what someone saw, not about a documented lineage of crenellations.",
+      "The 'shah mat = the king is dead' gloss, which is a mistranslation (mat is 'helpless / defeated', not 'dead'). The king is not in the film at all except as a piece on the board.",
+      "Any causal story linking the queen's new powers to Isabella I. Yalom raises it; the film says only that Europe had queens where the Arab world had viziers, and that somebody in Valencia then decided a queen should not be the weakest piece on the board."
+    ],
+    "sources": [
+      "H. J. R. Murray, A History of Chess (1913) — still the standard reference for the piece lineages",
+      "Metropolitan Museum of Art, Nishapur chess pieces (acquired 1940; excavated 1930s-40s) — the physical evidence for the abstract forms",
+      "Marilyn Yalom, Birth of the Chess Queen (2004)",
+      "Scachs d'amor, Valencia, c. 1475",
+      "Wikipedia: Bishop (chess), Rook (chess), Alfil, Shatranj, Scachs d'amor — used as an index into the above, not as the authority"
+    ]
+  },
+  "pipeline": {
+    "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps; one shot re-aligned incrementally with `align.py s09.rook`",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 182s bed, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 5253 frames in 47s (~116 fps sustained)",
+    "loudness": "-13.9 LUFS integrated, LRA 3.3, true peak under -1.5 dBTP"
+  },
+  "musicPrompt": "Sparse solo vibraphone with long decay, played very slowly, wide spacing between notes, low unhurried cello drone underneath, no melodic hook, no percussion, instrumental only, patient and thoughtful, room for a speaking voice",
+  "runtimeBudget": {
+    "predicted": "385 words / 15 shots. The skill's stated formula (words / 2.2) predicted 188s, which would have failed the cap. Measured rates from episodes 1-4 are 2.26 to 2.58 words/second, so the honest prediction was 159-184s.",
+    "actual": "164.8s of narration + 0.9 head + 14 x 0.52 gap + 1.5 tail = 175.08s. Effective rate 2.34 words/second.",
+    "note": "The formula in the skill is miscalibrated — see libraryAdditions."
+  },
+  "qa": {
+    "method": "Whisper transcript of every shot diffed against the script before a line of scene.mjs was written, then a second transcript of the final mixed.wav diffed against the whole script",
+    "result": "clean after one fix; the remaining diffs are Whisper's own normalisations",
+    "defectsFound": [
+      "s09: 'rook' was transcribed as 'brook'. It is the load-bearing word of the shot — the whole point is that English kept the Persian word — and it occurs exactly once in the film, so the set's usual test (is the same word right in other shots?) was unavailable. Applied the single-occurrence test from the skill instead: add an explicit pronunciation note to `direction`, re-synthesise that one line, re-align that one shot. The transcript changed to 'rook', which proves it was a real defect and that it is fixed."
+    ],
+    "fix": "direction gained 'Say the word rook clearly and separately, rhyming with book, with a crisp r at the start of it.' Content addressing meant one TTS call; `align.py s09.rook` meant one Whisper pass merged into the existing timing.json rather than a full re-transcription.",
+    "residualArtifacts": [
+      "'fourteen hundred' -> '1,400' and 'five hundred' -> '500' (numeral normalisation)",
+      "'counsellor' -> 'counselor' (US spelling)",
+      "s11: three full stops heard as commas in the per-shot pass. The mux pass transcribed the same audio with the full stops correct, which settles it as a Whisper punctuation artifact rather than a run-on delivery",
+      "s03: 'pil' -> 'peel' and 'al fil' -> 'all feel'. These are not misreadings, they are Whisper spelling non-English words phonetically, and they match the pronunciation the `direction` asked for exactly. Note that this means beat() cues in that shot have to use the HEARD forms: beat(S.eleph, 'peel'), not 'pil'."
+    ],
+    "muxPass": "Word for word identical to the script across all fifteen shots. Nothing dropped, no duplicated item, both spoken lists complete. The only diffs are the numeral normalisations, the two phonetic spellings of pil and al fil, and counsellor -> counselor.",
+    "note": "No spoken lists of single letters, per the set rule from episode 2. The two four- and five-item spoken lists (the four arms of the army in s02, the five pieces in s14) both survived intact in the transcript, which is the first time this set has risked a spoken list of that length; the screen carries them as well. Each foreign word gets its own sentence before any English word, per the set rule from episode 3, and no accent carried forward."
+  },
+  "craft": {
+    "morphs": [
+      "elephant -> alfil -> bishop. The animal is a line drawing and is not in the ring. What a carver working under an image prohibition kept was the tusks, so the tusks are two four-anchor strokes that morph into the two nubs on top of the abstract block WHILE the group travels across the page to where the block will stand — the elephant steps aside on the same beat, in the opposite direction. Only then does the block flood in beneath them. Block -> bishop is then a true 26-anchor morph: the nubs rise and close, the 28-wide gap between them narrows into the 12-wide slit every bishop still has cut into its hat, and the squat sides pull in into a collar and a stem. Tension runs 0.45 -> 0.95 across the morph, because a carved block has corners and a turned piece does not.",
+      "chariot -> rook block -> tower. One 28-anchor ring walked through three states with along(). The wheel, pole and yoke are a separate group and they simply do not come. Anchors 2..7 lie flat along the top of the block and separate into four merlons on the way to the tower, so nothing splits; the V the carver cut stays where it is and becomes the middle gap in the battlement. Tension falls 0.85 -> 0.3: a basket is round, masonry is not.",
+      "vizier -> queen. A 24-anchor morph, but the shot's argument is on the board beside it, not in the outline.",
+      "horse -> knight. Deliberately not a morph, and the only reason that shot works."
+    ],
+    "device": "Source is a drawing, mark is a carved object. Every source — soldier, horse, chariot, elephant, vizier — is ink() outline only; every piece is ink() then flood(). The same horse ring is used both ways, which is why lib needed a horse() that knows which it is being: the mane line has to be ink on the drawing and paper showing through on the silhouette.",
+    "compositionFix": "The big one, and it happened twice before it was caught. Fading a source to zero after its mark arrives leaves six seconds of near-empty page — once it was two floating tusks and a red caption, once a bare tower. Craft §7 says ghost the source back; the working version is stronger than that: the source never leaves at all, it thins to about a quarter and stays where it is, and the dashed tie is the only thing that arrives. Same rule for both threads. The other fix was the elephant holding the middle of the page while it is alone on it and only settling left when the block turns up, which is twoColumn's instinct applied by hand because these pages are not two columns.",
+    "turn": "Shot 11. 'The pieces crossed intact. The meanings did not.' The three marks the film has already built go down in a row with what each one still IS written in green underneath, and then a red line is drawn through every one of those words. The board rules itself in beside them while the voice is still on the sentence before.",
+    "rhyme": "s05, thrown away in one sentence: 'The same rule emptied the faces off a deck of playing cards.' A real payoff for anyone who saw episode 3 — cards and chess came west along the same road and lost their pictures to the same prohibition — and merely a nice fact for anyone who did not. A faint blank card sits in the corner of the page for that shot and is gone by the next one."
+  },
+  "libraryAdditions": [
+    "lib/scene-kit.mjs — morph() now forwards its options to smooth(). As shipped it could not produce a closed morph at all, which made it unusable for anything shaped like an object rather than a stroke. Every mark in this episode is a closed ring.",
+    "lib/scene-kit.mjs — smooth() gained `tension`. Episode 4 needed it and kept a private copy for exactly this reason; the promoted version had dropped it, so anything carved, ruled or printed ballooned at its corners. The rook's battlements are unreadable at tension 1.",
+    "lib/scene-kit.mjs — blend(), which is morph() without the smoothing, so a caller that needs the lerped anchors (to place a marker, to walk a chain) does not have to re-implement the lerp.",
+    "lib/scene-kit.mjs — along(states, x, opts), promoted from episode 4's private copy. A derivation with a documented intermediate is one mark in three states, not two morphs bolted together, and this set keeps producing them.",
+    "lib/scene-kit.mjs — mirrorRing(top, right, bottom). Almost everything this set draws is symmetric about a vertical axis, and typing both halves by hand drifts by a pixel or two on every edit. It also guarantees the mirrored indices line up, which is half of the direction-of-travel rule morph() cannot check for you."
+  ],
+  "publish": {
+    "youtube": {
+      "title": "The bishop is an elephant",
+      "description": "Chess begins in India as a picture of an army: foot soldiers, horses, chariots and elephants. Every piece on the board is still one of those four.\n\nThe elephant was carved as an elephant, with a rider on its back. In Persian the word is pil; the Arabs made that al fil. Then the game crossed into lands where nobody carved living things, so a carver made the elephant without making an elephant — he kept the tusks and dropped the rest. What arrived in Europe was a block of ivory with two points on top, and nobody there knew the word or the animal.\n\nSo every country guessed. England guessed a bishop's hat. France guessed a jester's cap and calls the piece the fool to this day. Russia never had to guess: it has called it the elephant the whole time.\n\nThe chariot went the same way, and most of Europe put a castle on the board. England did not — it kept the Persian word for a chariot, and that word is rook. The only people who still say it think it means a castle.\n\nThe pieces crossed intact. The meanings did not. And one wrong guess changed the game itself: the square beside the king never held a queen, it held the king's counsellor, who moved one square diagonally and was the weakest thing on the board for five hundred years. Europe had no viziers. Europe had queens.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chess",
+        "chess pieces",
+        "history of chess",
+        "chaturanga",
+        "shatranj",
+        "etymology",
+        "bishop",
+        "rook",
+        "chess queen",
+        "animation"
+      ]
+    },
+    "tiktok": {
+      "caption": "The bishop is an elephant. The rook is a chariot. The queen is a mistranslated civil servant.",
+      "hook": "First 3 seconds: the back rank draws itself and one piece lifts out of it — over the line 'there is an elephant on your chessboard'."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "timing": "timing.json",
+    "music": "music.wav",
+    "narration": "narration.wav",
+    "mixed": "mixed.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep05-chess-pieces"
+}

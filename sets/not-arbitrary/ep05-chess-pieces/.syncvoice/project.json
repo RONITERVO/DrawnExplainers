@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep05",
+    "name": "Not Arbitrary 05 — The Bishop Is an Elephant",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.open",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "There is an elephant on your chessboard. It has been there fourteen hundred years, and you call it a bishop.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, opening a story. Land the last clause flat and plainly — it is the hook, not a joke."
+    },
+    {
+      "externalId": "s02.army",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "Chess begins in India, as a picture of an army. Foot soldiers, horses, chariots and elephants. Every piece is one of those four.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Conversational, as if sketching while speaking. Give each item of the four-item list its own small space so none of them runs into the next."
+    },
+    {
+      "externalId": "s03.elephant",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "The elephant was carved as an elephant, with a rider on its back. In Persian the word is pil. The Arabs made that al fil.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact. Say pil as peel and al fil as al-feel, plainly, each finished before the next sentence begins. Do not carry any foreign colour into the English around them."
+    },
+    {
+      "externalId": "s04.abstract",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "Then the game crossed into lands where nobody carved living things. So a carver made the elephant without making an elephant. He kept the tusks and dropped the rest.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Slower, laying the cause down one step at a time. The last sentence is the whole mechanism — let it land."
+    },
+    {
+      "externalId": "s05.block",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "A block of ivory with two points on top. The same rule emptied the faces off a deck of playing cards.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Dry and flat on the first sentence. The second is an aside, thrown away lightly."
+    },
+    {
+      "externalId": "s06.europe",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "Then it reaches Europe, where nobody knows the word or the animal. So every country guesses. England sees a bishop's hat. France sees a jester's cap and calls it the fool.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Brisker — this one moves. A small beat between each country's guess."
+    },
+    {
+      "externalId": "s07.reveal",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "Russia never had to guess. It has called that piece the elephant the whole time.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet satisfaction. Short. Let the last phrase rest."
+    },
+    {
+      "externalId": "s08.chariot",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "The chariot went the same way. Everything gone but a notch in a block. And a notch in a block, to an Italian carver, is a wall you can shoot over.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Moving, slightly amused. The repeated phrase notch in a block is deliberate — do not rush past it the second time."
+    },
+    {
+      "externalId": "s09.rook",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "So Europe put a castle on the board. England did not. It kept the Persian word for a chariot, and that word is rook. The only people who still say it think it means a castle.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Set the short sentences down cleanly with a pause after each, then open out on the last one. Say the word rook clearly and separately, rhyming with book, with a crisp r at the start of it."
+    },
+    {
+      "externalId": "s10.horse",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "One piece never changed. A horse is a horse in every language around the board, so nobody had to guess.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light and quick. Almost a shrug."
+    },
+    {
+      "externalId": "s11.turn",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "The pieces crossed intact. The meanings did not. And one guess changed the game. The square beside the king never held a queen. It held the king's counsellor.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A turn. First two sentences flat and short, a pause, then the last two as a small provocation."
+    },
+    {
+      "externalId": "s12.vizier",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "He moved one square diagonally and nothing else. He was the weakest thing on the board for five hundred years. Europe had no viziers. Europe had queens.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Deliberate and dry. The final two sentences are the pivot of the film — even weight on both, no wink."
+    },
+    {
+      "externalId": "s13.queen",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "So they called her a queen. And in Valencia somebody decided a queen should not be the weakest piece on the board. They gave her the chariot's line and the elephant's line.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Building, with real relish on the last sentence. Say Valencia the English way."
+    },
+    {
+      "externalId": "s14.recap",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "Nothing on that board was designed. There is a foot soldier, a horse, a chariot, an elephant, and a civil servant wearing a crown.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Slower, laying each item of the list down separately with a clear space between them."
+    },
+    {
+      "externalId": "s15.close",
+      "scene": "chess-pieces",
+      "speaker": "Narrator",
+      "text": "You were never moving symbols. You were moving an army, out of a kingdom that fell before any of this was written down.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm close, slowing into the final line. Keep it simple and unhurried."
+    }
+  ]
+}

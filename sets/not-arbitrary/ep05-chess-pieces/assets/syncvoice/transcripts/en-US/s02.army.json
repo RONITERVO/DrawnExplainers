@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s02.army",
+  "text": "Chess begins in India, as a picture of an army. Foot soldiers, horses, chariots and elephants. Every piece is one of those four.",
+  "durationMs": 11720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 1160,
+      "startChar": 13,
+      "endChar": 16
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1360,
+      "startChar": 16,
+      "endChar": 23
+    },
+    {
+      "startMs": 1360,
+      "endMs": 1960,
+      "startChar": 23,
+      "endChar": 26
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2260,
+      "startChar": 26,
+      "endChar": 28
+    },
+    {
+      "startMs": 2260,
+      "endMs": 2560,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 2560,
+      "endMs": 3120,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3220,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3220,
+      "endMs": 3320,
+      "startChar": 42,
+      "endChar": 48
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3620,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 3620,
+      "endMs": 3920,
+      "startChar": 53,
+      "endChar": 63
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4000,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 4000,
+      "endMs": 5480,
+      "startChar": 71,
+      "endChar": 80
+    },
+    {
+      "startMs": 5480,
+      "endMs": 6360,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 6360,
+      "endMs": 7800,
+      "startChar": 84,
+      "endChar": 95
+    },
+    {
+      "startMs": 7800,
+      "endMs": 8560,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 8560,
+      "endMs": 8635,
+      "startChar": 101,
+      "endChar": 107
+    },
+    {
+      "startMs": 8635,
+      "endMs": 10160,
+      "startChar": 107,
+      "endChar": 110
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10280,
+      "startChar": 110,
+      "endChar": 114
+    },
+    {
+      "startMs": 10280,
+      "endMs": 10400,
+      "startChar": 114,
+      "endChar": 117
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10720,
+      "startChar": 117,
+      "endChar": 123
+    },
+    {
+      "startMs": 10720,
+      "endMs": 11040,
+      "startChar": 123,
+      "endChar": 128
+    }
+  ]
+}

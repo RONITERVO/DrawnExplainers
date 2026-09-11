@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "externalId": "s13.queen",
+  "text": "So they called her a queen. And in Valencia somebody decided a queen should not be the weakest piece on the board. They gave her the chariot's line and the elephant's line.",
+  "durationMs": 12800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 653,
+      "startChar": 15,
+      "endChar": 19
+    },
+    {
+      "startMs": 653,
+      "endMs": 1080,
+      "startChar": 19,
+      "endChar": 21
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1320,
+      "startChar": 21,
+      "endChar": 28
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 1920,
+      "endMs": 1995,
+      "startChar": 32,
+      "endChar": 35
+    },
+    {
+      "startMs": 1995,
+      "endMs": 2520,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3360,
+      "startChar": 44,
+      "endChar": 53
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4680,
+      "startChar": 61,
+      "endChar": 63
+    },
+    {
+      "startMs": 4680,
+      "endMs": 4840,
+      "startChar": 63,
+      "endChar": 69
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5400,
+      "startChar": 69,
+      "endChar": 76
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5840,
+      "startChar": 76,
+      "endChar": 80
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6200,
+      "startChar": 80,
+      "endChar": 83
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6440,
+      "startChar": 83,
+      "endChar": 87
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6640,
+      "startChar": 87,
+      "endChar": 95
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7160,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7320,
+      "startChar": 101,
+      "endChar": 104
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7480,
+      "startChar": 104,
+      "endChar": 108
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7680,
+      "startChar": 108,
+      "endChar": 115
+    },
+    {
+      "startMs": 7680,
+      "endMs": 8160,
+      "startChar": 115,
+      "endChar": 120
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8240,
+      "startChar": 120,
+      "endChar": 125
+    },
+    {
+      "startMs": 8240,
+      "endMs": 9080,
+      "startChar": 125,
+      "endChar": 129
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9360,
+      "startChar": 129,
+      "endChar": 133
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9560,
+      "startChar": 133,
+      "endChar": 143
+    },
+    {
+      "startMs": 9560,
+      "endMs": 10240,
+      "startChar": 143,
+      "endChar": 148
+    },
+    {
+      "startMs": 10240,
+      "endMs": 10720,
+      "startChar": 148,
+      "endChar": 152
+    },
+    {
+      "startMs": 10720,
+      "endMs": 11120,
+      "startChar": 152,
+      "endChar": 156
+    },
+    {
+      "startMs": 11120,
+      "endMs": 11520,
+      "startChar": 156,
+      "endChar": 167
+    },
+    {
+      "startMs": 11520,
+      "endMs": 12160,
+      "startChar": 167,
+      "endChar": 172
+    }
+  ]
+}

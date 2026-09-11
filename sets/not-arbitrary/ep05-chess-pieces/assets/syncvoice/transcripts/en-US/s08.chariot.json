@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "externalId": "s08.chariot",
+  "text": "The chariot went the same way. Everything gone but a notch in a block. And a notch in a block, to an Italian carver, is a wall you can shoot over.",
+  "durationMs": 11800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 713,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 713,
+      "endMs": 1200,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1640,
+      "startChar": 26,
+      "endChar": 31
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2080,
+      "startChar": 31,
+      "endChar": 42
+    },
+    {
+      "startMs": 2080,
+      "endMs": 2155,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 2155,
+      "endMs": 3560,
+      "startChar": 47,
+      "endChar": 51
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3760,
+      "startChar": 51,
+      "endChar": 53
+    },
+    {
+      "startMs": 3760,
+      "endMs": 3960,
+      "startChar": 53,
+      "endChar": 59
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4213,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 4213,
+      "endMs": 4467,
+      "startChar": 62,
+      "endChar": 64
+    },
+    {
+      "startMs": 4467,
+      "endMs": 4720,
+      "startChar": 64,
+      "endChar": 71
+    },
+    {
+      "startMs": 4720,
+      "endMs": 4960,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5200,
+      "startChar": 75,
+      "endChar": 77
+    },
+    {
+      "startMs": 5200,
+      "endMs": 5440,
+      "startChar": 77,
+      "endChar": 83
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5560,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6320,
+      "startChar": 86,
+      "endChar": 88
+    },
+    {
+      "startMs": 6320,
+      "endMs": 7080,
+      "startChar": 88,
+      "endChar": 95
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7920,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 7920,
+      "endMs": 8280,
+      "startChar": 98,
+      "endChar": 101
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8440,
+      "startChar": 101,
+      "endChar": 109
+    },
+    {
+      "startMs": 8440,
+      "endMs": 9000,
+      "startChar": 109,
+      "endChar": 117
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9440,
+      "startChar": 117,
+      "endChar": 120
+    },
+    {
+      "startMs": 9440,
+      "endMs": 9515,
+      "startChar": 120,
+      "endChar": 122
+    },
+    {
+      "startMs": 9515,
+      "endMs": 9590,
+      "startChar": 122,
+      "endChar": 127
+    },
+    {
+      "startMs": 9590,
+      "endMs": 10075,
+      "startChar": 127,
+      "endChar": 131
+    },
+    {
+      "startMs": 10075,
+      "endMs": 10560,
+      "startChar": 131,
+      "endChar": 135
+    },
+    {
+      "startMs": 10560,
+      "endMs": 10880,
+      "startChar": 135,
+      "endChar": 141
+    },
+    {
+      "startMs": 10880,
+      "endMs": 11160,
+      "startChar": 141,
+      "endChar": 146
+    }
+  ]
+}

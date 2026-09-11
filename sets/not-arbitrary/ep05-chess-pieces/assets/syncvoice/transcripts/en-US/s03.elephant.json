@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s03.elephant",
+  "text": "The elephant was carved as an elephant, with a rider on its back. In Persian the word is pil. The Arabs made that al fil.",
+  "durationMs": 9920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1000,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1480,
+      "startChar": 24,
+      "endChar": 27
+    },
+    {
+      "startMs": 1480,
+      "endMs": 1880,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2040,
+      "startChar": 30,
+      "endChar": 40
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2680,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 2680,
+      "endMs": 2900,
+      "startChar": 45,
+      "endChar": 47
+    },
+    {
+      "startMs": 2900,
+      "endMs": 3120,
+      "startChar": 47,
+      "endChar": 53
+    },
+    {
+      "startMs": 3120,
+      "endMs": 3720,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3920,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4080,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4520,
+      "startChar": 66,
+      "endChar": 69
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4595,
+      "startChar": 69,
+      "endChar": 77
+    },
+    {
+      "startMs": 4595,
+      "endMs": 5158,
+      "startChar": 77,
+      "endChar": 81
+    },
+    {
+      "startMs": 5158,
+      "endMs": 5720,
+      "startChar": 81,
+      "endChar": 86
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6200,
+      "startChar": 86,
+      "endChar": 89
+    },
+    {
+      "startMs": 6200,
+      "endMs": 6640,
+      "startChar": 89,
+      "endChar": 94
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6940,
+      "startChar": 94,
+      "endChar": 98
+    },
+    {
+      "startMs": 6940,
+      "endMs": 7240,
+      "startChar": 98,
+      "endChar": 104
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8280,
+      "startChar": 104,
+      "endChar": 109
+    },
+    {
+      "startMs": 8280,
+      "endMs": 8520,
+      "startChar": 109,
+      "endChar": 114
+    },
+    {
+      "startMs": 8520,
+      "endMs": 8920,
+      "startChar": 114,
+      "endChar": 117
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9280,
+      "startChar": 117,
+      "endChar": 121
+    }
+  ]
+}

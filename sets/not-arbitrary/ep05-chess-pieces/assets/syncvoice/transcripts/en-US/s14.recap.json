@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "externalId": "s14.recap",
+  "text": "Nothing on that board was designed. There is a foot soldier, a horse, a chariot, an elephant, and a civil servant wearing a crown.",
+  "durationMs": 11800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 1000,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1240,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1720,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2040,
+      "startChar": 26,
+      "endChar": 36
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2720,
+      "startChar": 36,
+      "endChar": 42
+    },
+    {
+      "startMs": 2720,
+      "endMs": 2920,
+      "startChar": 42,
+      "endChar": 45
+    },
+    {
+      "startMs": 2920,
+      "endMs": 3360,
+      "startChar": 45,
+      "endChar": 47
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3800,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4280,
+      "startChar": 52,
+      "endChar": 61
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4580,
+      "startChar": 61,
+      "endChar": 63
+    },
+    {
+      "startMs": 4580,
+      "endMs": 4880,
+      "startChar": 63,
+      "endChar": 70
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5500,
+      "startChar": 70,
+      "endChar": 72
+    },
+    {
+      "startMs": 5500,
+      "endMs": 6120,
+      "startChar": 72,
+      "endChar": 81
+    },
+    {
+      "startMs": 6120,
+      "endMs": 7400,
+      "startChar": 81,
+      "endChar": 84
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7840,
+      "startChar": 84,
+      "endChar": 94
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8640,
+      "startChar": 94,
+      "endChar": 98
+    },
+    {
+      "startMs": 8640,
+      "endMs": 8980,
+      "startChar": 98,
+      "endChar": 100
+    },
+    {
+      "startMs": 8980,
+      "endMs": 9320,
+      "startChar": 100,
+      "endChar": 106
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9960,
+      "startChar": 106,
+      "endChar": 114
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10600,
+      "startChar": 114,
+      "endChar": 122
+    },
+    {
+      "startMs": 10600,
+      "endMs": 10800,
+      "startChar": 122,
+      "endChar": 124
+    },
+    {
+      "startMs": 10800,
+      "endMs": 11000,
+      "startChar": 124,
+      "endChar": 130
+    }
+  ]
+}

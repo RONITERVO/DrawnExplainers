@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 4 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 5 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -81,7 +81,16 @@ node lib/build.mjs <ep>
 - **Marks that morph are defined as anchors, not control points.** `smooth()`
   derives the beziers and `morph()` lerps anchor-for-anchor, refusing unequal
   counts. Equal counts are not enough: corresponding runs must also travel the
-  same direction, or the shape folds through itself mid-morph.
+  same direction, or the shape folds through itself mid-morph. `mirrorRing()`
+  builds a symmetric ring from one half, which makes that half of the rule free.
+- **Pass `{ closed: true }` to `morph()` for anything object-shaped, and drop
+  `tension` below about 0.4 for anything carved, ruled or printed.** At the
+  default a Catmull-Rom balloons at every corner; a rook's battlements are
+  unreadable until the tension comes down.
+- **Never fade a source to zero.** Thin it to about a quarter and leave it where
+  it stood. The commonest empty page in these films is the six seconds between a
+  mark landing and the narrator finishing, and the commonest cause is having
+  removed the thing the mark came from.
 - **No filters in the frame SVG.** `feTurbulence` cost more than the entire rest
   of the pipeline; the hand tremble is baked into path geometry instead, and the
   drop shadow is two offset rects. This is the difference between 1 fps and

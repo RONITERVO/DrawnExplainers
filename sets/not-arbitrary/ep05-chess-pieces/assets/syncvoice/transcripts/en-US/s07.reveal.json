@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "externalId": "s07.reveal",
+  "text": "Russia never had to guess. It has called that piece the elephant the whole time.",
+  "durationMs": 5680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 613,
+      "startChar": 17,
+      "endChar": 20
+    },
+    {
+      "startMs": 613,
+      "endMs": 1000,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 1000,
+      "endMs": 1213,
+      "startChar": 27,
+      "endChar": 30
+    },
+    {
+      "startMs": 1213,
+      "endMs": 1427,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 1427,
+      "endMs": 1640,
+      "startChar": 34,
+      "endChar": 41
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2560,
+      "startChar": 41,
+      "endChar": 46
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2800,
+      "startChar": 46,
+      "endChar": 52
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3280,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3560,
+      "startChar": 56,
+      "endChar": 65
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3900,
+      "startChar": 65,
+      "endChar": 69
+    },
+    {
+      "startMs": 3900,
+      "endMs": 4240,
+      "startChar": 69,
+      "endChar": 75
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4920,
+      "startChar": 75,
+      "endChar": 80
+    }
+  ]
+}
