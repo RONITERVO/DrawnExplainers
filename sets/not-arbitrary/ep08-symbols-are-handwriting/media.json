@@ -1,7 +1,7 @@
 {
   "slug": "ep08-symbols-are-handwriting",
   "remote": "gdrive:DrawnExplainers/ep08-symbols-are-handwriting",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "groups": {
     "audio": {
       "why": "irreplaceable - Lyria has no seed, Gemini TTS is not deterministic",
@@ -35,6 +35,58 @@
         "mixed.wav",
         "narration.wav",
         "out.mp4"
+      ]
+    },
+    "clips": {
+      "why": "regenerable: node tools/make-speech-clips-v3.mjs, then mute/derive passes",
+      "archive": "clips.tar",
+      "bytes": 56453120,
+      "sha256": "2505fd263e7f10d6e6d889725a6c4837",
+      "files": [
+        "out-clips-talking-face-v3/001__00h00m00.000-00h00m09.175__These-are-not-symbols-Every-one-of-them-is-a-word-written-out-in-full-by-somebody-in.mp4",
+        "out-clips-talking-face-v3/001__00h00m00.000-00h00m09.175__These-are-not-symbols-Every-one-of-them-is-a-word-written-out-in-full-by-somebody-in.wav",
+        "out-clips-talking-face-v3/002__00h00m09.175-00h00m16.140__until-the-letters-gave-way-Start-in-Pompeii-first-century-on-a-plastered-wall.mp4",
+        "out-clips-talking-face-v3/002__00h00m09.175-00h00m16.140__until-the-letters-gave-way-Start-in-Pompeii-first-century-on-a-plastered-wall.wav",
+        "out-clips-talking-face-v3/003__00h00m16.140-00h00m22.935__Somebody-has-scratched-up-the-Latin-word-for-and-joined-the-way-everyone-joined-it.mp4",
+        "out-clips-talking-face-v3/003__00h00m16.140-00h00m22.935__Somebody-has-scratched-up-the-Latin-word-for-and-joined-the-way-everyone-joined-it.wav",
+        "out-clips-talking-face-v3/004__00h00m22.935-00h00m30.570__A-clerk-copying-Latin-writes-that-word-more-than-any-other-so-the-pen-stops-lifting.mp4",
+        "out-clips-talking-face-v3/004__00h00m22.935-00h00m30.570__A-clerk-copying-Latin-writes-that-word-more-than-any-other-so-the-pen-stops-lifting.wav",
+        "out-clips-talking-face-v3/005__00h00m30.570-00h00m38.220__then-it-stops-leaving-them-any-room-at-all-That-is-the-word-et-still-spelled-out.mp4",
+        "out-clips-talking-face-v3/005__00h00m30.570-00h00m38.220__then-it-stops-leaving-them-any-room-at-all-That-is-the-word-et-still-spelled-out.wav",
+        "out-clips-talking-face-v3/006__00h00m38.220-00h00m45.355__and-you-have-read-it-all-your-life-900-years-on-a-monk-marks-where-a-chapter-begins.mp4",
+        "out-clips-talking-face-v3/006__00h00m38.220-00h00m45.355__and-you-have-read-it-all-your-life-900-years-on-a-monk-marks-where-a-chapter-begins.wav",
+        "out-clips-talking-face-v3/007__00h00m45.355-00h00m53.675__The-Latin-for-chapter-is-capitulum-He-writes-its-first-letter-and-rules-a-line-down.mp4",
+        "out-clips-talking-face-v3/007__00h00m45.355-00h00m53.675__The-Latin-for-chapter-is-capitulum-He-writes-its-first-letter-and-rules-a-line-down.wav",
+        "out-clips-talking-face-v3/008__00h00m53.675-00h01m02.320__Then-the-man-with-the-red-ink-comes-through-and-fills-the-bowl-in-The-letter-closes.mp4",
+        "out-clips-talking-face-v3/008__00h00m53.675-00h01m02.320__Then-the-man-with-the-red-ink-comes-through-and-fills-the-bowl-in-The-letter-closes.wav",
+        "out-clips-talking-face-v3/009__00h01m02.320-00h01m09.380__Florence-two-centuries-on-in-a-merchant-s-ledger-Interest-is-reckoned-by-the-hundred.mp4",
+        "out-clips-talking-face-v3/009__00h01m02.320-00h01m09.380__Florence-two-centuries-on-in-a-merchant-s-ledger-Interest-is-reckoned-by-the-hundred.wav",
+        "out-clips-talking-face-v3/010__00h01m09.380-00h01m16.480__The-Italian-for-that-is-per-cento-Far-too-long-to-keep-writing-The-letter-was-droppe.mp4",
+        "out-clips-talking-face-v3/010__00h01m09.380-00h01m16.480__The-Italian-for-that-is-per-cento-Far-too-long-to-keep-writing-The-letter-was-droppe.wav",
+        "out-clips-talking-face-v3/011__00h01m16.480-00h01m23.835__The-line-ruled-through-it-stayed-and-kept-its-job-A-line-in-a-fraction-is-still-read.mp4",
+        "out-clips-talking-face-v3/011__00h01m16.480-00h01m23.835__The-line-ruled-through-it-stayed-and-kept-its-job-A-line-in-a-fraction-is-still-read.wav",
+        "out-clips-talking-face-v3/012__00h01m23.835-00h01m31.085__even-now-Those-three-have-to-be-reconstructed-out-of-scraps-across-centuries.mp4",
+        "out-clips-talking-face-v3/012__00h01m23.835-00h01m31.085__even-now-Those-three-have-to-be-reconstructed-out-of-scraps-across-centuries.wav",
+        "out-clips-talking-face-v3/013__00h01m31.085-00h01m38.170__The-fourth-happened-late-enough-to-be-watched-on-a-dated-page-in-a-named-man-s-hand.mp4",
+        "out-clips-talking-face-v3/013__00h01m31.085-00h01m38.170__The-fourth-happened-late-enough-to-be-watched-on-a-dated-page-in-a-named-man-s-hand.wav",
+        "out-clips-talking-face-v3/014__00h01m38.170-00h01m44.650__Spanish-America-ran-on-a-coin-called-the-peso-Clerks-abbreviated-the-plural.mp4",
+        "out-clips-talking-face-v3/014__00h01m38.170-00h01m44.650__Spanish-America-ran-on-a-coin-called-the-peso-Clerks-abbreviated-the-plural.wav",
+        "out-clips-talking-face-v3/015__00h01m44.650-00h01m52.245__raising-the-second-letter-above-the-first-a-few-thousand-times-a-week-In-1778.mp4",
+        "out-clips-talking-face-v3/015__00h01m44.650-00h01m52.245__raising-the-second-letter-above-the-first-a-few-thousand-times-a-week-In-1778.wav",
+        "out-clips-talking-face-v3/016__00h01m52.245-00h01m59.775__a-merchant-named-Oliver-Pollock-sent-the-same-letter-out-twice-One-copy-still-carrie.mp4",
+        "out-clips-talking-face-v3/016__00h01m52.245-00h01m59.775__a-merchant-named-Oliver-Pollock-sent-the-same-letter-out-twice-One-copy-still-carrie.wav",
+        "out-clips-talking-face-v3/017__00h01m59.775-00h02m07.275__The-other-copy-carries-this-You-were-probably-told-it-is-the-initials-of-the-United.mp4",
+        "out-clips-talking-face-v3/017__00h01m59.775-00h02m07.275__The-other-copy-carries-this-You-were-probably-told-it-is-the-initials-of-the-United.wav",
+        "out-clips-talking-face-v3/018__00h02m07.275-00h02m15.570__one-letter-laid-over-the-other-Florian-Cajori-read-through-thousands-of-these-pages.mp4",
+        "out-clips-talking-face-v3/018__00h02m07.275-00h02m15.570__one-letter-laid-over-the-other-Florian-Cajori-read-through-thousands-of-these-pages.wav",
+        "out-clips-talking-face-v3/019__00h02m15.570-00h02m23.315__The-mark-was-already-in-use-for-a-Spanish-coin-Four-trades-17-centuries-apart.mp4",
+        "out-clips-talking-face-v3/019__00h02m15.570-00h02m23.315__The-mark-was-already-in-use-for-a-Spanish-coin-Four-trades-17-centuries-apart.wav",
+        "out-clips-talking-face-v3/020__00h02m23.315-00h02m31.650__and-not-one-of-these-was-designed-by-anybody-Each-is-a-word-that-somebody-stopped-bo.mp4",
+        "out-clips-talking-face-v3/020__00h02m23.315-00h02m31.650__and-not-one-of-these-was-designed-by-anybody-Each-is-a-word-that-somebody-stopped-bo.wav",
+        "out-clips-talking-face-v3/021__00h02m31.650-00h02m38.080__You-have-been-writing-Latin-all-along-You-just-stopped-pronouncing-it.mp4",
+        "out-clips-talking-face-v3/021__00h02m31.650-00h02m38.080__You-have-been-writing-Latin-all-along-You-just-stopped-pronouncing-it.wav",
+        "out-clips-talking-face-v3/clip-index.csv",
+        "out-clips-talking-face-v3/clip-index.json"
       ]
     }
   }

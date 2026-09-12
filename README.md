@@ -61,6 +61,32 @@ node tools/media-sync.mjs pull sets/not-arbitrary/ep01-chinese-characters
 `pull` fetches the archives named in `media.json`, checks each against the
 SHA-256 recorded at upload, and refuses to extract anything that does not match.
 
+### The media store
+
+`gdrive:DrawnExplainers` on Google Drive, reached through
+[rclone](https://rclone.org/drive/). `media.json` records the remote path, so
+moving the store means pointing `MEDIA_REMOTE` somewhere else rather than
+editing the manifests. Set `RCLONE` if the binary is not where
+`tools/media-sync.mjs` expects it.
+
+```bash
+rclone config          # n) new remote, name it gdrive, type drive
+```
+
+Two things to get right at that prompt:
+
+- **Scope `drive.file`**, not full `drive`. It grants access only to files
+  rclone itself created, so a bug here cannot touch the rest of the account.
+  Everything the store holds was uploaded by rclone, so nothing is lost by it.
+- **Your own `client_id`**, not the blank default. rclone's shared client is
+  [being retired and stops working during 2026](https://rclone.org/drive/#making-your-own-client-id)
+  — every push already prints that warning. Making one is a few minutes in
+  Google Cloud Console and it also removes the shared client's rate limiting.
+
+Archives are per group, not per file. Drive charges an API round trip per file
+and an episode is several hundred of them; at ten videos a week that is the
+difference between a sync of seconds and one of hours.
+
 You do not need the media to work on a film. `scene.mjs`, the script, the
 Whisper timings and `lib/` are all here, so the scene renders as soon as the
 `audio` group is pulled; `out.mp4` and everything downstream of it rebuilds
