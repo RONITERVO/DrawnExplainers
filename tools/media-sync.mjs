@@ -42,9 +42,17 @@ const sh = (args, opts = {}) => execFileSync(RCLONE, args, { encoding: 'utf8', .
 const sha = f => createHash('sha256').update(readFileSync(f)).digest('hex').slice(0, 32);
 const mb = b => (b / 1024 / 1024).toFixed(1);
 
+// Transient by nature: rewritten every run, meaningless to restore, and if they
+// are counted they leave every episode permanently showing "not backed up",
+// which trains you to ignore the one message that matters.
+const TRANSIENT = f => f.startsWith('.media-tmp/') || f.endsWith('.syncvoice/generation-state.json')
+  || f.startsWith('preview/');
+
 function listLocal(epDir) {
   const out = execSync('git ls-files --others --ignored --exclude-standard', { cwd: epDir, encoding: 'utf8' });
-  return out.split('\n').map(s => s.trim()).filter(Boolean).filter(f => existsSync(join(epDir, f)));
+  return out.split('\n').map(s => s.trim()).filter(Boolean)
+    .filter(f => !TRANSIENT(f))
+    .filter(f => existsSync(join(epDir, f)));
 }
 
 function push(epDir) {
@@ -105,18 +113,43 @@ function pull(epDir) {
   rmSync(tmp, { recursive: true, force: true });
 }
 
+/**
+ * Both directions matter, and they mean opposite things.
+ *
+ * Listed but absent is a clone that has not pulled yet — harmless, fixable.
+ * Present but unlisted is media that exists only on this disk and is in no
+ * backup. While episodes are still being generated that is the normal state
+ * after every run, and it is the one worth shouting about.
+ */
 function check(epDir) {
   const slug = basename(epDir);
   const mPath = join(epDir, 'media.json');
-  if (!existsSync(mPath)) { console.log(`${slug}: no media.json`); return; }
-  const manifest = JSON.parse(readFileSync(mPath, 'utf8'));
-  let missing = 0;
-  for (const g of Object.values(manifest.groups)) {
-    for (const f of g.files) if (!existsSync(join(epDir, f))) missing += 1;
+  const onDisk = listLocal(epDir);
+  if (!existsSync(mPath)) {
+    console.log(onDisk.length
+      ? `${slug}: NO MANIFEST and ${onDisk.length} media file(s) on disk — nothing is backed up. push it.`
+      : `${slug}: no media, no manifest`);
+    return;
   }
-  console.log(missing
-    ? `${slug}: ${missing} file(s) listed in media.json are not on disk — node tools/media-sync.mjs pull ${epDir}`
-    : `${slug}: all ${Object.values(manifest.groups).reduce((a, g) => a + g.files.length, 0)} listed files present`);
+  const manifest = JSON.parse(readFileSync(mPath, 'utf8'));
+  const listed = new Set(Object.values(manifest.groups).flatMap(g => g.files));
+  const missing = [...listed].filter(f => !existsSync(join(epDir, f)));
+  const unlisted = onDisk.filter(f => !listed.has(f));
+
+  if (!missing.length && !unlisted.length) {
+    console.log(`${slug}: ${listed.size} files, all present and all backed up (pushed ${manifest.updated})`);
+    return;
+  }
+  if (unlisted.length) {
+    console.log(`${slug}: ${unlisted.length} file(s) on disk are in NO archive — not backed up:`);
+    for (const f of unlisted.slice(0, 3)) console.log(`    ${f}`);
+    if (unlisted.length > 3) console.log(`    ... and ${unlisted.length - 3} more`);
+    console.log(`    fix: node tools/media-sync.mjs push ${epDir}`);
+  }
+  if (missing.length) {
+    console.log(`${slug}: ${missing.length} file(s) listed in media.json are not on disk`);
+    console.log(`    fix: node tools/media-sync.mjs pull ${epDir}`);
+  }
 }
 
 const [cmd, target] = process.argv.slice(2);

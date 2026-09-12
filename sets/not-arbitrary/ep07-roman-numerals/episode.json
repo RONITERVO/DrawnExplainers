@@ -6,14 +6,12 @@
   "thesis": "I is a notch, X is a notch cut clean across, and every symbol for a half-decade is literally the other one cut in half. The Latin letters arrived centuries later, by graphic accident, and the words centum and mille explain nothing.",
   "runtimeSeconds": 156.52,
   "renderedAt": "2026-09-11",
-  "status": "rendered",
-
+  "status": "published",
   "author": {
     "model": "Claude Opus 5",
     "session": "https://claude.ai/code/session_01SbF1fEuAzNHgDSLM8cL2Qp",
     "note": "Written directly rather than by a subagent, following the drawn-explainer skill as published."
   },
-
   "sourcing": {
     "primary": "Paul T. Keyser, 'The Origin of the Latin Numerals 1 to 1000', American Journal of Archaeology 92 (1988) 529-546. Peer-reviewed. It reviews five competing accounts - Priscian's, Mommsen's 1850 Greek-letter derivation, the tally-mark theory (attested from 1546), the pictographic theories (from 1655), and the acrophonic theories - and argues for the Latin numerals being Etruscan tally-mark numerals, with the symbols for 5, 50 and 500 formed by halving the symbol for the decade above.",
     "whyThisIsNotFolkEtymology": "The film's load-bearing claims are the ones with the strongest evidence, and the popular account is the one Keyser's review rejects rather than the one the film repeats. Two independent kinds of support: (1) the halving principle is directly attested for 500/1000, because the Romans wrote 1000 as CIƆ and 500 as IƆ - the right-hand half of the same sign - alongside 10000 as CCIƆƆ and 5000 as IƆƆ. That is notation we can read, not a resemblance somebody noticed later. (2) The letterforms are documented as arriving afterwards: the 50 sign was ↆ, had flattened to ⊥ by the time of Augustus, and only then 'became identified with the graphically similar letter L'; the 100 sign was 𐌟 or Ↄ, and C won out because it matched a Latin letter; the 1000 sign was a circled X, identified with Φ, which became ↀ and then M 'under the influence of' mille. Every step there is a shape history, with the word attaching at the end.",
@@ -25,14 +23,12 @@
       "Any dating or attribution for the tally stick beyond 'a shepherd and a stick'. The ethnographic continuity (Italian and Dalmatian shepherds cutting the same tallies into the 19th century) is real but is corroboration, not evidence of origin, so it carries no weight in the film."
     ]
   },
-
   "gates": {
     "drawable": "Four morphs, all continuous: a crossed notch halved into V; an Etruscan star halved, flattened and slid into L; C I Ɔ closed into a ring and opened into M; the same ring cut down the middle into D.",
     "trueNotFolk": "See sourcing. The scholarly account and the popular account point in opposite directions here, and the film takes the scholarly one.",
     "genuinelyDifferentShapes": "Six-spoke asterisk to L, and a ring with a bar to M, are the two largest shape changes the set has attempted. No shot is a tidy-up. There is no deliberate non-morph in this episode - episode 6 already spent that card.",
     "topology": "Every mark holds a fixed part count and a fixed anchor count in every state. The two arcs of the thousand are the same generator mirrored, so the right cannot drift from the left, and both are indexed counter-clockwise on screen in all three states - the C runs 300->60 degrees and the ring half runs 270->90, both decreasing. The halving morphs are two-anchor strokes that hold one end and walk the other to the crossing point, which makes reversal impossible."
   },
-
   "pipeline": {
     "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
     "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
@@ -40,9 +36,7 @@
     "render": "resvg + 24 worker threads -> libx264, 4696 frames in 42s (48s wall including the audio mux)",
     "loudness": "-13.8 LUFS integrated, LRA 4.4"
   },
-
   "musicPrompt": "Sparse solo marimba, soft mallets on wood, played very slowly with wide space between the notes and no repeating melody. A low bowed viola holding long quiet tones underneath. Faint dry room tone, like a workshop. Curious and patient, a little ancient, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
-
   "qa": {
     "method": "Whisper transcript per shot diffed against the script, before any drawing",
     "result": "clean; 367 script words, 367 heard, the only remaining differences being transcription artifacts - 'a hundred' and 'fifty' normalised to '100' and '50' in s06, and 'centum' written phonetically as 'kentum' in s12, which is the classical pronunciation the direction asked for",
@@ -52,14 +46,12 @@
     ],
     "fix": "s05 was rewritten to 'Cutting a sign in half is not a trick played once', which removes the homophone instead of trying to pronounce around it. s09 was settled with the single-occurrence test - a pronunciation note into `direction`, re-synthesise, re-align that one shot. The transcript changed, which confirms it was a real defect and that the fix took. Two TTS calls, two shot re-alignments; the other twelve shots were never re-transcribed."
   },
-
   "notes": {
     "budget": "364 words over 14 shots estimated 160.8s with a 148-174s band. A first draft of 373 words estimated 164.6s with an upper band of 178, which is too close to the 180 cap to risk, and was trimmed before any TTS call was spent. Actual came in at 156.5s; Kore ran at 2.54 words/second, near the fast end of its measured range.",
     "craft7": "Every stage keeps its source on the page at low opacity with a dashed tie to the mark it became. Nothing in this film fades to zero except the half of the thousand that is deliberately cut away, which is the one shot where removal is the argument.",
     "rhyme": "A single grey line in s12 - 'our letters went the other way' - pays off for anyone who saw episode 2, where pictures became letters, and reads as a passing aside for anyone who did not.",
     "newInLib": "detach() was added to lib/scene-kit.mjs for this episode. See toolchainFeedback."
   },
-
   "toolchainFeedback": {
     "travel": "Fitted three of the five reveal stages exactly as advertised and needed no help: the X halved into V, the star pressed into L, and the ring cut into D. Two places it fought the subject. (1) It assumes the source is a free-standing object that owns the page centre and makes room by sliding sideways. Shot 4's source is a notch *inside* a stick - it starts at the parent's scale, it cannot leave its parent, and it has to travel diagonally to a different line. That is what detach() in lib/ now does. (2) Its trajectory, lerp(lerp(alone, from, e), to, e), keeps the copy near the source through the first half of the move. With a source 540px wide (C I Ɔ) the ghost and its own travelling copy overlapped at e=0.5 and the page read as a pile-up. Widening from/to for that one stage fixed it, but a wide source needs the spread chosen deliberately rather than taking HOME and AWAY as constants. It also has no scale parameter, so a mark large enough to hold the page alone is the same size once a second thing arrives beside it.",
     "detach": "New in lib/scene-kit.mjs. A detail lifted out of a larger drawing: the copy grows from source scale to page scale, travels diagonally, and the whole parent thins where it stands with a dashed tie following the copy. Generally useful - a pip on a card, a capital on a column - so it went into lib/ rather than staying here.",
@@ -67,27 +59,59 @@
     "alignSubset": "align.py <shot-ids> re-aligned two shots in about twenty seconds instead of re-transcribing the whole film. It is what made the single-occurrence pronunciation test cheap enough to be routine.",
     "budgetFormula": "Accurate and worth trusting. The estimate said 160.8s and the film came in at 156.5s, 2.7% low. Its real value was killing the 373-word draft before it cost fourteen TTS calls."
   },
-
   "publish": {
     "youtube": {
       "title": "Roman numerals are not letters. They were notches in a stick.",
       "description": "I is not the letter I. It is a notch cut across a tally stick. X is the tenth notch, cut clean through - and V is that same cut, halved.\n\nThat halving runs all the way up. The Etruscans wrote a hundred as a star; cut the star in half and you have their fifty, which flattened into an up-tack and only then got read as the letter L. A thousand was written as an arc, a stroke, and a second arc facing back - C I Ɔ - which closed into a ring and later opened out into M. Cut that same ring down the middle and the right-hand half, stroke and all, is already a D. Half the sign, half the number.\n\nYou were probably taught that C stands for centum and M for mille. Both words do mean that. Neither one explains the shape - the letters drifted in centuries later, because they happened to look similar.\n\nSource: Paul T. Keyser, 'The Origin of the Latin Numerals 1 to 1000', American Journal of Archaeology 92 (1988) 529-546.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
-      "tags": ["roman numerals", "etymology", "history", "etruscan", "ancient rome", "numbers", "design history", "explainer", "animation", "typography"]
+      "tags": [
+        "roman numerals",
+        "etymology",
+        "history",
+        "etruscan",
+        "ancient rome",
+        "numbers",
+        "design history",
+        "explainer",
+        "animation",
+        "typography"
+      ],
+      "videoId": "CX1r-etFD0E",
+      "url": "https://www.youtube.com/watch?v=CX1r-etFD0E",
+      "uploadedAt": "2026-09-12"
+    },
+    "shorts": {
+      "title": "Cut the tenth notch in half and you get V",
+      "description": "Count a flock past you at dusk and cut a notch for each animal. Every tenth notch is crossed. Half of that cross is five — and the same halving runs all the way up to a thousand.\n\nThe full film: https://www.youtube.com/watch?v=CX1r-etFD0E\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "roman numerals",
+        "etymology",
+        "history",
+        "etruscan",
+        "ancient rome",
+        "numbers",
+        "design history",
+        "explainer",
+        "animation",
+        "typography"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4"
     },
     "tiktok": {
       "caption": "V is not a letter. It is the tenth notch on a tally stick, cut in half. Half the mark, half the number - and that rule runs all the way up to a thousand.",
       "hook": "First 3 seconds: a crossed notch lifts off a tally stick and its lower half retracts, leaving V."
     }
   },
-
   "files": {
     "video": "out.mp4",
     "script": ".syncvoice/project.json",
     "scene": "scene.mjs",
-    "workingDrawings": ["strip-tally.mjs", "strip-star.mjs", "strip-thousand.mjs"],
+    "workingDrawings": [
+      "strip-tally.mjs",
+      "strip-star.mjs",
+      "strip-thousand.mjs"
+    ],
     "timing": "timing.json",
     "music": "music.wav"
   },
-
   "rebuild": "node lib/build.mjs sets/not-arbitrary/ep07-roman-numerals"
 }

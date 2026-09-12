@@ -86,6 +86,22 @@
       "url": "https://www.youtube.com/watch?v=Bv2A3Eb1lBY",
       "uploadedAt": "2026-09-11"
     },
+    "shorts": {
+      "title": "The flat sign is a lowercase b",
+      "description": "A round b for the soft note, a square b for the hard one. The round one is still the flat; the square one broke into the natural and the sharp.\n\nThe full film: https://www.youtube.com/watch?v=Bv2A3Eb1lBY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "music theory",
+        "music notation",
+        "treble clef",
+        "bass clef",
+        "history of music",
+        "medieval music",
+        "Guido of Arezzo",
+        "etymology",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4"
+    },
     "tiktok": {
       "caption": "The treble clef is a letter G. The flat is a letter b. Nobody designed any of it.",
       "hook": "First 3 seconds: the treble clef unwinds backwards into a capital G."

@@ -6,7 +6,7 @@
   "thesis": "Every piece on a chessboard is one of the four arms of a sixth-century Indian army — foot, horse, chariot, elephant — carried west through lands where nobody carved images of living things, so that each animal was reduced to an abstract block with a couple of protrusions on it. Europe received the blocks without the words and guessed. The shapes crossed intact; the meanings did not. One of those guesses turned the weakest piece on the board into the strongest.",
   "runtimeSeconds": 175.08,
   "renderedAt": "2026-09-11",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5",
     "session": "https://claude.ai/code/session_01SbF1fEuAzNHgDSLM8cL2Qp"
@@ -104,7 +104,27 @@
         "rook",
         "chess queen",
         "animation"
-      ]
+      ],
+      "videoId": "ALHyBvuqyKY",
+      "url": "https://www.youtube.com/watch?v=ALHyBvuqyKY",
+      "uploadedAt": "2026-09-12"
+    },
+    "shorts": {
+      "title": "There is an elephant on your chessboard",
+      "description": "Chess begins in India as a picture of an army: foot soldiers, horses, chariots, elephants. The elephant never left. You call it a bishop.\n\nThe full film: https://www.youtube.com/watch?v=ALHyBvuqyKY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chess",
+        "chess pieces",
+        "history of chess",
+        "chaturanga",
+        "shatranj",
+        "etymology",
+        "bishop",
+        "rook",
+        "chess queen",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4"
     },
     "tiktok": {
       "caption": "The bishop is an elephant. The rook is a chariot. The queen is a mistranslated civil servant.",
