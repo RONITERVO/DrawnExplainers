@@ -30,10 +30,10 @@ const GROUPS = [
     why: 'irreplaceable - Lyria has no seed, Gemini TTS is not deterministic' },
   { name: 'render', match: f => ['out.mp4', 'narration.wav', 'mixed.wav'].includes(f),
     why: 'regenerable: node lib/build.mjs <ep>' },
-  { name: 'veo', match: f => f.startsWith('out-clips-talking-face-only-video/'),
+  { name: 'veo', match: f => /face-only-video/.test(f) && !/-muted\//.test(f),
     why: 'irreplaceable - Google video generation, costs money, never identical' },
-  { name: 'clips', match: f => /^out-clips-talking-face(?!-only-video)/.test(f),
-    why: 'regenerable: node tools/make-speech-clips-v3.mjs' },
+  { name: 'clips', match: f => f.startsWith('out-clips-talking-face'),
+    why: 'regenerable: node tools/make-speech-clips-v3.mjs, then mute/derive passes' },
   { name: 'vertical', match: f => f.startsWith('vertical-notebook/'),
     why: 'regenerable: tools/Notebook-Compositor' },
 ];
@@ -61,7 +61,9 @@ function push(epDir) {
     if (!members.length) continue;
     const rel = `.media-tmp/${g.name}.tar`;
     const tar = join(epDir, rel);
-    execSync(`tar -cf "${rel}" ${members.map(m => `"${m}"`).join(' ')}`, { cwd: epDir });
+    const listRel = `.media-tmp/${g.name}.files`;
+    writeFileSync(join(epDir, listRel), members.map(m => m + '\n').join(''));
+    execSync(`tar -cf "${rel}" -T "${listRel}"`, { cwd: epDir });
     const size = statSync(tar).size;
     console.log(`  ${slug}/${g.name}.tar  ${mb(size)} MB  (${members.length} files)  uploading...`);
     sh(['copyto', tar, `${REMOTE}/${slug}/${g.name}.tar`, '--drive-chunk-size', '64M'], { stdio: 'inherit' });
