@@ -6,14 +6,12 @@
   "thesis": "The ampersand is the Latin word et, the pilcrow is the letter C for capitulum, the percent sign is the Italian per cento, and the dollar sign is the Spanish abbreviation for pesos. None of the four was designed. Each is a word somebody stopped bothering to finish, in four trades seventeen centuries apart - and the last one is recent enough that the page it happened on is still in an archive.",
   "runtimeSeconds": 158.08,
   "renderedAt": "2026-09-12",
-  "status": "rendered",
-
+  "status": "published",
   "author": {
     "model": "Claude Opus 5",
     "session": "https://claude.ai/code/session_01SbF1fEuAzNHgDSLM8cL2Qp",
     "note": "Written directly rather than by a subagent, following the drawn-explainer skill as published."
   },
-
   "sourcing": {
     "primary": "Florian Cajori, 'The Evolution of the Dollar Mark', Popular Science Monthly 81 (December 1912) 521-530, and A History of Mathematical Notations vol. 2 (1929) §§402-409. This is the episode's load-bearing source and it is a review-and-reject paper in exactly the sense episode 7 set as the bar: Cajori enumerates eight competing accounts of the $ - the U-over-S monogram, the Stars and Stripes joke made of it, the IHS monogram, the Roman HS/IIS for sestertius, the Potosi mint monogram, the Pillars of Hercules with their ribbon, the several figure-8 theories, and D for dollar - and rejects each against manuscript evidence before arguing for the Spanish ps abbreviation for pesos.",
     "supporting": [
@@ -32,14 +30,12 @@
       "Any claim that the pilcrow's bowl was closed on a particular date or by a named hand. The sequence is documented; the moment is not, and the film says 'a monk' and stops there."
     ]
   },
-
   "gates": {
     "drawable": "Four morphs, all continuous, all interpolated geometry: a joined cursive et whose t leans back through the e until the pair is an ampersand; a C closing onto the rule drawn through it and flooding red; a p withdrawing along its own abbreviation stroke while a c and a raised o become two zeros; and a p whose bowl collapses onto its stem while the raised s drops over it full size.",
     "trueNotFolk": "See sourcing. For the dollar the scholarly account and the popular account point in opposite directions, and the film takes the scholarly one and says so on screen.",
     "genuinelyDifferentShapes": "No shot is a tidy-up. The et is the largest: a legible two-letter word becomes a single abstract mark, with the t rotating about 50 degrees and the e pinching from a closed loop into an epsilon. The pilcrow is the arc-tension move - a C whose ends walk onto the rule until the bowl is closed - plus a fill, which is a different event from a fade. The percent's letter lies down into a line. There is no deliberate non-morph in this episode; episode 6 spent that card and episode 7 did not take it back.",
     "topology": "Every mark holds a fixed part count and a fixed anchor count in every state, and every corresponding run is indexed the same way round. The et is two strokes throughout (9 and 5 anchors) - the e's exit stroke is the t's crossbar, which is the pen lift the ligature saves and the reason the finished ampersand has no crossbar left to account for. The pilcrow is two throughout (8 and 2). The percent is four throughout (8, 2, 8, 8), with the p ending collinear with the rule rather than fading, so nothing is removed. The dollar is two throughout (8 and 7). All arcs - the C, the c of cento, the raised o and the circles they become - are swept with decreasing angle; ring() in the kit sweeps the other way, so they are built by hand rather than borrowed."
   },
-
   "pipeline": {
     "narration": "SyncVoice (Gemini native audio, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
     "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
@@ -47,9 +43,7 @@
     "render": "resvg + 24 worker threads -> libx264, 4743 frames in 43s (49s wall including the audio mux)",
     "loudness": "-14.0 LUFS integrated, LRA 3.5"
   },
-
   "musicPrompt": "Sparse solo harp, plucked softly and damped by hand, played very slowly with wide space between the notes and no repeating melody. A low bassoon holding long quiet tones underneath. Faint dry room tone, like a copying room. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
-
   "qa": {
     "method": "Whisper transcript per shot diffed against the script, before any drawing",
     "result": "clean; 357 script words, 357 heard, the only remaining differences being number normalisation - 'nine hundred' to '900' in s05, 'seventeen seventy eight' to '1778' in s11, 'seventeen' to '17' in s13. Those three are why every beat in this film is cued on the word timing.json holds rather than the word the script holds.",
@@ -58,7 +52,6 @@
     ],
     "fix": "s10 was rewritten from a bare apposition ('Clerks wrote the plural short, second letter raised above the first') to a proper participial clause ('Clerks abbreviated the plural, raising the second letter above the first'), which is what Gemini could hold. One TTS call, one shot re-aligned with align.py s10.peso; the other thirteen shots were never re-transcribed. The re-alignment came back 26 words for 26 and the film gained 2.3s."
   },
-
   "notes": {
     "budget": "357 words over 14 shots estimated 157.9s against a 145-170s band. Actual speech came in at 146.6s and the film at 155.8s before the s10 fix and 158.1s after - the estimate was 1.3% high. Kore ran at 2.43 words/second, the middle of its measured range.",
     "craft7": "Every stage keeps its source on the page at low opacity with a dashed tie to the mark it became. Nothing in this film fades to zero. The percent shot is the one that could have: the honest thing there is that the letter was dropped and the line stayed, and rather than fade the p out it is walked onto the rule's own anchors, so it is still drawn, still four strokes, and simply indistinguishable from the line it lay down on.",
@@ -66,7 +59,6 @@
     "turn": "Shot 9. The first three derivations have to be reconstructed across centuries; the fourth has a dated page and a named man, so the screen puts the archive reference up - Draper Collection 38J, Wisconsin Historical Society - which the voice never reads. It turns the film from a claim into evidence at exactly the halfway point, and it is where the sourcing stops being something in this file and becomes something on screen.",
     "newInLib": "Nothing. travel(), detach(), along(), smooth(), morph() and flood() covered every shot as published."
   },
-
   "toolchainFeedback": {
     "travel": "Fitted three of the four threads without argument and the per-stage from/to really is the lever the note says it is. Two of the three sources here are about 410px across - the joined et reaches a long way right because of the exit stroke, and p-c-o is three marks in a row - and at the usual 660/1320 the travelling copy was still shoulder to shoulder with its own ghost at e≈0.45, so the et stage rendered as 'etEt'. Widening to 540/1420 and taking shrink down to 0.8 opened a real gap; the narrow dollar was fine on the defaults. What travel() still cannot do is ink the mark on: it hands the draw function an opacity and nothing else, so the only way to make a source arrive is to fade it up, which is a pop by another name. The fix was to give each strip generator a `draw` parameter that staggers ink() across its strokes, which is better than an opacity ramp anyway because handwriting should arrive stroke by stroke - but every episode is going to rediscover it. A `draw` argument alongside `opacity` in travel()'s callback contract would be the right home for it.",
     "detach": "Exactly right for the pilcrow and it is the only thing that would have worked. The letter is a C in the margin of a page somebody is already writing, at the margin's size; it cannot slide sideways to make room without undoing the shot, because the whole point is that it was made in the middle of other work. The copy growing from 0.56 to 1.32 scale and travelling diagonally to the upper right, with the column thinning where it stands, is the shot. One thing to watch: its ghost default of 0.3 multiplies against whatever opacity the parent already draws itself at, so a faint parent goes to nothing - the column here was drawing at 0.44 and ended up at 0.13, invisible. Raised to 0.42.",
@@ -80,27 +72,45 @@
       "Nothing in the skill warns that a label placed below the reveal captions will run off the bottom of the card. The drawing area is roughly y 200-950; a second row of text at y 1000 is outside the paper. A stated safe box would save a render."
     ]
   },
-
   "publish": {
     "youtube": {
       "title": "These four symbols are not symbols. They are words.",
       "description": "The ampersand is not a symbol meaning 'and'. It is the Latin word for and - et - written joined up by somebody in a hurry, until the two letters stopped being letters. The oldest one we have is scratched on a wall in Pompeii.\n\nThe same thing happened three more times. A monk writing capitulum, Latin for chapter, put down its first letter and ruled a line through it; the rubricator filled the bowl in with red and it closed for good, and that is the paragraph mark. A Florentine merchant reckoning interest by the hundred cut per cento down to a letter, a rule and a raised ending - the letter went, the rule stayed, and a line in a fraction is still read as 'per'. And Spanish-American clerks abbreviated pesos with the second letter raised above the first, until the loop of the p disappeared and left its down-stroke standing through the s.\n\nYou were probably told the dollar sign is a U laid over an S for United States. Florian Cajori went through thousands of these manuscripts looking for that letter and never found it, and he disposed of seven other theories the same way. In 1778 a merchant named Oliver Pollock sent one letter out in two copies - one still carries the loop, the other carries the mark we use now.\n\nSources: Florian Cajori, 'The Evolution of the Dollar Mark', Popular Science Monthly 81 (1912) and A History of Mathematical Notations vol. 2 (1929). Jan Tschichold, The Ampersand: Its Origin and Development (1953/1957). D. E. Smith, Rara Arithmetica. M. B. Parkes, Pause and Effect (1993).\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
-      "tags": ["ampersand", "typography", "etymology", "history", "pilcrow", "dollar sign", "percent sign", "punctuation", "design history", "explainer", "animation", "latin"]
+      "tags": [
+        "ampersand",
+        "typography",
+        "etymology",
+        "history",
+        "pilcrow",
+        "dollar sign",
+        "percent sign",
+        "punctuation",
+        "design history",
+        "explainer",
+        "animation",
+        "latin"
+      ],
+      "videoId": "eXy2vaV9cnM",
+      "url": "https://www.youtube.com/watch?v=eXy2vaV9cnM",
+      "uploadedAt": "2026-09-12"
     },
     "tiktok": {
       "caption": "The ampersand is not a symbol for the word and. It IS the word - et, in Latin, written joined up until the letters gave way. Three more on your keyboard did the same thing.",
       "hook": "First 3 seconds: a handwritten 'et' with the t leaning back through the e until it is an ampersand."
     }
   },
-
   "files": {
     "video": "out.mp4",
     "script": ".syncvoice/project.json",
     "scene": "scene.mjs",
-    "workingDrawings": ["strip-et.mjs", "strip-capitulum.mjs", "strip-percent.mjs", "strip-peso.mjs"],
+    "workingDrawings": [
+      "strip-et.mjs",
+      "strip-capitulum.mjs",
+      "strip-percent.mjs",
+      "strip-peso.mjs"
+    ],
     "timing": "timing.json",
     "music": "music.wav"
   },
-
   "rebuild": "node lib/build.mjs sets/not-arbitrary/ep08-symbols-are-handwriting"
 }
