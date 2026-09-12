@@ -59,6 +59,21 @@
       "url": "https://www.youtube.com/watch?v=2PSmqRYAZ8I",
       "uploadedAt": "2026-09-12"
     },
+    "shorts": {
+      "title": "Volta stacked copper and zinc in 1799. We still draw the stack.",
+      "description": "Long line for copper, short line for zinc, one pair per cell. The battery in your pocket is not a tower of discs, and we are still drawing one.\n\nThe full film: https://www.youtube.com/watch?v=2PSmqRYAZ8I\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "electronics",
+        "circuit diagram",
+        "history of technology",
+        "volta",
+        "engineering",
+        "design history",
+        "explainer",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4"
+    },
     "tiktok": {
       "caption": "The battery symbol is a stack of metal discs. Volta made one in 1799 and we have been drawing it ever since.",
       "hook": "First 3 seconds: a stack of copper and zinc discs opens out into the battery symbol."

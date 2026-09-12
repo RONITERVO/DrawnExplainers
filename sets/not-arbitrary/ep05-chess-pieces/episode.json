@@ -109,6 +109,23 @@
       "url": "https://www.youtube.com/watch?v=ALHyBvuqyKY",
       "uploadedAt": "2026-09-12"
     },
+    "shorts": {
+      "title": "There is an elephant on your chessboard",
+      "description": "Chess begins in India as a picture of an army: foot soldiers, horses, chariots, elephants. The elephant never left. You call it a bishop.\n\nThe full film: https://www.youtube.com/watch?v=ALHyBvuqyKY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chess",
+        "chess pieces",
+        "history of chess",
+        "chaturanga",
+        "shatranj",
+        "etymology",
+        "bishop",
+        "rook",
+        "chess queen",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4"
+    },
     "tiktok": {
       "caption": "The bishop is an elephant. The rook is a chariot. The queen is a mistranslated civil servant.",
       "hook": "First 3 seconds: the back rank draws itself and one piece lifts out of it — over the line 'there is an elephant on your chessboard'."
