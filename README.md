@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 12 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 13 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -181,6 +181,12 @@ node lib/build.mjs <ep>
   it stood. The commonest empty page in these films is the six seconds between a
   mark landing and the narrator finishing, and the commonest cause is having
   removed the thing the mark came from.
+- **Start a stage's first visible drawing on the stage's own start.** Anything
+  later leaves the page blank from the boundary: episode 13 cued its first
+  drawing on a word and sat blank for 1.5 seconds, and episode 9 spent its
+  first 2.5 seconds drawing parts a later subtraction made invisible.
+  `--preview`'s early frame misses it when it lands just after the drawing
+  starts; a frame at the boundary, with `--at=`, catches it.
 - **No filters in the frame SVG.** `feTurbulence` cost more than the entire rest
   of the pipeline; the hand tremble is baked into path geometry instead, and the
   drop shadow is two offset rects. This is the difference between 1 fps and

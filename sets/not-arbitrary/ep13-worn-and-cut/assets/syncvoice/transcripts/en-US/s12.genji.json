@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "externalId": "s12.genji",
+  "text": "That flowing set became the writing of the women at court, and a thousand years ago one of them used it to write The Tale of Genji, often called the first novel.",
+  "durationMs": 11920,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 13
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 960,
+      "endMs": 1440,
+      "startChar": 17,
+      "endChar": 24
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1700,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 1700,
+      "endMs": 1960,
+      "startChar": 28,
+      "endChar": 36
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2260,
+      "startChar": 36,
+      "endChar": 39
+    },
+    {
+      "startMs": 2260,
+      "endMs": 2560,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2840,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3040,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3240,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3920,
+      "startChar": 59,
+      "endChar": 63
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4240,
+      "startChar": 63,
+      "endChar": 65
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4560,
+      "startChar": 65,
+      "endChar": 74
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5440,
+      "startChar": 74,
+      "endChar": 80
+    },
+    {
+      "startMs": 5440,
+      "endMs": 5720,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6120,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6360,
+      "startChar": 88,
+      "endChar": 91
+    },
+    {
+      "startMs": 6360,
+      "endMs": 6600,
+      "startChar": 91,
+      "endChar": 96
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7040,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7220,
+      "startChar": 101,
+      "endChar": 104
+    },
+    {
+      "startMs": 7220,
+      "endMs": 7400,
+      "startChar": 104,
+      "endChar": 107
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7720,
+      "startChar": 107,
+      "endChar": 113
+    },
+    {
+      "startMs": 7720,
+      "endMs": 7900,
+      "startChar": 113,
+      "endChar": 117
+    },
+    {
+      "startMs": 7900,
+      "endMs": 8080,
+      "startChar": 117,
+      "endChar": 122
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8400,
+      "startChar": 122,
+      "endChar": 125
+    },
+    {
+      "startMs": 8400,
+      "endMs": 8720,
+      "startChar": 125,
+      "endChar": 132
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9400,
+      "startChar": 132,
+      "endChar": 138
+    },
+    {
+      "startMs": 9400,
+      "endMs": 9480,
+      "startChar": 138,
+      "endChar": 145
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9980,
+      "startChar": 145,
+      "endChar": 149
+    },
+    {
+      "startMs": 9980,
+      "endMs": 10480,
+      "startChar": 149,
+      "endChar": 155
+    },
+    {
+      "startMs": 10480,
+      "endMs": 11200,
+      "startChar": 155,
+      "endChar": 161
+    }
+  ]
+}

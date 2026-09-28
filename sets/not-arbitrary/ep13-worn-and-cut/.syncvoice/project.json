@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep13",
+    "name": "Not Arbitrary 13 — Worn Down, or Cut in Pieces",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Japanese writes its syllables in two sets of letters, and both sets are Chinese characters in disguise. One set was written too fast. The other was cut into pieces.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, a little conspiratorial. A small pause before 'One set was written too fast', and give the last two sentences the same shape."
+    },
+    {
+      "externalId": "s02.borrow",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Japan first wrote with borrowed Chinese characters, and for its own words it often used them only for their sounds, the way you might write 'I can see' with a picture of an eye, a tin can and the sea.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and clear through the first half. Light and a little playful on the eye, the tin can and the sea."
+    },
+    {
+      "externalId": "s03.twenty",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "It worked, but it took a lot of ink. One eighth-century book of poems uses almost twenty different characters for the very same syllable.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Dry. A small stress on 'almost twenty' and on 'the very same'."
+    },
+    {
+      "externalId": "s04.monks",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Buddhist monks, adding reading notes to Chinese scriptures, needed a shorthand. So they kept one small piece of each character and dropped the rest.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift slightly. Matter of fact on 'and dropped the rest'."
+    },
+    {
+      "externalId": "s05.kata.ka",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "From a character that means 'add', they kept the left-hand side. That piece became a letter of its own, and it has hardly changed since.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Simple and warm. Say the word 'add' as the ordinary English word, clearly."
+    },
+    {
+      "externalId": "s06.kata.u",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "From a character meaning 'roof', they kept the roof itself, the little shelter drawn across the top.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gentle, a little pleased with the detail."
+    },
+    {
+      "externalId": "s07.kata.ri",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "And from the character for 'profit', which is grain standing beside a knife, they kept the knife. So two of these letters are still pictures: a roof, and a knife.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Build slightly across the first sentence. A small beat after 'still pictures', then land 'a roof, and a knife' simply."
+    },
+    {
+      "externalId": "s08.turn",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Meanwhile, at court, people wrote the same characters whole, but with a brush and at speed. Written that fast, a character stops being separate strokes and becomes one flowing gesture.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The turn of the film. Slow down. A definite pause after 'Meanwhile, at court'."
+    },
+    {
+      "externalId": "s09.hira.ka",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "The character for 'add' kept its left side almost as it was, while its little box shrank to a flick of the brush.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried, a small smile on 'a flick of the brush'."
+    },
+    {
+      "externalId": "s10.hira.u",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "The roof shrank to a single dot, and everything underneath it ran together into one curve.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Flowing, as if tracing the curve. Land 'one curve' lightly."
+    },
+    {
+      "externalId": "s11.hira.ri",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "The grain and the knife each wore down to a single stroke, standing side by side.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Simple and quiet."
+    },
+    {
+      "externalId": "s12.genji",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "That flowing set became the writing of the women at court, and a thousand years ago one of them used it to write The Tale of Genji, often called the first novel.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm and a little wondering. Genji is GEN-jee, with a hard G."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Three characters, and two letters from each: one worn down by a hurrying brush, one cut to a single piece by a monk short of room.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, not a summary read."
+    },
+    {
+      "externalId": "s14.close",
+      "scene": "kana",
+      "speaker": "Narrator",
+      "text": "Every Japanese sentence still mixes all three: characters whole, worn down, and cut.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop. No lift at the end."
+    }
+  ]
+}

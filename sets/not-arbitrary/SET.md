@@ -113,6 +113,7 @@ for whoever wants them.
 | 10 | Five Letters That Are One Letter | 2:30 | rendered |
 | 11 | The Peace Sign Is Two Letters | 2:45 | rendered |
 | 12 | Lowercase Is a Capital in a Hurry | 2:36 | rendered |
+| 13 | Japanese Letters Are Chinese Characters, Worn Down or Cut | 2:32 | rendered |
 
 ## Candidates for later episodes
 

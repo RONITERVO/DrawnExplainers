@@ -1,0 +1,111 @@
+{
+  "set": "not-arbitrary",
+  "episode": 13,
+  "slug": "ep13-worn-and-cut",
+  "title": "Japanese Letters Are Chinese Characters, Worn Down or Cut",
+  "thesis": "Japan's two syllabaries are Chinese characters written two ways. Japan first wrote its own words with Chinese characters borrowed for their sounds alone - one eighth-century anthology uses almost twenty different characters for the same syllable. Buddhist monks glossing Chinese sutras needed a shorthand and kept one piece of each character: katakana, which is why katakana still look like parts of characters, and why two of them are still pictures - ウ is the roof from 宇, リ the knife from 利. At court the same characters were written whole, with a brush and at speed, until each wore down to one flowing shape: hiragana, the script of the women who wrote The Tale of Genji. The film takes three characters - 加 'add', 宇 'roof', 利 'profit' - that each gave one kana of each kind, so every source sits above both of its children.",
+  "runtimeSeconds": 151.76,
+  "renderedAt": "2026-09-28",
+  "status": "rendered",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written directly, while a subagent was still finishing episode 11. Subject chosen by the author, checked against episode 11's script so the two could not overlap."
+  },
+  "sourcing": {
+    "primary": "Wiktionary's glyph origins for each of the six kana, read from the rendered pages: か 'Derived in the Heian period from writing the man'yōgana kanji 加 in the cursive sōsho style'; カ 'Simplified in the Heian period from the man'yōgana kanji 加, taken from the left part of the character'; う and ウ the same from 宇 ('taken from the top part of the character'); り from 利 in the cursive style, and リ 'Simplified in the Heian period from the man'yōgana kanji 利' - its right part, 刂.",
+    "supporting": [
+      "Wikipedia, 'Katakana': 'Katakana was developed in the 9th century (during the early Heian period) by Buddhist monks in Nara ... by taking parts of man'yōgana characters as a form of shorthand, hence this kana is so-called kata, partial, fragmented. For example, カ comes from the left side of 加.'",
+      "Wikipedia, 'Kana': katakana 'developed from abbreviated parts of regular script man'yōgana as a glossing system to add readings or explanations to Buddhist sutras', while 'Hiragana developed as a distinct script from cursive man'yōgana'. The same article: the Man'yōshū, 'a poetry anthology assembled sometime after 759 ... exemplifies this phenomenon, where as many as almost twenty kanji were used for the mora ka' - and 加 is one of them (Wikipedia, 'Man'yōgana', table of readings: 可何加架香蚊迦 among the ka characters, the seven the film sets on screen).",
+      "Wikipedia, 'Hiragana': 'each sign originating as a simplified cursive rendering of a whole kanji'; hiragana 'was first widely used among court women in the writing of personal communications and literature ... The Tale of Genji and other early novels by female authors used hiragana extensively or exclusively'.",
+      "Wikipedia, 'Man'yōgana': the characters were used for their Chinese-derived readings 'as an approximate syllabary', regardless of meaning - which the film explains with a rebus, 'I can see' as an eye, a tin can and the sea.",
+      "The component meanings are standard: 宀 is the roof radical and 刂 the knife radical; 利 is grain (禾) beside a knife. The film claims only that the pieces the monks kept are those radicals, which is what their shapes are."
+    ],
+    "whyThisIsNotFolkEtymology": "Each derivation is the standard one given for these kana in every reference consulted, and the film uses only the three characters for which both kana come from the same source, so it never has to switch sources mid-argument. The popular story that kana were invented by the monk Kūkai - 'traditionally said', per Wikipedia's Kana article - is not used; the film says monks and court writers, which is what the sources support. 'Often called the first novel' is how The Tale of Genji is described, not a claim that it is.",
+    "refused": [
+      "Kūkai as the inventor of kana: a traditional attribution, flagged as such by Wikipedia.",
+      "Pairs with different sources for their two kana - あ from 安 but ア from 阿, い from 以 but イ from 伊 - because the film's argument is one character written two ways, and a pair with two sources would quietly break it.",
+      "Speaking any kana's sound. Isolated syllables are exactly what Gemini drops, so the three characters are named by meaning ('add', 'roof', 'profit') and the screen carries the letters.",
+      "A drawn-out claim that hiragana was a 'women's script'. The sources say it 'first gained popularity among women' and was called onnade, and that male authors also came to use it; the film says it became the writing of the women at court and stops there."
+    ]
+  },
+  "gates": {
+    "drawable": "Six real morphs from three sources, each travelling diagonally out of its character. Cut: the strokes the monks dropped thin away where they stood while the kept piece grows and centres - 力 from 加, 宀 from 宇, 刂 from 利. Worn: the strokes the brush kept flow into the cursive shapes - 力 loosens into the first two strokes of か while the box 口 shrinks to its flick; the roof's dot becomes う's tick and the roof's cross-stroke and the hook of 于 run together into its curve; 禾's upright and 刂's hook become the two strokes of り.",
+    "trueNotFolk": "See sourcing: every one of the six origins is stated in those words by the references, and the history is Wikipedia's Katakana, Kana and Hiragana articles.",
+    "genuinelyDifferentShapes": "Katakana look like pieces because they are pieces - the argument there is subtraction, and the pieces grow and move. Hiragana change shape outright: か, う and り do not look like 加, 宇 and 利 until the morph shows the path. The episode does not spend its non-morph allowance.",
+    "topology": "Every stroke of the source is a run in every state; a run a branch does not keep thins where it stands, so no part count changes. う's single curve is two runs - the roof's cross-stroke and 于's hook - meeting end to end, because the cursive closed a pen lift rather than merging strokes. Every kept run keeps its brush direction."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS, concurrency 2",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 158s bed at -19.0 LUFS, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 4553 frames in 42s",
+    "loudness": "-14.0 LUFS integrated, LRA 2.7"
+  },
+  "musicPrompt": "Sparse solo handpan, played very softly with long natural decay and wide space between the notes, no repeating melody. A low soft harmonium holding long quiet tones underneath. Faint dry room tone, like a quiet study. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean first time; 345 script words. The only differences are number normalisation in s03 ('eighth-century' to '8th century', 'twenty' to '20').",
+    "defectsFound": []
+  },
+  "notes": {
+    "budget": "345 words over 14 shots estimated 152.9s. Speech 142.6s, film 151.8s - 0.7% under. Kore ran at 2.42 words/second, slower than on the last three scripts; the quoted meanings and the rebus slowed her down.",
+    "craft7": "One page carries the whole second half: the three characters at the top, and each child tied back to its character as it leaves. The characters thin as the monks' pieces leave them, are written whole again at 'people wrote the same characters whole', and thin again as the brush's versions leave, so the source is always on the page and always visibly the parent of both.",
+    "turn": "Shot 8, 'Meanwhile, at court', at 81s of 152. The first half is the monks' method, cutting; the second is the court's, wearing - the same three characters, the other branch.",
+    "rhyme": "Episode 12 is the same argument for the Latin alphabet: capitals written in a hurry until they were small letters. Episode 9's hook was a Chinese character that was a picture; here two of the letters the monks cut out still are - a roof and a knife.",
+    "stageBlank": "A stage that cues its first drawing on a word leaves the page blank from the stage boundary until that word - here 1.5 seconds at the start of shot 2. Neither preview frame caught it (the early frame fell just after the word); a frame pulled from the render at the boundary did. Start a stage's first drawing on the stage's own start.",
+    "newInLib": "Nothing new. triptych() did not fit a one-to-two split, so the family page uses a small child() helper in scene.mjs; a one-to-many travel is the natural next addition to lib if another episode needs it (episode 10 noted the same)."
+  },
+  "toolchainFeedback": {
+    "sourcesFirst": "Choosing only characters whose hiragana and katakana share a source made the whole film one gesture repeated three times. It is worth looking for that kind of constraint in the data before writing: the Man'yōgana tables list many sources per kana, and most pairs split.",
+    "fontsForContext": "The set draws every mark it argues about, but the two places the film needs many real glyphs - seven Man'yōshū spellings and a closing sentence - use the CJK font already in FONT_FILES, which covers both kanji and kana. Checking glyph coverage with a quick resvg render before designing saved a surprise.",
+    "boundaryFrames": "Worth adding to build.mjs --preview: a third frame at each stage's first 500ms. Both blank-page bugs of the last two episodes lived there."
+  },
+  "publish": {
+    "youtube": {
+      "title": "Japanese letters are Chinese characters, worn down or cut in pieces",
+      "description": "Japanese writes its syllables in two sets of letters, hiragana and katakana, and both are Chinese characters in disguise.\n\nJapan first wrote its own words with Chinese characters borrowed only for their sounds - one eighth-century anthology, the Man'yōshū, uses almost twenty different characters for the same syllable. Buddhist monks adding reading notes to Chinese scriptures needed a shorthand, so they kept one piece of each character and dropped the rest: katakana. From 加, 'add', they kept the left side, カ. From 宇, 'roof', they kept the roof, ウ. From 利, 'profit' - grain beside a knife - they kept the knife, リ.\n\nAt court, meanwhile, the same characters were written whole, with a brush and at speed, until each wore down to one flowing shape: hiragana. 加 became か, its little box shrunk to a flick; 宇 became う; 利 became り. The flowing set became the writing of the women at court, and a thousand years ago one of them wrote The Tale of Genji in it.\n\nEvery Japanese sentence still mixes all three: characters whole, worn down, and cut.\n\nSources: Wikipedia's articles on Katakana, Hiragana, Kana and Man'yōgana; Wiktionary's glyph origins for か カ う ウ り リ.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "japanese",
+        "hiragana",
+        "katakana",
+        "kanji",
+        "learn japanese",
+        "japanese writing",
+        "writing systems",
+        "etymology",
+        "calligraphy",
+        "history",
+        "explainer",
+        "animation"
+      ]
+    },
+    "shorts": {
+      "title": "Two Japanese letters are still pictures: a roof and a knife",
+      "description": "Katakana are pieces cut out of Chinese characters by Buddhist monks who needed a shorthand. ウ is the roof from 宇; リ is the knife from 利. The same characters, written fast with a brush, became hiragana.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "japanese",
+        "katakana",
+        "hiragana",
+        "kanji",
+        "learn japanese",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+    },
+    "tiktok": {
+      "caption": "Hiragana and katakana are both Chinese characters - one set worn down by a hurrying brush, the other cut into pieces by monks. Two of the pieces are still pictures: a roof and a knife.",
+      "hook": "First 3 seconds: か う り above カ ウ リ, then the characters they came from, 加 宇 利, appearing between them."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-kana.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep13-worn-and-cut"
+}
