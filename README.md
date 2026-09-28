@@ -61,6 +61,13 @@ node tools/media-sync.mjs pull sets/not-arbitrary/ep01-chinese-characters
 `pull` fetches the archives named in `media.json`, checks each against the
 SHA-256 recorded at upload, and refuses to extract anything that does not match.
 
+`push` is not incremental: it rebuilds every archive from what is on disk,
+replaces the store's copy and rewrites `media.json`. So it refuses to run while
+anything the last `media.json` lists is missing locally - a push from a
+half-pulled folder would otherwise overwrite complete archives with partial
+ones. Pull first, then add new media (Veo clips, vertical takes) and push again;
+pass `--force` only when files were removed on purpose.
+
 ### The media store
 
 `gdrive:DrawnExplainers` on Google Drive, reached through
