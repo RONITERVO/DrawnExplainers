@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep12",
+    "name": "Not Arbitrary 12 — Lowercase Is a Capital in a Hurry",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Every small letter you type is a capital letter, written by somebody in a hurry. You can still see where they cut the corners.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, a little conspiratorial. A small pause before the second sentence, and let 'cut the corners' land with a hint of a smile."
+    },
+    {
+      "externalId": "s02.stone",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Rome carved its capitals in stone, all straight lines and sharp corners. But nobody writes a shopping list with a chisel.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and physical for the first sentence. Lighter and a little dry on the second."
+    },
+    {
+      "externalId": "s03.rules",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "With a pen, a curve is quicker than a corner, and one stroke is quicker than two. Those two habits did almost all of the work.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Clear and even, the two habits as a matched pair. A small beat before 'Those two habits'."
+    },
+    {
+      "externalId": "s04.m",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "The capital M has three sharp corners to stop at. A pen in a hurry stopped at none of them.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Brisk. Land 'none of them' simply."
+    },
+    {
+      "externalId": "s05.e.round",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "The capital E rounded off the same way, and for a few hundred years its middle bar floated loose inside the curve.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried and a little amused on 'floated loose'."
+    },
+    {
+      "externalId": "s06.e.close",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Then the pen stopped lifting between the two. It ran the bar straight into the curve, and the loop closed.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Simple, a small sense of completion on 'the loop closed'."
+    },
+    {
+      "externalId": "s07.r",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "The capital R shows the second habit. Instead of closing its loop and starting a new stroke for the leg, the pen ran straight on. Then the leg shrank to a flick.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Keep 'Instead of closing its loop and starting a new stroke for the leg' as one unhurried phrase. A beat before 'Then the leg shrank'."
+    },
+    {
+      "externalId": "s08.herculaneum",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "None of this waited for the Middle Ages. Scrolls buried at Herculaneum when Vesuvius erupted already show early forms of three of our small letters.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The turn of the film. Slow down. Herculaneum is her-kyoo-LAY-nee-um. A small pause after 'Middle Ages'."
+    },
+    {
+      "externalId": "s09.d.flick",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "The capital D has the strangest story. The tall stroke of a small d was never the capital's stem. It began as a tiny overshoot, where the pen started its curve.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A little lift of intrigue on 'the strangest story'. Then quiet and precise, like pointing at a detail."
+    },
+    {
+      "externalId": "s10.d.grow",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Writers let that overshoot grow and let the rest of the letter shrink, until the overshoot was the tallest part of it. Then it stood up straight.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Build a little across the first sentence. Land 'Then it stood up straight' lightly."
+    },
+    {
+      "externalId": "s11.charlemagne",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Around the year eight hundred, Charlemagne's scribes settled these small letters into one clear hand, and most of the Roman books we still have survive in copies they made.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift slightly. Charlemagne is SHAR-luh-mayn. Unhurried through the second half."
+    },
+    {
+      "externalId": "s12.mistake",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Then the hand was buried under spiky Gothic script for two centuries, and it came back by mistake. Renaissance scholars found those old books and took them for ancient Roman ones.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A definite pause before 'and it came back by mistake'. Wry and warm on the last sentence."
+    },
+    {
+      "externalId": "s13.case",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "So they copied the letters, and printers kept the metal type for them in a second tray, below the one for capitals. That is why we call them lower case.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Brisk through the list, then the reveal. Small smile on 'lower case'."
+    },
+    {
+      "externalId": "s14.recap",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Four capitals and two habits: round off the corners, save the strokes. Everything else followed from a pen trying to keep up with a hand.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, a little wondering, not a summary read."
+    },
+    {
+      "externalId": "s15.close",
+      "scene": "minuscule",
+      "speaker": "Narrator",
+      "text": "Every small letter you type is still in a hurry.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop. No lift at the end."
+    }
+  ]
+}

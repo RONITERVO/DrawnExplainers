@@ -91,6 +91,10 @@ for whoever wants them.
   word: episode 11's "you have been reading letters all along" came back as
   "all the low". Re-synthesised with the final words named in the direction,
   it came back whole.
+- **Read every row of letters on screen as a word.** A viewer will. Episode
+  12's four letters, in the order the narration takes them, spell MERD, so
+  every row on screen sets them out as D E M R instead. Check any line of
+  letters for an accidental word before rendering it.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -108,6 +112,7 @@ for whoever wants them.
 | 09 | The Horse Is Standing on Its Tail | 2:31 | rendered |
 | 10 | Five Letters That Are One Letter | 2:30 | rendered |
 | 11 | The Peace Sign Is Two Letters | 2:45 | rendered |
+| 12 | Lowercase Is a Capital in a Hurry | 2:36 | rendered |
 
 ## Candidates for later episodes
 

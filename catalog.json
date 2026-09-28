@@ -138,6 +138,16 @@
           "renderedAt": "2026-09-28",
           "video": "sets/not-arbitrary/ep11-two-letters-at-once/out.mp4",
           "detail": "sets/not-arbitrary/ep11-two-letters-at-once/episode.json"
+        },
+        {
+          "episode": 12,
+          "slug": "ep12-capitals-in-a-hurry",
+          "title": "Lowercase Is a Capital in a Hurry",
+          "runtimeSeconds": 155.64,
+          "status": "rendered",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep12-capitals-in-a-hurry/out.mp4",
+          "detail": "sets/not-arbitrary/ep12-capitals-in-a-hurry/episode.json"
         }
       ]
     }

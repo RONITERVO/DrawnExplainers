@@ -1,0 +1,1962 @@
+{
+  "s01.hook": {
+    "durationMs": 9280,
+    "words": [
+      {
+        "word": "Every",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "small",
+        "startMs": 360,
+        "endMs": 880
+      },
+      {
+        "word": "letter",
+        "startMs": 880,
+        "endMs": 1340
+      },
+      {
+        "word": "you",
+        "startMs": 1340,
+        "endMs": 1620
+      },
+      {
+        "word": "type",
+        "startMs": 1620,
+        "endMs": 1980
+      },
+      {
+        "word": "is",
+        "startMs": 1980,
+        "endMs": 2440
+      },
+      {
+        "word": "a",
+        "startMs": 2440,
+        "endMs": 2700
+      },
+      {
+        "word": "capital",
+        "startMs": 2700,
+        "endMs": 2980
+      },
+      {
+        "word": "letter,",
+        "startMs": 2980,
+        "endMs": 3360
+      },
+      {
+        "word": "written",
+        "startMs": 3580,
+        "endMs": 3960
+      },
+      {
+        "word": "by",
+        "startMs": 3960,
+        "endMs": 4320
+      },
+      {
+        "word": "somebody",
+        "startMs": 4320,
+        "endMs": 4840
+      },
+      {
+        "word": "in",
+        "startMs": 4840,
+        "endMs": 5120
+      },
+      {
+        "word": "a",
+        "startMs": 5120,
+        "endMs": 5200
+      },
+      {
+        "word": "hurry.",
+        "startMs": 5200,
+        "endMs": 5480
+      },
+      {
+        "word": "You",
+        "startMs": 5940,
+        "endMs": 6440
+      },
+      {
+        "word": "can",
+        "startMs": 6440,
+        "endMs": 6620
+      },
+      {
+        "word": "still",
+        "startMs": 6620,
+        "endMs": 6940
+      },
+      {
+        "word": "see",
+        "startMs": 6940,
+        "endMs": 7300
+      },
+      {
+        "word": "where",
+        "startMs": 7300,
+        "endMs": 7560
+      },
+      {
+        "word": "they",
+        "startMs": 7560,
+        "endMs": 7780
+      },
+      {
+        "word": "cut",
+        "startMs": 7780,
+        "endMs": 8180
+      },
+      {
+        "word": "the",
+        "startMs": 8180,
+        "endMs": 8360
+      },
+      {
+        "word": "corners.",
+        "startMs": 8360,
+        "endMs": 8700
+      }
+    ],
+    "heard": "Every small letter you type is a capital letter, written by somebody in a hurry. You can still see where they cut the corners.",
+    "script": "Every small letter you type is a capital letter, written by somebody in a hurry. You can still see where they cut the corners."
+  },
+  "s02.stone": {
+    "durationMs": 9000,
+    "words": [
+      {
+        "word": "Rome",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "carved",
+        "startMs": 400,
+        "endMs": 1000
+      },
+      {
+        "word": "its",
+        "startMs": 1000,
+        "endMs": 1260
+      },
+      {
+        "word": "capitals",
+        "startMs": 1260,
+        "endMs": 1780
+      },
+      {
+        "word": "in",
+        "startMs": 1780,
+        "endMs": 2000
+      },
+      {
+        "word": "stone,",
+        "startMs": 2000,
+        "endMs": 2420
+      },
+      {
+        "word": "all",
+        "startMs": 2880,
+        "endMs": 3100
+      },
+      {
+        "word": "straight",
+        "startMs": 3100,
+        "endMs": 3540
+      },
+      {
+        "word": "lines",
+        "startMs": 3540,
+        "endMs": 4100
+      },
+      {
+        "word": "and",
+        "startMs": 4100,
+        "endMs": 4400
+      },
+      {
+        "word": "sharp",
+        "startMs": 4400,
+        "endMs": 4820
+      },
+      {
+        "word": "corners.",
+        "startMs": 4820,
+        "endMs": 5320
+      },
+      {
+        "word": "But",
+        "startMs": 5640,
+        "endMs": 6280
+      },
+      {
+        "word": "nobody",
+        "startMs": 6280,
+        "endMs": 6640
+      },
+      {
+        "word": "writes",
+        "startMs": 6640,
+        "endMs": 6980
+      },
+      {
+        "word": "a",
+        "startMs": 6980,
+        "endMs": 7200
+      },
+      {
+        "word": "shopping",
+        "startMs": 7200,
+        "endMs": 7540
+      },
+      {
+        "word": "list",
+        "startMs": 7540,
+        "endMs": 7900
+      },
+      {
+        "word": "with",
+        "startMs": 7900,
+        "endMs": 8080
+      },
+      {
+        "word": "a",
+        "startMs": 8080,
+        "endMs": 8220
+      },
+      {
+        "word": "chisel.",
+        "startMs": 8220,
+        "endMs": 8580
+      }
+    ],
+    "heard": "Rome carved its capitals in stone, all straight lines and sharp corners. But nobody writes a shopping list with a chisel.",
+    "script": "Rome carved its capitals in stone, all straight lines and sharp corners. But nobody writes a shopping list with a chisel."
+  },
+  "s03.rules": {
+    "durationMs": 10720,
+    "words": [
+      {
+        "word": "With",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "a",
+        "startMs": 160,
+        "endMs": 300
+      },
+      {
+        "word": "pen,",
+        "startMs": 300,
+        "endMs": 680
+      },
+      {
+        "word": "a",
+        "startMs": 920,
+        "endMs": 1120
+      },
+      {
+        "word": "curve",
+        "startMs": 1120,
+        "endMs": 1560
+      },
+      {
+        "word": "is",
+        "startMs": 1560,
+        "endMs": 1860
+      },
+      {
+        "word": "quicker",
+        "startMs": 1860,
+        "endMs": 2320
+      },
+      {
+        "word": "than",
+        "startMs": 2320,
+        "endMs": 2640
+      },
+      {
+        "word": "a",
+        "startMs": 2640,
+        "endMs": 2760
+      },
+      {
+        "word": "corner,",
+        "startMs": 2760,
+        "endMs": 3080
+      },
+      {
+        "word": "and",
+        "startMs": 3340,
+        "endMs": 3860
+      },
+      {
+        "word": "one",
+        "startMs": 3860,
+        "endMs": 4180
+      },
+      {
+        "word": "stroke",
+        "startMs": 4180,
+        "endMs": 4620
+      },
+      {
+        "word": "is",
+        "startMs": 4620,
+        "endMs": 5020
+      },
+      {
+        "word": "quicker",
+        "startMs": 5020,
+        "endMs": 5380
+      },
+      {
+        "word": "than",
+        "startMs": 5380,
+        "endMs": 5760
+      },
+      {
+        "word": "two.",
+        "startMs": 5760,
+        "endMs": 6060
+      },
+      {
+        "word": "Those",
+        "startMs": 6580,
+        "endMs": 7220
+      },
+      {
+        "word": "two",
+        "startMs": 7220,
+        "endMs": 7480
+      },
+      {
+        "word": "habits",
+        "startMs": 7480,
+        "endMs": 7960
+      },
+      {
+        "word": "did",
+        "startMs": 7960,
+        "endMs": 8440
+      },
+      {
+        "word": "almost",
+        "startMs": 8440,
+        "endMs": 9000
+      },
+      {
+        "word": "all",
+        "startMs": 9000,
+        "endMs": 9640
+      },
+      {
+        "word": "of",
+        "startMs": 9640,
+        "endMs": 9940
+      },
+      {
+        "word": "the",
+        "startMs": 9940,
+        "endMs": 10060
+      },
+      {
+        "word": "work.",
+        "startMs": 10060,
+        "endMs": 10340
+      }
+    ],
+    "heard": "With a pen, a curve is quicker than a corner, and one stroke is quicker than two. Those two habits did almost all of the work.",
+    "script": "With a pen, a curve is quicker than a corner, and one stroke is quicker than two. Those two habits did almost all of the work."
+  },
+  "s04.m": {
+    "durationMs": 6680,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "capital",
+        "startMs": 120,
+        "endMs": 440
+      },
+      {
+        "word": "M",
+        "startMs": 440,
+        "endMs": 920
+      },
+      {
+        "word": "has",
+        "startMs": 920,
+        "endMs": 1360
+      },
+      {
+        "word": "three",
+        "startMs": 1360,
+        "endMs": 1720
+      },
+      {
+        "word": "sharp",
+        "startMs": 1720,
+        "endMs": 2120
+      },
+      {
+        "word": "corners",
+        "startMs": 2120,
+        "endMs": 2520
+      },
+      {
+        "word": "to",
+        "startMs": 2520,
+        "endMs": 2760
+      },
+      {
+        "word": "stop",
+        "startMs": 2760,
+        "endMs": 3020
+      },
+      {
+        "word": "at.",
+        "startMs": 3020,
+        "endMs": 3240
+      },
+      {
+        "word": "A",
+        "startMs": 3460,
+        "endMs": 3860
+      },
+      {
+        "word": "pen",
+        "startMs": 3860,
+        "endMs": 4160
+      },
+      {
+        "word": "in",
+        "startMs": 4160,
+        "endMs": 4420
+      },
+      {
+        "word": "a",
+        "startMs": 4420,
+        "endMs": 4540
+      },
+      {
+        "word": "hurry",
+        "startMs": 4540,
+        "endMs": 4820
+      },
+      {
+        "word": "stopped",
+        "startMs": 4820,
+        "endMs": 5420
+      },
+      {
+        "word": "at",
+        "startMs": 5420,
+        "endMs": 5700
+      },
+      {
+        "word": "none",
+        "startMs": 5700,
+        "endMs": 6000
+      },
+      {
+        "word": "of",
+        "startMs": 6000,
+        "endMs": 6120
+      },
+      {
+        "word": "them.",
+        "startMs": 6120,
+        "endMs": 6300
+      }
+    ],
+    "heard": "The capital M has three sharp corners to stop at. A pen in a hurry stopped at none of them.",
+    "script": "The capital M has three sharp corners to stop at. A pen in a hurry stopped at none of them."
+  },
+  "s05.e.round": {
+    "durationMs": 8520,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "capital",
+        "startMs": 180,
+        "endMs": 560
+      },
+      {
+        "word": "E",
+        "startMs": 560,
+        "endMs": 980
+      },
+      {
+        "word": "rounded",
+        "startMs": 980,
+        "endMs": 1520
+      },
+      {
+        "word": "off",
+        "startMs": 1520,
+        "endMs": 1860
+      },
+      {
+        "word": "the",
+        "startMs": 1860,
+        "endMs": 2040
+      },
+      {
+        "word": "same",
+        "startMs": 2040,
+        "endMs": 2260
+      },
+      {
+        "word": "way,",
+        "startMs": 2260,
+        "endMs": 2580
+      },
+      {
+        "word": "and",
+        "startMs": 2760,
+        "endMs": 3180
+      },
+      {
+        "word": "for",
+        "startMs": 3180,
+        "endMs": 3380
+      },
+      {
+        "word": "a",
+        "startMs": 3380,
+        "endMs": 3520
+      },
+      {
+        "word": "few",
+        "startMs": 3520,
+        "endMs": 3740
+      },
+      {
+        "word": "hundred",
+        "startMs": 3740,
+        "endMs": 4100
+      },
+      {
+        "word": "years,",
+        "startMs": 4100,
+        "endMs": 4700
+      },
+      {
+        "word": "its",
+        "startMs": 4880,
+        "endMs": 5120
+      },
+      {
+        "word": "middle",
+        "startMs": 5120,
+        "endMs": 5540
+      },
+      {
+        "word": "bar",
+        "startMs": 5540,
+        "endMs": 5960
+      },
+      {
+        "word": "floated",
+        "startMs": 5960,
+        "endMs": 6600
+      },
+      {
+        "word": "loose",
+        "startMs": 6600,
+        "endMs": 7100
+      },
+      {
+        "word": "inside",
+        "startMs": 7100,
+        "endMs": 7560
+      },
+      {
+        "word": "the",
+        "startMs": 7560,
+        "endMs": 7840
+      },
+      {
+        "word": "curve.",
+        "startMs": 7840,
+        "endMs": 8100
+      }
+    ],
+    "heard": "The capital E rounded off the same way, and for a few hundred years, its middle bar floated loose inside the curve.",
+    "script": "The capital E rounded off the same way, and for a few hundred years its middle bar floated loose inside the curve."
+  },
+  "s06.e.close": {
+    "durationMs": 7760,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "the",
+        "startMs": 320,
+        "endMs": 680
+      },
+      {
+        "word": "pen",
+        "startMs": 680,
+        "endMs": 960
+      },
+      {
+        "word": "stopped",
+        "startMs": 960,
+        "endMs": 1460
+      },
+      {
+        "word": "lifting",
+        "startMs": 1460,
+        "endMs": 1860
+      },
+      {
+        "word": "between",
+        "startMs": 1860,
+        "endMs": 2200
+      },
+      {
+        "word": "the",
+        "startMs": 2200,
+        "endMs": 2440
+      },
+      {
+        "word": "two.",
+        "startMs": 2440,
+        "endMs": 2680
+      },
+      {
+        "word": "It",
+        "startMs": 2960,
+        "endMs": 3460
+      },
+      {
+        "word": "ran",
+        "startMs": 3460,
+        "endMs": 3640
+      },
+      {
+        "word": "the",
+        "startMs": 3640,
+        "endMs": 3780
+      },
+      {
+        "word": "bar",
+        "startMs": 3780,
+        "endMs": 4100
+      },
+      {
+        "word": "straight",
+        "startMs": 4100,
+        "endMs": 4620
+      },
+      {
+        "word": "into",
+        "startMs": 4620,
+        "endMs": 5040
+      },
+      {
+        "word": "the",
+        "startMs": 5040,
+        "endMs": 5200
+      },
+      {
+        "word": "curve,",
+        "startMs": 5200,
+        "endMs": 5560
+      },
+      {
+        "word": "and",
+        "startMs": 5760,
+        "endMs": 6320
+      },
+      {
+        "word": "the",
+        "startMs": 6320,
+        "endMs": 6600
+      },
+      {
+        "word": "loop",
+        "startMs": 6600,
+        "endMs": 6860
+      },
+      {
+        "word": "closed.",
+        "startMs": 6860,
+        "endMs": 7260
+      }
+    ],
+    "heard": "Then the pen stopped lifting between the two. It ran the bar straight into the curve, and the loop closed.",
+    "script": "Then the pen stopped lifting between the two. It ran the bar straight into the curve, and the loop closed."
+  },
+  "s07.r": {
+    "durationMs": 12920,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "capital",
+        "startMs": 160,
+        "endMs": 580
+      },
+      {
+        "word": "R",
+        "startMs": 580,
+        "endMs": 1080
+      },
+      {
+        "word": "shows",
+        "startMs": 1080,
+        "endMs": 1620
+      },
+      {
+        "word": "the",
+        "startMs": 1620,
+        "endMs": 1940
+      },
+      {
+        "word": "second",
+        "startMs": 1940,
+        "endMs": 2280
+      },
+      {
+        "word": "habit.",
+        "startMs": 2280,
+        "endMs": 2700
+      },
+      {
+        "word": "Instead",
+        "startMs": 3100,
+        "endMs": 3760
+      },
+      {
+        "word": "of",
+        "startMs": 3760,
+        "endMs": 4040
+      },
+      {
+        "word": "closing",
+        "startMs": 4040,
+        "endMs": 4580
+      },
+      {
+        "word": "its",
+        "startMs": 4580,
+        "endMs": 5000
+      },
+      {
+        "word": "loop",
+        "startMs": 5000,
+        "endMs": 5340
+      },
+      {
+        "word": "and",
+        "startMs": 5340,
+        "endMs": 5780
+      },
+      {
+        "word": "starting",
+        "startMs": 5780,
+        "endMs": 6260
+      },
+      {
+        "word": "a",
+        "startMs": 6260,
+        "endMs": 6560
+      },
+      {
+        "word": "new",
+        "startMs": 6560,
+        "endMs": 6740
+      },
+      {
+        "word": "stroke",
+        "startMs": 6740,
+        "endMs": 7120
+      },
+      {
+        "word": "for",
+        "startMs": 7120,
+        "endMs": 7360
+      },
+      {
+        "word": "the",
+        "startMs": 7360,
+        "endMs": 7500
+      },
+      {
+        "word": "leg,",
+        "startMs": 7500,
+        "endMs": 7780
+      },
+      {
+        "word": "the",
+        "startMs": 8100,
+        "endMs": 8380
+      },
+      {
+        "word": "pen",
+        "startMs": 8380,
+        "endMs": 8700
+      },
+      {
+        "word": "ran",
+        "startMs": 8700,
+        "endMs": 9140
+      },
+      {
+        "word": "straight",
+        "startMs": 9140,
+        "endMs": 9520
+      },
+      {
+        "word": "on.",
+        "startMs": 9520,
+        "endMs": 9920
+      },
+      {
+        "word": "Then",
+        "startMs": 10120,
+        "endMs": 10740
+      },
+      {
+        "word": "the",
+        "startMs": 10740,
+        "endMs": 11000
+      },
+      {
+        "word": "leg",
+        "startMs": 11000,
+        "endMs": 11340
+      },
+      {
+        "word": "shrank",
+        "startMs": 11340,
+        "endMs": 11840
+      },
+      {
+        "word": "to",
+        "startMs": 11840,
+        "endMs": 12100
+      },
+      {
+        "word": "a",
+        "startMs": 12100,
+        "endMs": 12240
+      },
+      {
+        "word": "flick.",
+        "startMs": 12240,
+        "endMs": 12480
+      }
+    ],
+    "heard": "The capital R shows the second habit. Instead of closing its loop and starting a new stroke for the leg, the pen ran straight on. Then the leg shrank to a flick.",
+    "script": "The capital R shows the second habit. Instead of closing its loop and starting a new stroke for the leg, the pen ran straight on. Then the leg shrank to a flick."
+  },
+  "s08.herculaneum": {
+    "durationMs": 11600,
+    "words": [
+      {
+        "word": "None",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "of",
+        "startMs": 320,
+        "endMs": 480
+      },
+      {
+        "word": "this",
+        "startMs": 480,
+        "endMs": 780
+      },
+      {
+        "word": "waited",
+        "startMs": 780,
+        "endMs": 1300
+      },
+      {
+        "word": "for",
+        "startMs": 1300,
+        "endMs": 1680
+      },
+      {
+        "word": "the",
+        "startMs": 1680,
+        "endMs": 1880
+      },
+      {
+        "word": "Middle",
+        "startMs": 1880,
+        "endMs": 2080
+      },
+      {
+        "word": "Ages.",
+        "startMs": 2080,
+        "endMs": 2560
+      },
+      {
+        "word": "Scrolls",
+        "startMs": 3140,
+        "endMs": 3860
+      },
+      {
+        "word": "buried",
+        "startMs": 3860,
+        "endMs": 4260
+      },
+      {
+        "word": "at",
+        "startMs": 4260,
+        "endMs": 4540
+      },
+      {
+        "word": "Herculaneum",
+        "startMs": 4540,
+        "endMs": 5460
+      },
+      {
+        "word": "when",
+        "startMs": 5460,
+        "endMs": 5800
+      },
+      {
+        "word": "Vesuvius",
+        "startMs": 5800,
+        "endMs": 6440
+      },
+      {
+        "word": "erupted",
+        "startMs": 6440,
+        "endMs": 6920
+      },
+      {
+        "word": "already",
+        "startMs": 6920,
+        "endMs": 7820
+      },
+      {
+        "word": "show",
+        "startMs": 7820,
+        "endMs": 8420
+      },
+      {
+        "word": "early",
+        "startMs": 8420,
+        "endMs": 8900
+      },
+      {
+        "word": "forms",
+        "startMs": 8900,
+        "endMs": 9420
+      },
+      {
+        "word": "of",
+        "startMs": 9420,
+        "endMs": 9700
+      },
+      {
+        "word": "three",
+        "startMs": 9700,
+        "endMs": 10060
+      },
+      {
+        "word": "of",
+        "startMs": 10060,
+        "endMs": 10360
+      },
+      {
+        "word": "our",
+        "startMs": 10360,
+        "endMs": 10520
+      },
+      {
+        "word": "small",
+        "startMs": 10520,
+        "endMs": 10780
+      },
+      {
+        "word": "letters.",
+        "startMs": 10780,
+        "endMs": 11160
+      }
+    ],
+    "heard": "None of this waited for the Middle Ages. Scrolls buried at Herculaneum when Vesuvius erupted already show early forms of three of our small letters.",
+    "script": "None of this waited for the Middle Ages. Scrolls buried at Herculaneum when Vesuvius erupted already show early forms of three of our small letters."
+  },
+  "s09.d.flick": {
+    "durationMs": 13520,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "capital",
+        "startMs": 200,
+        "endMs": 700
+      },
+      {
+        "word": "D",
+        "startMs": 700,
+        "endMs": 1000
+      },
+      {
+        "word": "has",
+        "startMs": 1000,
+        "endMs": 1520
+      },
+      {
+        "word": "the",
+        "startMs": 1520,
+        "endMs": 1820
+      },
+      {
+        "word": "strangest",
+        "startMs": 1820,
+        "endMs": 2660
+      },
+      {
+        "word": "story.",
+        "startMs": 2660,
+        "endMs": 3060
+      },
+      {
+        "word": "The",
+        "startMs": 3380,
+        "endMs": 3900
+      },
+      {
+        "word": "tall",
+        "startMs": 3900,
+        "endMs": 4260
+      },
+      {
+        "word": "stroke",
+        "startMs": 4260,
+        "endMs": 4640
+      },
+      {
+        "word": "of",
+        "startMs": 4640,
+        "endMs": 4920
+      },
+      {
+        "word": "a",
+        "startMs": 4920,
+        "endMs": 5060
+      },
+      {
+        "word": "small",
+        "startMs": 5060,
+        "endMs": 5400
+      },
+      {
+        "word": "d",
+        "startMs": 5400,
+        "endMs": 5600
+      },
+      {
+        "word": "was",
+        "startMs": 5600,
+        "endMs": 6080
+      },
+      {
+        "word": "never",
+        "startMs": 6080,
+        "endMs": 6580
+      },
+      {
+        "word": "the",
+        "startMs": 6580,
+        "endMs": 6880
+      },
+      {
+        "word": "capital",
+        "startMs": 6880,
+        "endMs": 7220
+      },
+      {
+        "word": "stem.",
+        "startMs": 7220,
+        "endMs": 7600
+      },
+      {
+        "word": "It",
+        "startMs": 7960,
+        "endMs": 8420
+      },
+      {
+        "word": "began",
+        "startMs": 8420,
+        "endMs": 8780
+      },
+      {
+        "word": "as",
+        "startMs": 8780,
+        "endMs": 9280
+      },
+      {
+        "word": "a",
+        "startMs": 9280,
+        "endMs": 9560
+      },
+      {
+        "word": "tiny",
+        "startMs": 9560,
+        "endMs": 10100
+      },
+      {
+        "word": "overshoot",
+        "startMs": 10100,
+        "endMs": 10960
+      },
+      {
+        "word": "where",
+        "startMs": 10960,
+        "endMs": 11580
+      },
+      {
+        "word": "the",
+        "startMs": 11580,
+        "endMs": 11780
+      },
+      {
+        "word": "pen",
+        "startMs": 11780,
+        "endMs": 12040
+      },
+      {
+        "word": "started",
+        "startMs": 12040,
+        "endMs": 12560
+      },
+      {
+        "word": "its",
+        "startMs": 12560,
+        "endMs": 12880
+      },
+      {
+        "word": "curve.",
+        "startMs": 12880,
+        "endMs": 13180
+      }
+    ],
+    "heard": "The capital D has the strangest story. The tall stroke of a small d was never the capital stem. It began as a tiny overshoot where the pen started its curve.",
+    "script": "The capital D has the strangest story. The tall stroke of a small d was never the capital's stem. It began as a tiny overshoot, where the pen started its curve."
+  },
+  "s10.d.grow": {
+    "durationMs": 10640,
+    "words": [
+      {
+        "word": "Writers",
+        "startMs": 0,
+        "endMs": 440
+      },
+      {
+        "word": "let",
+        "startMs": 440,
+        "endMs": 780
+      },
+      {
+        "word": "that",
+        "startMs": 780,
+        "endMs": 1080
+      },
+      {
+        "word": "overshoot",
+        "startMs": 1080,
+        "endMs": 1940
+      },
+      {
+        "word": "grow",
+        "startMs": 1940,
+        "endMs": 2420
+      },
+      {
+        "word": "and",
+        "startMs": 2420,
+        "endMs": 3060
+      },
+      {
+        "word": "let",
+        "startMs": 3060,
+        "endMs": 3340
+      },
+      {
+        "word": "the",
+        "startMs": 3340,
+        "endMs": 3560
+      },
+      {
+        "word": "rest",
+        "startMs": 3560,
+        "endMs": 3800
+      },
+      {
+        "word": "of",
+        "startMs": 3800,
+        "endMs": 4020
+      },
+      {
+        "word": "the",
+        "startMs": 4020,
+        "endMs": 4120
+      },
+      {
+        "word": "letter",
+        "startMs": 4120,
+        "endMs": 4320
+      },
+      {
+        "word": "shrink",
+        "startMs": 4320,
+        "endMs": 4740
+      },
+      {
+        "word": "until",
+        "startMs": 4740,
+        "endMs": 5480
+      },
+      {
+        "word": "the",
+        "startMs": 5480,
+        "endMs": 5740
+      },
+      {
+        "word": "overshoot",
+        "startMs": 5740,
+        "endMs": 6440
+      },
+      {
+        "word": "was",
+        "startMs": 6440,
+        "endMs": 6700
+      },
+      {
+        "word": "the",
+        "startMs": 6700,
+        "endMs": 6880
+      },
+      {
+        "word": "tallest",
+        "startMs": 6880,
+        "endMs": 7400
+      },
+      {
+        "word": "part",
+        "startMs": 7400,
+        "endMs": 7760
+      },
+      {
+        "word": "of",
+        "startMs": 7760,
+        "endMs": 7920
+      },
+      {
+        "word": "it.",
+        "startMs": 7920,
+        "endMs": 8120
+      },
+      {
+        "word": "Then",
+        "startMs": 8460,
+        "endMs": 9020
+      },
+      {
+        "word": "it",
+        "startMs": 9020,
+        "endMs": 9420
+      },
+      {
+        "word": "stood",
+        "startMs": 9420,
+        "endMs": 9760
+      },
+      {
+        "word": "up",
+        "startMs": 9760,
+        "endMs": 9940
+      },
+      {
+        "word": "straight.",
+        "startMs": 9940,
+        "endMs": 10220
+      }
+    ],
+    "heard": "Writers let that overshoot grow and let the rest of the letter shrink until the overshoot was the tallest part of it. Then it stood up straight.",
+    "script": "Writers let that overshoot grow and let the rest of the letter shrink, until the overshoot was the tallest part of it. Then it stood up straight."
+  },
+  "s11.charlemagne": {
+    "durationMs": 11400,
+    "words": [
+      {
+        "word": "Around",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "the",
+        "startMs": 340,
+        "endMs": 560
+      },
+      {
+        "word": "year",
+        "startMs": 560,
+        "endMs": 840
+      },
+      {
+        "word": "800,",
+        "startMs": 840,
+        "endMs": 1380
+      },
+      {
+        "word": "Charlemagne",
+        "startMs": 1760,
+        "endMs": 2620
+      },
+      {
+        "word": "scribes",
+        "startMs": 2620,
+        "endMs": 3240
+      },
+      {
+        "word": "settled",
+        "startMs": 3240,
+        "endMs": 3640
+      },
+      {
+        "word": "these",
+        "startMs": 3640,
+        "endMs": 3920
+      },
+      {
+        "word": "small",
+        "startMs": 3920,
+        "endMs": 4280
+      },
+      {
+        "word": "letters",
+        "startMs": 4280,
+        "endMs": 4680
+      },
+      {
+        "word": "into",
+        "startMs": 4680,
+        "endMs": 5100
+      },
+      {
+        "word": "one",
+        "startMs": 5100,
+        "endMs": 5580
+      },
+      {
+        "word": "clear",
+        "startMs": 5580,
+        "endMs": 5940
+      },
+      {
+        "word": "hand,",
+        "startMs": 5940,
+        "endMs": 6400
+      },
+      {
+        "word": "and",
+        "startMs": 6560,
+        "endMs": 7040
+      },
+      {
+        "word": "most",
+        "startMs": 7040,
+        "endMs": 7320
+      },
+      {
+        "word": "of",
+        "startMs": 7320,
+        "endMs": 7520
+      },
+      {
+        "word": "the",
+        "startMs": 7520,
+        "endMs": 7640
+      },
+      {
+        "word": "Roman",
+        "startMs": 7640,
+        "endMs": 7880
+      },
+      {
+        "word": "books",
+        "startMs": 7880,
+        "endMs": 8240
+      },
+      {
+        "word": "we",
+        "startMs": 8240,
+        "endMs": 8460
+      },
+      {
+        "word": "still",
+        "startMs": 8460,
+        "endMs": 8780
+      },
+      {
+        "word": "have",
+        "startMs": 8780,
+        "endMs": 9240
+      },
+      {
+        "word": "survive",
+        "startMs": 9240,
+        "endMs": 9720
+      },
+      {
+        "word": "in",
+        "startMs": 9720,
+        "endMs": 10120
+      },
+      {
+        "word": "copies",
+        "startMs": 10120,
+        "endMs": 10500
+      },
+      {
+        "word": "they",
+        "startMs": 10500,
+        "endMs": 10760
+      },
+      {
+        "word": "made.",
+        "startMs": 10760,
+        "endMs": 11020
+      }
+    ],
+    "heard": "Around the year 800, Charlemagne scribes settled these small letters into one clear hand, and most of the Roman books we still have survive in copies they made.",
+    "script": "Around the year eight hundred, Charlemagne's scribes settled these small letters into one clear hand, and most of the Roman books we still have survive in copies they made."
+  },
+  "s12.mistake": {
+    "durationMs": 12080,
+    "words": [
+      {
+        "word": "Then",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "the",
+        "startMs": 300,
+        "endMs": 620
+      },
+      {
+        "word": "hand",
+        "startMs": 620,
+        "endMs": 960
+      },
+      {
+        "word": "was",
+        "startMs": 960,
+        "endMs": 1300
+      },
+      {
+        "word": "buried",
+        "startMs": 1300,
+        "endMs": 1780
+      },
+      {
+        "word": "under",
+        "startMs": 1780,
+        "endMs": 2160
+      },
+      {
+        "word": "spiky",
+        "startMs": 2160,
+        "endMs": 2800
+      },
+      {
+        "word": "Gothic",
+        "startMs": 2800,
+        "endMs": 3120
+      },
+      {
+        "word": "script",
+        "startMs": 3120,
+        "endMs": 3540
+      },
+      {
+        "word": "for",
+        "startMs": 3540,
+        "endMs": 3860
+      },
+      {
+        "word": "two",
+        "startMs": 3860,
+        "endMs": 4020
+      },
+      {
+        "word": "centuries,",
+        "startMs": 4020,
+        "endMs": 4440
+      },
+      {
+        "word": "and",
+        "startMs": 4720,
+        "endMs": 5320
+      },
+      {
+        "word": "it",
+        "startMs": 5320,
+        "endMs": 5560
+      },
+      {
+        "word": "came",
+        "startMs": 5560,
+        "endMs": 5880
+      },
+      {
+        "word": "back",
+        "startMs": 5880,
+        "endMs": 6140
+      },
+      {
+        "word": "by",
+        "startMs": 6140,
+        "endMs": 6360
+      },
+      {
+        "word": "mistake.",
+        "startMs": 6360,
+        "endMs": 6840
+      },
+      {
+        "word": "Renaissance",
+        "startMs": 7260,
+        "endMs": 7900
+      },
+      {
+        "word": "scholars",
+        "startMs": 7900,
+        "endMs": 8420
+      },
+      {
+        "word": "found",
+        "startMs": 8420,
+        "endMs": 8840
+      },
+      {
+        "word": "those",
+        "startMs": 8840,
+        "endMs": 9080
+      },
+      {
+        "word": "old",
+        "startMs": 9080,
+        "endMs": 9300
+      },
+      {
+        "word": "books",
+        "startMs": 9300,
+        "endMs": 9620
+      },
+      {
+        "word": "and",
+        "startMs": 9620,
+        "endMs": 9940
+      },
+      {
+        "word": "took",
+        "startMs": 9940,
+        "endMs": 10140
+      },
+      {
+        "word": "them",
+        "startMs": 10140,
+        "endMs": 10360
+      },
+      {
+        "word": "for",
+        "startMs": 10360,
+        "endMs": 10620
+      },
+      {
+        "word": "ancient",
+        "startMs": 10620,
+        "endMs": 11040
+      },
+      {
+        "word": "Roman",
+        "startMs": 11040,
+        "endMs": 11380
+      },
+      {
+        "word": "ones.",
+        "startMs": 11380,
+        "endMs": 11700
+      }
+    ],
+    "heard": "Then the hand was buried under spiky Gothic script for two centuries, and it came back by mistake. Renaissance scholars found those old books and took them for ancient Roman ones.",
+    "script": "Then the hand was buried under spiky Gothic script for two centuries, and it came back by mistake. Renaissance scholars found those old books and took them for ancient Roman ones."
+  },
+  "s13.case": {
+    "durationMs": 8920,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "they",
+        "startMs": 240,
+        "endMs": 580
+      },
+      {
+        "word": "copied",
+        "startMs": 580,
+        "endMs": 940
+      },
+      {
+        "word": "the",
+        "startMs": 940,
+        "endMs": 1060
+      },
+      {
+        "word": "letters,",
+        "startMs": 1060,
+        "endMs": 1380
+      },
+      {
+        "word": "and",
+        "startMs": 1580,
+        "endMs": 1980
+      },
+      {
+        "word": "printers",
+        "startMs": 1980,
+        "endMs": 2360
+      },
+      {
+        "word": "kept",
+        "startMs": 2360,
+        "endMs": 2720
+      },
+      {
+        "word": "the",
+        "startMs": 2720,
+        "endMs": 2880
+      },
+      {
+        "word": "metal",
+        "startMs": 2880,
+        "endMs": 3060
+      },
+      {
+        "word": "type",
+        "startMs": 3060,
+        "endMs": 3340
+      },
+      {
+        "word": "for",
+        "startMs": 3340,
+        "endMs": 3520
+      },
+      {
+        "word": "them",
+        "startMs": 3520,
+        "endMs": 3720
+      },
+      {
+        "word": "in",
+        "startMs": 3720,
+        "endMs": 3980
+      },
+      {
+        "word": "a",
+        "startMs": 3980,
+        "endMs": 4120
+      },
+      {
+        "word": "second",
+        "startMs": 4120,
+        "endMs": 4420
+      },
+      {
+        "word": "tray,",
+        "startMs": 4420,
+        "endMs": 4720
+      },
+      {
+        "word": "below",
+        "startMs": 4900,
+        "endMs": 5240
+      },
+      {
+        "word": "the",
+        "startMs": 5240,
+        "endMs": 5460
+      },
+      {
+        "word": "one",
+        "startMs": 5460,
+        "endMs": 5580
+      },
+      {
+        "word": "for",
+        "startMs": 5580,
+        "endMs": 5740
+      },
+      {
+        "word": "capitals.",
+        "startMs": 5740,
+        "endMs": 6180
+      },
+      {
+        "word": "That",
+        "startMs": 6460,
+        "endMs": 6920
+      },
+      {
+        "word": "is",
+        "startMs": 6920,
+        "endMs": 7040
+      },
+      {
+        "word": "why",
+        "startMs": 7040,
+        "endMs": 7220
+      },
+      {
+        "word": "we",
+        "startMs": 7220,
+        "endMs": 7400
+      },
+      {
+        "word": "call",
+        "startMs": 7400,
+        "endMs": 7620
+      },
+      {
+        "word": "them",
+        "startMs": 7620,
+        "endMs": 7860
+      },
+      {
+        "word": "lowercase.",
+        "startMs": 7860,
+        "endMs": 8620
+      }
+    ],
+    "heard": "So they copied the letters, and printers kept the metal type for them in a second tray, below the one for capitals. That is why we call them lowercase.",
+    "script": "So they copied the letters, and printers kept the metal type for them in a second tray, below the one for capitals. That is why we call them lower case."
+  },
+  "s14.recap": {
+    "durationMs": 9640,
+    "words": [
+      {
+        "word": "Four",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "capitals",
+        "startMs": 360,
+        "endMs": 1040
+      },
+      {
+        "word": "and",
+        "startMs": 1040,
+        "endMs": 1560
+      },
+      {
+        "word": "two",
+        "startMs": 1560,
+        "endMs": 1880
+      },
+      {
+        "word": "habits.",
+        "startMs": 1880,
+        "endMs": 2340
+      },
+      {
+        "word": "Round",
+        "startMs": 2640,
+        "endMs": 3220
+      },
+      {
+        "word": "off",
+        "startMs": 3220,
+        "endMs": 3460
+      },
+      {
+        "word": "the",
+        "startMs": 3460,
+        "endMs": 3600
+      },
+      {
+        "word": "corners,",
+        "startMs": 3600,
+        "endMs": 4020
+      },
+      {
+        "word": "save",
+        "startMs": 4300,
+        "endMs": 4700
+      },
+      {
+        "word": "the",
+        "startMs": 4700,
+        "endMs": 4880
+      },
+      {
+        "word": "strokes.",
+        "startMs": 4880,
+        "endMs": 5260
+      },
+      {
+        "word": "Everything",
+        "startMs": 5720,
+        "endMs": 6260
+      },
+      {
+        "word": "else",
+        "startMs": 6260,
+        "endMs": 6580
+      },
+      {
+        "word": "followed",
+        "startMs": 6580,
+        "endMs": 6980
+      },
+      {
+        "word": "from",
+        "startMs": 6980,
+        "endMs": 7260
+      },
+      {
+        "word": "a",
+        "startMs": 7260,
+        "endMs": 7400
+      },
+      {
+        "word": "pen",
+        "startMs": 7400,
+        "endMs": 7680
+      },
+      {
+        "word": "trying",
+        "startMs": 7680,
+        "endMs": 8060
+      },
+      {
+        "word": "to",
+        "startMs": 8060,
+        "endMs": 8280
+      },
+      {
+        "word": "keep",
+        "startMs": 8280,
+        "endMs": 8500
+      },
+      {
+        "word": "up",
+        "startMs": 8500,
+        "endMs": 8700
+      },
+      {
+        "word": "with",
+        "startMs": 8700,
+        "endMs": 8840
+      },
+      {
+        "word": "a",
+        "startMs": 8840,
+        "endMs": 8960
+      },
+      {
+        "word": "hand.",
+        "startMs": 8960,
+        "endMs": 9260
+      }
+    ],
+    "heard": "Four capitals and two habits. Round off the corners, save the strokes. Everything else followed from a pen trying to keep up with a hand.",
+    "script": "Four capitals and two habits: round off the corners, save the strokes. Everything else followed from a pen trying to keep up with a hand."
+  },
+  "s15.close": {
+    "durationMs": 3280,
+    "words": [
+      {
+        "word": "Every",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "small",
+        "startMs": 360,
+        "endMs": 720
+      },
+      {
+        "word": "letter",
+        "startMs": 720,
+        "endMs": 1080
+      },
+      {
+        "word": "you",
+        "startMs": 1080,
+        "endMs": 1300
+      },
+      {
+        "word": "type",
+        "startMs": 1300,
+        "endMs": 1640
+      },
+      {
+        "word": "is",
+        "startMs": 1640,
+        "endMs": 1960
+      },
+      {
+        "word": "still",
+        "startMs": 1960,
+        "endMs": 2320
+      },
+      {
+        "word": "in",
+        "startMs": 2320,
+        "endMs": 2500
+      },
+      {
+        "word": "a",
+        "startMs": 2500,
+        "endMs": 2560
+      },
+      {
+        "word": "hurry.",
+        "startMs": 2560,
+        "endMs": 2820
+      }
+    ],
+    "heard": "Every small letter you type is still in a hurry.",
+    "script": "Every small letter you type is still in a hurry."
+  }
+}

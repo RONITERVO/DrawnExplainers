@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s08.herculaneum",
+  "text": "None of this waited for the Middle Ages. Scrolls buried at Herculaneum when Vesuvius erupted already show early forms of three of our small letters.",
+  "durationMs": 11600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 300,
+      "endMs": 1560,
+      "startChar": 20,
+      "endChar": 24
+    },
+    {
+      "startMs": 1560,
+      "endMs": 1720,
+      "startChar": 24,
+      "endChar": 28
+    },
+    {
+      "startMs": 1720,
+      "endMs": 1880,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2240,
+      "startChar": 35,
+      "endChar": 41
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2800,
+      "startChar": 41,
+      "endChar": 49
+    },
+    {
+      "startMs": 2800,
+      "endMs": 2875,
+      "startChar": 49,
+      "endChar": 56
+    },
+    {
+      "startMs": 2875,
+      "endMs": 4520,
+      "startChar": 56,
+      "endChar": 59
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4680,
+      "startChar": 59,
+      "endChar": 71
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5640,
+      "startChar": 71,
+      "endChar": 76
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5840,
+      "startChar": 76,
+      "endChar": 85
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6520,
+      "startChar": 85,
+      "endChar": 93
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7200,
+      "startChar": 93,
+      "endChar": 101
+    },
+    {
+      "startMs": 7200,
+      "endMs": 8120,
+      "startChar": 101,
+      "endChar": 106
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8560,
+      "startChar": 106,
+      "endChar": 112
+    },
+    {
+      "startMs": 8560,
+      "endMs": 9040,
+      "startChar": 112,
+      "endChar": 118
+    },
+    {
+      "startMs": 9040,
+      "endMs": 9300,
+      "startChar": 118,
+      "endChar": 121
+    },
+    {
+      "startMs": 9300,
+      "endMs": 9560,
+      "startChar": 121,
+      "endChar": 127
+    },
+    {
+      "startMs": 9560,
+      "endMs": 10200,
+      "startChar": 127,
+      "endChar": 130
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10300,
+      "startChar": 130,
+      "endChar": 134
+    },
+    {
+      "startMs": 10300,
+      "endMs": 10400,
+      "startChar": 134,
+      "endChar": 140
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10840,
+      "startChar": 140,
+      "endChar": 148
+    }
+  ]
+}

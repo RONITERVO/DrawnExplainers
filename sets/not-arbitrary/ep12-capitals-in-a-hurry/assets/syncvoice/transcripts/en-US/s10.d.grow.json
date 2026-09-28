@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s10.d.grow",
+  "text": "Writers let that overshoot grow and let the rest of the letter shrink, until the overshoot was the tallest part of it. Then it stood up straight.",
+  "durationMs": 10640,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 17,
+      "endChar": 27
+    },
+    {
+      "startMs": 1200,
+      "endMs": 2040,
+      "startChar": 27,
+      "endChar": 32
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2680,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3200,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3320,
+      "startChar": 40,
+      "endChar": 44
+    },
+    {
+      "startMs": 3320,
+      "endMs": 3440,
+      "startChar": 44,
+      "endChar": 49
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3680,
+      "startChar": 49,
+      "endChar": 52
+    },
+    {
+      "startMs": 3680,
+      "endMs": 3920,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4120,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4400,
+      "startChar": 63,
+      "endChar": 71
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4960,
+      "startChar": 71,
+      "endChar": 77
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5600,
+      "startChar": 77,
+      "endChar": 81
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5840,
+      "startChar": 81,
+      "endChar": 91
+    },
+    {
+      "startMs": 5840,
+      "endMs": 6560,
+      "startChar": 91,
+      "endChar": 95
+    },
+    {
+      "startMs": 6560,
+      "endMs": 6760,
+      "startChar": 95,
+      "endChar": 99
+    },
+    {
+      "startMs": 6760,
+      "endMs": 6960,
+      "startChar": 99,
+      "endChar": 107
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7600,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 7600,
+      "endMs": 7720,
+      "startChar": 112,
+      "endChar": 115
+    },
+    {
+      "startMs": 7720,
+      "endMs": 7840,
+      "startChar": 115,
+      "endChar": 119
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8240,
+      "startChar": 119,
+      "endChar": 124
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8320,
+      "startChar": 124,
+      "endChar": 127
+    },
+    {
+      "startMs": 8320,
+      "endMs": 8440,
+      "startChar": 127,
+      "endChar": 133
+    },
+    {
+      "startMs": 8440,
+      "endMs": 9140,
+      "startChar": 133,
+      "endChar": 136
+    },
+    {
+      "startMs": 9140,
+      "endMs": 9840,
+      "startChar": 136,
+      "endChar": 145
+    }
+  ]
+}

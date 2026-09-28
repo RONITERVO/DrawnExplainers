@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 11 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 12 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -170,8 +170,13 @@ node lib/build.mjs <ep>
 - **Pass `emerge` to travel() and detach().** Without it a move opens on the
   same drawing twice, a few pixels apart, for most of a second, because the
   copy starts at full opacity over a source that has barely begun to thin.
-  0.15-0.2 makes it peel off instead. Off by default only so the published
-  films re-render identically; new episodes should use it.
+  0.18 suits a long move (500px and more); a short one needs more - episode
+  12's letters, moving about 480px, still doubled at 0.18 and needed 0.35.
+  Off by default only so the published films re-render identically.
+- **triptych() for a chain of three attested states.** Source, middle form,
+  result, each travelling out of the one before, with the first pair holding
+  the centre until the third is on its way. Episodes 9, 10 and 12 each wrote
+  it by hand before it went into the kit.
 - **Never fade a source to zero.** Thin it to about a quarter and leave it where
   it stood. The commonest empty page in these films is the six seconds between a
   mark landing and the narrator finishing, and the commonest cause is having

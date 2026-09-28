@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "externalId": "s15.close",
+  "text": "Every small letter you type is still in a hurry.",
+  "durationMs": 3280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 12,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 693,
+      "startChar": 19,
+      "endChar": 23
+    },
+    {
+      "startMs": 693,
+      "endMs": 1160,
+      "startChar": 23,
+      "endChar": 28
+    },
+    {
+      "startMs": 1160,
+      "endMs": 1760,
+      "startChar": 28,
+      "endChar": 31
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2120,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2213,
+      "startChar": 37,
+      "endChar": 40
+    },
+    {
+      "startMs": 2213,
+      "endMs": 2307,
+      "startChar": 40,
+      "endChar": 42
+    },
+    {
+      "startMs": 2307,
+      "endMs": 2400,
+      "startChar": 42,
+      "endChar": 48
+    }
+  ]
+}
