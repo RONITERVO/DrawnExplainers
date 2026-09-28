@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s07.v",
+  "text": "The copy from the end of the line reached Rome without its stem. There it spelled a vowel, and it also spelled the sound that begins the word wine.",
+  "durationMs": 10240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 593,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 593,
+      "endMs": 960,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 960,
+      "endMs": 1200,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1440,
+      "startChar": 25,
+      "endChar": 29
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1640,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2160,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2680,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 2680,
+      "endMs": 3160,
+      "startChar": 47,
+      "endChar": 55
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3560,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 3560,
+      "endMs": 3720,
+      "startChar": 59,
+      "endChar": 65
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4160,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4280,
+      "startChar": 71,
+      "endChar": 74
+    },
+    {
+      "startMs": 4280,
+      "endMs": 5240,
+      "startChar": 74,
+      "endChar": 82
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5460,
+      "startChar": 82,
+      "endChar": 84
+    },
+    {
+      "startMs": 5460,
+      "endMs": 5680,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5980,
+      "startChar": 91,
+      "endChar": 95
+    },
+    {
+      "startMs": 5980,
+      "endMs": 6280,
+      "startChar": 95,
+      "endChar": 98
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6440,
+      "startChar": 98,
+      "endChar": 103
+    },
+    {
+      "startMs": 6440,
+      "endMs": 7280,
+      "startChar": 103,
+      "endChar": 111
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7440,
+      "startChar": 111,
+      "endChar": 115
+    },
+    {
+      "startMs": 7440,
+      "endMs": 7600,
+      "startChar": 115,
+      "endChar": 121
+    },
+    {
+      "startMs": 7600,
+      "endMs": 7880,
+      "startChar": 121,
+      "endChar": 126
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8160,
+      "startChar": 126,
+      "endChar": 133
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8540,
+      "startChar": 133,
+      "endChar": 137
+    },
+    {
+      "startMs": 8540,
+      "endMs": 8920,
+      "startChar": 137,
+      "endChar": 142
+    },
+    {
+      "startMs": 8920,
+      "endMs": 9560,
+      "startChar": 142,
+      "endChar": 147
+    }
+  ]
+}

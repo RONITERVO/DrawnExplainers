@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s08.twojobs",
+  "text": "For more than a thousand years, one letter did both jobs. Scribes wrote it pointed at the start of a word and rounded everywhere else, whatever sound it made.",
+  "durationMs": 12480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 300,
+      "endMs": 375,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 375,
+      "endMs": 1760,
+      "startChar": 25,
+      "endChar": 32
+    },
+    {
+      "startMs": 1760,
+      "endMs": 2400,
+      "startChar": 32,
+      "endChar": 36
+    },
+    {
+      "startMs": 2400,
+      "endMs": 2960,
+      "startChar": 36,
+      "endChar": 43
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3480,
+      "startChar": 43,
+      "endChar": 47
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3920,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4280,
+      "startChar": 52,
+      "endChar": 58
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4920,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 4920,
+      "endMs": 4995,
+      "startChar": 66,
+      "endChar": 72
+    },
+    {
+      "startMs": 4995,
+      "endMs": 5120,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 5120,
+      "endMs": 6400,
+      "startChar": 75,
+      "endChar": 83
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7440,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 7440,
+      "endMs": 7540,
+      "startChar": 86,
+      "endChar": 90
+    },
+    {
+      "startMs": 7540,
+      "endMs": 7640,
+      "startChar": 90,
+      "endChar": 96
+    },
+    {
+      "startMs": 7640,
+      "endMs": 7840,
+      "startChar": 96,
+      "endChar": 99
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8040,
+      "startChar": 99,
+      "endChar": 101
+    },
+    {
+      "startMs": 8040,
+      "endMs": 8200,
+      "startChar": 101,
+      "endChar": 106
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8680,
+      "startChar": 106,
+      "endChar": 110
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9320,
+      "startChar": 110,
+      "endChar": 118
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9960,
+      "startChar": 118,
+      "endChar": 129
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10480,
+      "startChar": 129,
+      "endChar": 135
+    },
+    {
+      "startMs": 10480,
+      "endMs": 10920,
+      "startChar": 135,
+      "endChar": 144
+    },
+    {
+      "startMs": 10920,
+      "endMs": 11520,
+      "startChar": 144,
+      "endChar": 150
+    },
+    {
+      "startMs": 11520,
+      "endMs": 11680,
+      "startChar": 150,
+      "endChar": 153
+    },
+    {
+      "startMs": 11680,
+      "endMs": 11840,
+      "startChar": 153,
+      "endChar": 158
+    }
+  ]
+}

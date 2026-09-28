@@ -101,6 +101,7 @@ for whoever wants them.
 | 07 | Roman Numerals Are Not Letters | 2:36 | rendered |
 | 08 | Four Symbols That Are Just Handwriting | 2:38 | rendered |
 | 09 | The Horse Is Standing on Its Tail | 2:31 | rendered |
+| 10 | Five Letters That Are One Letter | 2:30 | rendered |
 
 ## Candidates for later episodes
 
@@ -119,11 +120,18 @@ someone else's set:
   episode 9: 2 and 3 really are two and three strokes joined up, but only
   those two are morphs - Wikipedia's Brahmi numerals calls 4-9 arbitrary in
   even the oldest inscriptions - so it is a short thread, not a film.
-- Accents are letters written small: the umlaut is a superscript e (two short
-  strokes in Kurrent), the cedilla the bottom half of a small cursive z, the
-  ring on å a small o (the one that never changed shape, so the episode's
-  non-morph). Well sourced and ready. Leave out the tilde: its origin as a
-  shrunken n is citation-needed and seemingly contradicted by Reimer (2015).
+- Accents are letters written small (refused for episode 10 on gate 2, after
+  being listed here as ready). The dots of the umlaut stand for an e, but the
+  shape derivation - two Kurrent strokes worn to two dots - is flagged by the
+  umlaut article's own editors as unreferenced and contradicted by two-dot
+  umlauts in the 14th century, before Kurrent existed. The tilde was already
+  out. Only the cedilla (the foot of a small cursive z) is a documented shape
+  change, which is one thread, not a film.
+- The male and female symbols as contracted Greek letters. Checked for
+  episode 10: the planetary-symbol scholarship settles Jupiter and Saturn as
+  Greek monograms, but not Mars or Venus, and a 12th-century Byzantine diagram
+  draws Mars as a shield and spear. The two symbols people use every day are
+  the two it leaves open.
 - Hangul as pictures of the mouth (refused for episode 9 on gate 2, and the
   hardest refusal yet, because the 1446 Haerye says it in the designers' own
   words). Ledyard derives the base consonants from 'Phags-pa and calls the
