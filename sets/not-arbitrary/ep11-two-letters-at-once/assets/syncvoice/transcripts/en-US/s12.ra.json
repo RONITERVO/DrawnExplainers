@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "externalId": "s12.ra",
+  "text": "Take the upright away from the letter R, and what is left is also the Devanagari letter for the same sound, hanging from its line. Readers of either script find their own letter.",
+  "durationMs": 13000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 1280,
+      "startChar": 17,
+      "endChar": 22
+    },
+    {
+      "startMs": 1280,
+      "endMs": 1680,
+      "startChar": 22,
+      "endChar": 27
+    },
+    {
+      "startMs": 1680,
+      "endMs": 1800,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 1800,
+      "endMs": 1920,
+      "startChar": 31,
+      "endChar": 38
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2360,
+      "startChar": 38,
+      "endChar": 41
+    },
+    {
+      "startMs": 2360,
+      "endMs": 2760,
+      "startChar": 41,
+      "endChar": 45
+    },
+    {
+      "startMs": 2760,
+      "endMs": 2835,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 2835,
+      "endMs": 3520,
+      "startChar": 50,
+      "endChar": 53
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3720,
+      "startChar": 53,
+      "endChar": 58
+    },
+    {
+      "startMs": 3720,
+      "endMs": 4240,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4560,
+      "startChar": 61,
+      "endChar": 66
+    },
+    {
+      "startMs": 4560,
+      "endMs": 5040,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5280,
+      "startChar": 70,
+      "endChar": 81
+    },
+    {
+      "startMs": 5280,
+      "endMs": 6080,
+      "startChar": 81,
+      "endChar": 88
+    },
+    {
+      "startMs": 6080,
+      "endMs": 6440,
+      "startChar": 88,
+      "endChar": 92
+    },
+    {
+      "startMs": 6440,
+      "endMs": 6520,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6600,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7000,
+      "startChar": 101,
+      "endChar": 108
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7480,
+      "startChar": 108,
+      "endChar": 116
+    },
+    {
+      "startMs": 7480,
+      "endMs": 8200,
+      "startChar": 116,
+      "endChar": 121
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8440,
+      "startChar": 121,
+      "endChar": 125
+    },
+    {
+      "startMs": 8440,
+      "endMs": 8680,
+      "startChar": 125,
+      "endChar": 131
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9120,
+      "startChar": 131,
+      "endChar": 139
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9195,
+      "startChar": 139,
+      "endChar": 142
+    },
+    {
+      "startMs": 9195,
+      "endMs": 9270,
+      "startChar": 142,
+      "endChar": 149
+    },
+    {
+      "startMs": 9270,
+      "endMs": 9400,
+      "startChar": 149,
+      "endChar": 156
+    },
+    {
+      "startMs": 9400,
+      "endMs": 11560,
+      "startChar": 156,
+      "endChar": 161
+    },
+    {
+      "startMs": 11560,
+      "endMs": 11960,
+      "startChar": 161,
+      "endChar": 167
+    },
+    {
+      "startMs": 11960,
+      "endMs": 12240,
+      "startChar": 167,
+      "endChar": 171
+    },
+    {
+      "startMs": 12240,
+      "endMs": 12480,
+      "startChar": 171,
+      "endChar": 178
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "externalId": "s07.harald",
+  "text": "The Bluetooth sign uses a far older alphabet. In nineteen ninety-seven, an engineer at Intel named a new radio after a Danish king who had united his country, as the radio would unite machines.",
+  "durationMs": 15000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 441,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 441,
+      "endMs": 882,
+      "startChar": 4,
+      "endChar": 14
+    },
+    {
+      "startMs": 882,
+      "endMs": 1324,
+      "startChar": 14,
+      "endChar": 19
+    },
+    {
+      "startMs": 1324,
+      "endMs": 1765,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1765,
+      "endMs": 2206,
+      "startChar": 24,
+      "endChar": 26
+    },
+    {
+      "startMs": 2206,
+      "endMs": 2647,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 2647,
+      "endMs": 3088,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 3088,
+      "endMs": 3529,
+      "startChar": 36,
+      "endChar": 46
+    },
+    {
+      "startMs": 3529,
+      "endMs": 3971,
+      "startChar": 46,
+      "endChar": 49
+    },
+    {
+      "startMs": 3971,
+      "endMs": 4412,
+      "startChar": 49,
+      "endChar": 58
+    },
+    {
+      "startMs": 4412,
+      "endMs": 4853,
+      "startChar": 58,
+      "endChar": 72
+    },
+    {
+      "startMs": 4853,
+      "endMs": 5294,
+      "startChar": 72,
+      "endChar": 75
+    },
+    {
+      "startMs": 5294,
+      "endMs": 5735,
+      "startChar": 75,
+      "endChar": 84
+    },
+    {
+      "startMs": 5735,
+      "endMs": 6176,
+      "startChar": 84,
+      "endChar": 87
+    },
+    {
+      "startMs": 6176,
+      "endMs": 6618,
+      "startChar": 87,
+      "endChar": 93
+    },
+    {
+      "startMs": 6618,
+      "endMs": 7059,
+      "startChar": 93,
+      "endChar": 99
+    },
+    {
+      "startMs": 7059,
+      "endMs": 7500,
+      "startChar": 99,
+      "endChar": 101
+    },
+    {
+      "startMs": 7500,
+      "endMs": 7941,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 7941,
+      "endMs": 8382,
+      "startChar": 105,
+      "endChar": 111
+    },
+    {
+      "startMs": 8382,
+      "endMs": 8824,
+      "startChar": 111,
+      "endChar": 117
+    },
+    {
+      "startMs": 8824,
+      "endMs": 9265,
+      "startChar": 117,
+      "endChar": 119
+    },
+    {
+      "startMs": 9265,
+      "endMs": 9706,
+      "startChar": 119,
+      "endChar": 126
+    },
+    {
+      "startMs": 9706,
+      "endMs": 10147,
+      "startChar": 126,
+      "endChar": 131
+    },
+    {
+      "startMs": 10147,
+      "endMs": 10588,
+      "startChar": 131,
+      "endChar": 135
+    },
+    {
+      "startMs": 10588,
+      "endMs": 11029,
+      "startChar": 135,
+      "endChar": 139
+    },
+    {
+      "startMs": 11029,
+      "endMs": 11471,
+      "startChar": 139,
+      "endChar": 146
+    },
+    {
+      "startMs": 11471,
+      "endMs": 11912,
+      "startChar": 146,
+      "endChar": 150
+    },
+    {
+      "startMs": 11912,
+      "endMs": 12353,
+      "startChar": 150,
+      "endChar": 159
+    },
+    {
+      "startMs": 12353,
+      "endMs": 12794,
+      "startChar": 159,
+      "endChar": 162
+    },
+    {
+      "startMs": 12794,
+      "endMs": 13235,
+      "startChar": 162,
+      "endChar": 166
+    },
+    {
+      "startMs": 13235,
+      "endMs": 13676,
+      "startChar": 166,
+      "endChar": 172
+    },
+    {
+      "startMs": 13676,
+      "endMs": 14118,
+      "startChar": 172,
+      "endChar": 178
+    },
+    {
+      "startMs": 14118,
+      "endMs": 14559,
+      "startChar": 178,
+      "endChar": 184
+    },
+    {
+      "startMs": 14559,
+      "endMs": 15000,
+      "startChar": 184,
+      "endChar": 193
+    }
+  ]
+}

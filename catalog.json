@@ -1,6 +1,6 @@
 {
   "project": "Drawn Explainers",
-  "updated": "2026-09-12",
+  "updated": "2026-09-28",
   "conventions": {
     "runtimeRange": "90-180 seconds",
     "resolution": "1920x1080",
@@ -128,6 +128,16 @@
           "renderedAt": "2026-09-28",
           "video": "sets/not-arbitrary/ep10-one-hook-five-letters/out.mp4",
           "detail": "sets/not-arbitrary/ep10-one-hook-five-letters/episode.json"
+        },
+        {
+          "episode": 11,
+          "slug": "ep11-two-letters-at-once",
+          "title": "The Peace Sign Is Two Letters",
+          "runtimeSeconds": 164.8,
+          "status": "rendered",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep11-two-letters-at-once/out.mp4",
+          "detail": "sets/not-arbitrary/ep11-two-letters-at-once/episode.json"
         }
       ]
     }

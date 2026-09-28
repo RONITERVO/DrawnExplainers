@@ -1,0 +1,125 @@
+{
+  "set": "not-arbitrary",
+  "episode": 11,
+  "slug": "ep11-two-letters-at-once",
+  "title": "The Peace Sign Is Two Letters",
+  "thesis": "Three signs designed in the last seventy years are each two letters written one on top of the other. The peace sign is the flag-semaphore signals for N and D - both flags held low and out, and one up and one down - laid over each other and set in a circle by Gerald Holtom in 1958, for nuclear disarmament. The Bluetooth logo is the initials of Harald Bluetooth, the tenth-century Danish king an Intel engineer named the radio after, written in the runes of his own stone and bound onto a single stem, the way rune carvers had joined letters for centuries. And the rupee sign, chosen by India in 2010, is a Roman R without its upright - which is also the Devanagari letter for the same sound, hanging from its line, with the line doubled. They only look like abstract designs because nobody reads the alphabets they are written in as alphabets.",
+  "runtimeSeconds": 164.8,
+  "renderedAt": "2026-09-28",
+  "status": "rendered",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written by a subagent following the drawn-explainer skill, while the parent agent made episode 12 in the same working tree. The user asked for this episode; the subject was chosen by the author from a shortlist the parent gave (designed symbols, the Alexandrian editing marks, cuneiform) after checking all four gates against the sources, and narrowed from the parent's peace sign / Bluetooth / euro to peace sign / Bluetooth / rupee."
+  },
+  "sourcing": {
+    "primary": "Each derivation is its designer's own recorded account, read from source rather than from a summary. Peace sign: the Campaign for Nuclear Disarmament's 'History of the Symbol' (https://cnduk.org/the-symbol/): Holtom 'explained that the symbol incorporated the semaphore letters N(uclear) and D(isarmament)', and later wrote to Hugh Brock, editor of Peace News: 'I was in despair. Deep despair. I drew myself: the representative of an individual in despair, with hands palm outstretched outwards and downwards in the manner of Goya's peasant before the firing squad. I formalised the drawing into a line and put a circle around it.' BBC News, 'World's best-known protest symbol turns 50' (Kathryn Westcott, 20 March 2008, http://news.bbc.co.uk/2/hi/uk_news/magazine/7292252.stm): 'settled on using letters from the semaphore - or flag-signalling - alphabet, super-imposing N (uclear) on D (isarmament) and placing them within a circle symbolising Earth.' The Manchester Guardian's report of the first day of the march, 5 April 1958: 'Above them bobbed the signs of the Campaign for Nuclear Disarmament, a sort of formalised white butterfly which, it appeared, was the semaphore sign for \"N.D.\"' - so the reading is contemporary with the sign, not a later explanation of it.",
+    "supporting": [
+      "Bluetooth: Wikipedia, 'Bluetooth' (https://en.wikipedia.org/wiki/Bluetooth), Logo section, citing the Bluetooth SIG's own account: 'The Bluetooth logo is a bind rune merging the Younger Futhark runes ᚼ (Hagall) and ᛒ (Bjarkan), Harald's initials.' Etymology section: the name 'was proposed in 1997 by Jim Kardach of Intel ... Upon discovering a picture of the runestone of Harald Bluetooth in the book A History of the Vikings by Gwyn Jones, Kardach proposed Bluetooth as the codename'; Harald 'united the disparate Danish tribes into a single kingdom; Kardach chose the name to imply that Bluetooth similarly unites communication protocols.'",
+      "The logo's geometry was read from Wikimedia Commons' 'Bluetooth.svg', whose mark is a single path - m157 330 305 307-147 178V179l147 170-305 299 - and is exactly a stem, the two pointed bowls of ᛒ, and the X of ᚼ crossing the stem at its middle with its right-hand arms ending on ᛒ's vertices. The bind is therefore not an approximation: the logo is the union of the two runes.",
+      "Bind runes: Wikipedia, 'Bind rune': 'two (or rarely three) adjacent runes which are joined together to form a single conjoined glyph, usually sharing a common vertical stroke'; 'extremely rare in Viking Age inscriptions, but ... common in earlier (Proto-Norse) and later (medieval) inscriptions'. The script says carvers were joining letters that way 'long before he was born', which is the Proto-Norse evidence, and does not claim Viking-age carvers did it.",
+      "Harald's stone: Wikipedia, 'Jelling stones', the inscription of DR 42 (Rundata): ᚼᛅᚱᛅᛚᛏᚱ ᛬ ᚴᚢᚾᚢᚴᛦ ᛬ ᛒᛅᚦ ᛬ ᚴᛅᚢᚱᚢᛅ ... - 'King Haraldr ordered these monuments made'. The stone on screen carries the opening words of that inscription in order (haraltr, kunukʀ, baþ, kaurua, kubl, þausi, aft, kurm), re-wrapped into three bands to fit the drawing; the real stone breaks its lines elsewhere. His name is its first word. The b-rune lifted out of it is the first rune of baþ ('ordered') - the stone never uses his epithet - and is labelled only with what it stands for in the logo.",
+      "Rupee: Wikipedia, 'Indian rupee sign' (https://en.wikipedia.org/wiki/Indian_rupee_sign): 'The new sign is a combination of the Devanagari letter ra, र, and the Latin capital letter R without its vertical bar'; 'based on the Devanagari letter (र) with a double horizontal line at the top'; 'The parallel lines at the top ... makes an allusion to the tricolour Indian flag and an equality sign'. Chosen on 15 July 2010 from around 3,331 entries; designed by D. Udaya Kumar. The target shape was traced from Wikimedia Commons' 'Indian Rupee symbol.svg', its outline read as centrelines.",
+      "Flag semaphore: Wikipedia, 'Flag semaphore', and the Commons charts it displays ('Semaphore November.svg', 'Semaphore Delta.svg'): N is both flags held low and out; D is one flag straight up and the other straight down. Commons' 'Peace symbol.svg' draws the sign as a diameter plus two radii rotated 135 and 225 degrees from the top - which is N-over-D exactly, four arms at 12, 6, 7:30 and 4:30.",
+      "The folk readings: Wikipedia, 'Peace symbols': in 1968 the evangelist Billy James Hargis called it a 'broken cross'; a John Birch Society pamphlet called it 'the crow's foot or witch's foot'; Time, 2 November 1970, called any resemblance 'probably coincidental'. BBC 2008: 'In 1970, the conservative John Birch Society published pamphlets likening the sign to a Satanic symbol of an upside-down, broken cross.' CND: 'the origins and the ideas behind the symbol have been clearly described, both in letters and in interviews, by Gerald Holtom.'"
+    ],
+    "whyThisIsNotFolkEtymology": "Every derivation here is the designer's own statement of what they joined - Holtom's, the Bluetooth SIG's, the Government of India's - so gate 2 is met more firmly than any reconstruction could meet it; and for the peace sign a newspaper printed the semaphore reading on the first day the sign was carried. The film says nothing the designers did not say. The documented folk account of the peace sign (a broken cross, a witch's foot) is put on screen and struck through, per SET.md. Holtom's second account - that he drew himself in despair, arms stretched down and out - is not a competing derivation: it is the same arms-down figure as the flag signal for N, and the film shows it as the N signaller putting his flags down, never as an alternative origin. The circle's meaning (the Earth) is the BBC's gloss and is said once, plainly, without being drawn.",
+    "refused": [
+      "The Library of Alexandria's editing marks (obelus, asterisk, diple). Checked against Wikipedia's Obelus, Dagger (mark), Asterisk, Diple, Quotation mark, Guillemet and Division sign. The ÷ is no shape change - Johann Rahn in 1659 reused an existing obelus variant, 'a line with one or two dots'; the dagger 'originated from a variant of the obelus' with no documented path from a horizontal spit to an upright cross-hilted dagger; the asteriskos to * is a tidy-up; and the diple-to-quotation-mark link (asserted in one sentence of the Diple stub) is contradicted by the Quotation mark article - the double quotation mark 'derives from a marginal notation used in fifteenth-century manuscript annotations' and guillemets were only 'modified to an angular shape' at the end of the nineteenth century. At most one weak thread.",
+      "Cuneiform (SAG 'head', KU2, the beveled-rim bowl). A strong fit for the lane's mechanics, but it fails the lane's own premise - 'something the viewer uses daily' - and its central move, the pictographs 'rotated 90° counterclockwise' 'for unknown reasons' (Wikipedia, Cuneiform), is episode 9's quarter-turn again, without episode 9's cause. Kept as a candidate if the lane ever admits a script nobody writes.",
+      "The euro sign. The Commission says € is 'based on the Greek letter epsilon (ε) ... with 2 parallel lines signifying stability', which would pass gate 2 on the same terms as the rupee, but a lunate epsilon is already a C with a bar, so the change is one bar becoming two - a tidy-up that fails gate 3 as a thread - and the design process is secret and its authorship disputed (Arthur Eisenmenger). Left out rather than made the weak beat of a strong film.",
+      "The power symbol as binary 1 and 0. Neither Wikipedia's Power symbol article nor the IEC 60417 entries it describes (5007 a line, 5008 a circle, 5009 a line in a broken circle) say so. Treated as folk; not used, and not crossed out either, since there is no documented source for the claim to cross out.",
+      "The recycling symbol as a Möbius strip (Gary Anderson, 1970). A real picture and a well-told design story, but not letters, so it would dilute a film whose claim is 'two letters, one sign'; the article is also flagged for missing footnotes.",
+      "Goya's peasant. Holtom cited 'Goya's peasant before the firing squad' for the despair figure, but Wikipedia notes that 'the peasant shown has his arms stretched upwards, not downwards'. The film uses Holtom's description of his own drawing and does not draw or name the painting.",
+      "Saying the letters aloud. N, D, H and B are never spoken - 'the first letter of nuclear', 'the one for Harald' - and the Devanagari letter's name is never spoken either ('the Devanagari letter for the same sound'). The only letter in the script is 'the letter R', mid-sentence with a carrier phrase, and Whisper heard it."
+    ]
+  },
+  "gates": {
+    "drawable": "Three transformations and one smaller move, no deliberate non-morph. Two flag signallers walk into the middle of the page and stand in the same place - one body, four arms - then head, body, legs and flags thin away while each arm slides its root onto the centre and its tip onto the rim, and a circle goes round them (Holtom: 'put a circle round it'). Two runes come out of Harald's stone and slide together until they share a stem, and the logo prints blue around them. A Roman R loses its upright and what is left travels into the middle beside the Devanagari ra; both land on the same three strokes, and the headline doubles. The smaller move is the N signaller putting his flags down to become the man in despair of Holtom's letter, with his arms and the sign's two legs lit red at once.",
+    "trueNotFolk": "See sourcing: three designers' own accounts, a same-day newspaper report for the peace sign, and the folk reading of the peace sign struck out on screen.",
+    "genuinelyDifferentShapes": "A person holding two flags becomes a circle with four radii; an R becomes a sign with no upright and two bars. The bind rune is the one thread whose parts do not change shape - only their arrangement - and that is its claim: nothing is added and nothing taken away, two letters simply share a stem. It sits between two threads that do change shape, as episode 10's W did.",
+    "topology": "Each signaller's arm and pole is one run, root -> hand -> tip, and becomes a radius run centre -> mid -> rim, so direction of travel holds; the circle is the one new stroke and is the one Holtom said he added. Head, spine, shoulders, legs and flags are element subtraction and leave the draw order once gone. The runes keep every stroke; ᚼ's right-hand arms land on ᛒ's inner bowl edges because the logo's own path puts them there. R's bowl (8 anchors) and leg (3) map to the rupee's bowl and leg, both running top-left round to the stub, and the stem is subtracted; ra's headline (2) maps to bar 1, its body (8) to the bowl - its root sliding left along the headline and its end-hook flattening into the stub - and its tail (3) to the leg. The second bar is the one new stroke."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS, --concurrency 2",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 171s bed. The raw take measured -23.9 LUFS integrated (LRA 10.9, true peak -5.0 dBFS); a +4 dB static gain (ffmpeg volume=4dB, pcm_s16le) put music.wav at -19.9 LUFS with the true peak at -1.0 dBFS, inside the range the set has published. Sidechain-ducked under the voice by build.mjs.",
+    "render": "resvg + 24 worker threads -> libx264, 4944 frames in 45s",
+    "loudness": "-13.5 LUFS integrated, LRA 3.9, true peak -0.8 dBFS"
+  },
+  "musicPrompt": "Sparse solo lute, played very softly, single notes and quiet open chords with long natural decay and several seconds of space between phrases, no repeating melody. A low soft bowed double bass holding long quiet tones underneath. Faint dry room tone, like a quiet study. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean after two fixes; 373 script words, 369 heard. Remaining differences are normalisation only: 'nineteen fifty-eight', 'nineteen ninety-seven', 'twenty ten' and 'three thousand' to numerals, 'formalised' to 'formalized', and 'Harald' written 'Harold' in all three places it occurs - the ordinary English spelling of the same sound, consistent across shots. No beat is cued on any of them except 'Harold', which is cued as Whisper wrote it.",
+    "defectsFound": [
+      "s14.close: the last line, 'You have been reading letters all along', was heard as 'all the low' - the final word swallowed under a 'land it and stop, no lift' direction. Re-synthesised with a note to say 'all along' fully with the final ng sounded; the transcript changed to 'all along', so it was a real defect, fixed.",
+      "s06.despair: the designer's name was heard 'Hultum' here and 'Haltom' in s02 - one name voiced with two different vowels, the 'same word, different shots' test. s02's reading is a plausible hearing of HOLT-um and was kept; s06 was rewritten to 'Its designer gave it one more meaning', so the name is spoken once."
+    ],
+    "writtenAround": "No isolated letters: the flag signals are 'the first letter of nuclear' and 'the first letter of disarmament', the runes are 'the one for Harald and the one for Bluetooth', and the Devanagari letter's name is never said. 'Jelling' is never spoken - pronounced correctly it is heard as 'yelling' - and appears only on screen. 'Runes' and 'runestone' were watched for 'ruins' and transcribed correctly all three times."
+  },
+  "notes": {
+    "budget": "373 words over 14 shots estimated 164.6s at 2.4 words/second; the film came in at 164.8s. Kore ran at 2.40 words/second - slower than episodes 9 and 10 (2.50, 2.55) - which fits the script: directions asked for pauses between phrases ('give each flag position its own unhurried phrase') and there are five proper names. The first draft was 391 words and would have come close to the cap at the slow end of the range, so it was cut before synthesis.",
+    "craft7": "The source never leaves, and every thread ends in the same picture: two sources ghosted where they stood, tied to the one mark between them. The signallers flank the peace sign; the stone stands beside the logo with a single tie once the two runes have joined; the R and the ra flank the rupee. The recap is those three pictures again, sources above and marks below, and the close is the hook's row of three, finished.",
+    "turn": "Shot 7, 'The Bluetooth sign uses a far older alphabet', at 73s of 165: the first half is a sign made of a person - a signaller's arms, and Holtom's own figure in despair - and the second half is signs made of written letters. Shot 11 turns it once more, 'The newest joins two alphabets instead of two words': the first two signs are two letters of one alphabet, the rupee is one sound in two.",
+    "rhyme": "Episode 10 was five letters that are one letter; this is the same move run the other way, three signs that are each two letters. The red overlay that lights the despairing figure's arms and the sign's two legs at the same moment is episode 9's mane-and-legs overlay.",
+    "newInLib": "Nothing (lib/ was frozen for this batch; the parent decides on promotion). converge() in scene.mjs - copies of two sources travelling into one mark, with per-source tie insets and a faster source thinning - is written to be promoted, and is described under toolchainFeedback."
+  },
+  "toolchainFeedback": {
+    "converge": "Two sources becoming one mark is the reverse of episode 10's hand-written one-to-many split, and this film needed it twice (N + D, R + ra). scene.mjs's converge(sources, copy, p, { to, y, arrive }) draws the travelling copies and ties; each source carries its own tie inset (its edge nearest the mark), and `arrive` is the mark's half-width so the ties land exactly where the settled ties will be once the mark is drawn. A travel() that takes a list of sources, or this function beside travel() in lib/scene-kit.mjs, would cover both directions.",
+    "thinBeforeEmerge": "emerge alone does not stop a doubled drawing when the source is wide or is itself moving. Thinned on the move's own easeInOut curve, a source is still at 86% when its copy has fully emerged beside it, and the first render showed two N signallers side by side at 36.8s and two Rs at 137.9s. Thinning the sources over the first 28% of the move instead (THIN in scene.mjs) makes the handover happen while the copy is still peeling off. travel() and detach() could take the same option.",
+    "musicDensity": "Measure a new bed's density, not only its loudness. The first Lyria take (sparse solo handpan) measured -15.3 LUFS - inside the published range - but had about three times the note onsets per ten seconds of episodes 9 and 10's beds (15.7 against 4.8 and 5.4, from a 50 ms energy envelope and a 4 dB rise detector over 8 kHz mono PCM), which under a voice would read as busy. The second take (lute) matched the reference density at 6.9 but came in at -23.9 LUFS, and got a +4 dB static gain. build.mjs applies a fixed 0.34 gain whatever the bed's level; as episode 9 noted, normalising the bed first would remove both checks.",
+    "lastWord": "A 'land it and stop, no lift at the end' direction can make Gemini swallow the final word of a line. The close was heard as 'all the low'; naming the words and asking for the final consonant fixed it in one round.",
+    "properNames": "An uncommon proper name spoken twice may be voiced two ways (Haltom / Hultum here). Say it once and use the person's role after that."
+  },
+  "publish": {
+    "youtube": {
+      "title": "The peace sign is two letters (and so is the Bluetooth logo)",
+      "description": "Three signs you see almost every day are each two letters, written one on top of the other.\n\nThe peace sign was drawn in 1958 by Gerald Holtom for the first big march against nuclear weapons in Britain, from London to Aldermaston. He spelled nuclear disarmament in flag semaphore, the code sailors signal with between ships: both flags held low and out is N, one up and one down is D. Laid one over the other and set in a circle, they are the peace sign - and a newspaper reporting on the march the next morning already called it the semaphore sign for N.D. It was never a broken cross. Holtom later wrote that it was also a drawing of himself in despair, arms stretched down and out - the same figure as the flag signal for N.\n\nThe Bluetooth logo is the initials of Harald Bluetooth, the tenth-century king who united Denmark. In 1997 Jim Kardach, an Intel engineer who had been reading about the Vikings, proposed naming the radio after him when he came across a photograph of the runestone Harald raised at Jelling - whose first word is still his name. The logo is the runes for his initials, h and b, bound onto a single stem: a bind rune, as rune carvers were making centuries before he was born.\n\nThe rupee sign, chosen by India in 2010 from over three thousand entries and designed by D. Udaya Kumar, joins two alphabets instead of two words: the Roman R without its upright is also the Devanagari letter ra, hanging from its line, and the line is doubled - for the flag, and for an equals sign.\n\nSources: CND, 'History of the Symbol'; BBC News, 'World's best-known protest symbol turns 50' (2008); Manchester Guardian, 5 April 1958; Wikipedia's articles on Peace symbols, Flag semaphore, Bluetooth, Bind rune, Jelling stones and the Indian rupee sign.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "peace sign",
+        "peace symbol",
+        "bluetooth logo",
+        "rupee sign",
+        "semaphore",
+        "runes",
+        "bind rune",
+        "devanagari",
+        "symbols",
+        "logo design",
+        "etymology",
+        "history",
+        "explainer",
+        "animation"
+      ]
+    },
+    "shorts": {
+      "title": "The peace sign is two flag signals laid on top of each other",
+      "description": "Both flags low and out is N. One up and one down is D. Gerald Holtom laid one over the other in 1958, put a circle round them, and made the peace sign - for nuclear disarmament.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "peace sign",
+        "semaphore",
+        "symbols",
+        "history",
+        "design",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+    },
+    "tiktok": {
+      "caption": "The peace sign is two letters: N and D in flag semaphore, laid on top of each other. The Bluetooth logo is a Viking king's initials in runes. The rupee sign is an R that is also a Devanagari letter.",
+      "hook": "First 3 seconds: the peace sign, the Bluetooth logo and the rupee sign drawn in a row on a blank page, over 'You see these three signs almost every day.'"
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-peace.mjs",
+      "strip-rune.mjs",
+      "strip-rupee.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep11-two-letters-at-once"
+}

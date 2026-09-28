@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep11",
+    "name": "Not Arbitrary 11 — The Peace Sign Is Two Letters",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "hook",
+      "speaker": "Narrator",
+      "text": "You see these three signs almost every day. Every one of them is two letters, written one on top of the other.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, a little conspiratorial. Let a pause sit after the first sentence, then state the second one plainly."
+    },
+    {
+      "externalId": "s02.holtom",
+      "scene": "peace",
+      "speaker": "Narrator",
+      "text": "Start with the peace sign. In nineteen fifty-eight, a designer named Gerald Holtom drew it for the first big march against nuclear weapons in Britain.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and physical, like the start of a story. Holtom is HOLT-um. A small beat after 'Start with the peace sign'."
+    },
+    {
+      "externalId": "s03.flags",
+      "scene": "peace",
+      "speaker": "Narrator",
+      "text": "He spelled out nuclear disarmament the way sailors signal between ships. Both flags held low and out is the first letter of nuclear. One up and one down is the first letter of disarmament.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Clear and patient, as if demonstrating. Give each flag position its own unhurried phrase, with a small pause between them."
+    },
+    {
+      "externalId": "s04.circle",
+      "scene": "peace",
+      "speaker": "Narrator",
+      "text": "He laid one signal on top of the other, and set them inside a circle, which stood for the whole Earth.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried and a little satisfied, as the thing takes shape. Land 'the whole Earth' lightly."
+    },
+    {
+      "externalId": "s05.folk",
+      "scene": "peace",
+      "speaker": "Narrator",
+      "text": "About ten years later, pamphlets in America called it a broken cross, or a witch's foot. It was never either. It is two flags.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Dry and a little amused. A short pause before 'It was never either', and say 'It is two flags' simply."
+    },
+    {
+      "externalId": "s06.despair",
+      "scene": "peace",
+      "speaker": "Narrator",
+      "text": "Its designer gave it one more meaning. He wrote that he had drawn himself in despair, arms stretched down and out, formalised the drawing into a line, and put a circle round it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quieter and more personal. Let 'in despair' land gently, and keep the end of the sentence unhurried."
+    },
+    {
+      "externalId": "s07.harald",
+      "scene": "rune",
+      "speaker": "Narrator",
+      "text": "The Bluetooth sign uses a far older alphabet. In nineteen ninety-seven, an engineer at Intel named a new radio after a Danish king who had united his country, as the radio would unite machines.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift slightly at the start. Unhurried, with a small beat after 'a far older alphabet'."
+    },
+    {
+      "externalId": "s08.stone",
+      "scene": "rune",
+      "speaker": "Narrator",
+      "text": "The king was Harald Bluetooth. The engineer had found him in a photograph of a runestone, and Harald's name is still the first word carved on it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Harald is HAR-uld. Runestone is ROON-stone. A small smile on 'still the first word carved on it'."
+    },
+    {
+      "externalId": "s09.bind",
+      "scene": "rune",
+      "speaker": "Narrator",
+      "text": "The logo is his initials in those runes, the one for Harald and the one for Bluetooth, on a single stem. Rune carvers were joining letters that way long before he was born.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact. Runes is ROONZ, clearly. A little wonder on the last sentence."
+    },
+    {
+      "externalId": "s10.phone",
+      "scene": "rune",
+      "speaker": "Narrator",
+      "text": "So nearly every phone now carries the initials of a Viking king, in an alphabet almost nobody who uses it can read.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The reveal of this thread. Warm and a little wry, let it sit."
+    },
+    {
+      "externalId": "s11.rupee",
+      "scene": "rupee",
+      "speaker": "Narrator",
+      "text": "The newest joins two alphabets instead of two words. In twenty ten, India chose a rupee sign from over three thousand entries, drawn by a young designer, Udaya Kumar.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, a little brisker. Rupee is roo-PEE. Udaya Kumar is oo-DAH-yuh koo-MAR, said clearly."
+    },
+    {
+      "externalId": "s12.ra",
+      "scene": "rupee",
+      "speaker": "Narrator",
+      "text": "Take the upright away from the letter R, and what is left is also the Devanagari letter for the same sound, hanging from its line. Readers of either script find their own letter.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Clear and unhurried. Devanagari is day-vuh-NAH-guh-ree. Say 'the letter R' as an ordinary part of the sentence. A small lift on 'their own letter'."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "recap",
+      "speaker": "Narrator",
+      "text": "Two words, a king's name, and two alphabets. Each time, someone needed one small mark to carry a name, and found two letters that would fit inside each other.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, a little wondering, not a summary read."
+    },
+    {
+      "externalId": "s14.close",
+      "scene": "close",
+      "speaker": "Narrator",
+      "text": "You have been reading letters all along.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop, no lift at the end, but say the last two words, all along, fully and clearly, with the final ng of along sounded."
+    }
+  ]
+}

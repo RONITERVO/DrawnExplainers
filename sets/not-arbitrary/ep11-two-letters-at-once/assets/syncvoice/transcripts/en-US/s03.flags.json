@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "externalId": "s03.flags",
+  "text": "He spelled out nuclear disarmament the way sailors signal between ships. Both flags held low and out is the first letter of nuclear. One up and one down is the first letter of disarmament.",
+  "durationMs": 14400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 15
+    },
+    {
+      "startMs": 225,
+      "endMs": 1080,
+      "startChar": 15,
+      "endChar": 23
+    },
+    {
+      "startMs": 1080,
+      "endMs": 1800,
+      "startChar": 23,
+      "endChar": 35
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2320,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 43
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3360,
+      "startChar": 43,
+      "endChar": 51
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4000,
+      "startChar": 51,
+      "endChar": 58
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4400,
+      "startChar": 58,
+      "endChar": 66
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4760,
+      "startChar": 66,
+      "endChar": 73
+    },
+    {
+      "startMs": 4760,
+      "endMs": 5280,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 5280,
+      "endMs": 5355,
+      "startChar": 78,
+      "endChar": 84
+    },
+    {
+      "startMs": 5355,
+      "endMs": 6640,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 6640,
+      "endMs": 6920,
+      "startChar": 89,
+      "endChar": 93
+    },
+    {
+      "startMs": 6920,
+      "endMs": 7360,
+      "startChar": 93,
+      "endChar": 97
+    },
+    {
+      "startMs": 7360,
+      "endMs": 7640,
+      "startChar": 97,
+      "endChar": 101
+    },
+    {
+      "startMs": 7640,
+      "endMs": 7860,
+      "startChar": 101,
+      "endChar": 104
+    },
+    {
+      "startMs": 7860,
+      "endMs": 8080,
+      "startChar": 104,
+      "endChar": 108
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8400,
+      "startChar": 108,
+      "endChar": 114
+    },
+    {
+      "startMs": 8400,
+      "endMs": 8720,
+      "startChar": 114,
+      "endChar": 121
+    },
+    {
+      "startMs": 8720,
+      "endMs": 9080,
+      "startChar": 121,
+      "endChar": 124
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9240,
+      "startChar": 124,
+      "endChar": 133
+    },
+    {
+      "startMs": 9240,
+      "endMs": 9800,
+      "startChar": 133,
+      "endChar": 137
+    },
+    {
+      "startMs": 9800,
+      "endMs": 9875,
+      "startChar": 137,
+      "endChar": 140
+    },
+    {
+      "startMs": 9875,
+      "endMs": 9950,
+      "startChar": 140,
+      "endChar": 144
+    },
+    {
+      "startMs": 9950,
+      "endMs": 11160,
+      "startChar": 144,
+      "endChar": 148
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11400,
+      "startChar": 148,
+      "endChar": 153
+    },
+    {
+      "startMs": 11400,
+      "endMs": 11720,
+      "startChar": 153,
+      "endChar": 156
+    },
+    {
+      "startMs": 11720,
+      "endMs": 12040,
+      "startChar": 156,
+      "endChar": 160
+    },
+    {
+      "startMs": 12040,
+      "endMs": 12360,
+      "startChar": 160,
+      "endChar": 166
+    },
+    {
+      "startMs": 12360,
+      "endMs": 12680,
+      "startChar": 166,
+      "endChar": 173
+    },
+    {
+      "startMs": 12680,
+      "endMs": 13040,
+      "startChar": 173,
+      "endChar": 176
+    },
+    {
+      "startMs": 13040,
+      "endMs": 13360,
+      "startChar": 176,
+      "endChar": 188
+    }
+  ]
+}

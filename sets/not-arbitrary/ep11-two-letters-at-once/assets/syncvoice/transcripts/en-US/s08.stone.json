@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s08.stone",
+  "text": "The king was Harald Bluetooth. The engineer had found him in a photograph of a runestone, and Harald's name is still the first word carved on it.",
+  "durationMs": 9880,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 300,
+      "endMs": 1320,
+      "startChar": 20,
+      "endChar": 31
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1640,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 1640,
+      "endMs": 1960,
+      "startChar": 35,
+      "endChar": 44
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2080,
+      "startChar": 44,
+      "endChar": 48
+    },
+    {
+      "startMs": 2080,
+      "endMs": 3360,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3360,
+      "endMs": 3720,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3820,
+      "startChar": 58,
+      "endChar": 61
+    },
+    {
+      "startMs": 3820,
+      "endMs": 3920,
+      "startChar": 61,
+      "endChar": 63
+    },
+    {
+      "startMs": 3920,
+      "endMs": 4120,
+      "startChar": 63,
+      "endChar": 74
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4880,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 4880,
+      "endMs": 4960,
+      "startChar": 77,
+      "endChar": 79
+    },
+    {
+      "startMs": 4960,
+      "endMs": 5040,
+      "startChar": 79,
+      "endChar": 90
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5420,
+      "startChar": 90,
+      "endChar": 94
+    },
+    {
+      "startMs": 5420,
+      "endMs": 5800,
+      "startChar": 94,
+      "endChar": 103
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6680,
+      "startChar": 103,
+      "endChar": 108
+    },
+    {
+      "startMs": 6680,
+      "endMs": 7080,
+      "startChar": 108,
+      "endChar": 111
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7280,
+      "startChar": 111,
+      "endChar": 117
+    },
+    {
+      "startMs": 7280,
+      "endMs": 7520,
+      "startChar": 117,
+      "endChar": 121
+    },
+    {
+      "startMs": 7520,
+      "endMs": 7760,
+      "startChar": 121,
+      "endChar": 127
+    },
+    {
+      "startMs": 7760,
+      "endMs": 8480,
+      "startChar": 127,
+      "endChar": 132
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8880,
+      "startChar": 132,
+      "endChar": 139
+    },
+    {
+      "startMs": 8880,
+      "endMs": 9080,
+      "startChar": 139,
+      "endChar": 142
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9280,
+      "startChar": 142,
+      "endChar": 145
+    }
+  ]
+}

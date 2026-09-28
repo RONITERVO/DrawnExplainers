@@ -86,6 +86,11 @@ for whoever wants them.
   streaming sideways. The oracle form proves the rotation happened; only the
   modern mark can prove what is left of it, so the claim has to be narrowed
   to that before the voice is recorded, not after.
+- **Name the last words in a "no lift" direction.** "Land it and stop" is the
+  natural direction for a closing line, and it can swallow the line's last
+  word: episode 11's "you have been reading letters all along" came back as
+  "all the low". Re-synthesised with the final words named in the direction,
+  it came back whole.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -102,6 +107,7 @@ for whoever wants them.
 | 08 | Four Symbols That Are Just Handwriting | 2:38 | rendered |
 | 09 | The Horse Is Standing on Its Tail | 2:31 | rendered |
 | 10 | Five Letters That Are One Letter | 2:30 | rendered |
+| 11 | The Peace Sign Is Two Letters | 2:45 | rendered |
 
 ## Candidates for later episodes
 
@@ -150,3 +156,19 @@ someone else's set:
   source and the mark are the same motif, so there is nothing to watch change)
 - The prescription Rx and the eye of Horus (another popular-but-shaky origin —
   same treatment)
+- Cuneiform as pictures turned on their side and pressed into clay instead of
+  drawn (refused for episode 11: nobody uses it daily, which is this lane's
+  first test, and the quarter-turn happened "for unknown reasons", so it would
+  repeat episode 9's move without episode 9's cause)
+- ÷ and † as the Alexandrian obelus (refused for episode 11: Rahn reused an
+  existing form for division, which is not a shape change; the dagger's
+  descent from the obelus is undocumented; and Wikipedia's Quotation mark
+  article contradicts the diple-to-quotation-marks link that would have been
+  the third thread)
+- The euro sign as an epsilon (refused for episode 11: the Commission's
+  account holds, but epsilon to € is one bar becoming two, and the design's
+  authorship is disputed)
+- The power symbol as the binary 1 and 0 (refused for episode 11: no source,
+  so it has to be treated as folk)
+- The recycling symbol is a Möbius strip - a real picture, but not letters; a
+  thread for a film about designed pictures rather than for this lane

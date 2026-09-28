@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 10 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 11 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -185,6 +185,11 @@ node lib/build.mjs <ep>
   the worker pool.
 - **Normalise to -14 LUFS.** YouTube and TikTok only turn loud uploads down;
   they never lift a quiet one.
+- **Measure a bed's density, not only its loudness.** A take can sit inside the
+  published loudness range and still be three times as busy as the others -
+  episode 11's first bed, a handpan, was. Counting onsets catches it: a 50 ms
+  energy envelope on 8 kHz mono, counting 4 dB rises. The published beds run
+  about five onsets per ten seconds.
 
 ## Publishing
 
