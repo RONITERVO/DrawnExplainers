@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "externalId": "s01.hook",
+  "text": "Look at the Chinese words for liver, lung, elbow and belly. Every one of them has the character for the moon down its left side.",
+  "durationMs": 10800,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 8,
+      "endChar": 12
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 12,
+      "endChar": 20
+    },
+    {
+      "startMs": 300,
+      "endMs": 1440,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1880,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2280,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 2280,
+      "endMs": 2960,
+      "startChar": 37,
+      "endChar": 43
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3880,
+      "startChar": 43,
+      "endChar": 49
+    },
+    {
+      "startMs": 3880,
+      "endMs": 4000,
+      "startChar": 49,
+      "endChar": 53
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4880,
+      "startChar": 53,
+      "endChar": 60
+    },
+    {
+      "startMs": 4880,
+      "endMs": 5760,
+      "startChar": 60,
+      "endChar": 66
+    },
+    {
+      "startMs": 5760,
+      "endMs": 5835,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 5835,
+      "endMs": 5910,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 5910,
+      "endMs": 7080,
+      "startChar": 73,
+      "endChar": 78
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7480,
+      "startChar": 78,
+      "endChar": 82
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7560,
+      "startChar": 82,
+      "endChar": 86
+    },
+    {
+      "startMs": 7560,
+      "endMs": 7640,
+      "startChar": 86,
+      "endChar": 96
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8480,
+      "startChar": 96,
+      "endChar": 100
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8680,
+      "startChar": 100,
+      "endChar": 104
+    },
+    {
+      "startMs": 8680,
+      "endMs": 8840,
+      "startChar": 104,
+      "endChar": 109
+    },
+    {
+      "startMs": 8840,
+      "endMs": 9480,
+      "startChar": 109,
+      "endChar": 114
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9760,
+      "startChar": 114,
+      "endChar": 118
+    },
+    {
+      "startMs": 9760,
+      "endMs": 9960,
+      "startChar": 118,
+      "endChar": 123
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10160,
+      "startChar": 123,
+      "endChar": 128
+    }
+  ]
+}

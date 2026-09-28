@@ -1,0 +1,116 @@
+{
+  "set": "not-arbitrary",
+  "episode": 14,
+  "slug": "ep14-the-moon-is-meat",
+  "title": "The Moon in 'Liver' Is Meat",
+  "thesis": "The character for the moon, 月, is three different pictures squeezed into the same four strokes. One really is the moon, drawn on oracle bones as a crescent. One is a slice of meat, which is why so much of the body is written with it - 肝 liver, 肺 lung, 肘 elbow, 腹 belly. One is a boat: 前 'in front' began as a foot standing in a boat moving forward, and 朕, the 'I' only an emperor could use, is written with a boat too. Han clerks simplifying the script in the second century BC squeezed all three into nearly one shape. The Kangxi Dictionary of 1716 still printed three versions - the moon's bars stop short, the meat's reach across, the boat has two dots. In the twentieth century China and Japan made all three identical, in the meat's shape, so the moon itself is now printed like meat; Taiwan and Hong Kong still print the meat apart, and Japanese and Korean both call it 'the meat moon'.",
+  "runtimeSeconds": 159.6,
+  "renderedAt": "2026-09-28",
+  "status": "rendered",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written directly, after episodes 11-13. Research began on cuneiform and was abandoned for the lane's first test - nobody uses it daily - which the episode 11 subagent had refused it for independently; the subject was chosen instead for being in daily use by over a billion readers and treated by learners as an arbitrary 'moon radical'."
+  },
+  "sourcing": {
+    "primary": "Wiktionary's glyph origin for 月, read from the rendered page: 'Pictogram - pictographic representation of a crescent moon ... Unrelated to: 前, in which it represents a boat 舟 (歬 > 𠝣 > 𣦃 > 前); 朕, in which it represents a boat again (𦩎 > 𦨶 > 朕); ... 有, in which it represents meat.' And for 肉: 'Pictogram - ribs of an animal's torso or simply a physical representation of a slice of meat. Stylized into 月 when next to a phonetic component.' For 舟: 'Pictogram - a boat. Later sometimes written as 月, 肉 or 凡 in components.' For 前: 'Originally 歬, an ideogrammic compound: 止 (foot) + 舟 (boat) - a foot on a boat moving forward. In the current form, 止 is simplified to 䒑 and 舟 to 月.'",
+    "supporting": [
+      "Wikipedia, 'Libian': a 'gradual, systematic simplification of Chinese character forms during the 2nd century BC' by 'lower-level officials and clerics', to make characters 'easier to write'; its table gives 前 exactly: 'originally depicting a foot 止 on a boat 舟 moving forward. During libian, 止 was reduced to 䒑, as was 舟 to 月.'",
+      "Wikipedia, 'Radical 130': 'When used as a left component, the radical character transforms into 月 in Simplified Chinese and Japanese or ⺼ in modern Traditional Chinese used in Hong Kong and Taiwan.' 'Radical 74': '月 sometimes represents 舟 (as in 前 and 朕) or 肉 (such as 有 and 肘)', and the meat form 'is merged to this radical in Simplified Chinese'.",
+      "Japanese Wikipedia, 肉部 and 月部: the Kangxi Dictionary distinguishes three forms - the meat's inner bars reach the right side, the moon's stop short of it, the boat's inner strokes are two dots; Japan's shinjitai and China's new glyph standard unified all three with the bars touching, which the article notes is the Kangxi meat form ('肉月だけに関しては康熙字典と同じ字形といえる'); Taiwan's and Hong Kong's standards unify moon and boat but keep the meat apart, its inner strokes tilted. The names: Japanese にくづき, Korean 육달월, both 'meat moon'.",
+      "Wiktionary, 肝 肺 肘 腹: each is analysed with ⺼ or 肉, 'meat; flesh', as its semantic part. 肘 adds that it was 'originally written as 寸 ... a 肉 was added'.",
+      "Wiktionary, 朕: 'Simplified from 𦩎 (舟 → 月)', the oracle form 'a boat beside two hands holding a rod-like object'; the Records of the Grand Historian quoted there: 'the Son of Heaven shall call himself zhèn'. Wikipedia, 'Chinese pronouns': zhèn used 'after the Qin dynasty when the Emperor is speaking to his subjects'.",
+      "The present-day difference was checked in the fonts, not only in the text: Microsoft JhengHei (Taiwan's standard) and MingLiU print the meat in 肝 and 肘 as a tilted > inside the frame, while 前, 朕 and 月 keep flat bars; Microsoft YaHei and Yu Gothic print all of them identically."
+    ],
+    "tracedForms": "Every picture is traced from the Commons files Wikipedia's radical articles walk through: 月-oracle.svg (a crescent with its chord), 肉-bronze.svg (a leaning slice with two lines across; the file's own metadata names the character it was drawn from, 胾, whose meat component it is), 舟-oracle.svg (a hull stood on end with two bars), and 前-seal.svg (止 over 舟). Commons rate-limited both Special:FilePath and upload.wikimedia.org after about a dozen requests (Retry-After 600); one file every fifteen seconds got through.",
+    "whyThisIsNotFolkEtymology": "The 'moon radical' is itself the folk label - it is what the component is called in Simplified Chinese dictionaries, where the meat was merged into the moon - and the film is the dictionary analysis of every character it names. The popular explanations it might have used were checked and dropped (see refused).",
+    "refused": [
+      "有 'to have' as a hand holding meat. It is the best-known story about this component, and Wiktionary's own entry calls it folk etymology: 'the oracle bone script shows no meat'.",
+      "服 'clothes' as a boat. Japanese dictionaries file it under the boat moon, but Wiktionary gives its 月 as 凡, a tray, 'corrupted into 舟 and subsequently 月' - it passed through the boat without being one.",
+      "More than three pictures. Wiktionary's 月 entry also lists cinnabar in 青, a dragon's face in 贏 and sacrificed meat in 祭; true, and left out so that the film stays one argument about three shapes.",
+      "'Drawn from above' for the boat. A reading of the oracle form, not a source; the script says only 'a long hull, with bars across it'.",
+      "Cuneiform, for this episode as for episode 11: not in daily use, and its quarter-turn happened 'for unknown reasons'."
+    ]
+  },
+  "gates": {
+    "drawable": "Three real morphs into one shape. The crescent's arc becomes the top and right side and its chord the left side, and two bars are drawn in as the curve squares off; the leaning slice stands up and its two lines level into bars; the hull's two sides become the frame and its two bars stay bars. Each drops into a 月 already waiting on the page, so the viewer watches three different drawings land on the same four strokes. 前 moves from its seal form to today's in one travel.",
+    "trueNotFolk": "See sourcing: every derivation is the one Wiktionary and Wikipedia give for that character, and the dating is the Libian article's.",
+    "genuinelyDifferentShapes": "A crescent, a leaning slice and a hull on end become a square frame with two bars. The print page (shots 11 to 13) compares rather than morphs, and argues the opposite of 'nothing changed': in the Kangxi Dictionary the three were still printed apart, and the film shows them as three frames that differ only in their bars.",
+    "topology": "Every picture is drawn in the same four runs as 月, in its stroke order and direction: the left side top to bottom, the top and right side ending in the hook, then the two bars left to right. The frame's corner is two coincident anchors, so it can be sharp while every source keeps the same count. The moon has no bars to morph; they are drawn in, as the bronze and seal forms show them arriving. In 前, the foot's middle upright and the boat's third bar thin away where they stand, the branch of the foot is indexed from its tip because the tick it becomes is written that way, and the knife is drawn in afterwards, as the addition it was."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS, concurrency 2",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 166s bed. The raw take measured -23.2 LUFS integrated (LRA 6.6, true peak -5.0 dBFS); a +4 dB static gain (ffmpeg volume=4dB, pcm_s16le) put music.wav at -19.2 LUFS with the true peak at -1.0 dBFS. Density 4.8 onsets per 10s, against 4.4 for episode 9, 3.0 for episode 10 and 5.4 for episode 12. Sidechain-ducked under the voice by build.mjs.",
+    "render": "resvg + 24 worker threads -> libx264, 4788 frames in 60s",
+    "loudness": "-13.6 LUFS integrated, LRA 3.3, true peak -0.9 dBFS"
+  },
+  "musicPrompt": "Sparse solo clavichord, played very softly, single notes with long natural decay and wide space between them, no repeating melody. A low soft bowed viola da gamba holding long quiet tones underneath. Faint dry room tone, like a quiet study. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean first time; 361 script words. Two lines were then rewritten for content, not defects - s12 to add that the unified shape is the meat's, s15 to close on it - and came back clean when re-aligned alone. The differences are normalisation only: 'two thousand' and 'three thousand' to numerals, 'seventeen sixteen' to '1716', 'twentieth' to '20th', 'meat's' to 'meats', and capitals on 'Clerks' and 'Great Dictionary'.",
+    "defectsFound": [],
+    "writtenAround": "'Meat' is a homophone of 'meet', so every use sits in a phrase that settles it - 'a piece of meat', 'a slice of meat', 'the meat moon' - and Whisper wrote 'meat' in all eight places. No Chinese, Japanese or Korean word is spoken: 'Kangxi' appears only on screen, the dictionary is 'China's great dictionary of 1716', and the names of the meat are given by their meaning."
+  },
+  "notes": {
+    "budget": "361 words over 15 shots estimated 160.1s. Speech 149.9s, film 159.6s - 0.3% under. Kore ran at 2.41 words per second.",
+    "craft7": "One page carries the first half: the four body words wait along its foot, one 月 splits into three identical copies, and each column's picture is drawn above its 月 and drops into it, staying behind as a ghost tied to the shape it became. When the meat lands, its 月 goes red and ties back down to all four words.",
+    "turn": "Shot 11, 'Careful printers still told the three apart', at 101s of 160. The first half is how three pictures became one shape; the second is how long print refused to let them - and the twist that the shape everyone uses now is the meat's.",
+    "rhyme": "Episode 10 was one letter becoming five; this is three pictures becoming one. Episode 13's knife 刂 comes back as the knife in 前, and the oracle-bone boat is drawn standing on its end, like episode 9's horse.",
+    "hookNarrowed": "The set's rule on checking the hook against today's mark applied twice: the hook says 'look at the Chinese words' over characters printed in a mainland font, because in Taiwan's standard the meat is no longer the moon's shape; shot 12 then says so.",
+    "newInLib": "HANGUL in lib/scene-kit.mjs, with Malgun Gothic added to FONT_FILES: HYSWLongFangSong covers Chinese characters and kana but not Hangul, and 육달월 is on screen."
+  },
+  "toolchainFeedback": {
+    "sideBeats": "The fact most likely to be cut from a script is the one people already know, and it is the one to check: 有 'to have' as a hand holding meat is repeated everywhere and Wiktionary's own entry for 有 calls it folk etymology. Checking the extras against their own entries, not the entry of the thing they illustrate, is what caught it.",
+    "convergeOntoAWaitingMark": "Each picture drops into a 月 already on the page rather than travelling to empty paper, and the landing is the argument. The waiting mark dims while its picture is drawn and the copy covers it exactly on arrival. Episode 11's converge() does the many-into-one travel sideways; this is the vertical case, written by hand in scene.mjs. Two episodes in a row have wanted it.",
+    "bedDensity": "The density check the episode 11 subagent described, run across the set, puts episode 13's handpan bed at 11.1 onsets per 10s against 3 to 5.5 for the others - the same excess that got episode 11's handpan take rejected. Worth a listen before episode 13 is published."
+  },
+  "publish": {
+    "youtube": {
+      "title": "Why the Chinese word for 'liver' has a moon in it (it's meat)",
+      "description": "In Chinese and Japanese, the words for liver, lung, elbow and belly are all written with what looks like the character for the moon, 月. It isn't the moon.\n\nThat shape is three different pictures, squeezed over two thousand years into the same four strokes. One really is the moon: a crescent, carved on oracle bones more than three thousand years ago. One is meat - a slice with lines across it - which is why so much of the body is written with it: 肝 liver, 肺 lung, 肘 elbow, 腹 belly. And one is a boat: 前 'in front' began as a foot standing in a boat moving forward, and 朕, the word for 'I' that only an emperor could use, is written with a boat too.\n\nHan clerks simplifying the script in the second century BC squeezed all three into nearly the same shape. The Kangxi Dictionary of 1716 still printed them three ways: the moon's bars stop short, the meat's reach across, the boat has two dots. In the twentieth century China and Japan made them identical, in the meat's shape. Taiwan and Hong Kong still print the meat apart, and Japanese and Korean both call it 'the meat moon'.\n\nSources: Wiktionary's glyph origins for 月, 肉, 舟, 前 and 朕; Wikipedia's articles on Radical 74, Radical 130 and Libian; Japanese Wikipedia on 肉部 and 月部.\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chinese",
+        "chinese characters",
+        "hanzi",
+        "kanji",
+        "radicals",
+        "learn chinese",
+        "learn japanese",
+        "etymology",
+        "writing systems",
+        "history",
+        "explainer",
+        "animation"
+      ]
+    },
+    "shorts": {
+      "title": "The 'moon' in Chinese body parts is a piece of meat",
+      "description": "肝 liver, 肺 lung, 肘 elbow, 腹 belly: the 月 on the left is not the moon. It is an old drawing of a slice of meat, squeezed until it matched the moon - and Japanese still calls it 'the meat moon'.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chinese",
+        "kanji",
+        "hanzi",
+        "learn chinese",
+        "learn japanese",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+    },
+    "tiktok": {
+      "caption": "The 'moon' in the Chinese words for liver, lung, elbow and belly isn't the moon. It's a slice of meat, squeezed into the same four strokes - and Japanese literally calls it the meat moon.",
+      "hook": "First 3 seconds: 肝 being written, then 肺 肘 腹 beside it, with the moon 月 appearing above and the left half of every word turning red."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-moon.mjs",
+      "strip-front.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep14-the-moon-is-meat"
+}

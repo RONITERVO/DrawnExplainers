@@ -1,0 +1,1907 @@
+{
+  "s01.hook": {
+    "durationMs": 10800,
+    "words": [
+      {
+        "word": "Look",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "at",
+        "startMs": 320,
+        "endMs": 540
+      },
+      {
+        "word": "the",
+        "startMs": 540,
+        "endMs": 700
+      },
+      {
+        "word": "Chinese",
+        "startMs": 700,
+        "endMs": 1140
+      },
+      {
+        "word": "words",
+        "startMs": 1140,
+        "endMs": 1720
+      },
+      {
+        "word": "for",
+        "startMs": 1720,
+        "endMs": 2140
+      },
+      {
+        "word": "liver,",
+        "startMs": 2140,
+        "endMs": 2660
+      },
+      {
+        "word": "lung,",
+        "startMs": 3060,
+        "endMs": 3620
+      },
+      {
+        "word": "elbow,",
+        "startMs": 4080,
+        "endMs": 4620
+      },
+      {
+        "word": "and",
+        "startMs": 5120,
+        "endMs": 5180
+      },
+      {
+        "word": "belly.",
+        "startMs": 5180,
+        "endMs": 5560
+      },
+      {
+        "word": "Every",
+        "startMs": 5920,
+        "endMs": 6640
+      },
+      {
+        "word": "one",
+        "startMs": 6640,
+        "endMs": 6980
+      },
+      {
+        "word": "of",
+        "startMs": 6980,
+        "endMs": 7140
+      },
+      {
+        "word": "them",
+        "startMs": 7140,
+        "endMs": 7360
+      },
+      {
+        "word": "has",
+        "startMs": 7360,
+        "endMs": 7640
+      },
+      {
+        "word": "the",
+        "startMs": 7640,
+        "endMs": 7800
+      },
+      {
+        "word": "character",
+        "startMs": 7800,
+        "endMs": 8220
+      },
+      {
+        "word": "for",
+        "startMs": 8220,
+        "endMs": 8680
+      },
+      {
+        "word": "the",
+        "startMs": 8680,
+        "endMs": 8860
+      },
+      {
+        "word": "moon",
+        "startMs": 8860,
+        "endMs": 9220
+      },
+      {
+        "word": "down",
+        "startMs": 9220,
+        "endMs": 9700
+      },
+      {
+        "word": "its",
+        "startMs": 9700,
+        "endMs": 9920
+      },
+      {
+        "word": "left",
+        "startMs": 9920,
+        "endMs": 10100
+      },
+      {
+        "word": "side.",
+        "startMs": 10100,
+        "endMs": 10460
+      }
+    ],
+    "heard": "Look at the Chinese words for liver, lung, elbow, and belly. Every one of them has the character for the moon down its left side.",
+    "script": "Look at the Chinese words for liver, lung, elbow and belly. Every one of them has the character for the moon down its left side."
+  },
+  "s02.three": {
+    "durationMs": 10240,
+    "words": [
+      {
+        "word": "None",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "of",
+        "startMs": 260,
+        "endMs": 400
+      },
+      {
+        "word": "them",
+        "startMs": 400,
+        "endMs": 640
+      },
+      {
+        "word": "has",
+        "startMs": 640,
+        "endMs": 980
+      },
+      {
+        "word": "anything",
+        "startMs": 980,
+        "endMs": 1440
+      },
+      {
+        "word": "to",
+        "startMs": 1440,
+        "endMs": 1680
+      },
+      {
+        "word": "do",
+        "startMs": 1680,
+        "endMs": 1820
+      },
+      {
+        "word": "with",
+        "startMs": 1820,
+        "endMs": 1980
+      },
+      {
+        "word": "the",
+        "startMs": 1980,
+        "endMs": 2100
+      },
+      {
+        "word": "moon.",
+        "startMs": 2100,
+        "endMs": 2320
+      },
+      {
+        "word": "That",
+        "startMs": 2560,
+        "endMs": 3100
+      },
+      {
+        "word": "shape",
+        "startMs": 3100,
+        "endMs": 3400
+      },
+      {
+        "word": "is",
+        "startMs": 3400,
+        "endMs": 3720
+      },
+      {
+        "word": "three",
+        "startMs": 3720,
+        "endMs": 4200
+      },
+      {
+        "word": "different",
+        "startMs": 4200,
+        "endMs": 4780
+      },
+      {
+        "word": "pictures,",
+        "startMs": 4780,
+        "endMs": 5300
+      },
+      {
+        "word": "squeezed",
+        "startMs": 5480,
+        "endMs": 5960
+      },
+      {
+        "word": "over",
+        "startMs": 5960,
+        "endMs": 6360
+      },
+      {
+        "word": "2",
+        "startMs": 6360,
+        "endMs": 6780
+      },
+      {
+        "word": ",000",
+        "startMs": 6780,
+        "endMs": 7520
+      },
+      {
+        "word": "years",
+        "startMs": 7520,
+        "endMs": 7920
+      },
+      {
+        "word": "into",
+        "startMs": 7920,
+        "endMs": 8320
+      },
+      {
+        "word": "the",
+        "startMs": 8320,
+        "endMs": 8520
+      },
+      {
+        "word": "same",
+        "startMs": 8520,
+        "endMs": 8920
+      },
+      {
+        "word": "four",
+        "startMs": 8920,
+        "endMs": 9320
+      },
+      {
+        "word": "strokes.",
+        "startMs": 9320,
+        "endMs": 9760
+      }
+    ],
+    "heard": "None of them has anything to do with the moon. That shape is three different pictures, squeezed over 2,000 years into the same four strokes.",
+    "script": "None of them has anything to do with the moon. That shape is three different pictures, squeezed over two thousand years into the same four strokes."
+  },
+  "s03.moon": {
+    "durationMs": 10160,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "first",
+        "startMs": 160,
+        "endMs": 580
+      },
+      {
+        "word": "really",
+        "startMs": 580,
+        "endMs": 1200
+      },
+      {
+        "word": "is",
+        "startMs": 1200,
+        "endMs": 1780
+      },
+      {
+        "word": "the",
+        "startMs": 1780,
+        "endMs": 2020
+      },
+      {
+        "word": "moon.",
+        "startMs": 2020,
+        "endMs": 2300
+      },
+      {
+        "word": "The",
+        "startMs": 2600,
+        "endMs": 3040
+      },
+      {
+        "word": "oldest",
+        "startMs": 3040,
+        "endMs": 3540
+      },
+      {
+        "word": "Chinese",
+        "startMs": 3540,
+        "endMs": 4040
+      },
+      {
+        "word": "writing,",
+        "startMs": 4040,
+        "endMs": 4580
+      },
+      {
+        "word": "cut",
+        "startMs": 4960,
+        "endMs": 5100
+      },
+      {
+        "word": "into",
+        "startMs": 5100,
+        "endMs": 5440
+      },
+      {
+        "word": "bone",
+        "startMs": 5440,
+        "endMs": 5800
+      },
+      {
+        "word": "more",
+        "startMs": 5800,
+        "endMs": 6060
+      },
+      {
+        "word": "than",
+        "startMs": 6060,
+        "endMs": 6260
+      },
+      {
+        "word": "3",
+        "startMs": 6260,
+        "endMs": 6620
+      },
+      {
+        "word": ",000",
+        "startMs": 6620,
+        "endMs": 7220
+      },
+      {
+        "word": "years",
+        "startMs": 7220,
+        "endMs": 7440
+      },
+      {
+        "word": "ago,",
+        "startMs": 7440,
+        "endMs": 7780
+      },
+      {
+        "word": "draws",
+        "startMs": 8280,
+        "endMs": 8480
+      },
+      {
+        "word": "it",
+        "startMs": 8480,
+        "endMs": 8720
+      },
+      {
+        "word": "as",
+        "startMs": 8720,
+        "endMs": 9140
+      },
+      {
+        "word": "a",
+        "startMs": 9140,
+        "endMs": 9380
+      },
+      {
+        "word": "crescent.",
+        "startMs": 9380,
+        "endMs": 9800
+      }
+    ],
+    "heard": "The first really is the moon. The oldest Chinese writing, cut into bone more than 3,000 years ago, draws it as a crescent.",
+    "script": "The first really is the moon. The oldest Chinese writing, cut into bone more than three thousand years ago, draws it as a crescent."
+  },
+  "s04.frame": {
+    "durationMs": 7680,
+    "words": [
+      {
+        "word": "As",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "the",
+        "startMs": 300,
+        "endMs": 560
+      },
+      {
+        "word": "script",
+        "startMs": 560,
+        "endMs": 980
+      },
+      {
+        "word": "grew",
+        "startMs": 980,
+        "endMs": 1420
+      },
+      {
+        "word": "square,",
+        "startMs": 1420,
+        "endMs": 1920
+      },
+      {
+        "word": "the",
+        "startMs": 2400,
+        "endMs": 2680
+      },
+      {
+        "word": "curve",
+        "startMs": 2680,
+        "endMs": 3120
+      },
+      {
+        "word": "became",
+        "startMs": 3120,
+        "endMs": 3720
+      },
+      {
+        "word": "a",
+        "startMs": 3720,
+        "endMs": 4100
+      },
+      {
+        "word": "frame",
+        "startMs": 4100,
+        "endMs": 4440
+      },
+      {
+        "word": "with",
+        "startMs": 4440,
+        "endMs": 5120
+      },
+      {
+        "word": "two",
+        "startMs": 5120,
+        "endMs": 5520
+      },
+      {
+        "word": "short",
+        "startMs": 5520,
+        "endMs": 6020
+      },
+      {
+        "word": "bars",
+        "startMs": 6020,
+        "endMs": 6540
+      },
+      {
+        "word": "inside",
+        "startMs": 6540,
+        "endMs": 6980
+      },
+      {
+        "word": "it.",
+        "startMs": 6980,
+        "endMs": 7340
+      }
+    ],
+    "heard": "As the script grew square, the curve became a frame with two short bars inside it.",
+    "script": "As the script grew square, the curve became a frame, with two short bars inside it."
+  },
+  "s05.meat": {
+    "durationMs": 15240,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": "second",
+        "startMs": 220,
+        "endMs": 580
+      },
+      {
+        "word": "is",
+        "startMs": 580,
+        "endMs": 1260
+      },
+      {
+        "word": "a",
+        "startMs": 1260,
+        "endMs": 1560
+      },
+      {
+        "word": "piece",
+        "startMs": 1560,
+        "endMs": 1920
+      },
+      {
+        "word": "of",
+        "startMs": 1920,
+        "endMs": 2100
+      },
+      {
+        "word": "meat.",
+        "startMs": 2100,
+        "endMs": 2460
+      },
+      {
+        "word": "Its",
+        "startMs": 2720,
+        "endMs": 3240
+      },
+      {
+        "word": "oldest",
+        "startMs": 3240,
+        "endMs": 3680
+      },
+      {
+        "word": "drawings",
+        "startMs": 3680,
+        "endMs": 4180
+      },
+      {
+        "word": "show",
+        "startMs": 4180,
+        "endMs": 4580
+      },
+      {
+        "word": "a",
+        "startMs": 4580,
+        "endMs": 4860
+      },
+      {
+        "word": "slice",
+        "startMs": 4860,
+        "endMs": 5360
+      },
+      {
+        "word": "with",
+        "startMs": 5360,
+        "endMs": 5760
+      },
+      {
+        "word": "lines",
+        "startMs": 5760,
+        "endMs": 6160
+      },
+      {
+        "word": "across",
+        "startMs": 6160,
+        "endMs": 6420
+      },
+      {
+        "word": "it.",
+        "startMs": 6420,
+        "endMs": 6740
+      },
+      {
+        "word": "Squeezed",
+        "startMs": 7140,
+        "endMs": 7860
+      },
+      {
+        "word": "into",
+        "startMs": 7860,
+        "endMs": 8060
+      },
+      {
+        "word": "the",
+        "startMs": 8060,
+        "endMs": 8220
+      },
+      {
+        "word": "side",
+        "startMs": 8220,
+        "endMs": 8560
+      },
+      {
+        "word": "of",
+        "startMs": 8560,
+        "endMs": 8740
+      },
+      {
+        "word": "a",
+        "startMs": 8740,
+        "endMs": 8840
+      },
+      {
+        "word": "character,",
+        "startMs": 8840,
+        "endMs": 9320
+      },
+      {
+        "word": "it",
+        "startMs": 9680,
+        "endMs": 9920
+      },
+      {
+        "word": "stood",
+        "startMs": 9920,
+        "endMs": 10260
+      },
+      {
+        "word": "up",
+        "startMs": 10260,
+        "endMs": 10460
+      },
+      {
+        "word": "straight",
+        "startMs": 10460,
+        "endMs": 10900
+      },
+      {
+        "word": "and",
+        "startMs": 10900,
+        "endMs": 11440
+      },
+      {
+        "word": "lost",
+        "startMs": 11440,
+        "endMs": 11860
+      },
+      {
+        "word": "its",
+        "startMs": 11860,
+        "endMs": 12100
+      },
+      {
+        "word": "curves",
+        "startMs": 12100,
+        "endMs": 12500
+      },
+      {
+        "word": "until",
+        "startMs": 12500,
+        "endMs": 13160
+      },
+      {
+        "word": "it",
+        "startMs": 13160,
+        "endMs": 13660
+      },
+      {
+        "word": "matched",
+        "startMs": 13660,
+        "endMs": 14080
+      },
+      {
+        "word": "the",
+        "startMs": 14080,
+        "endMs": 14440
+      },
+      {
+        "word": "moon.",
+        "startMs": 14440,
+        "endMs": 14720
+      }
+    ],
+    "heard": "The second is a piece of meat. Its oldest drawings show a slice with lines across it. Squeezed into the side of a character, it stood up straight and lost its curves until it matched the moon.",
+    "script": "The second is a piece of meat. Its oldest drawings show a slice, with lines across it. Squeezed into the side of a character, it stood up straight and lost its curves, until it matched the moon."
+  },
+  "s06.body": {
+    "durationMs": 8680,
+    "words": [
+      {
+        "word": "That",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "is",
+        "startMs": 280,
+        "endMs": 440
+      },
+      {
+        "word": "why",
+        "startMs": 440,
+        "endMs": 700
+      },
+      {
+        "word": "so",
+        "startMs": 700,
+        "endMs": 1060
+      },
+      {
+        "word": "much",
+        "startMs": 1060,
+        "endMs": 1380
+      },
+      {
+        "word": "of",
+        "startMs": 1380,
+        "endMs": 1560
+      },
+      {
+        "word": "the",
+        "startMs": 1560,
+        "endMs": 1660
+      },
+      {
+        "word": "body",
+        "startMs": 1660,
+        "endMs": 1980
+      },
+      {
+        "word": "is",
+        "startMs": 1980,
+        "endMs": 2320
+      },
+      {
+        "word": "written",
+        "startMs": 2320,
+        "endMs": 2620
+      },
+      {
+        "word": "with",
+        "startMs": 2620,
+        "endMs": 2860
+      },
+      {
+        "word": "it.",
+        "startMs": 2860,
+        "endMs": 3060
+      },
+      {
+        "word": "A",
+        "startMs": 3260,
+        "endMs": 3760
+      },
+      {
+        "word": "liver,",
+        "startMs": 3760,
+        "endMs": 4080
+      },
+      {
+        "word": "a",
+        "startMs": 4460,
+        "endMs": 4680
+      },
+      {
+        "word": "lung,",
+        "startMs": 4680,
+        "endMs": 5080
+      },
+      {
+        "word": "an",
+        "startMs": 5400,
+        "endMs": 5620
+      },
+      {
+        "word": "elbow,",
+        "startMs": 5620,
+        "endMs": 6080
+      },
+      {
+        "word": "and",
+        "startMs": 6080,
+        "endMs": 6680
+      },
+      {
+        "word": "a",
+        "startMs": 6680,
+        "endMs": 6780
+      },
+      {
+        "word": "belly",
+        "startMs": 6780,
+        "endMs": 7140
+      },
+      {
+        "word": "are",
+        "startMs": 7140,
+        "endMs": 7620
+      },
+      {
+        "word": "all",
+        "startMs": 7620,
+        "endMs": 7940
+      },
+      {
+        "word": "meat.",
+        "startMs": 7940,
+        "endMs": 8240
+      }
+    ],
+    "heard": "That is why so much of the body is written with it. A liver, a lung, an elbow, and a belly are all meat.",
+    "script": "That is why so much of the body is written with it. A liver, a lung, an elbow and a belly are all meat."
+  },
+  "s07.boat": {
+    "durationMs": 5640,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "third",
+        "startMs": 120,
+        "endMs": 460
+      },
+      {
+        "word": "is",
+        "startMs": 460,
+        "endMs": 1000
+      },
+      {
+        "word": "a",
+        "startMs": 1000,
+        "endMs": 1300
+      },
+      {
+        "word": "boat,",
+        "startMs": 1300,
+        "endMs": 1660
+      },
+      {
+        "word": "a",
+        "startMs": 1900,
+        "endMs": 2400
+      },
+      {
+        "word": "long",
+        "startMs": 2400,
+        "endMs": 2920
+      },
+      {
+        "word": "hull",
+        "startMs": 2920,
+        "endMs": 3400
+      },
+      {
+        "word": "with",
+        "startMs": 3400,
+        "endMs": 4020
+      },
+      {
+        "word": "bars",
+        "startMs": 4020,
+        "endMs": 4540
+      },
+      {
+        "word": "across",
+        "startMs": 4540,
+        "endMs": 4900
+      },
+      {
+        "word": "it.",
+        "startMs": 4900,
+        "endMs": 5280
+      }
+    ],
+    "heard": "The third is a boat, a long hull with bars across it.",
+    "script": "The third is a boat: a long hull, with bars across it."
+  },
+  "s08.front": {
+    "durationMs": 6720,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "character",
+        "startMs": 360,
+        "endMs": 800
+      },
+      {
+        "word": "for",
+        "startMs": 800,
+        "endMs": 1220
+      },
+      {
+        "word": "in",
+        "startMs": 1220,
+        "endMs": 1540
+      },
+      {
+        "word": "front",
+        "startMs": 1540,
+        "endMs": 1900
+      },
+      {
+        "word": "began",
+        "startMs": 1900,
+        "endMs": 2460
+      },
+      {
+        "word": "as",
+        "startMs": 2460,
+        "endMs": 2920
+      },
+      {
+        "word": "a",
+        "startMs": 2920,
+        "endMs": 3060
+      },
+      {
+        "word": "foot",
+        "startMs": 3060,
+        "endMs": 3420
+      },
+      {
+        "word": "standing",
+        "startMs": 3420,
+        "endMs": 4200
+      },
+      {
+        "word": "in",
+        "startMs": 4200,
+        "endMs": 4580
+      },
+      {
+        "word": "a",
+        "startMs": 4580,
+        "endMs": 4700
+      },
+      {
+        "word": "boat",
+        "startMs": 4700,
+        "endMs": 5000
+      },
+      {
+        "word": "that",
+        "startMs": 5000,
+        "endMs": 5320
+      },
+      {
+        "word": "is",
+        "startMs": 5320,
+        "endMs": 5560
+      },
+      {
+        "word": "moving",
+        "startMs": 5560,
+        "endMs": 5880
+      },
+      {
+        "word": "forward.",
+        "startMs": 5880,
+        "endMs": 6260
+      }
+    ],
+    "heard": "The character for in front began as a foot standing in a boat that is moving forward.",
+    "script": "The character for 'in front' began as a foot, standing in a boat that is moving forward."
+  },
+  "s09.clerks": {
+    "durationMs": 10760,
+    "words": [
+      {
+        "word": "More",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "than",
+        "startMs": 240,
+        "endMs": 480
+      },
+      {
+        "word": "2",
+        "startMs": 480,
+        "endMs": 800
+      },
+      {
+        "word": ",000",
+        "startMs": 800,
+        "endMs": 1320
+      },
+      {
+        "word": "years",
+        "startMs": 1320,
+        "endMs": 1540
+      },
+      {
+        "word": "ago,",
+        "startMs": 1540,
+        "endMs": 1920
+      },
+      {
+        "word": "Clerks",
+        "startMs": 2420,
+        "endMs": 2760
+      },
+      {
+        "word": "simplifying",
+        "startMs": 2760,
+        "endMs": 3480
+      },
+      {
+        "word": "the",
+        "startMs": 3480,
+        "endMs": 3640
+      },
+      {
+        "word": "script",
+        "startMs": 3640,
+        "endMs": 3900
+      },
+      {
+        "word": "to",
+        "startMs": 3900,
+        "endMs": 4160
+      },
+      {
+        "word": "write",
+        "startMs": 4160,
+        "endMs": 4340
+      },
+      {
+        "word": "it",
+        "startMs": 4340,
+        "endMs": 4480
+      },
+      {
+        "word": "faster",
+        "startMs": 4480,
+        "endMs": 4920
+      },
+      {
+        "word": "shrank",
+        "startMs": 4920,
+        "endMs": 5700
+      },
+      {
+        "word": "the",
+        "startMs": 5700,
+        "endMs": 5860
+      },
+      {
+        "word": "foot",
+        "startMs": 5860,
+        "endMs": 6100
+      },
+      {
+        "word": "to",
+        "startMs": 6100,
+        "endMs": 6400
+      },
+      {
+        "word": "two",
+        "startMs": 6400,
+        "endMs": 6680
+      },
+      {
+        "word": "ticks",
+        "startMs": 6680,
+        "endMs": 7080
+      },
+      {
+        "word": "and",
+        "startMs": 7080,
+        "endMs": 7460
+      },
+      {
+        "word": "a",
+        "startMs": 7460,
+        "endMs": 7600
+      },
+      {
+        "word": "line,",
+        "startMs": 7600,
+        "endMs": 7840
+      },
+      {
+        "word": "and",
+        "startMs": 8040,
+        "endMs": 8480
+      },
+      {
+        "word": "the",
+        "startMs": 8480,
+        "endMs": 8600
+      },
+      {
+        "word": "boat",
+        "startMs": 8600,
+        "endMs": 8860
+      },
+      {
+        "word": "to",
+        "startMs": 8860,
+        "endMs": 9120
+      },
+      {
+        "word": "the",
+        "startMs": 9120,
+        "endMs": 9260
+      },
+      {
+        "word": "moon's",
+        "startMs": 9260,
+        "endMs": 9660
+      },
+      {
+        "word": "four",
+        "startMs": 9660,
+        "endMs": 9880
+      },
+      {
+        "word": "strokes.",
+        "startMs": 9880,
+        "endMs": 10300
+      }
+    ],
+    "heard": "More than 2,000 years ago, Clerks simplifying the script to write it faster shrank the foot to two ticks and a line, and the boat to the moon's four strokes.",
+    "script": "More than two thousand years ago, clerks simplifying the script to write it faster shrank the foot to two ticks and a line, and the boat to the moon's four strokes."
+  },
+  "s10.emperor": {
+    "durationMs": 9520,
+    "words": [
+      {
+        "word": "And",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "when",
+        "startMs": 260,
+        "endMs": 600
+      },
+      {
+        "word": "the",
+        "startMs": 600,
+        "endMs": 800
+      },
+      {
+        "word": "first",
+        "startMs": 800,
+        "endMs": 1200
+      },
+      {
+        "word": "emperor",
+        "startMs": 1200,
+        "endMs": 1660
+      },
+      {
+        "word": "of",
+        "startMs": 1660,
+        "endMs": 2000
+      },
+      {
+        "word": "China",
+        "startMs": 2000,
+        "endMs": 2380
+      },
+      {
+        "word": "took",
+        "startMs": 2380,
+        "endMs": 2840
+      },
+      {
+        "word": "a",
+        "startMs": 2840,
+        "endMs": 3040
+      },
+      {
+        "word": "word",
+        "startMs": 3040,
+        "endMs": 3320
+      },
+      {
+        "word": "for",
+        "startMs": 3320,
+        "endMs": 3620
+      },
+      {
+        "word": "I",
+        "startMs": 3620,
+        "endMs": 4220
+      },
+      {
+        "word": "that",
+        "startMs": 4220,
+        "endMs": 4740
+      },
+      {
+        "word": "only",
+        "startMs": 4740,
+        "endMs": 5200
+      },
+      {
+        "word": "an",
+        "startMs": 5200,
+        "endMs": 5440
+      },
+      {
+        "word": "emperor",
+        "startMs": 5440,
+        "endMs": 5780
+      },
+      {
+        "word": "could",
+        "startMs": 5780,
+        "endMs": 6100
+      },
+      {
+        "word": "use,",
+        "startMs": 6100,
+        "endMs": 6460
+      },
+      {
+        "word": "it",
+        "startMs": 6660,
+        "endMs": 7080
+      },
+      {
+        "word": "was",
+        "startMs": 7080,
+        "endMs": 7240
+      },
+      {
+        "word": "written",
+        "startMs": 7240,
+        "endMs": 7540
+      },
+      {
+        "word": "with",
+        "startMs": 7540,
+        "endMs": 8080
+      },
+      {
+        "word": "a",
+        "startMs": 8080,
+        "endMs": 8340
+      },
+      {
+        "word": "boat",
+        "startMs": 8340,
+        "endMs": 8600
+      },
+      {
+        "word": "as",
+        "startMs": 8600,
+        "endMs": 8920
+      },
+      {
+        "word": "well.",
+        "startMs": 8920,
+        "endMs": 9140
+      }
+    ],
+    "heard": "And when the first emperor of China took a word for I that only an emperor could use, it was written with a boat as well.",
+    "script": "And when the first emperor of China took a word for 'I' that only an emperor could use, it was written with a boat as well."
+  },
+  "s11.dictionary": {
+    "durationMs": 14960,
+    "words": [
+      {
+        "word": "Careful",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "printers",
+        "startMs": 400,
+        "endMs": 880
+      },
+      {
+        "word": "still",
+        "startMs": 880,
+        "endMs": 1400
+      },
+      {
+        "word": "told",
+        "startMs": 1400,
+        "endMs": 1720
+      },
+      {
+        "word": "the",
+        "startMs": 1720,
+        "endMs": 1900
+      },
+      {
+        "word": "three",
+        "startMs": 1900,
+        "endMs": 2080
+      },
+      {
+        "word": "apart.",
+        "startMs": 2080,
+        "endMs": 2440
+      },
+      {
+        "word": "China's",
+        "startMs": 2760,
+        "endMs": 3560
+      },
+      {
+        "word": "Great",
+        "startMs": 3560,
+        "endMs": 3940
+      },
+      {
+        "word": "Dictionary",
+        "startMs": 3940,
+        "endMs": 4640
+      },
+      {
+        "word": "of",
+        "startMs": 4640,
+        "endMs": 4900
+      },
+      {
+        "word": "1716",
+        "startMs": 4900,
+        "endMs": 5980
+      },
+      {
+        "word": "prints",
+        "startMs": 5980,
+        "endMs": 6760
+      },
+      {
+        "word": "three",
+        "startMs": 6760,
+        "endMs": 7220
+      },
+      {
+        "word": "versions.",
+        "startMs": 7220,
+        "endMs": 7680
+      },
+      {
+        "word": "The",
+        "startMs": 8100,
+        "endMs": 8500
+      },
+      {
+        "word": "moon's",
+        "startMs": 8500,
+        "endMs": 8980
+      },
+      {
+        "word": "bars",
+        "startMs": 8980,
+        "endMs": 9240
+      },
+      {
+        "word": "stop",
+        "startMs": 9240,
+        "endMs": 9700
+      },
+      {
+        "word": "short,",
+        "startMs": 9700,
+        "endMs": 10040
+      },
+      {
+        "word": "the",
+        "startMs": 10340,
+        "endMs": 10780
+      },
+      {
+        "word": "meat's",
+        "startMs": 10780,
+        "endMs": 11280
+      },
+      {
+        "word": "bars",
+        "startMs": 11280,
+        "endMs": 11580
+      },
+      {
+        "word": "reach",
+        "startMs": 11580,
+        "endMs": 11980
+      },
+      {
+        "word": "across,",
+        "startMs": 11980,
+        "endMs": 12400
+      },
+      {
+        "word": "and",
+        "startMs": 12660,
+        "endMs": 13060
+      },
+      {
+        "word": "the",
+        "startMs": 13060,
+        "endMs": 13200
+      },
+      {
+        "word": "boat",
+        "startMs": 13200,
+        "endMs": 13480
+      },
+      {
+        "word": "has",
+        "startMs": 13480,
+        "endMs": 13880
+      },
+      {
+        "word": "two",
+        "startMs": 13880,
+        "endMs": 14160
+      },
+      {
+        "word": "dots.",
+        "startMs": 14160,
+        "endMs": 14520
+      }
+    ],
+    "heard": "Careful printers still told the three apart. China's Great Dictionary of 1716 prints three versions. The moon's bars stop short, the meat's bars reach across, and the boat has two dots.",
+    "script": "Careful printers still told the three apart. China's great dictionary of seventeen sixteen prints three versions: the moon's bars stop short, the meat's bars reach across, and the boat has two dots."
+  },
+  "s12.today": {
+    "durationMs": 11160,
+    "words": [
+      {
+        "word": "In",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "the",
+        "startMs": 180,
+        "endMs": 340
+      },
+      {
+        "word": "20th",
+        "startMs": 340,
+        "endMs": 780
+      },
+      {
+        "word": "century,",
+        "startMs": 780,
+        "endMs": 1200
+      },
+      {
+        "word": "China",
+        "startMs": 1500,
+        "endMs": 1880
+      },
+      {
+        "word": "and",
+        "startMs": 1880,
+        "endMs": 2160
+      },
+      {
+        "word": "Japan",
+        "startMs": 2160,
+        "endMs": 2520
+      },
+      {
+        "word": "made",
+        "startMs": 2520,
+        "endMs": 3120
+      },
+      {
+        "word": "all",
+        "startMs": 3120,
+        "endMs": 3420
+      },
+      {
+        "word": "three",
+        "startMs": 3420,
+        "endMs": 3700
+      },
+      {
+        "word": "identical,",
+        "startMs": 3700,
+        "endMs": 4200
+      },
+      {
+        "word": "and",
+        "startMs": 4440,
+        "endMs": 4900
+      },
+      {
+        "word": "the",
+        "startMs": 4900,
+        "endMs": 5040
+      },
+      {
+        "word": "shape",
+        "startMs": 5040,
+        "endMs": 5320
+      },
+      {
+        "word": "they",
+        "startMs": 5320,
+        "endMs": 5540
+      },
+      {
+        "word": "chose",
+        "startMs": 5540,
+        "endMs": 5920
+      },
+      {
+        "word": "was",
+        "startMs": 5920,
+        "endMs": 6440
+      },
+      {
+        "word": "the",
+        "startMs": 6440,
+        "endMs": 6780
+      },
+      {
+        "word": "meats.",
+        "startMs": 6780,
+        "endMs": 7080
+      },
+      {
+        "word": "Taiwan",
+        "startMs": 7460,
+        "endMs": 8080
+      },
+      {
+        "word": "and",
+        "startMs": 8080,
+        "endMs": 8560
+      },
+      {
+        "word": "Hong",
+        "startMs": 8560,
+        "endMs": 8820
+      },
+      {
+        "word": "Kong",
+        "startMs": 8820,
+        "endMs": 9100
+      },
+      {
+        "word": "still",
+        "startMs": 9100,
+        "endMs": 9540
+      },
+      {
+        "word": "print",
+        "startMs": 9540,
+        "endMs": 9900
+      },
+      {
+        "word": "the",
+        "startMs": 9900,
+        "endMs": 10100
+      },
+      {
+        "word": "meat",
+        "startMs": 10100,
+        "endMs": 10340
+      },
+      {
+        "word": "apart.",
+        "startMs": 10340,
+        "endMs": 10680
+      }
+    ],
+    "heard": "In the 20th century, China and Japan made all three identical, and the shape they chose was the meats. Taiwan and Hong Kong still print the meat apart.",
+    "script": "In the twentieth century, China and Japan made all three identical, and the shape they chose was the meat's. Taiwan and Hong Kong still print the meat apart."
+  },
+  "s13.names": {
+    "durationMs": 8960,
+    "words": [
+      {
+        "word": "And",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "in",
+        "startMs": 300,
+        "endMs": 580
+      },
+      {
+        "word": "Japan",
+        "startMs": 580,
+        "endMs": 980
+      },
+      {
+        "word": "and",
+        "startMs": 980,
+        "endMs": 1660
+      },
+      {
+        "word": "in",
+        "startMs": 1660,
+        "endMs": 1920
+      },
+      {
+        "word": "Korea,",
+        "startMs": 1920,
+        "endMs": 2380
+      },
+      {
+        "word": "the",
+        "startMs": 2900,
+        "endMs": 3080
+      },
+      {
+        "word": "meat",
+        "startMs": 3080,
+        "endMs": 3360
+      },
+      {
+        "word": "has",
+        "startMs": 3360,
+        "endMs": 3660
+      },
+      {
+        "word": "kept",
+        "startMs": 3660,
+        "endMs": 3960
+      },
+      {
+        "word": "a",
+        "startMs": 3960,
+        "endMs": 4260
+      },
+      {
+        "word": "name",
+        "startMs": 4260,
+        "endMs": 4560
+      },
+      {
+        "word": "of",
+        "startMs": 4560,
+        "endMs": 4780
+      },
+      {
+        "word": "its",
+        "startMs": 4780,
+        "endMs": 4940
+      },
+      {
+        "word": "own.",
+        "startMs": 4940,
+        "endMs": 5200
+      },
+      {
+        "word": "In",
+        "startMs": 5400,
+        "endMs": 5960
+      },
+      {
+        "word": "both",
+        "startMs": 5960,
+        "endMs": 6280
+      },
+      {
+        "word": "languages,",
+        "startMs": 6280,
+        "endMs": 6760
+      },
+      {
+        "word": "it",
+        "startMs": 6760,
+        "endMs": 7280
+      },
+      {
+        "word": "means",
+        "startMs": 7280,
+        "endMs": 7660
+      },
+      {
+        "word": "the",
+        "startMs": 7660,
+        "endMs": 8120
+      },
+      {
+        "word": "meat",
+        "startMs": 8120,
+        "endMs": 8380
+      },
+      {
+        "word": "moon.",
+        "startMs": 8380,
+        "endMs": 8620
+      }
+    ],
+    "heard": "And in Japan and in Korea, the meat has kept a name of its own. In both languages, it means the meat moon.",
+    "script": "And in Japan and in Korea, the meat has kept a name of its own. In both languages, it means the meat moon."
+  },
+  "s14.recap": {
+    "durationMs": 9600,
+    "words": [
+      {
+        "word": "Three",
+        "startMs": 0,
+        "endMs": 280
+      },
+      {
+        "word": "pictures,",
+        "startMs": 280,
+        "endMs": 800
+      },
+      {
+        "word": "the",
+        "startMs": 1140,
+        "endMs": 1480
+      },
+      {
+        "word": "moon",
+        "startMs": 1480,
+        "endMs": 1800
+      },
+      {
+        "word": "in",
+        "startMs": 1800,
+        "endMs": 2160
+      },
+      {
+        "word": "the",
+        "startMs": 2160,
+        "endMs": 2260
+      },
+      {
+        "word": "sky,",
+        "startMs": 2260,
+        "endMs": 2620
+      },
+      {
+        "word": "a",
+        "startMs": 3140,
+        "endMs": 3380
+      },
+      {
+        "word": "slice",
+        "startMs": 3380,
+        "endMs": 3720
+      },
+      {
+        "word": "of",
+        "startMs": 3720,
+        "endMs": 4100
+      },
+      {
+        "word": "meat,",
+        "startMs": 4100,
+        "endMs": 4480
+      },
+      {
+        "word": "and",
+        "startMs": 4720,
+        "endMs": 5280
+      },
+      {
+        "word": "a",
+        "startMs": 5280,
+        "endMs": 5540
+      },
+      {
+        "word": "boat",
+        "startMs": 5540,
+        "endMs": 5900
+      },
+      {
+        "word": "going",
+        "startMs": 5900,
+        "endMs": 6420
+      },
+      {
+        "word": "forward,",
+        "startMs": 6420,
+        "endMs": 6960
+      },
+      {
+        "word": "squeezed",
+        "startMs": 7200,
+        "endMs": 7940
+      },
+      {
+        "word": "into",
+        "startMs": 7940,
+        "endMs": 8400
+      },
+      {
+        "word": "one",
+        "startMs": 8400,
+        "endMs": 8820
+      },
+      {
+        "word": "shape.",
+        "startMs": 8820,
+        "endMs": 9300
+      }
+    ],
+    "heard": "Three pictures, the moon in the sky, a slice of meat, and a boat going forward, squeezed into one shape.",
+    "script": "Three pictures: the moon in the sky, a slice of meat, and a boat going forward, squeezed into one shape."
+  },
+  "s15.close": {
+    "durationMs": 9800,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 400
+      },
+      {
+        "word": "the",
+        "startMs": 400,
+        "endMs": 900
+      },
+      {
+        "word": "moon",
+        "startMs": 900,
+        "endMs": 1280
+      },
+      {
+        "word": "in",
+        "startMs": 1280,
+        "endMs": 1820
+      },
+      {
+        "word": "the",
+        "startMs": 1820,
+        "endMs": 1980
+      },
+      {
+        "word": "word",
+        "startMs": 1980,
+        "endMs": 2320
+      },
+      {
+        "word": "for",
+        "startMs": 2320,
+        "endMs": 2660
+      },
+      {
+        "word": "liver",
+        "startMs": 2660,
+        "endMs": 3120
+      },
+      {
+        "word": "was",
+        "startMs": 3120,
+        "endMs": 3780
+      },
+      {
+        "word": "never",
+        "startMs": 3780,
+        "endMs": 4320
+      },
+      {
+        "word": "the",
+        "startMs": 4320,
+        "endMs": 4580
+      },
+      {
+        "word": "moon.",
+        "startMs": 4580,
+        "endMs": 4840
+      },
+      {
+        "word": "Today,",
+        "startMs": 5140,
+        "endMs": 5880
+      },
+      {
+        "word": "the",
+        "startMs": 6260,
+        "endMs": 6600
+      },
+      {
+        "word": "moon",
+        "startMs": 6600,
+        "endMs": 6940
+      },
+      {
+        "word": "itself",
+        "startMs": 6940,
+        "endMs": 7580
+      },
+      {
+        "word": "is",
+        "startMs": 7580,
+        "endMs": 8200
+      },
+      {
+        "word": "printed",
+        "startMs": 8200,
+        "endMs": 8660
+      },
+      {
+        "word": "like",
+        "startMs": 8660,
+        "endMs": 9060
+      },
+      {
+        "word": "meat.",
+        "startMs": 9060,
+        "endMs": 9400
+      }
+    ],
+    "heard": "So the moon in the word for liver was never the moon. Today, the moon itself is printed like meat.",
+    "script": "So the moon in the word for liver was never the moon. Today, the moon itself is printed like meat."
+  }
+}

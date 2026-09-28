@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "externalId": "s08.front",
+  "text": "The character for 'in front' began as a foot, standing in a boat that is moving forward.",
+  "durationMs": 6720,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 960,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 22
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1600,
+      "startChar": 22,
+      "endChar": 29
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2160,
+      "startChar": 29,
+      "endChar": 35
+    },
+    {
+      "startMs": 2160,
+      "endMs": 2760,
+      "startChar": 35,
+      "endChar": 38
+    },
+    {
+      "startMs": 2760,
+      "endMs": 2860,
+      "startChar": 38,
+      "endChar": 40
+    },
+    {
+      "startMs": 2860,
+      "endMs": 2960,
+      "startChar": 40,
+      "endChar": 46
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3600,
+      "startChar": 46,
+      "endChar": 55
+    },
+    {
+      "startMs": 3600,
+      "endMs": 4020,
+      "startChar": 55,
+      "endChar": 58
+    },
+    {
+      "startMs": 4020,
+      "endMs": 4440,
+      "startChar": 58,
+      "endChar": 60
+    },
+    {
+      "startMs": 4440,
+      "endMs": 4680,
+      "startChar": 60,
+      "endChar": 65
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5160,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 5160,
+      "endMs": 5400,
+      "startChar": 70,
+      "endChar": 73
+    },
+    {
+      "startMs": 5400,
+      "endMs": 5640,
+      "startChar": 73,
+      "endChar": 80
+    },
+    {
+      "startMs": 5640,
+      "endMs": 6000,
+      "startChar": 80,
+      "endChar": 88
+    }
+  ]
+}

@@ -95,6 +95,12 @@ for whoever wants them.
   12's four letters, in the order the narration takes them, spell MERD, so
   every row on screen sets them out as D E M R instead. Check any line of
   letters for an accidental word before rendering it.
+- **A side beat faces the same gate as the thesis.** The extra fact is the one
+  most likely to be folk etymology, because it is the one people repeat.
+  Episode 14 nearly used 有 'to have' as a hand holding meat, and Wiktionary's
+  own entry for 有 calls that folk etymology: the oracle-bone form shows no
+  meat. Check each extra against its own entry, not against the entry of the
+  thing it illustrates.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -114,6 +120,7 @@ for whoever wants them.
 | 11 | The Peace Sign Is Two Letters | 2:45 | rendered |
 | 12 | Lowercase Is a Capital in a Hurry | 2:36 | rendered |
 | 13 | Japanese Letters Are Chinese Characters, Worn Down or Cut | 2:32 | rendered |
+| 14 | The Moon in 'Liver' Is Meat | 2:40 | rendered |
 
 ## Candidates for later episodes
 
@@ -163,9 +170,15 @@ someone else's set:
 - The prescription Rx and the eye of Horus (another popular-but-shaky origin —
   same treatment)
 - Cuneiform as pictures turned on their side and pressed into clay instead of
-  drawn (refused for episode 11: nobody uses it daily, which is this lane's
-  first test, and the quarter-turn happened "for unknown reasons", so it would
-  repeat episode 9's move without episode 9's cause)
+  drawn (refused for episode 11, and again for episode 14: nobody uses it
+  daily, which is this lane's first test, and the quarter-turn happened "for
+  unknown reasons", so it would repeat episode 9's move without episode 9's
+  cause)
+- The side forms of Chinese radicals - 忄 is 心 'heart' squeezed to the edge of
+  a character in the same Han simplification episode 14 dates (Wikipedia's
+  Libian article gives 忄 as its example), and 氵 is 水 'water'. A thread per
+  radical rather than a film, and two of the best have appeared already: 刂 in
+  episode 13, and 灬 as the horse's legs in episode 9
 - ÷ and † as the Alexandrian obelus (refused for episode 11: Rahn reused an
   existing form for division, which is not a shape change; the dagger's
   descent from the obelus is undocumented; and Wikipedia's Quotation mark
