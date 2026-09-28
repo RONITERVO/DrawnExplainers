@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s11.lost",
+  "text": "Not one bamboo book survives from that age. Bamboo rots, and bone does not. We only know those books existed because the writing has a word for one.",
+  "durationMs": 12480,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 8
+    },
+    {
+      "startMs": 150,
+      "endMs": 1040,
+      "startChar": 8,
+      "endChar": 15
+    },
+    {
+      "startMs": 1040,
+      "endMs": 1600,
+      "startChar": 15,
+      "endChar": 20
+    },
+    {
+      "startMs": 1600,
+      "endMs": 1960,
+      "startChar": 20,
+      "endChar": 29
+    },
+    {
+      "startMs": 1960,
+      "endMs": 2640,
+      "startChar": 29,
+      "endChar": 34
+    },
+    {
+      "startMs": 2640,
+      "endMs": 2840,
+      "startChar": 34,
+      "endChar": 39
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3040,
+      "startChar": 39,
+      "endChar": 44
+    },
+    {
+      "startMs": 3040,
+      "endMs": 3520,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3520,
+      "endMs": 4440,
+      "startChar": 51,
+      "endChar": 57
+    },
+    {
+      "startMs": 4440,
+      "endMs": 5080,
+      "startChar": 57,
+      "endChar": 61
+    },
+    {
+      "startMs": 5080,
+      "endMs": 5720,
+      "startChar": 61,
+      "endChar": 66
+    },
+    {
+      "startMs": 5720,
+      "endMs": 6280,
+      "startChar": 66,
+      "endChar": 71
+    },
+    {
+      "startMs": 6280,
+      "endMs": 6520,
+      "startChar": 71,
+      "endChar": 76
+    },
+    {
+      "startMs": 6520,
+      "endMs": 6680,
+      "startChar": 76,
+      "endChar": 79
+    },
+    {
+      "startMs": 6680,
+      "endMs": 6840,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 6840,
+      "endMs": 7000,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7080,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 7080,
+      "endMs": 8240,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 8240,
+      "endMs": 9040,
+      "startChar": 101,
+      "endChar": 109
+    },
+    {
+      "startMs": 9040,
+      "endMs": 9920,
+      "startChar": 109,
+      "endChar": 117
+    },
+    {
+      "startMs": 9920,
+      "endMs": 10140,
+      "startChar": 117,
+      "endChar": 121
+    },
+    {
+      "startMs": 10140,
+      "endMs": 10360,
+      "startChar": 121,
+      "endChar": 129
+    },
+    {
+      "startMs": 10360,
+      "endMs": 11000,
+      "startChar": 129,
+      "endChar": 133
+    },
+    {
+      "startMs": 11000,
+      "endMs": 11180,
+      "startChar": 133,
+      "endChar": 135
+    },
+    {
+      "startMs": 11180,
+      "endMs": 11360,
+      "startChar": 135,
+      "endChar": 140
+    },
+    {
+      "startMs": 11360,
+      "endMs": 11560,
+      "startChar": 140,
+      "endChar": 144
+    },
+    {
+      "startMs": 11560,
+      "endMs": 11760,
+      "startChar": 144,
+      "endChar": 148
+    }
+  ]
+}

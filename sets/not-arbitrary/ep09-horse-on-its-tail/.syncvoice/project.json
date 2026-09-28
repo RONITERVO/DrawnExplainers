@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep09",
+    "name": "Not Arbitrary 09 — The Horse Is Standing on Its Tail",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "The Chinese character for horse is a drawing of a horse. It is hard to see because the first people to write it stood the horse on its tail.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, a little amused. State the first sentence plainly, then a small pause before the second, and let 'on its tail' land lightly."
+    },
+    {
+      "externalId": "s02.horse.draw",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Draw a horse the way anyone would. Side on, facing left, with a mane down the back of its neck, four legs, and a tail.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and physical, as if drawing along with the listener. Unhurried through the list of parts."
+    },
+    {
+      "externalId": "s03.horse.stand",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Three thousand years ago, scribes carving into ox bones and turtle shells drew this same animal, and they drew it standing up.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A little lift of wonder on 'three thousand years ago'. Land 'standing up' simply, no emphasis."
+    },
+    {
+      "externalId": "s04.horse.legs",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Over the centuries that followed, the legs came back down underneath it. But the neck stayed upright, and the mane still streams out sideways, the way it would on a horse standing on its tail.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Measured. A clear turn on 'But'. The second sentence is the argument of the shot, so keep it as one unhurried phrase."
+    },
+    {
+      "externalId": "s05.horse.reveal",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "That is the character for horse, and it is still written this way today. The three lines are its mane, and the four dots along the bottom are its legs.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The reveal. Simple and warm, let it sit. A small smile on 'its legs'."
+    },
+    {
+      "externalId": "s06.gallery",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "It was never only the horse. The tiger, the dog, the pig and the elephant were all written standing on their tails.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift slightly at the start. Give each animal its own small beat."
+    },
+    {
+      "externalId": "s07.gallery.lie",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Lay them back down, and every one of them is plainly an animal. A rule kept that consistently has a reason behind it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gentle, almost pleased. Then slightly more deliberate on the second sentence, setting up the turn."
+    },
+    {
+      "externalId": "s08.turn",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "The reason is the page. Books in ancient China were strips of bamboo, each about as wide as a finger, tied side by side with cord.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The turn of the film. Slow down. A definite pause after 'The reason is the page', then concrete and physical."
+    },
+    {
+      "externalId": "s09.fit",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "A horse lying down is wider than a finger. So the scribe turned the horse instead.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Dry and matter of fact. A beat before 'So'. Land 'instead' quietly."
+    },
+    {
+      "externalId": "s10.columns",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "The strips left a second mark. For three thousand years, Chinese was written in columns, from the top down, because a strip of bamboo only has room for one.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried, a small lift on 'a second mark'. Keep 'from the top down' clear."
+    },
+    {
+      "externalId": "s11.lost",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Not one bamboo book survives from that age. Bamboo rots, and bone does not. We only know those books existed because the writing has a word for one.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Quiet and precise, like laying out evidence. A small pause after 'bone does not'."
+    },
+    {
+      "externalId": "s12.book",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "Strips of different lengths, and the cord that bound them together. That character is still in use, long after anyone stopped writing on bamboo.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The second reveal. Warm and simple, a little wondering on the last clause."
+    },
+    {
+      "externalId": "s13.recap",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "A horse, and a book made of bamboo. The shape of the page decided the shape of the writing, and the writing kept that shape long after the page was gone.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, a little wondering, not a summary read."
+    },
+    {
+      "externalId": "s14.close",
+      "scene": "bamboo",
+      "speaker": "Narrator",
+      "text": "You are still reading the shape of a page that nobody alive has ever seen.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop. No lift at the end."
+    }
+  ]
+}

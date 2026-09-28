@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "externalId": "s03.horse.stand",
+  "text": "Three thousand years ago, scribes carving into ox bones and turtle shells drew this same animal, and they drew it standing up.",
+  "durationMs": 10400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 1240,
+      "startChar": 15,
+      "endChar": 21
+    },
+    {
+      "startMs": 1240,
+      "endMs": 1560,
+      "startChar": 21,
+      "endChar": 26
+    },
+    {
+      "startMs": 1560,
+      "endMs": 2000,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2075,
+      "startChar": 34,
+      "endChar": 42
+    },
+    {
+      "startMs": 2075,
+      "endMs": 3720,
+      "startChar": 42,
+      "endChar": 47
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3960,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4320,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 4320,
+      "endMs": 4840,
+      "startChar": 56,
+      "endChar": 60
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5040,
+      "startChar": 60,
+      "endChar": 67
+    },
+    {
+      "startMs": 5040,
+      "endMs": 5360,
+      "startChar": 67,
+      "endChar": 74
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5800,
+      "startChar": 74,
+      "endChar": 79
+    },
+    {
+      "startMs": 5800,
+      "endMs": 6480,
+      "startChar": 79,
+      "endChar": 84
+    },
+    {
+      "startMs": 6480,
+      "endMs": 6960,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 6960,
+      "endMs": 7400,
+      "startChar": 89,
+      "endChar": 97
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7587,
+      "startChar": 97,
+      "endChar": 101
+    },
+    {
+      "startMs": 7587,
+      "endMs": 7773,
+      "startChar": 101,
+      "endChar": 106
+    },
+    {
+      "startMs": 7773,
+      "endMs": 7960,
+      "startChar": 106,
+      "endChar": 111
+    },
+    {
+      "startMs": 7960,
+      "endMs": 8760,
+      "startChar": 111,
+      "endChar": 114
+    },
+    {
+      "startMs": 8760,
+      "endMs": 9120,
+      "startChar": 114,
+      "endChar": 123
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9760,
+      "startChar": 123,
+      "endChar": 126
+    }
+  ]
+}

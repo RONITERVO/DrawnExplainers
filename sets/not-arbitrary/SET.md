@@ -79,6 +79,13 @@ for whoever wants them.
   else until it has been dealt with. Episode 8 puts that claim and the pillars
   of Hercules up as text and strikes them through on a beat. It costs one shot
   and it is the shot that makes the rest of the film land.
+- **Check the hook against the mark as it is written today.** Episode 9 was
+  scripted as "the character for horse is a horse standing on its tail", and
+  the modern 馬 is not: its legs came back down underneath it in later
+  scripts. What survives of the rotation is the upright neck and the mane
+  streaming sideways. The oracle form proves the rotation happened; only the
+  modern mark can prove what is left of it, so the claim has to be narrowed
+  to that before the voice is recorded, not after.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -93,6 +100,7 @@ for whoever wants them.
 | 06 | Circuit Diagrams Are a Museum | 2:48 | rendered |
 | 07 | Roman Numerals Are Not Letters | 2:36 | rendered |
 | 08 | Four Symbols That Are Just Handwriting | 2:38 | rendered |
+| 09 | The Horse Is Standing on Its Tail | 2:31 | rendered |
 
 ## Candidates for later episodes
 
@@ -107,7 +115,22 @@ someone else's set:
   popular version is largely myth, which could itself be the episode). Note
   that episode 7 did the Roman numerals and found the opposite situation - a
   scholarly derivation with real morphs in it, and the folk story (C for
-  centum) displaced as a side effect rather than as the subject.
+  centum) displaced as a side effect rather than as the subject. Checked for
+  episode 9: 2 and 3 really are two and three strokes joined up, but only
+  those two are morphs - Wikipedia's Brahmi numerals calls 4-9 arbitrary in
+  even the oldest inscriptions - so it is a short thread, not a film.
+- Accents are letters written small: the umlaut is a superscript e (two short
+  strokes in Kurrent), the cedilla the bottom half of a small cursive z, the
+  ring on å a small o (the one that never changed shape, so the episode's
+  non-morph). Well sourced and ready. Leave out the tilde: its origin as a
+  shrunken n is citation-needed and seemingly contradicted by Reimer (2015).
+- Hangul as pictures of the mouth (refused for episode 9 on gate 2, and the
+  hardest refusal yet, because the 1446 Haerye says it in the designers' own
+  words). Ledyard derives the base consonants from 'Phags-pa and calls the
+  speech-organ story post hoc, and Peter Daniels finds those derivations
+  almost certain. A film that claims ㄴ *is* a
+  tongue cannot rest on that. A film about the only alphabet that shipped
+  with its designers' explanation could - that claim is true either way.
 - Why the pound sign for weight is `lb`, and the `#` that came out of it
   (refused for episode 8 on gate 4, not gate 2: the barred *lb* is three
   strokes and `#` is four, and there is no honest way to split one)

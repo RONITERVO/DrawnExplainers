@@ -1,0 +1,116 @@
+{
+  "set": "not-arbitrary",
+  "episode": 9,
+  "slug": "ep09-horse-on-its-tail",
+  "title": "The Horse Is Standing on Its Tail",
+  "thesis": "The Chinese character for horse, 馬, is a drawing of a horse facing left - and the oldest Chinese writing, carved on bone, stood it on its tail. Its legs came back down underneath it over the centuries, but its neck is still upright and its mane still streams sideways: the three crossbars are the mane and the four dots are the legs. The tiger, dog, pig and elephant were stood up the same way, and the reason is the page: books were strips of bamboo a finger wide, and a horse lying down does not fit on a finger. No book that old survives - bamboo rots - but the script kept a character for one, 冊, which is a drawing of the strips and the cord that bound them.",
+  "runtimeSeconds": 150.92,
+  "renderedAt": "2026-09-28",
+  "status": "rendered",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written directly rather than by a subagent, following the drawn-explainer skill. The subject was chosen by the author: the user invoked the skill without naming one."
+  },
+  "sourcing": {
+    "primary": "Wikipedia, 'Oracle bone script', whose identification of the rotated graphs is sourced to Qiu Xigui, Chinese Writing (tr. Mattos and Norman, 2000), David Keightley, Sources of Shang History (1978), and Zhao 1988, Liu 1997, Wu 1990. Load-bearing passages, read from the article source rather than a summary: 'the reorientation of some graphs, by rotating them 90 degrees, as if to better fit on tall, narrow slats. The style must have developed on books of bamboo or wood slats, and then carried over to the oracle bone script. Additionally, the layout of characters in columns from top to bottom is mostly carried over from bamboo books'; that the Shang wrote on bamboo books 'because the graphs for a writing brush and bamboo book (冊) ...' exist in the script; and 'There are no such bamboo books extant before the late Zhou, however, as the materials were not permanent enough to survive.' The article's figure of rotated forms lists 馬 horse, 虎 tiger, 豕 swine, 犬 dog, 鼠 rat, 象 elephant, 豸, 龜 turtle, 爿, 為 and 疾.",
+    "supporting": [
+      "馬: Wiktionary's glyph origin - 'a horse with its head facing the left, showing a flowing mane in the wind, standing vertically' - citing Victor Mair, 'Evolution of the sinograph and the word for horse', Language Log, 16 February 2026. The same entry identifies 灬 in 馬 as the horse's legs (contrasting 𢊁, which 'has the legs of 馬 (灬) but the head of 鹿'). The film's left-facing horse and its left-to-upright quarter-turn follow this orientation exactly.",
+      "冊: Wiktionary's glyph origin - 'bamboo slips strung together', etymologically the same word as 策 'bamboo slips' (Schuessler, ABC Etymological Dictionary of Old Chinese, 2007).",
+      "Reference forms for every drawing - the oracle, bronze and seal forms of 馬 and 冊, and the rotated-graphs figure - were downloaded from Wikimedia Commons (the Richard Sears ancient-character series) and traced by eye, not copied: every mark in the film is anchors in the strip modules."
+    ],
+    "whyThisIsNotFolkEtymology": "The fact of rotation is not an interpretation: the oracle-bone graphs for these animals are vertical, head up, legs to one side, and anyone can lay them down and see the animal - which is exactly what shot 7 does. The reason is hedged in the scholarship ('as if to better fit') and the film does not overstate it: it says the reason is the page, and then shows the evidence that the page existed, which is the graph 冊 itself. The claim about 馬 is narrower than the hook might suggest and the script was rewritten to match it: the modern character does NOT stand on its tail - its legs came back down underneath in later scripts - and shot 4 says so outright. What survives of the rotation is the upright neck and the mane streaming sideways, which the three crossbars of 馬 still do.",
+    "refused": [
+      "Hangul as 'pictures of your mouth' - the first subject considered and the strongest film on paper, because the 1446 Hunminjeongeum Haerye says in the designers' own words that ㄱ ㄴ ㅁ ㅅ ㅇ depict the tongue, mouth, tooth and throat. Refused on gate 2 by the set's own precedent (the @ sign): Gari Ledyard derives ㄱ ㄷ ㄹ ㅂ ㅅ (and possibly ㅈ) from 'Phags-pa and calls the speech-organ derivations post hoc, Peter Daniels calls them 'almost certainly based' on 'Phags-pa, and since under Ledyard ㄴ and ㅁ come from ㄷ and ㅂ by removing strokes, even they are not clear of the dispute. Only ㅇ is uncontested. A film whose claim is 'this IS a tongue' cannot rest on a derivation serious scholars reject. Worth revisiting as a differently framed film - 'the only alphabet that came with its designers' explanation' - which is true whoever is right about the shapes.",
+      "Digits 1-2-3 as one, two and three strokes, joined up. True and well sourced (Ifrah; Smith and Karpinski 1911; Wikipedia's Brahmi numerals: 'The source of the first three numerals seems clear'), and the angle-counting myth would be a good thing to cross out. Refused for this slot because only 2 and 3 are real morphs: the same article calls 4-9 'arbitrary symbols in even the oldest inscriptions', and the tally argument is episode 7's.",
+      "Accents as letters written small - the umlaut is a superscript e (in Kurrent, two short strokes), the cedilla the bottom half of a small cursive z, the ring on å a small o. All three are well sourced and would make a good episode; kept as a candidate. The tilde on ñ was checked and would have to be dropped: Wikipedia's account of it as a shrunken n is citation-needed and 'seemingly contradicted by Reimer (2015)'.",
+      "爿 (a bed stood on end) and 疾/疒 (a sick person on a bed). Both are in the rotated-graphs figure and 疒 is in every disease character, but 爿 has a competing seal-script analysis as half of 木, and the oracle form of 疾 that turned up was the arrow-wound variant, not the bed. Not enough certainty about which stroke of 疒 is which to morph it honestly.",
+      "Shuowen's descriptions of 馬 ('head, mane, tail and four legs') and 冊 ('one long, one short, with two cords') - recalled, not verified against a text in this session, so neither is quoted anywhere in the film or its records.",
+      "Simplified 马. The film's claim about four dots is only true of 馬, so the reveal carries an on-screen note that it is still written this way in Taiwan, Hong Kong and Japan rather than implying that every reader of Chinese sees the legs."
+    ]
+  },
+  "gates": {
+    "drawable": "Three real morphs and one that is a pure rotation by design. The horse: a left-facing horse turns a true quarter-turn (by angle, not by blending anchors) into the oracle-bone pose, then wears down into 馬 - body swinging back to horizontal, legs dropping to four dots, head and belly subtracted, neck and mane kept. The book: four bamboo strips press flat into the oracle graph and then into 冊, strips 2 and 4 reaching over their neighbours to become the ㇆ strokes. The gallery: four oracle animals lie back down, rotation only, which is the argument of that shot.",
+    "trueNotFolk": "See sourcing. The rotation is observed, the orientation of 馬 matches Mair, the bamboo explanation is the one Qiu and Keightley give, and the film hedges exactly where they do.",
+    "genuinelyDifferentShapes": "The horse turns 90 degrees and loses its head; the bamboo book loses its width and gains the joins of 冂. Nothing is a tidy-up. The gallery shot is rotation alone and deliberately so - its claim is that turning is the only thing hiding the animals - which is close to the episode's one allowed non-morph but still changes orientation.",
+    "topology": "The horse is twelve parts in every state (head, eye, throat, crest, three mane hairs, back-and-tail, belly, four legs), each indexed root to tip in all three states, so the mane hairs point up, then right, then right - which is the claim. The book is five runs throughout (four strips, one cord); each strip is one open run [bottom-left, top-left, top-right, bottom-right, back], which is what lets a strip become a ㇆ stroke without a split."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 156s bed, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 4528 frames in 42s",
+    "loudness": "-14.2 LUFS integrated, LRA 3.6"
+  },
+  "musicPrompt": "Sparse solo plucked zither, played very softly with long natural decay and wide space between the notes, no repeating melody. A low soft cello holding long quiet tones underneath. Faint dry room tone, like a quiet study. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean first time; 355 script words, 355 heard. The only differences are number normalisation - 'three thousand' to '3,000' in s03 and s10 - which is why no beat in this film is cued on a number.",
+    "defectsFound": [],
+    "homophonesAvoidedInTheScript": "Two were caught at the writing stage rather than by Whisper. 'Mane' is a homophone of 'main', and 'the three lines are the mane' is a sentence a listener can parse either way, so it was written 'the three lines are its mane'. 'Tail' / 'tale' was left alone because every use is 'standing on its tail', which has no second reading."
+  },
+  "notes": {
+    "budget": "355 words over 14 shots estimated 157.1s. Actual speech 141.8s and the film 150.9s - the estimate was 4.1% high. Kore ran at 2.50 words/second, the fast end of its range, as the skill predicts for denser writing.",
+    "craft7": "Every stage keeps its sources on the page with dashed ties. The horse ends as a triptych - horse, standing horse, 馬 - and the reveal lights the mane and the legs red in all three at once, which is the whole argument in one frame. The book ends the same way: bamboo, the graph carved on a bone, 冊, with the cord red in all three.",
+    "turn": "Shot 8, 'The reason is the page', at 76s of 151. The first half is five animals turned on their tails; the second half is why, and the evidence for the why is itself a character. Bamboo rots and bone does not, so the only Shang book anyone will ever see is the drawing of one carved on a shoulder blade.",
+    "rhyme": "Episode 2's A is 'still an ox, standing on its head'; this film's horse is standing on its tail. The line is never said, so it is a bonus for anyone who saw episode 2 and nothing is lost for anyone who did not.",
+    "continuity": "The horse is on the page in six of the eight stages - the hook, its own triptych, the head of the gallery row, lying beside the bamboo and then written onto a strip, and the recap - so the film is one object followed through, not slides.",
+    "newInLib": "travel() and detach() gained an opt-in `emerge` option: the copy fades up out of its source over that fraction of the move. Without it every move in this film opened on a doubled drawing - a full-opacity copy a few pixels off a source that had barely started to thin, for most of a second, because easeInOut starts slowly. Default off, so the eight published episodes re-render identically."
+  },
+  "toolchainFeedback": {
+    "rotationIsNotABlend": "A quarter-turn cannot be done with morph()/blend(): lerping anchors between a shape and its own 90-degree rotation drags every point along the chord, and the drawing shrinks to 71% and shears at 45 degrees. The first strip of the horse showed it immediately. strip-horse.mjs rotates by angle for the first half of its chain and blends only for the second. If another episode needs rotation plus morph, that split is worth promoting as a primitive.",
+    "drawOrderAndSubtraction": "A generator that fades parts out (element subtraction) must also drop them from its draw-on order, or writing the final state on spends time 'drawing' invisible parts. The hook opened on a blank page for 2.5 seconds because 馬's first quarter of draw-on went to the horse's head and eye, both at zero opacity in that state. Caught by --at at 2s, not by --preview, whose early frame for s01 fell later.",
+    "leftWeightedTriptych": "A three-state chain done as two travel() calls leaves the right third of the page empty from the end of the first move until the second begins - about eleven seconds in this film. The fix is to let the first pair hold the centre (from/to of the first travel() centred) and slide both left as the second move starts. Both chains here do that; it could be a travel() option.",
+    "musicLevel": "This bed measured -15.9 LUFS integrated against -19.3 and -22.0 for episodes 8 and 7, and it swells over its length. It sits inside the range the set has already published (episode 2's is -13.3) and the final mix is -14.2 LUFS, so it was left alone, but build.mjs applies a fixed 0.34 gain to every bed regardless of how loud Lyria made it. Normalising the bed before the gain would make every episode's music sit at the same level.",
+    "reference": "Wikimedia Commons rate-limits unauthenticated bulk fetches hard (HTTP 429 after about ten files). Fetch the handful of reference SVGs a film needs one at a time, with a few seconds between them."
+  },
+  "publish": {
+    "youtube": {
+      "title": "The Chinese character for horse is a horse standing on its tail",
+      "description": "馬, the Chinese character for horse, is a drawing of a horse facing left. It looks like a code because the first people to write it - Shang dynasty scribes carving into ox bones and turtle shells three thousand years ago - stood the horse on its tail.\n\nLater scripts let the legs come back down underneath it, but the neck stayed upright and the mane still streams out sideways. The three crossbars are the mane; the four dots along the bottom are the legs. The tiger, dog, pig and elephant were all written standing up the same way - lay them back down and they are plainly animals.\n\nThe reason is the page. Books were strips of bamboo about a finger wide, tied side by side with cord, and a horse lying down is wider than a finger. No bamboo book that old survives - bamboo rots and bone does not - but we know they existed because the script has a character for one: 冊, the strips and the cord that bound them. The same strips are why Chinese was written in columns from the top down for three thousand years.\n\n馬 is still written with its four legs in Taiwan, Hong Kong and Japan; the simplified 马 used in mainland China has turned them into a single stroke.\n\nSources: the rotated graphs and the bamboo books as described in Wikipedia's 'Oracle bone script', which draws on Qiu Xigui, Chinese Writing (1988; tr. Mattos and Norman, 2000) and David N. Keightley, Sources of Shang History (1978). The orientation of 馬 follows Victor Mair, 'Evolution of the sinograph and the word for horse', Language Log (2026).\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chinese characters",
+        "oracle bone script",
+        "chinese writing",
+        "etymology",
+        "history",
+        "shang dynasty",
+        "bamboo slips",
+        "calligraphy",
+        "writing systems",
+        "explainer",
+        "animation",
+        "learn chinese"
+      ]
+    },
+    "shorts": {
+      "title": "The four dots under this Chinese character are a horse's legs",
+      "description": "馬 is a horse facing left: the mane is the three crossbars, the legs are the four dots. It only looks like a code because the first scribes stood it on its tail to fit a strip of bamboo.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "chinese characters",
+        "oracle bone script",
+        "etymology",
+        "learn chinese",
+        "history",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+    },
+    "tiktok": {
+      "caption": "The Chinese character for horse is a horse. The mane is the three lines, the legs are the four dots - it only looks like a code because the first scribes stood it on its tail to fit a strip of bamboo.",
+      "hook": "First 3 seconds: 馬 written on, then the oracle-bone horse beside it, standing upright, with a dashed line between them."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-horse.mjs",
+      "strip-animals.mjs",
+      "strip-book.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep09-horse-on-its-tail"
+}

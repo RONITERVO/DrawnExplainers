@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 8 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 9 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -162,6 +162,16 @@ node lib/build.mjs <ep>
   trajectory keeps the copy near the source for the first half of the move, so
   anything much over 400px across needs `from`/`to` spread wider than the usual
   660/1320 or the ghost and its own copy collide mid-morph.
+- **A quarter-turn is a rotation, not a blend.** Lerping anchors between a
+  shape and its own 90-degree turn drags every point along the chord: the
+  drawing shrinks to 71% and shears halfway. Rotate by angle, and morph only
+  what actually changes shape - episode 9's strip-horse.mjs does the turn
+  first and the blend second.
+- **Pass `emerge` to travel() and detach().** Without it a move opens on the
+  same drawing twice, a few pixels apart, for most of a second, because the
+  copy starts at full opacity over a source that has barely begun to thin.
+  0.15-0.2 makes it peel off instead. Off by default only so the published
+  films re-render identically; new episodes should use it.
 - **Never fade a source to zero.** Thin it to about a quarter and leave it where
   it stood. The commonest empty page in these films is the six seconds between a
   mark landing and the narrator finishing, and the commonest cause is having

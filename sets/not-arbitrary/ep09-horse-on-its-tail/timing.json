@@ -1,0 +1,1875 @@
+{
+  "s01.hook": {
+    "durationMs": 9640,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "Chinese",
+        "startMs": 180,
+        "endMs": 480
+      },
+      {
+        "word": "character",
+        "startMs": 480,
+        "endMs": 1020
+      },
+      {
+        "word": "for",
+        "startMs": 1020,
+        "endMs": 1300
+      },
+      {
+        "word": "horse",
+        "startMs": 1300,
+        "endMs": 1600
+      },
+      {
+        "word": "is",
+        "startMs": 1600,
+        "endMs": 2140
+      },
+      {
+        "word": "a",
+        "startMs": 2140,
+        "endMs": 2440
+      },
+      {
+        "word": "drawing",
+        "startMs": 2440,
+        "endMs": 2800
+      },
+      {
+        "word": "of",
+        "startMs": 2800,
+        "endMs": 2980
+      },
+      {
+        "word": "a",
+        "startMs": 2980,
+        "endMs": 3060
+      },
+      {
+        "word": "horse.",
+        "startMs": 3060,
+        "endMs": 3360
+      },
+      {
+        "word": "It",
+        "startMs": 3600,
+        "endMs": 4160
+      },
+      {
+        "word": "is",
+        "startMs": 4160,
+        "endMs": 4300
+      },
+      {
+        "word": "hard",
+        "startMs": 4300,
+        "endMs": 4540
+      },
+      {
+        "word": "to",
+        "startMs": 4540,
+        "endMs": 4740
+      },
+      {
+        "word": "see",
+        "startMs": 4740,
+        "endMs": 5080
+      },
+      {
+        "word": "because",
+        "startMs": 5080,
+        "endMs": 5480
+      },
+      {
+        "word": "the",
+        "startMs": 5480,
+        "endMs": 5820
+      },
+      {
+        "word": "first",
+        "startMs": 5820,
+        "endMs": 6180
+      },
+      {
+        "word": "people",
+        "startMs": 6180,
+        "endMs": 6560
+      },
+      {
+        "word": "to",
+        "startMs": 6560,
+        "endMs": 6760
+      },
+      {
+        "word": "write",
+        "startMs": 6760,
+        "endMs": 6980
+      },
+      {
+        "word": "it",
+        "startMs": 6980,
+        "endMs": 7180
+      },
+      {
+        "word": "stood",
+        "startMs": 7180,
+        "endMs": 7620
+      },
+      {
+        "word": "the",
+        "startMs": 7620,
+        "endMs": 7840
+      },
+      {
+        "word": "horse",
+        "startMs": 7840,
+        "endMs": 8200
+      },
+      {
+        "word": "on",
+        "startMs": 8200,
+        "endMs": 8640
+      },
+      {
+        "word": "its",
+        "startMs": 8640,
+        "endMs": 8860
+      },
+      {
+        "word": "tail.",
+        "startMs": 8860,
+        "endMs": 9260
+      }
+    ],
+    "heard": "The Chinese character for horse is a drawing of a horse. It is hard to see because the first people to write it stood the horse on its tail.",
+    "script": "The Chinese character for horse is a drawing of a horse. It is hard to see because the first people to write it stood the horse on its tail."
+  },
+  "s02.horse.draw": {
+    "durationMs": 9080,
+    "words": [
+      {
+        "word": "Draw",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "a",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "horse",
+        "startMs": 600,
+        "endMs": 960
+      },
+      {
+        "word": "the",
+        "startMs": 960,
+        "endMs": 1200
+      },
+      {
+        "word": "way",
+        "startMs": 1200,
+        "endMs": 1420
+      },
+      {
+        "word": "anyone",
+        "startMs": 1420,
+        "endMs": 1800
+      },
+      {
+        "word": "would,",
+        "startMs": 1800,
+        "endMs": 2200
+      },
+      {
+        "word": "side",
+        "startMs": 2560,
+        "endMs": 3080
+      },
+      {
+        "word": "on,",
+        "startMs": 3080,
+        "endMs": 3400
+      },
+      {
+        "word": "facing",
+        "startMs": 3580,
+        "endMs": 3980
+      },
+      {
+        "word": "left,",
+        "startMs": 3980,
+        "endMs": 4400
+      },
+      {
+        "word": "with",
+        "startMs": 4680,
+        "endMs": 5020
+      },
+      {
+        "word": "a",
+        "startMs": 5020,
+        "endMs": 5200
+      },
+      {
+        "word": "mane",
+        "startMs": 5200,
+        "endMs": 5500
+      },
+      {
+        "word": "down",
+        "startMs": 5500,
+        "endMs": 5840
+      },
+      {
+        "word": "the",
+        "startMs": 5840,
+        "endMs": 6020
+      },
+      {
+        "word": "back",
+        "startMs": 6020,
+        "endMs": 6240
+      },
+      {
+        "word": "of",
+        "startMs": 6240,
+        "endMs": 6400
+      },
+      {
+        "word": "its",
+        "startMs": 6400,
+        "endMs": 6540
+      },
+      {
+        "word": "neck,",
+        "startMs": 6540,
+        "endMs": 6880
+      },
+      {
+        "word": "four",
+        "startMs": 7180,
+        "endMs": 7480
+      },
+      {
+        "word": "legs,",
+        "startMs": 7480,
+        "endMs": 7920
+      },
+      {
+        "word": "and",
+        "startMs": 8120,
+        "endMs": 8360
+      },
+      {
+        "word": "a",
+        "startMs": 8360,
+        "endMs": 8480
+      },
+      {
+        "word": "tail.",
+        "startMs": 8480,
+        "endMs": 8700
+      }
+    ],
+    "heard": "Draw a horse the way anyone would, side on, facing left, with a mane down the back of its neck, four legs, and a tail.",
+    "script": "Draw a horse the way anyone would. Side on, facing left, with a mane down the back of its neck, four legs, and a tail."
+  },
+  "s03.horse.stand": {
+    "durationMs": 10400,
+    "words": [
+      {
+        "word": "3",
+        "startMs": 0,
+        "endMs": 220
+      },
+      {
+        "word": ",000",
+        "startMs": 220,
+        "endMs": 1080
+      },
+      {
+        "word": "years",
+        "startMs": 1080,
+        "endMs": 1440
+      },
+      {
+        "word": "ago,",
+        "startMs": 1440,
+        "endMs": 1860
+      },
+      {
+        "word": "scribes",
+        "startMs": 2040,
+        "endMs": 2940
+      },
+      {
+        "word": "carving",
+        "startMs": 2940,
+        "endMs": 3420
+      },
+      {
+        "word": "into",
+        "startMs": 3420,
+        "endMs": 3860
+      },
+      {
+        "word": "ox",
+        "startMs": 3860,
+        "endMs": 4260
+      },
+      {
+        "word": "bones",
+        "startMs": 4260,
+        "endMs": 4620
+      },
+      {
+        "word": "and",
+        "startMs": 4620,
+        "endMs": 4960
+      },
+      {
+        "word": "turtle",
+        "startMs": 4960,
+        "endMs": 5280
+      },
+      {
+        "word": "shells",
+        "startMs": 5280,
+        "endMs": 5680
+      },
+      {
+        "word": "drew",
+        "startMs": 5680,
+        "endMs": 6280
+      },
+      {
+        "word": "this",
+        "startMs": 6280,
+        "endMs": 6740
+      },
+      {
+        "word": "same",
+        "startMs": 6740,
+        "endMs": 7240
+      },
+      {
+        "word": "animal,",
+        "startMs": 7240,
+        "endMs": 7760
+      },
+      {
+        "word": "and",
+        "startMs": 7960,
+        "endMs": 8300
+      },
+      {
+        "word": "they",
+        "startMs": 8300,
+        "endMs": 8440
+      },
+      {
+        "word": "drew",
+        "startMs": 8440,
+        "endMs": 8700
+      },
+      {
+        "word": "it",
+        "startMs": 8700,
+        "endMs": 8940
+      },
+      {
+        "word": "standing",
+        "startMs": 8940,
+        "endMs": 9540
+      },
+      {
+        "word": "up.",
+        "startMs": 9540,
+        "endMs": 10040
+      }
+    ],
+    "heard": "3,000 years ago, scribes carving into ox bones and turtle shells drew this same animal, and they drew it standing up.",
+    "script": "Three thousand years ago, scribes carving into ox bones and turtle shells drew this same animal, and they drew it standing up."
+  },
+  "s04.horse.legs": {
+    "durationMs": 13560,
+    "words": [
+      {
+        "word": "Over",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "the",
+        "startMs": 260,
+        "endMs": 480
+      },
+      {
+        "word": "centuries",
+        "startMs": 480,
+        "endMs": 940
+      },
+      {
+        "word": "that",
+        "startMs": 940,
+        "endMs": 1340
+      },
+      {
+        "word": "followed,",
+        "startMs": 1340,
+        "endMs": 1780
+      },
+      {
+        "word": "the",
+        "startMs": 2060,
+        "endMs": 2400
+      },
+      {
+        "word": "legs",
+        "startMs": 2400,
+        "endMs": 2760
+      },
+      {
+        "word": "came",
+        "startMs": 2760,
+        "endMs": 3140
+      },
+      {
+        "word": "back",
+        "startMs": 3140,
+        "endMs": 3440
+      },
+      {
+        "word": "down",
+        "startMs": 3440,
+        "endMs": 3740
+      },
+      {
+        "word": "underneath",
+        "startMs": 3740,
+        "endMs": 4060
+      },
+      {
+        "word": "it,",
+        "startMs": 4060,
+        "endMs": 4420
+      },
+      {
+        "word": "but",
+        "startMs": 4580,
+        "endMs": 5080
+      },
+      {
+        "word": "the",
+        "startMs": 5080,
+        "endMs": 5280
+      },
+      {
+        "word": "neck",
+        "startMs": 5280,
+        "endMs": 5720
+      },
+      {
+        "word": "stayed",
+        "startMs": 5720,
+        "endMs": 6280
+      },
+      {
+        "word": "upright,",
+        "startMs": 6280,
+        "endMs": 6820
+      },
+      {
+        "word": "and",
+        "startMs": 7120,
+        "endMs": 7560
+      },
+      {
+        "word": "the",
+        "startMs": 7560,
+        "endMs": 7740
+      },
+      {
+        "word": "mane",
+        "startMs": 7740,
+        "endMs": 8040
+      },
+      {
+        "word": "still",
+        "startMs": 8040,
+        "endMs": 8560
+      },
+      {
+        "word": "streams",
+        "startMs": 8560,
+        "endMs": 9180
+      },
+      {
+        "word": "out",
+        "startMs": 9180,
+        "endMs": 9460
+      },
+      {
+        "word": "sideways,",
+        "startMs": 9460,
+        "endMs": 9920
+      },
+      {
+        "word": "the",
+        "startMs": 10320,
+        "endMs": 10520
+      },
+      {
+        "word": "way",
+        "startMs": 10520,
+        "endMs": 10700
+      },
+      {
+        "word": "it",
+        "startMs": 10700,
+        "endMs": 10840
+      },
+      {
+        "word": "would",
+        "startMs": 10840,
+        "endMs": 11100
+      },
+      {
+        "word": "on",
+        "startMs": 11100,
+        "endMs": 11420
+      },
+      {
+        "word": "a",
+        "startMs": 11420,
+        "endMs": 11520
+      },
+      {
+        "word": "horse",
+        "startMs": 11520,
+        "endMs": 11880
+      },
+      {
+        "word": "standing",
+        "startMs": 11880,
+        "endMs": 12400
+      },
+      {
+        "word": "on",
+        "startMs": 12400,
+        "endMs": 12680
+      },
+      {
+        "word": "its",
+        "startMs": 12680,
+        "endMs": 12840
+      },
+      {
+        "word": "tail.",
+        "startMs": 12840,
+        "endMs": 13160
+      }
+    ],
+    "heard": "Over the centuries that followed, the legs came back down underneath it, but the neck stayed upright, and the mane still streams out sideways, the way it would on a horse standing on its tail.",
+    "script": "Over the centuries that followed, the legs came back down underneath it. But the neck stayed upright, and the mane still streams out sideways, the way it would on a horse standing on its tail."
+  },
+  "s05.horse.reveal": {
+    "durationMs": 10440,
+    "words": [
+      {
+        "word": "That",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "is",
+        "startMs": 360,
+        "endMs": 600
+      },
+      {
+        "word": "the",
+        "startMs": 600,
+        "endMs": 760
+      },
+      {
+        "word": "character",
+        "startMs": 760,
+        "endMs": 1140
+      },
+      {
+        "word": "for",
+        "startMs": 1140,
+        "endMs": 1440
+      },
+      {
+        "word": "horse,",
+        "startMs": 1440,
+        "endMs": 1820
+      },
+      {
+        "word": "and",
+        "startMs": 2000,
+        "endMs": 2360
+      },
+      {
+        "word": "it",
+        "startMs": 2360,
+        "endMs": 2580
+      },
+      {
+        "word": "is",
+        "startMs": 2580,
+        "endMs": 2720
+      },
+      {
+        "word": "still",
+        "startMs": 2720,
+        "endMs": 3040
+      },
+      {
+        "word": "written",
+        "startMs": 3040,
+        "endMs": 3440
+      },
+      {
+        "word": "this",
+        "startMs": 3440,
+        "endMs": 3760
+      },
+      {
+        "word": "way",
+        "startMs": 3760,
+        "endMs": 3940
+      },
+      {
+        "word": "today.",
+        "startMs": 3940,
+        "endMs": 4280
+      },
+      {
+        "word": "The",
+        "startMs": 4640,
+        "endMs": 5140
+      },
+      {
+        "word": "three",
+        "startMs": 5140,
+        "endMs": 5380
+      },
+      {
+        "word": "lines",
+        "startMs": 5380,
+        "endMs": 5840
+      },
+      {
+        "word": "are",
+        "startMs": 5840,
+        "endMs": 6160
+      },
+      {
+        "word": "its",
+        "startMs": 6160,
+        "endMs": 6420
+      },
+      {
+        "word": "mane,",
+        "startMs": 6420,
+        "endMs": 6760
+      },
+      {
+        "word": "and",
+        "startMs": 7020,
+        "endMs": 7380
+      },
+      {
+        "word": "the",
+        "startMs": 7380,
+        "endMs": 7520
+      },
+      {
+        "word": "four",
+        "startMs": 7520,
+        "endMs": 7740
+      },
+      {
+        "word": "dots",
+        "startMs": 7740,
+        "endMs": 8200
+      },
+      {
+        "word": "along",
+        "startMs": 8200,
+        "endMs": 8460
+      },
+      {
+        "word": "the",
+        "startMs": 8460,
+        "endMs": 8640
+      },
+      {
+        "word": "bottom",
+        "startMs": 8640,
+        "endMs": 8960
+      },
+      {
+        "word": "are",
+        "startMs": 8960,
+        "endMs": 9460
+      },
+      {
+        "word": "its",
+        "startMs": 9460,
+        "endMs": 9740
+      },
+      {
+        "word": "legs.",
+        "startMs": 9740,
+        "endMs": 10040
+      }
+    ],
+    "heard": "That is the character for horse, and it is still written this way today. The three lines are its mane, and the four dots along the bottom are its legs.",
+    "script": "That is the character for horse, and it is still written this way today. The three lines are its mane, and the four dots along the bottom are its legs."
+  },
+  "s06.gallery": {
+    "durationMs": 9000,
+    "words": [
+      {
+        "word": "It",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "was",
+        "startMs": 200,
+        "endMs": 460
+      },
+      {
+        "word": "never",
+        "startMs": 460,
+        "endMs": 880
+      },
+      {
+        "word": "only",
+        "startMs": 880,
+        "endMs": 1460
+      },
+      {
+        "word": "the",
+        "startMs": 1460,
+        "endMs": 1700
+      },
+      {
+        "word": "horse.",
+        "startMs": 1700,
+        "endMs": 2060
+      },
+      {
+        "word": "The",
+        "startMs": 2280,
+        "endMs": 2720
+      },
+      {
+        "word": "tiger,",
+        "startMs": 2720,
+        "endMs": 3120
+      },
+      {
+        "word": "the",
+        "startMs": 3480,
+        "endMs": 3660
+      },
+      {
+        "word": "dog,",
+        "startMs": 3660,
+        "endMs": 4040
+      },
+      {
+        "word": "the",
+        "startMs": 4420,
+        "endMs": 4580
+      },
+      {
+        "word": "pig,",
+        "startMs": 4580,
+        "endMs": 4960
+      },
+      {
+        "word": "and",
+        "startMs": 5140,
+        "endMs": 5480
+      },
+      {
+        "word": "the",
+        "startMs": 5480,
+        "endMs": 5680
+      },
+      {
+        "word": "elephant",
+        "startMs": 5680,
+        "endMs": 6060
+      },
+      {
+        "word": "were",
+        "startMs": 6060,
+        "endMs": 6540
+      },
+      {
+        "word": "all",
+        "startMs": 6540,
+        "endMs": 6940
+      },
+      {
+        "word": "written",
+        "startMs": 6940,
+        "endMs": 7300
+      },
+      {
+        "word": "standing",
+        "startMs": 7300,
+        "endMs": 7840
+      },
+      {
+        "word": "on",
+        "startMs": 7840,
+        "endMs": 8060
+      },
+      {
+        "word": "their",
+        "startMs": 8060,
+        "endMs": 8220
+      },
+      {
+        "word": "tails.",
+        "startMs": 8220,
+        "endMs": 8560
+      }
+    ],
+    "heard": "It was never only the horse. The tiger, the dog, the pig, and the elephant were all written standing on their tails.",
+    "script": "It was never only the horse. The tiger, the dog, the pig and the elephant were all written standing on their tails."
+  },
+  "s07.gallery.lie": {
+    "durationMs": 9720,
+    "words": [
+      {
+        "word": "lay",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "them",
+        "startMs": 180,
+        "endMs": 360
+      },
+      {
+        "word": "back",
+        "startMs": 360,
+        "endMs": 540
+      },
+      {
+        "word": "down,",
+        "startMs": 540,
+        "endMs": 920
+      },
+      {
+        "word": "and",
+        "startMs": 1060,
+        "endMs": 1460
+      },
+      {
+        "word": "every",
+        "startMs": 1460,
+        "endMs": 2040
+      },
+      {
+        "word": "one",
+        "startMs": 2040,
+        "endMs": 2380
+      },
+      {
+        "word": "of",
+        "startMs": 2380,
+        "endMs": 2540
+      },
+      {
+        "word": "them",
+        "startMs": 2540,
+        "endMs": 2780
+      },
+      {
+        "word": "is",
+        "startMs": 2780,
+        "endMs": 3100
+      },
+      {
+        "word": "plainly",
+        "startMs": 3100,
+        "endMs": 3900
+      },
+      {
+        "word": "an",
+        "startMs": 3900,
+        "endMs": 4180
+      },
+      {
+        "word": "animal.",
+        "startMs": 4180,
+        "endMs": 4560
+      },
+      {
+        "word": "A",
+        "startMs": 4900,
+        "endMs": 5560
+      },
+      {
+        "word": "rule",
+        "startMs": 5560,
+        "endMs": 5840
+      },
+      {
+        "word": "kept",
+        "startMs": 5840,
+        "endMs": 6180
+      },
+      {
+        "word": "that",
+        "startMs": 6180,
+        "endMs": 6480
+      },
+      {
+        "word": "consistently",
+        "startMs": 6480,
+        "endMs": 7320
+      },
+      {
+        "word": "has",
+        "startMs": 7320,
+        "endMs": 8080
+      },
+      {
+        "word": "a",
+        "startMs": 8080,
+        "endMs": 8380
+      },
+      {
+        "word": "reason",
+        "startMs": 8380,
+        "endMs": 8780
+      },
+      {
+        "word": "behind",
+        "startMs": 8780,
+        "endMs": 9140
+      },
+      {
+        "word": "it.",
+        "startMs": 9140,
+        "endMs": 9480
+      }
+    ],
+    "heard": "lay them back down, and every one of them is plainly an animal. A rule kept that consistently has a reason behind it.",
+    "script": "Lay them back down, and every one of them is plainly an animal. A rule kept that consistently has a reason behind it."
+  },
+  "s08.turn": {
+    "durationMs": 10840,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "reason",
+        "startMs": 140,
+        "endMs": 540
+      },
+      {
+        "word": "is",
+        "startMs": 540,
+        "endMs": 1100
+      },
+      {
+        "word": "the",
+        "startMs": 1100,
+        "endMs": 1320
+      },
+      {
+        "word": "page.",
+        "startMs": 1320,
+        "endMs": 1740
+      },
+      {
+        "word": "Books",
+        "startMs": 2040,
+        "endMs": 2720
+      },
+      {
+        "word": "in",
+        "startMs": 2720,
+        "endMs": 3020
+      },
+      {
+        "word": "ancient",
+        "startMs": 3020,
+        "endMs": 3380
+      },
+      {
+        "word": "China",
+        "startMs": 3380,
+        "endMs": 3780
+      },
+      {
+        "word": "were",
+        "startMs": 3780,
+        "endMs": 4180
+      },
+      {
+        "word": "strips",
+        "startMs": 4180,
+        "endMs": 4640
+      },
+      {
+        "word": "of",
+        "startMs": 4640,
+        "endMs": 4960
+      },
+      {
+        "word": "bamboo,",
+        "startMs": 4960,
+        "endMs": 5460
+      },
+      {
+        "word": "each",
+        "startMs": 6040,
+        "endMs": 6260
+      },
+      {
+        "word": "about",
+        "startMs": 6260,
+        "endMs": 6680
+      },
+      {
+        "word": "as",
+        "startMs": 6680,
+        "endMs": 7000
+      },
+      {
+        "word": "wide",
+        "startMs": 7000,
+        "endMs": 7340
+      },
+      {
+        "word": "as",
+        "startMs": 7340,
+        "endMs": 7600
+      },
+      {
+        "word": "a",
+        "startMs": 7600,
+        "endMs": 7720
+      },
+      {
+        "word": "finger,",
+        "startMs": 7720,
+        "endMs": 8060
+      },
+      {
+        "word": "tied",
+        "startMs": 8320,
+        "endMs": 8800
+      },
+      {
+        "word": "side",
+        "startMs": 8800,
+        "endMs": 9300
+      },
+      {
+        "word": "by",
+        "startMs": 9300,
+        "endMs": 9480
+      },
+      {
+        "word": "side",
+        "startMs": 9480,
+        "endMs": 9860
+      },
+      {
+        "word": "with",
+        "startMs": 9860,
+        "endMs": 10120
+      },
+      {
+        "word": "cord.",
+        "startMs": 10120,
+        "endMs": 10440
+      }
+    ],
+    "heard": "The reason is the page. Books in ancient China were strips of bamboo, each about as wide as a finger, tied side by side with cord.",
+    "script": "The reason is the page. Books in ancient China were strips of bamboo, each about as wide as a finger, tied side by side with cord."
+  },
+  "s09.fit": {
+    "durationMs": 5920,
+    "words": [
+      {
+        "word": "A",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "horse",
+        "startMs": 360,
+        "endMs": 660
+      },
+      {
+        "word": "lying",
+        "startMs": 660,
+        "endMs": 1020
+      },
+      {
+        "word": "down",
+        "startMs": 1020,
+        "endMs": 1380
+      },
+      {
+        "word": "is",
+        "startMs": 1380,
+        "endMs": 1720
+      },
+      {
+        "word": "wider",
+        "startMs": 1720,
+        "endMs": 2120
+      },
+      {
+        "word": "than",
+        "startMs": 2120,
+        "endMs": 2360
+      },
+      {
+        "word": "a",
+        "startMs": 2360,
+        "endMs": 2480
+      },
+      {
+        "word": "finger,",
+        "startMs": 2480,
+        "endMs": 2780
+      },
+      {
+        "word": "so",
+        "startMs": 3020,
+        "endMs": 3440
+      },
+      {
+        "word": "the",
+        "startMs": 3440,
+        "endMs": 3620
+      },
+      {
+        "word": "scribe",
+        "startMs": 3620,
+        "endMs": 4020
+      },
+      {
+        "word": "turned",
+        "startMs": 4020,
+        "endMs": 4340
+      },
+      {
+        "word": "the",
+        "startMs": 4340,
+        "endMs": 4560
+      },
+      {
+        "word": "horse",
+        "startMs": 4560,
+        "endMs": 4900
+      },
+      {
+        "word": "instead.",
+        "startMs": 4900,
+        "endMs": 5360
+      }
+    ],
+    "heard": "A horse lying down is wider than a finger, so the scribe turned the horse instead.",
+    "script": "A horse lying down is wider than a finger. So the scribe turned the horse instead."
+  },
+  "s10.columns": {
+    "durationMs": 11880,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "strips",
+        "startMs": 180,
+        "endMs": 540
+      },
+      {
+        "word": "left",
+        "startMs": 540,
+        "endMs": 960
+      },
+      {
+        "word": "a",
+        "startMs": 960,
+        "endMs": 1240
+      },
+      {
+        "word": "second",
+        "startMs": 1240,
+        "endMs": 1500
+      },
+      {
+        "word": "mark.",
+        "startMs": 1500,
+        "endMs": 1860
+      },
+      {
+        "word": "For",
+        "startMs": 2120,
+        "endMs": 2640
+      },
+      {
+        "word": "3",
+        "startMs": 2640,
+        "endMs": 2980
+      },
+      {
+        "word": ",000",
+        "startMs": 2980,
+        "endMs": 3620
+      },
+      {
+        "word": "years,",
+        "startMs": 3620,
+        "endMs": 4180
+      },
+      {
+        "word": "Chinese",
+        "startMs": 4440,
+        "endMs": 4720
+      },
+      {
+        "word": "was",
+        "startMs": 4720,
+        "endMs": 5260
+      },
+      {
+        "word": "written",
+        "startMs": 5260,
+        "endMs": 5560
+      },
+      {
+        "word": "in",
+        "startMs": 5560,
+        "endMs": 5900
+      },
+      {
+        "word": "columns,",
+        "startMs": 5900,
+        "endMs": 6380
+      },
+      {
+        "word": "from",
+        "startMs": 6640,
+        "endMs": 6940
+      },
+      {
+        "word": "the",
+        "startMs": 6940,
+        "endMs": 7120
+      },
+      {
+        "word": "top",
+        "startMs": 7120,
+        "endMs": 7420
+      },
+      {
+        "word": "down,",
+        "startMs": 7420,
+        "endMs": 7840
+      },
+      {
+        "word": "because",
+        "startMs": 8180,
+        "endMs": 8540
+      },
+      {
+        "word": "a",
+        "startMs": 8540,
+        "endMs": 8880
+      },
+      {
+        "word": "strip",
+        "startMs": 8880,
+        "endMs": 9160
+      },
+      {
+        "word": "of",
+        "startMs": 9160,
+        "endMs": 9360
+      },
+      {
+        "word": "bamboo",
+        "startMs": 9360,
+        "endMs": 9760
+      },
+      {
+        "word": "only",
+        "startMs": 9760,
+        "endMs": 10340
+      },
+      {
+        "word": "has",
+        "startMs": 10340,
+        "endMs": 10680
+      },
+      {
+        "word": "room",
+        "startMs": 10680,
+        "endMs": 10920
+      },
+      {
+        "word": "for",
+        "startMs": 10920,
+        "endMs": 11220
+      },
+      {
+        "word": "one.",
+        "startMs": 11220,
+        "endMs": 11500
+      }
+    ],
+    "heard": "The strips left a second mark. For 3,000 years, Chinese was written in columns, from the top down, because a strip of bamboo only has room for one.",
+    "script": "The strips left a second mark. For three thousand years, Chinese was written in columns, from the top down, because a strip of bamboo only has room for one."
+  },
+  "s11.lost": {
+    "durationMs": 12480,
+    "words": [
+      {
+        "word": "Not",
+        "startMs": 0,
+        "endMs": 320
+      },
+      {
+        "word": "one",
+        "startMs": 320,
+        "endMs": 880
+      },
+      {
+        "word": "bamboo",
+        "startMs": 880,
+        "endMs": 1460
+      },
+      {
+        "word": "book",
+        "startMs": 1460,
+        "endMs": 1880
+      },
+      {
+        "word": "survives",
+        "startMs": 1880,
+        "endMs": 2320
+      },
+      {
+        "word": "from",
+        "startMs": 2320,
+        "endMs": 2780
+      },
+      {
+        "word": "that",
+        "startMs": 2780,
+        "endMs": 3000
+      },
+      {
+        "word": "age.",
+        "startMs": 3000,
+        "endMs": 3360
+      },
+      {
+        "word": "Bamboo",
+        "startMs": 3760,
+        "endMs": 4380
+      },
+      {
+        "word": "rots,",
+        "startMs": 4380,
+        "endMs": 4860
+      },
+      {
+        "word": "and",
+        "startMs": 4860,
+        "endMs": 5540
+      },
+      {
+        "word": "bone",
+        "startMs": 5540,
+        "endMs": 6120
+      },
+      {
+        "word": "does",
+        "startMs": 6120,
+        "endMs": 6480
+      },
+      {
+        "word": "not.",
+        "startMs": 6480,
+        "endMs": 6760
+      },
+      {
+        "word": "We",
+        "startMs": 7160,
+        "endMs": 7720
+      },
+      {
+        "word": "only",
+        "startMs": 7720,
+        "endMs": 8080
+      },
+      {
+        "word": "know",
+        "startMs": 8080,
+        "endMs": 8420
+      },
+      {
+        "word": "those",
+        "startMs": 8420,
+        "endMs": 8720
+      },
+      {
+        "word": "books",
+        "startMs": 8720,
+        "endMs": 9000
+      },
+      {
+        "word": "existed",
+        "startMs": 9000,
+        "endMs": 9580
+      },
+      {
+        "word": "because",
+        "startMs": 9580,
+        "endMs": 10160
+      },
+      {
+        "word": "the",
+        "startMs": 10160,
+        "endMs": 10480
+      },
+      {
+        "word": "writing",
+        "startMs": 10480,
+        "endMs": 10800
+      },
+      {
+        "word": "has",
+        "startMs": 10800,
+        "endMs": 11260
+      },
+      {
+        "word": "a",
+        "startMs": 11260,
+        "endMs": 11460
+      },
+      {
+        "word": "word",
+        "startMs": 11460,
+        "endMs": 11680
+      },
+      {
+        "word": "for",
+        "startMs": 11680,
+        "endMs": 11880
+      },
+      {
+        "word": "one.",
+        "startMs": 11880,
+        "endMs": 12120
+      }
+    ],
+    "heard": "Not one bamboo book survives from that age. Bamboo rots, and bone does not. We only know those books existed because the writing has a word for one.",
+    "script": "Not one bamboo book survives from that age. Bamboo rots, and bone does not. We only know those books existed because the writing has a word for one."
+  },
+  "s12.book": {
+    "durationMs": 10800,
+    "words": [
+      {
+        "word": "strips",
+        "startMs": 0,
+        "endMs": 480
+      },
+      {
+        "word": "of",
+        "startMs": 480,
+        "endMs": 940
+      },
+      {
+        "word": "different",
+        "startMs": 940,
+        "endMs": 1320
+      },
+      {
+        "word": "lengths,",
+        "startMs": 1320,
+        "endMs": 1780
+      },
+      {
+        "word": "and",
+        "startMs": 2040,
+        "endMs": 2440
+      },
+      {
+        "word": "the",
+        "startMs": 2440,
+        "endMs": 2560
+      },
+      {
+        "word": "cord",
+        "startMs": 2560,
+        "endMs": 2920
+      },
+      {
+        "word": "that",
+        "startMs": 2920,
+        "endMs": 3260
+      },
+      {
+        "word": "bound",
+        "startMs": 3260,
+        "endMs": 3660
+      },
+      {
+        "word": "them",
+        "startMs": 3660,
+        "endMs": 3900
+      },
+      {
+        "word": "together,",
+        "startMs": 3900,
+        "endMs": 4320
+      },
+      {
+        "word": "that",
+        "startMs": 4700,
+        "endMs": 5260
+      },
+      {
+        "word": "character",
+        "startMs": 5260,
+        "endMs": 5680
+      },
+      {
+        "word": "is",
+        "startMs": 5680,
+        "endMs": 6080
+      },
+      {
+        "word": "still",
+        "startMs": 6080,
+        "endMs": 6380
+      },
+      {
+        "word": "in",
+        "startMs": 6380,
+        "endMs": 6600
+      },
+      {
+        "word": "use",
+        "startMs": 6600,
+        "endMs": 6980
+      },
+      {
+        "word": "long",
+        "startMs": 6980,
+        "endMs": 7680
+      },
+      {
+        "word": "after",
+        "startMs": 7680,
+        "endMs": 8120
+      },
+      {
+        "word": "anyone",
+        "startMs": 8120,
+        "endMs": 8660
+      },
+      {
+        "word": "stopped",
+        "startMs": 8660,
+        "endMs": 9240
+      },
+      {
+        "word": "writing",
+        "startMs": 9240,
+        "endMs": 9600
+      },
+      {
+        "word": "on",
+        "startMs": 9600,
+        "endMs": 9960
+      },
+      {
+        "word": "bamboo.",
+        "startMs": 9960,
+        "endMs": 10300
+      }
+    ],
+    "heard": "strips of different lengths, and the cord that bound them together, that character is still in use long after anyone stopped writing on bamboo.",
+    "script": "Strips of different lengths, and the cord that bound them together. That character is still in use, long after anyone stopped writing on bamboo."
+  },
+  "s13.recap": {
+    "durationMs": 11680,
+    "words": [
+      {
+        "word": "a",
+        "startMs": 0,
+        "endMs": 100
+      },
+      {
+        "word": "horse,",
+        "startMs": 100,
+        "endMs": 480
+      },
+      {
+        "word": "and",
+        "startMs": 700,
+        "endMs": 1200
+      },
+      {
+        "word": "a",
+        "startMs": 1200,
+        "endMs": 1420
+      },
+      {
+        "word": "book",
+        "startMs": 1420,
+        "endMs": 1720
+      },
+      {
+        "word": "made",
+        "startMs": 1720,
+        "endMs": 2100
+      },
+      {
+        "word": "of",
+        "startMs": 2100,
+        "endMs": 2320
+      },
+      {
+        "word": "bamboo.",
+        "startMs": 2320,
+        "endMs": 2700
+      },
+      {
+        "word": "The",
+        "startMs": 3000,
+        "endMs": 3640
+      },
+      {
+        "word": "shape",
+        "startMs": 3640,
+        "endMs": 3960
+      },
+      {
+        "word": "of",
+        "startMs": 3960,
+        "endMs": 4180
+      },
+      {
+        "word": "the",
+        "startMs": 4180,
+        "endMs": 4320
+      },
+      {
+        "word": "page",
+        "startMs": 4320,
+        "endMs": 4740
+      },
+      {
+        "word": "decided",
+        "startMs": 4740,
+        "endMs": 5360
+      },
+      {
+        "word": "the",
+        "startMs": 5360,
+        "endMs": 5760
+      },
+      {
+        "word": "shape",
+        "startMs": 5760,
+        "endMs": 6080
+      },
+      {
+        "word": "of",
+        "startMs": 6080,
+        "endMs": 6340
+      },
+      {
+        "word": "the",
+        "startMs": 6340,
+        "endMs": 6480
+      },
+      {
+        "word": "writing,",
+        "startMs": 6480,
+        "endMs": 6820
+      },
+      {
+        "word": "and",
+        "startMs": 7060,
+        "endMs": 7460
+      },
+      {
+        "word": "the",
+        "startMs": 7460,
+        "endMs": 7580
+      },
+      {
+        "word": "writing",
+        "startMs": 7580,
+        "endMs": 7940
+      },
+      {
+        "word": "kept",
+        "startMs": 7940,
+        "endMs": 8360
+      },
+      {
+        "word": "that",
+        "startMs": 8360,
+        "endMs": 8640
+      },
+      {
+        "word": "shape",
+        "startMs": 8640,
+        "endMs": 8960
+      },
+      {
+        "word": "long",
+        "startMs": 8960,
+        "endMs": 9540
+      },
+      {
+        "word": "after",
+        "startMs": 9540,
+        "endMs": 10000
+      },
+      {
+        "word": "the",
+        "startMs": 10000,
+        "endMs": 10220
+      },
+      {
+        "word": "page",
+        "startMs": 10220,
+        "endMs": 10600
+      },
+      {
+        "word": "was",
+        "startMs": 10600,
+        "endMs": 10860
+      },
+      {
+        "word": "gone.",
+        "startMs": 10860,
+        "endMs": 11140
+      }
+    ],
+    "heard": "a horse, and a book made of bamboo. The shape of the page decided the shape of the writing, and the writing kept that shape long after the page was gone.",
+    "script": "A horse, and a book made of bamboo. The shape of the page decided the shape of the writing, and the writing kept that shape long after the page was gone."
+  },
+  "s14.close": {
+    "durationMs": 6320,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "are",
+        "startMs": 200,
+        "endMs": 520
+      },
+      {
+        "word": "still",
+        "startMs": 520,
+        "endMs": 1000
+      },
+      {
+        "word": "reading",
+        "startMs": 1000,
+        "endMs": 1460
+      },
+      {
+        "word": "the",
+        "startMs": 1460,
+        "endMs": 1720
+      },
+      {
+        "word": "shape",
+        "startMs": 1720,
+        "endMs": 2140
+      },
+      {
+        "word": "of",
+        "startMs": 2140,
+        "endMs": 2400
+      },
+      {
+        "word": "a",
+        "startMs": 2400,
+        "endMs": 2520
+      },
+      {
+        "word": "page",
+        "startMs": 2520,
+        "endMs": 3000
+      },
+      {
+        "word": "that",
+        "startMs": 3000,
+        "endMs": 3420
+      },
+      {
+        "word": "nobody",
+        "startMs": 3420,
+        "endMs": 4040
+      },
+      {
+        "word": "alive",
+        "startMs": 4040,
+        "endMs": 4580
+      },
+      {
+        "word": "has",
+        "startMs": 4580,
+        "endMs": 5180
+      },
+      {
+        "word": "ever",
+        "startMs": 5180,
+        "endMs": 5520
+      },
+      {
+        "word": "seen.",
+        "startMs": 5520,
+        "endMs": 5920
+      }
+    ],
+    "heard": "You are still reading the shape of a page that nobody alive has ever seen.",
+    "script": "You are still reading the shape of a page that nobody alive has ever seen."
+  }
+}
