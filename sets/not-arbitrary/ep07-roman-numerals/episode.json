@@ -81,7 +81,7 @@
     },
     "shorts": {
       "title": "Cut the tenth notch in half and you get V",
-      "description": "Count a flock past you at dusk and cut a notch for each animal. Every tenth notch is crossed. Half of that cross is five — and the same halving runs all the way up to a thousand.\n\nThe full film: https://www.youtube.com/watch?v=CX1r-etFD0E\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "I is not the letter I. It is a notch cut across a tally stick. X is the tenth notch, cut clean through - and V is that same cut, halved.\n\nThat halving runs all the way up. The Etruscans wrote a hundred as a star; cut the star in half and you have their fifty, which flattened into an up-tack and only then got read as the letter L. A thousand was written as an arc, a stroke, and a second arc facing back - C I Ɔ - which closed into a ring and later opened out into M. Cut that same ring down the middle and the right-hand half, stroke and all, is already a D. Half the sign, half the number.\n\nYou were probably taught that C stands for centum and M for mille. Both words do mean that. Neither one explains the shape - the letters drifted in centuries later, because they happened to look similar.\n\nSource: Paul T. Keyser, 'The Origin of the Latin Numerals 1 to 1000', American Journal of Archaeology 92 (1988) 529-546.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=CX1r-etFD0E\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "roman numerals",
         "etymology",
@@ -94,7 +94,11 @@
         "animation",
         "typography"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "6DuPKEEpF8I",
+      "url": "https://www.youtube.com/watch?v=6DuPKEEpF8I",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "V is not a letter. It is the tenth notch on a tally stick, cut in half. Half the mark, half the number - and that rule runs all the way up to a thousand.",

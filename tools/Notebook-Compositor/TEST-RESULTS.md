@@ -1,4 +1,21 @@
-# Test results — Notebook Compositor 3.0.0
+# Test results — Notebook Compositor
+
+## 3.1.0 — speed cut, filter threads (2026-09-28, Windows 11, Node v25.4.0, FFmpeg 7.1.1 gyan.dev full build)
+
+Source SHA-256 (`tools/make-vertical-notebook.mjs`): `71ea594ae079d2d41f6b229f81dbe1580cb7150541d57c9c8822c42682395b9a`
+
+| Suite | Result |
+| --- | --- |
+| Unit tests | **38 passed, 0 failed** (new: atempo chain, speed frame/sample plan, speed bounds) |
+| FFmpeg integration tests | **25 passed, 1 failed** (new: `--speed 3` reuses 1x caches, 90 → 30 frames, 440 Hz stays 440 Hz; a different `--filter-threads` reuses caches) |
+
+Render-speed measurement: 90 frames of a real episode-1 clip (ep01 clip 3), output discarded. libx264 medium with 2 filter threads took 7.2 s. With no encoding at all it took 7.5 s, and with h264_nvenc 7.3 s, so the encoder is not the bottleneck. With 8 filter threads it took 3.1 s. Frames at 2 and 8 filter threads had identical framemd5 hashes over 120 frames. That justified raising the `encode.filterThreads` default to min(8, CPUs) and removing it from the cache fingerprint.
+
+The one failure, *text pagination uses measured glyph bounds*, predates 3.1.0 and is not about the speed cut. On Windows the tool measures with Segoe Print. With that font the fixture's paragraph fits on one page, but the test expects at least two, a count taken with DejaVu Sans on Linux. To confirm, 3.0.0 was rebuilt byte-for-byte (SHA-256 `550a3a51…`) and run on the same fixture: it also produced one page. This is the first time the suite has run on Windows, which the 3.0.0 notes below list as unverified.
+
+---
+
+# 3.0.0
 
 Execution date: 2026-09-11. These are recorded runs, not proposed tests.
 

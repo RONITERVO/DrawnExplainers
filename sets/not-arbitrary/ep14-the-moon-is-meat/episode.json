@@ -6,7 +6,7 @@
   "thesis": "The character for the moon, 月, is three different pictures squeezed into the same four strokes. One really is the moon, drawn on oracle bones as a crescent. One is a slice of meat, which is why so much of the body is written with it - 肝 liver, 肺 lung, 肘 elbow, 腹 belly. One is a boat: 前 'in front' began as a foot standing in a boat moving forward, and 朕, the 'I' only an emperor could use, is written with a boat too. Han clerks simplifying the script in the second century BC squeezed all three into nearly one shape. The Kangxi Dictionary of 1716 still printed three versions - the moon's bars stop short, the meat's reach across, the boat has two dots. In the twentieth century China and Japan made all three identical, in the meat's shape, so the moon itself is now printed like meat; Taiwan and Hong Kong still print the meat apart, and Japanese and Korean both call it 'the meat moon'.",
   "runtimeSeconds": 159.6,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written directly, after episodes 11-13. Research began on cuneiform and was abandoned for the lane's first test - nobody uses it daily - which the episode 11 subagent had refused it for independently; the subject was chosen instead for being in daily use by over a billion readers and treated by learners as an arbitrary 'moon radical'."
@@ -81,11 +81,14 @@
         "history",
         "explainer",
         "animation"
-      ]
+      ],
+      "videoId": "hqRMWDD1Da0",
+      "url": "https://www.youtube.com/watch?v=hqRMWDD1Da0",
+      "uploadedAt": "2026-11-07"
     },
     "shorts": {
       "title": "The 'moon' in Chinese body parts is a piece of meat",
-      "description": "肝 liver, 肺 lung, 肘 elbow, 腹 belly: the 月 on the left is not the moon. It is an old drawing of a slice of meat, squeezed until it matched the moon - and Japanese still calls it 'the meat moon'.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "肝 liver, 肺 lung, 肘 elbow, 腹 belly: the 月 on the left is not the moon. It is an old drawing of a slice of meat, squeezed until it matched the moon - and Japanese still calls it 'the meat moon'.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=hqRMWDD1Da0\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "chinese",
         "kanji",
@@ -94,7 +97,10 @@
         "learn japanese",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "p8C3-A9FFmk",
+      "url": "https://www.youtube.com/watch?v=p8C3-A9FFmk",
+      "uploadedAt": "2026-11-07"
     },
     "tiktok": {
       "caption": "The 'moon' in the Chinese words for liver, lung, elbow and belly isn't the moon. It's a slice of meat, squeezed into the same four strokes - and Japanese literally calls it the meat moon.",

@@ -6,7 +6,7 @@
   "thesis": "F, U, V, W and Y all descend from one Phoenician letter, named after a hook and drawn like a forked stick. The Greeks took it twice: one copy kept its shape and went to the end of the alphabet (upsilon), the other kept its sixth place and had its shape changed, squaring off beside epsilon (digamma). Rome turned the second into F - still sixth in line - and took the first without its stem as V, which spelled both a vowel and a w. Medieval hands wrote it pointed at the start of a word and rounded elsewhere until printers gave each shape one job, U and V; English and German scribes wrote it twice for a sound Latin had lost, W; and Rome borrowed upsilon a second time, unchanged, as Y. Every split came when a language needed a sound it had no letter for and reached for the nearest one it already had.",
   "runtimeSeconds": 150.16,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written directly rather than by a subagent, following the drawn-explainer skill. Subject chosen by the author; the user asked for episode 10 to make an even set."
@@ -81,11 +81,14 @@
         "explainer",
         "animation",
         "writing systems"
-      ]
+      ],
+      "videoId": "lzAT6dE9FB8",
+      "url": "https://www.youtube.com/watch?v=lzAT6dE9FB8",
+      "uploadedAt": "2026-11-07"
     },
     "shorts": {
       "title": "The letter F is still sixth in line, where it stood 3,000 years ago",
-      "description": "A Phoenician letter shaped like a forked stick, sixth in the alphabet. The Greeks squared off its arms; Rome made it F. Four more of your letters came from the same one.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "A Phoenician letter shaped like a forked stick, sixth in the alphabet. The Greeks squared off its arms; Rome made it F. Four more of your letters came from the same one.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=lzAT6dE9FB8\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "alphabet",
         "etymology",
@@ -94,7 +97,10 @@
         "letters",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "h9DhkAc-dXg",
+      "url": "https://www.youtube.com/watch?v=h9DhkAc-dXg",
+      "uploadedAt": "2026-11-07"
     },
     "tiktok": {
       "caption": "F, U, V, W and Y are one letter - a Phoenician letter named after a hook, split five ways over three thousand years. F is still sixth in the alphabet, exactly where it started.",

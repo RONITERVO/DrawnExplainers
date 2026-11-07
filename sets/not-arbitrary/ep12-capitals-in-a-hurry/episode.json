@@ -6,7 +6,7 @@
   "thesis": "Every lowercase letter is a Roman capital written by somebody in a hurry. Two habits of a pen did the work - a curve is quicker than a corner, and one stroke is quicker than two - and the stages are still on record: the M's corners rounded into arches; the E rounded, its bar floated loose inside the curve for a few hundred years, then ran into it and closed the loop; the R's pen ran straight from the loop into the leg instead of lifting, and the leg shrank to a flick; and the tall stroke of d is not the D's stem at all but the little overshoot where the pen began its curve, grown long and stood up straight. It was already happening at Herculaneum before AD 79. Charlemagne's scribes standardised the small letters around 800, Gothic buried them, and they came back by mistake: Renaissance humanists took ninth-century books for ancient Roman ones and copied them, and printers kept the result in the lower of their two type cases.",
   "runtimeSeconds": 155.64,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written directly, in parallel with episode 11, which a subagent made at the user's request. Subject chosen by the author."
@@ -81,11 +81,14 @@
         "explainer",
         "animation",
         "latin"
-      ]
+      ],
+      "videoId": "T9ZjMevLwJ0",
+      "url": "https://www.youtube.com/watch?v=T9ZjMevLwJ0",
+      "uploadedAt": "2026-11-07"
     },
     "shorts": {
       "title": "The tall stroke of a small d was never the capital D's stem",
-      "description": "It started as the tiny overshoot where a Roman pen began the curve of D. Writers let it grow and let the rest shrink, until it was the tallest part of the letter - and then it stood up straight.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "It started as the tiny overshoot where a Roman pen began the curve of D. Writers let it grow and let the rest shrink, until it was the tallest part of the letter - and then it stood up straight.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=T9ZjMevLwJ0\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "lowercase",
         "typography",
@@ -94,7 +97,10 @@
         "history",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "iYzVnXUSTGc",
+      "url": "https://www.youtube.com/watch?v=iYzVnXUSTGc",
+      "uploadedAt": "2026-11-07"
     },
     "tiktok": {
       "caption": "Lowercase letters are capitals written in a hurry - and the tall stroke of a small d was never the D's stem. We call them lower case because printers kept them in the lower tray.",

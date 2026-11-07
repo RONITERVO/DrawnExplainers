@@ -6,7 +6,7 @@
   "thesis": "The Chinese character for horse, 馬, is a drawing of a horse facing left - and the oldest Chinese writing, carved on bone, stood it on its tail. Its legs came back down underneath it over the centuries, but its neck is still upright and its mane still streams sideways: the three crossbars are the mane and the four dots are the legs. The tiger, dog, pig and elephant were stood up the same way, and the reason is the page: books were strips of bamboo a finger wide, and a horse lying down does not fit on a finger. No book that old survives - bamboo rots - but the script kept a character for one, 冊, which is a drawing of the strips and the cord that bound them.",
   "runtimeSeconds": 150.92,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written directly rather than by a subagent, following the drawn-explainer skill. The subject was chosen by the author: the user invoked the skill without naming one."
@@ -80,11 +80,14 @@
         "explainer",
         "animation",
         "learn chinese"
-      ]
+      ],
+      "videoId": "nJs1yG3q8uY",
+      "url": "https://www.youtube.com/watch?v=nJs1yG3q8uY",
+      "uploadedAt": "2026-10-18"
     },
     "shorts": {
       "title": "The four dots under this Chinese character are a horse's legs",
-      "description": "馬 is a horse facing left: the mane is the three crossbars, the legs are the four dots. It only looks like a code because the first scribes stood it on its tail to fit a strip of bamboo.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "馬 is a horse facing left: the mane is the three crossbars, the legs are the four dots. It only looks like a code because the first scribes stood it on its tail to fit a strip of bamboo.\n\nThe full film: https://www.youtube.com/watch?v=nJs1yG3q8uY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "chinese characters",
         "oracle bone script",
@@ -93,7 +96,10 @@
         "history",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "LXymUakyoyg",
+      "url": "https://www.youtube.com/watch?v=LXymUakyoyg",
+      "uploadedAt": "2026-10-18"
     },
     "tiktok": {
       "caption": "The Chinese character for horse is a horse. The mane is the three lines, the legs are the four dots - it only looks like a code because the first scribes stood it on its tail to fit a strip of bamboo.",

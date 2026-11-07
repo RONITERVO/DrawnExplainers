@@ -6,7 +6,7 @@
   "thesis": "Japan's two syllabaries are Chinese characters written two ways. Japan first wrote its own words with Chinese characters borrowed for their sounds alone - one eighth-century anthology uses almost twenty different characters for the same syllable. Buddhist monks glossing Chinese sutras needed a shorthand and kept one piece of each character: katakana, which is why katakana still look like parts of characters, and why two of them are still pictures - ウ is the roof from 宇, リ the knife from 利. At court the same characters were written whole, with a brush and at speed, until each wore down to one flowing shape: hiragana, the script of the women who wrote The Tale of Genji. The film takes three characters - 加 'add', 宇 'roof', 利 'profit' - that each gave one kana of each kind, so every source sits above both of its children.",
   "runtimeSeconds": 151.76,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written directly, while a subagent was still finishing episode 11. Subject chosen by the author, checked against episode 11's script so the two could not overlap."
@@ -77,11 +77,14 @@
         "history",
         "explainer",
         "animation"
-      ]
+      ],
+      "videoId": "HiMpD_xVE0Y",
+      "url": "https://www.youtube.com/watch?v=HiMpD_xVE0Y",
+      "uploadedAt": "2026-11-07"
     },
     "shorts": {
       "title": "Two Japanese letters are still pictures: a roof and a knife",
-      "description": "Katakana are pieces cut out of Chinese characters by Buddhist monks who needed a shorthand. ウ is the roof from 宇; リ is the knife from 利. The same characters, written fast with a brush, became hiragana.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "Katakana are pieces cut out of Chinese characters by Buddhist monks who needed a shorthand. ウ is the roof from 宇; リ is the knife from 利. The same characters, written fast with a brush, became hiragana.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=HiMpD_xVE0Y\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "japanese",
         "katakana",
@@ -90,7 +93,10 @@
         "learn japanese",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "hOoTNTZOF2I",
+      "url": "https://www.youtube.com/watch?v=hOoTNTZOF2I",
+      "uploadedAt": "2026-11-07"
     },
     "tiktok": {
       "caption": "Hiragana and katakana are both Chinese characters - one set worn down by a hurrying brush, the other cut into pieces by monks. Two of the pieces are still pictures: a roof and a knife.",

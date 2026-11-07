@@ -1,4 +1,4 @@
-# Notebook Vertical Compositor — 3.0.0
+# Notebook Vertical Compositor — 3.1.0
 
 A complete, self-contained Node.js / FFmpeg compositor for the notebook explainers discussed in this conversation. The drawing and its original audio remain authoritative. The narrator and transcript are adapted to the drawing kit's visual identity.
 
@@ -193,6 +193,16 @@ Individual MP4s have their own AAC encodes. A joined MP4 uses compatible **video
 
 `--source-mode clips` is an explicit fallback for originals edited after cutting. It decodes each original clip's audio to PCM before joining. It cannot repair upstream duplicate frames, bad trims, encoder offsets, or continuity already lost in those inputs. Prefer the original full master for an unchanged coded drawing episode.
 
+## Speed cut (TikTok)
+
+`--speed 3` (or `"speed": 3` in the configuration) writes an **extra** joined file, `vertical-full-3x.mp4`, beside the unchanged 1x `vertical-full.mp4`. Accepted range 0.5–4; a contiguous subset gives `vertical-selection-3x.mp4`. It requires joining, so `--no-join` is rejected.
+
+```powershell
+node $Tool --episode $Ep1 --narrator-dir $Narrators --speed 3
+```
+
+It is a delivery step, not a second composite: frames are resampled from the same verified 1x video caches onto the same output frame grid, and the same master PCM is time-stretched by pitch-preserving `atempo` (chained in-range factors, 3 = 2 × 1.5), then trimmed/padded to the exact sample count of the new frame total. Everything plays faster together — drawing, narrator lip movement, card slides and type-on — so sync is kept. `speed` is excluded from the render fingerprint: adding or changing it after a 1x render reuses every clip cache and only encodes the new file (about a minute per episode). Text-page readability warnings are computed at 1x; at 3x each page is on screen a third as long.
+
 ## Opaque, alpha, keyed and masked narrators
 
 | Mode | Behavior |
@@ -240,7 +250,7 @@ No recursive directory deletion is performed. Output directories containing inpu
 
 `vertical-index.json` records `rendering`, `failed`, `interrupted`, or `complete`. **An old MP4 in the directory is not proof that the latest run succeeded.** Check the manifest status and receipts. Original assets must not change during rendering. Neither these checks nor file renames are a full multi-file database transaction or a promise of immunity to power loss, hostile filesystem changes, antivirus locks, or network-volume semantics.
 
-Processing is sequential and thread-bounded. Frames stay in FFmpeg, not in a Node array containing an entire episode. Paper assets, masks, PCM, LUTs and video caches use disk space. At default audio settings, PCM is 384,000 bytes per second, about 47.7 MB for episode 1, plus its WAV header. Video caches and standalone/joined files add further space. FFmpeg still uses multiple full-frame buffers. No absolute memory or render-time ceiling is promised. CPU libx264 is the supported encoder; there is no hidden GPU or model dependency. `--preset veryfast` trades file size/efficiency for speed without changing the composition.
+Processing is sequential and thread-bounded. The composite filtergraph, not the encoder, bounds render speed (measured: dropping encoding entirely or switching to NVENC changed nothing; 8 instead of 2 filter threads rendered 2.3× faster), so `encode.filterThreads` defaults to up to 8. Slice threading gives bit-identical frames, so it is excluded from the cache fingerprint and can be tuned without re-rendering. Frames stay in FFmpeg, not in a Node array containing an entire episode. Paper assets, masks, PCM, LUTs and video caches use disk space. At default audio settings, PCM is 384,000 bytes per second, about 47.7 MB for episode 1, plus its WAV header. Video caches and standalone/joined files add further space. FFmpeg still uses multiple full-frame buffers. No absolute memory or render-time ceiling is promised. CPU libx264 is the supported encoder; there is no hidden GPU or model dependency. `--preset veryfast` trades file size/efficiency for speed without changing the composition.
 
 The tool is deliberately conservative about source formats: bake rotation into pixels, use square pixels and progressive BT.709/untagged SDR, and normalize unsupported timestamp origins before supplying a master. HDR, interlacing, anamorphic video and several alternate color-primary tags are rejected rather than silently graded. A differing or variable input frame rate may require output-frame duplication or dropping. Pin your tested FFmpeg build and fonts for long-term use.
 

@@ -61,7 +61,7 @@
     },
     "shorts": {
       "title": "Volta stacked copper and zinc in 1799. We still draw the stack.",
-      "description": "Long line for copper, short line for zinc, one pair per cell. The battery in your pocket is not a tower of discs, and we are still drawing one.\n\nThe full film: https://www.youtube.com/watch?v=2PSmqRYAZ8I\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "The battery on a circuit diagram is Volta's 1799 pile seen from the side — long line for copper, short line for zinc, one pair per cell. The inductor is a coil of wire. The resistor is a wire folded back on itself, one peak per fold.\n\nAlmost none of those objects still exist. The battery in your pocket is not a tower of discs, and a modern resistor has no wire in it anywhere. We are still drawing the apparatus.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=2PSmqRYAZ8I\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "electronics",
         "circuit diagram",
@@ -72,7 +72,11 @@
         "explainer",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "BYaQE6YUuHU",
+      "url": "https://www.youtube.com/watch?v=BYaQE6YUuHU",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "The battery symbol is a stack of metal discs. Volta made one in 1799 and we have been drawing it ever since.",

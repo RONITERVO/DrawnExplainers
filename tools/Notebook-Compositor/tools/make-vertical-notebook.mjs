@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Notebook vertical compositor, v3.0.0.
+ * Notebook vertical compositor, v3.1.0.
  * Node >= 22; FFmpeg >= 7.1 with libass, libx264 and the filters checked below.
  * No npm packages, network access, scene-kit imports, or shell commands.
  *
@@ -27,7 +27,7 @@ import { cpus, hostname } from 'node:os';
 import { fileURLToPath } from 'node:url';
 import { setTimeout as sleep } from 'node:timers/promises';
 
-export const VERSION = '3.0.0';
+export const VERSION = '3.1.0';
 const SELF = fileURLToPath(import.meta.url);
 const VIDEO_EXT = new Set(['.mp4', '.mov', '.mkv', '.webm', '.m4v', '.avi']);
 const STILL_EXT = new Set(['.png', '.pgm', '.jpg', '.jpeg', '.webp']);
@@ -79,8 +79,9 @@ export const DEFAULTS = {
   audio: { sampleRate: 48000, channels: 2, stream: 0, codec: 'aac', bitrate: '192k',
     maxTailPadSeconds: 0.12 },
   encode: { preset: 'medium', crf: 18, threads: Math.min(8, cpus().length),
-    filterThreads: 2 },
+    filterThreads: Math.min(8, cpus().length) }, // The composite graph, not x264, bounds render speed
   verify: 'decode',                 // decode | probe; new outputs always frame-counted
+  speed: 1,                         // !== 1 adds e.g. vertical-full-3x.mp4; the 1x cut is unchanged
   processTimeoutSeconds: 1800,
   maxClipSeconds: 600,
   clips: {},                        // Per-clip overrides, documented in README.
@@ -185,6 +186,7 @@ export function validateConfig(c) {
   integer(c.encode.crf, 'encode.crf', 0, 51);
   integer(c.encode.threads, 'encode.threads', 1, 64); integer(c.encode.filterThreads, 'encode.filterThreads', 1, 16);
   oneOf(c.verify, ['probe', 'decode'], 'verify');
+  finite(c.speed, 'speed', 0.5, 4);
   finite(c.processTimeoutSeconds, 'processTimeoutSeconds', 1, 86400);
   finite(c.maxClipSeconds, 'maxClipSeconds', 0.1, 86400);
   for (const [id, p] of Object.entries(c.clips)) {
@@ -553,6 +555,20 @@ export function concatDurations(counts, unitsPerSecond) {
     const duration = (endUs - previousUs) / 1000000; previousUs = endUs;
     return duration;
   });
+}
+/** A speed cut keeps the output frame grid; audio samples derive from its frames. */
+export function speedPlan(frames, speed, fps, sampleRate) {
+  const out = Math.max(1, Math.round(frames / speed));
+  return { frames: out, samples: Math.round(out * fps.d * sampleRate / fps.n) };
+}
+export function speedLabel(speed) { return `${num(speed)}x`; }
+/** atempo skips samples instead of blending them outside [0.5, 2]; chain in-range factors. */
+export function atempoChain(speed) {
+  const factors = []; let rest = speed;
+  while (rest > 2) { factors.push(2); rest /= 2; }
+  while (rest < 0.5) { factors.push(0.5); rest /= 0.5; }
+  if (Math.abs(rest - 1) > 1e-9 || !factors.length) factors.push(rest);
+  return factors.map(f => `atempo=${num(f)}`).join(',');
 }
 function signature(info) {
   const v = videoStream(info);
@@ -1031,7 +1047,7 @@ async function readInputs(ctx) {
     masterInfo = await probe(ctx, ctx.masterPath);
     ctx.masterVideo = validateVideo(masterInfo, 'Master', { original: true });
     const end = ctx.selected.at(-1).endSeconds;
-    assert(ctx.masterVideo.measuredDuration + 1 / ctx.fps.value >= end, 'Master video is shorter than the selected timeline');
+    assert(ctx.masterVideo.measuredDuration + 1 / ctx.fps.value + 0.001 >= end, 'Master video is shorter than the selected timeline');
     validateAudio(masterInfo, 'Master', c, end);
     ctx.masterInfo = masterInfo;
   } else ctx.warnings.push('CLIPS mode: upstream cut offsets/duplicate frames cannot be reconstructed. Prefer the continuous master out.mp4.');
@@ -1192,11 +1208,36 @@ async function mux(ctx, videoArgs, pcmArgs, dest, frames, samples, fp) {
   await validateOutput(ctx, temp, frames, samples, true);
   await publish(temp, dest, fp, { frames, samples });
 }
+/** Faster delivery cut of the joined timeline, e.g. for TikTok. Frames are resampled
+ * from the 1x video caches (no second composite render) and the same PCM is
+ * time-stretched by pitch-preserving atempo. Slides and type-on speed up with it. */
+async function speedCut(ctx, videoArgs, pcmArgs, dest, source, out, fp) {
+  if (await reusable(dest, fp)) { console.log(`  verified output: ${basename(dest)}`); return; }
+  assert(!existsSync(dest) || ctx.cli.overwrite, `Output exists with changed/missing receipt: ${dest}. Use --overwrite, or another output directory.`);
+  const { c, fps } = ctx, f = fps.text, temp = join(dirname(dest), `${basename(dest, '.mp4')}.partial.mp4`);
+  const graph = `[0:v:0]setpts=(PTS-STARTPTS)/${num(c.speed)},fps=fps=${f}:start_time=0:round=near,tpad=stop_mode=clone:stop_duration=${num(2 / fps.value)},trim=end_frame=${out.frames},setpts=N/(${f}*TB)[vout];` +
+    `[1:a:0]atrim=end_sample=${source.samples},asetpts=N/SR/TB,${atempoChain(c.speed)},apad=whole_len=${out.samples},atrim=end_sample=${out.samples},asetpts=N/SR/TB[aout]`;
+  console.log(`  ${basename(dest)}: ${speedLabel(c.speed)}, ${out.frames} frames`);
+  await ff(ctx, [...videoArgs, ...pcmArgs, '-filter_complex', graph, '-map', '[vout]', '-map', '[aout]',
+    '-frames:v', String(out.frames), '-r', f, '-fps_mode', 'cfr', '-c:v', 'libx264',
+    '-preset', c.encode.preset, '-crf', String(c.encode.crf),
+    '-threads:v', String(c.encode.threads), '-pix_fmt', 'yuv420p',
+    '-g', String(Math.max(1, Math.round(fps.value * 2))),
+    '-color_range', 'tv', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
+    '-c:a', c.audio.codec, ...(c.audio.codec === 'aac' ? ['-b:a', c.audio.bitrate] : []),
+    '-ar', String(c.audio.sampleRate), '-ac', String(c.audio.channels),
+    '-map_metadata', '-1', '-map_chapters', '-1', '-video_track_timescale', String(fps.timeScale),
+    '-movflags', '+faststart', '-progress', 'pipe:1', temp], { log: `${dest}.mux.log`, progress: true });
+  await validateOutput(ctx, temp, out.frames, out.samples, true);
+  await publish(temp, dest, fp, { speed: c.speed, frames: out.frames, samples: out.samples });
+}
 async function renderAll(ctx) {
   await installFont(ctx, join(ctx.work, 'measure'));
   writeFileSync(join(ctx.work, 'paper.ppm'), paperPPM(ctx.c, ctx.g));
   ctx.selfHash = await hashFile(SELF);
   const renderConfig = structuredClone(ctx.c);
+  delete renderConfig.speed; // Only shapes the extra speed cut; 1x clips and caches are identical at any speed.
+  delete renderConfig.encode.filterThreads; // Slice threading leaves frames bit-identical; tune it without rerendering.
   ctx.baseFingerprint = digest({ config: renderConfig, timing: ctx.timing, manifest: ctx.manifest,
     font: await hashFile(ctx.fontFile), fallbackFonts: await Promise.all(ctx.c.text.fallbackFonts.map(hashFile)), build: ctx.build, implementation: ctx.selfHash });
   const statePath = join(ctx.outputDir, 'vertical-index.json');
@@ -1266,10 +1307,19 @@ async function renderAll(ctx) {
       await mux(ctx, ['-f', 'concat', '-safe', '1', '-i', 'join-video.ffconcat'], audioArgs,
         join(ctx.outputDir, name), frames, samples, fp);
       state.fullVideo = { filename: name, frames, samples, durationSeconds: frames / ctx.fps.value, fingerprint: fp };
+      if (ctx.c.speed !== 1) {
+        const out = speedPlan(frames, ctx.c.speed, ctx.fps, ctx.c.audio.sampleRate);
+        const speedName = name.replace(/\.mp4$/, `-${speedLabel(ctx.c.speed)}.mp4`);
+        const speedFp = digest({ kind: 'speed', join: fp, speed: ctx.c.speed });
+        await speedCut(ctx, ['-f', 'concat', '-safe', '1', '-i', 'join-video.ffconcat'], audioArgs,
+          join(ctx.outputDir, speedName), { frames, samples }, out, speedFp);
+        state.speedVideo = { filename: speedName, speed: ctx.c.speed, frames: out.frames, samples: out.samples,
+          durationSeconds: out.frames / ctx.fps.value, fingerprint: speedFp };
+      }
     }
     state.status = 'complete'; await atomicJSON(statePath, state);
     ctx.warnings.slice(ctx.reportedWarnings ?? 0).forEach(w => console.warn(`WARNING: ${w}`));
-    console.log(`Complete: ${ctx.selected.length} clip(s)${state.fullVideo ? ` + ${state.fullVideo.filename}` : ''}\n${ctx.outputDir}`);
+    console.log(`Complete: ${ctx.selected.length} clip(s)${state.fullVideo ? ` + ${state.fullVideo.filename}` : ''}${state.speedVideo ? ` + ${state.speedVideo.filename}` : ''}\n${ctx.outputDir}`);
   } catch (e) {
     state.status = interrupted ? 'interrupted' : 'failed'; state.error = e.message;
     await atomicJSON(statePath, state); throw e;
@@ -1282,7 +1332,7 @@ export function parseArgs(argv) {
   const values = new Set(['episode', 'config', 'original-dir', 'narrator-dir', 'mask-dir', 'output-dir',
     'timing', 'master', 'source-mode', 'fps', 'font-file', 'font-name', 'font-size', 'margin',
     'transition-seconds', 'narrator-mode', 'narrator-policy', 'pattern', 'limit', 'only', 'preset',
-    'crf', 'threads', 'filter-threads', 'verify', 'ffmpeg', 'ffprobe', 'canvas-width', 'canvas-height']);
+    'crf', 'threads', 'filter-threads', 'verify', 'ffmpeg', 'ffprobe', 'canvas-width', 'canvas-height', 'speed']);
   const out = {};
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i] === '-h' ? '--help' : argv[i];
@@ -1299,7 +1349,7 @@ export function parseArgs(argv) {
   return out;
 }
 function help() {
-  console.log(`Notebook vertical compositor ${VERSION}\n\nUsage:\n  node tools/make-vertical-notebook.mjs --episode <directory> [options]\n\nDefaults: master out.mp4; timing.json; out-clips-talking-face-v3/clip-index.json;\n          narrator-clips/001__*.mp4; output vertical-notebook/.\n\n  --config <file>          JSON config relative to episode; otherwise auto-load\n                          episode/vertical-notebook.json when it exists\n  --check-data            Validate only the JSON/timeline; needs no media or FFmpeg\n  --dry-run               Also check media, FFmpeg capabilities and pairing; no render\n  --original-dir <dir>    Directory containing clip-index.json (and originals in clips mode)\n  --narrator-dir <dir>    Exactly one matching narrator per selected clip\n  --mask-dir <dir>        Masks for narrator-mode=mask; white=visible\n  --master <file>         Continuous authoritative original video+audio\n  --source-mode <mode>    master (recommended) | clips (explicit fallback)\n  --output-dir <dir>      Separate output/cache/log directory\n  --timing <file>         Section timing JSON, relative to episode\n  --font-file <file>      TTF/OTF/TTC; requires --font-name <family>\n  --font-name <family>    Actual internal font family, e.g. Segoe Print\n  --font-size <px>        Default 60; uses actual libass measurement, not character counts\n  --margin <px>          Default 96\n  --fps <rational>        Otherwise manifest.settings.fps; up to 60\n  --pattern top,bottom   Alternation in manifest order; --only does not re-index it\n  --narrator-mode <mode>  opaque | alpha | colorkey | mask\n  --narrator-policy <p>   freeze (default) | loop | error\n  --transition-seconds N Default .6; 0 disables movement/edge feather\n  --limit N              First N selected clips\n  --only 2,3             Specific indices; noncontiguous selection requires --no-join\n  --no-join              Individual clips only\n  --overwrite            Replace changed generated files; never clear directories\n  --preset <x264 preset> Default medium\n  --crf N                Default 18 (H.264 is lossy)\n  --threads N            Encoder/decoder threads (default up to 8)\n  --filter-threads N     Default 2\n  --verify decode|probe  Default decode; hashes protect cached-file reuse\n  --ffmpeg <executable>  Path to real ffmpeg[.exe], not a .cmd/.bat wrapper\n  --ffprobe <executable> Path to real ffprobe[.exe]\n  --canvas-width N      Default 1080\n  --canvas-height N     Default 1920\n\nRe-running identical inputs resumes automatically. Changed inputs require\n--overwrite for existing public MP4s. There is intentionally no automatic\nbackground removal, arbitrary transcript realignment, or audio stretching.\n`);
+  console.log(`Notebook vertical compositor ${VERSION}\n\nUsage:\n  node tools/make-vertical-notebook.mjs --episode <directory> [options]\n\nDefaults: master out.mp4; timing.json; out-clips-talking-face-v3/clip-index.json;\n          narrator-clips/001__*.mp4; output vertical-notebook/.\n\n  --config <file>          JSON config relative to episode; otherwise auto-load\n                          episode/vertical-notebook.json when it exists\n  --check-data            Validate only the JSON/timeline; needs no media or FFmpeg\n  --dry-run               Also check media, FFmpeg capabilities and pairing; no render\n  --original-dir <dir>    Directory containing clip-index.json (and originals in clips mode)\n  --narrator-dir <dir>    Exactly one matching narrator per selected clip\n  --mask-dir <dir>        Masks for narrator-mode=mask; white=visible\n  --master <file>         Continuous authoritative original video+audio\n  --source-mode <mode>    master (recommended) | clips (explicit fallback)\n  --output-dir <dir>      Separate output/cache/log directory\n  --timing <file>         Section timing JSON, relative to episode\n  --font-file <file>      TTF/OTF/TTC; requires --font-name <family>\n  --font-name <family>    Actual internal font family, e.g. Segoe Print\n  --font-size <px>        Default 60; uses actual libass measurement, not character counts\n  --margin <px>          Default 96\n  --fps <rational>        Otherwise manifest.settings.fps; up to 60\n  --pattern top,bottom   Alternation in manifest order; --only does not re-index it\n  --narrator-mode <mode>  opaque | alpha | colorkey | mask\n  --narrator-policy <p>   freeze (default) | loop | error\n  --transition-seconds N Default .6; 0 disables movement/edge feather\n  --limit N              First N selected clips\n  --only 2,3             Specific indices; noncontiguous selection requires --no-join\n  --no-join              Individual clips only\n  --speed N              Also write a faster joined cut, e.g. 3 => vertical-full-3x.mp4\n                          (0.5..4; pitch-preserving; reuses the 1x clip renders)\n  --overwrite            Replace changed generated files; never clear directories\n  --preset <x264 preset> Default medium\n  --crf N                Default 18 (H.264 is lossy)\n  --threads N            Encoder/decoder threads (default up to 8)\n  --filter-threads N     Default up to 8; same pixels at any value\n  --verify decode|probe  Default decode; hashes protect cached-file reuse\n  --ffmpeg <executable>  Path to real ffmpeg[.exe], not a .cmd/.bat wrapper\n  --ffprobe <executable> Path to real ffprobe[.exe]\n  --canvas-width N      Default 1080\n  --canvas-height N     Default 1920\n\nRe-running identical inputs resumes automatically. Changed inputs require\n--overwrite for existing public MP4s. There is intentionally no automatic\nbackground removal, arbitrary transcript realignment, or audio stretching\noutside the separate --speed cut.\n`);
 }
 function applyCLI(c, a) {
   for (const k of ['originalDir', 'narratorDir', 'maskDir', 'outputDir', 'timing', 'master', 'sourceMode', 'fps', 'verify']) if (a[k] !== undefined) c[k] = a[k];
@@ -1314,6 +1364,7 @@ function applyCLI(c, a) {
     ['canvasWidth', c.canvas, 'width'], ['canvasHeight', c.canvas, 'height'],
   ]) if (a[src] !== undefined) dst[key] = Number(a[src]);
   if (a.pattern !== undefined) c.pattern = a.pattern.split(',').map(x => x.trim());
+  if (a.speed !== undefined) c.speed = Number(a.speed);
   return c;
 }
 function jsonOptionalFont(p) { return existsSync(p) && json(p).text?.fontFile; }
@@ -1336,6 +1387,7 @@ export async function main(argv = process.argv.slice(2)) {
   const manifest = json(requireFile(join(originalDir, 'clip-index.json'))), timing = json(requireFile(resolve(episode, c.timing)));
   const wordData = buildWords(timing, manifest, c), planned = planClips(manifest, c);
   const selected = selectClips(planned.clips, cli), g = geometry(c);
+  assert(c.speed === 1 || !cli.noJoin, '--speed makes an extra cut of the joined video; remove --no-join');
   const warnings = [];
   console.log(`Episode: ${episode}\nSource mode: ${c.sourceMode}\nCanvas: ${g.w}x${g.h}; center matte ${g.w}x${g.ch} at y=${g.cy}\nFPS: ${planned.fps.text}; head=${wordData.headMs}ms, gap=${wordData.gapMs}ms\n${selected.length}/${planned.clips.length} clips; ${wordData.words.length} timed words; ${wordData.corrections.length} scripted display corrections`);
   for (const p of selected) console.log(`  ${String(p.index).padStart(3, '0')} ${p.position}: ${num(p.startSeconds)}..${num(p.endSeconds)}s (${p.frames} frames / ${p.samples} audio samples)`);

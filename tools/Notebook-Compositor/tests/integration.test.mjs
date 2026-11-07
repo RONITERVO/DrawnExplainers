@@ -27,8 +27,9 @@ function command(exe, args, { expect = 0, binary = false } = {}) {
 function ff(args, opts) { return command(ffmpeg, ['-hide_banner', '-loglevel', 'error', '-y', '-threads', '2', '-filter_threads', '1', '-filter_complex_threads', '1', ...args], opts); }
 function probe(p) { return JSON.parse(command(ffprobe, ['-v', 'error', '-count_frames', '-show_streams', '-show_format', '-of', 'json', p]).stdout); }
 function run(extra = [], opts) {
+  const filterThreads = extra.includes('--filter-threads') ? [] : ['--filter-threads', '1'];
   return command(process.execPath, [script, '--episode', episode, '--original-dir', 'originals',
-    '--narrator-dir', 'narrator', '--mask-dir', 'masks', '--threads', '2', '--filter-threads', '1',
+    '--narrator-dir', 'narrator', '--mask-dir', 'masks', '--threads', '2', ...filterThreads,
     '--preset', 'ultrafast', '--ffmpeg', ffmpeg, '--ffprobe', ffprobe, ...extra], opts);
 }
 function writeJSON(p, v) { writeFileSync(p, JSON.stringify(v, null, 2)); }
@@ -115,9 +116,26 @@ await test('resume reuses validated unchanged outputs; damaged cache is rebuilt'
   const dest = join(episode, 'vertical-notebook', '001__top.mp4'), before = statSync(dest).mtimeMs;
   const r = run(['--crf', '18']); assert.ok(r.stdout.includes('verified video cache'));
   assert.equal(statSync(dest).mtimeMs, before);
+  // Filter slice threads do not change pixels, so they must not invalidate caches either.
+  assert.ok(run(['--crf', '18', '--filter-threads', '4']).stdout.includes('verified video cache'));
+  assert.equal(statSync(dest).mtimeMs, before);
   const video = join(episode, 'vertical-notebook', 'work', 'clip00001', 'video.mp4');
   writeFileSync(video, 'deliberately truncated');
   run(['--crf', '18']); assert.ok(statSync(video).size > 1000);
+});
+await test('--speed 3 reuses the 1x renders and adds a 30-frame cut with pitch-preserved audio', () => {
+  const output = join(episode, 'vertical-notebook'), full = join(output, 'vertical-full.mp4'), before = statSync(full).mtimeMs;
+  const r = run(['--crf', '18', '--speed', '3']); assert.ok(r.stdout.includes('verified video cache'));
+  assert.equal(statSync(full).mtimeMs, before);
+  const p = probe(join(output, 'vertical-full-3x.mp4'));
+  assert.equal(Number(p.streams[0].nb_read_frames), 30); assert.equal(Number(p.streams[0].duration), 1);
+  assert.ok(Math.abs(Number(p.streams[1].duration) - 1) < 0.05);
+  const b = audio(join(output, 'vertical-full-3x.mp4'));
+  assert.ok(tonePower(b, 440) > 0.04, 'tempo change must not shift the 440Hz pitch');
+  assert.ok(tonePower(b, 1320) < 0.005);
+  const index = JSON.parse(readFileSync(join(output, 'vertical-index.json')));
+  assert.equal(index.speedVideo.filename, 'vertical-full-3x.mp4'); assert.equal(index.speedVideo.frames, 30);
+  run(['--speed', '3', '--no-join'], { expect: 1 });
 });
 await test('changed config without --overwrite fails without modifying good MP4', () => {
   const p = join(episode, 'vertical-notebook', '001__top.mp4'), m = statSync(p).mtimeMs;

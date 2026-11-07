@@ -32,23 +32,33 @@ Every episode ships twice:
 | | file | metadata | shape |
 | --- | --- | --- | --- |
 | the film | `out.mp4` | `publish.youtube` | 16:9, 90–180s |
-| the cut | `vertical-notebook/vertical-full.mp4` | `publish.shorts` | 9:16, the film inset in a notebook with a Veo narrator and a transcript |
+| the cut | `vertical-notebook/vertical-full-3x.mp4` | `publish.shorts` | 9:16, the film inset in a notebook with a Veo narrator and a transcript, played at 3x — about 40–60s |
+
+**The cut is published at 3x, and only at 3x** — on Shorts and on TikTok alike,
+for retention. The compositor's `--speed 3` writes it beside the 1x
+`vertical-full.mp4`, which stays on disk but is not uploaded anywhere. Episode
+1's original 1x Short (`tbmFCJL6DAU`) has been deleted; its record is kept under
+`publish.shorts.superseded`.
 
 **They must not share a title.** Two videos with the same name on one channel are
 indistinguishable in search, in the sidebar, and on the channel page — a viewer
 cannot tell which one they already watched, and the two compete for the same
-query. `publish.shorts.title` states one concrete claim from the film and links
-the long version in its description; `publish.youtube.title` states the thesis.
-Episode 1's vertical (`tbmFCJL6DAU`) was uploaded before this split existed and
-still carries the film's title — retitle it in Studio from
-`publish.shorts.title`.
+query. `publish.shorts.title` states one concrete claim from the film;
+`publish.youtube.title` states the thesis.
 
-Both are also the TikTok source: the vertical cut is already 9:16, so it goes up
-as-is with `publish.tiktok.caption`.
+**The Short's description is derived from the film's**, not written separately:
+the film's published description, then `The full film, at normal speed: <film
+url>`, then the series tagline. The cut is the whole film, only faster, so the
+film's description is the accurate one — and the link sends anyone who could
+not keep up to the watchable version. `publish.shorts.derivedFrom` records this;
+if the film's description is edited, regenerate the Short's from it.
+
+The same 3x cut is the TikTok source: it is already 9:16, so it goes up as-is
+with `publish.tiktok.caption`.
 
 ## Uploading
 
-One browser consent, once:
+One browser consent:
 
 ```bash
 node lib/youtube-auth.mjs
@@ -59,12 +69,24 @@ It stores a refresh token at `D:/Projects/tempTestKeys/youtube-token.json` and
 consenting with the wrong Google account is the one mistake that silently
 uploads somewhere else, so it is checked rather than trusted.
 
+**The token dies after about a week.** The OAuth app is still in *Testing* in
+Google Cloud Console, and Google revokes a testing app's refresh tokens after
+7 days: an upload then fails with `invalid_grant: Token has been expired or
+revoked`. Run the consent again. Publishing the app to *In production* ends
+this. If Google answers the consent with "Something went wrong" (or, in Finnish,
+"Jotain meni pieleen"), the browser profile has several Google accounts signed
+in: paste the printed URL into an **incognito** window and sign in there as the
+channel owner — that is what worked on 2026-09-29.
+
 Then, per episode:
 
 ```bash
 node lib/youtube-upload.mjs sets/not-arbitrary/<ep> --public
-node lib/youtube-upload.mjs sets/not-arbitrary/<ep> --vertical --public
+node lib/youtube-upload.mjs sets/not-arbitrary/<ep> --vertical --speed=3 --public
 ```
+
+`--speed=3` sends `vertical-full-3x.mp4` instead of `vertical-full.mp4`, and
+records the file sent in `publish.shorts.source`.
 
 Both are resumable and both write the resulting video id back into
 `episode.json` and `catalog.json` — commit that. Add `--dry-run` to see exactly
@@ -83,10 +105,11 @@ uploaded, so the file stays the record and nothing is retyped into Studio.
 
 1. `out.mp4` — 1080p30, −14 LUFS, platform-ready as rendered. Gitignored because
    it is reproducible: `node lib/build.mjs <ep>` rebuilds it in about 40 seconds.
-2. `vertical-notebook/vertical-full.mp4` — built by `tools/Notebook-Compositor`
-   from the speech clips. Also gitignored; `node tools/media-sync.mjs pull <ep>`
-   restores it from the media store.
-3. Upload both, as above.
+2. `vertical-notebook/vertical-full-3x.mp4` — built by `tools/Notebook-Compositor`
+   with `--speed 3` from the speech clips. Also gitignored;
+   `node tools/media-sync.mjs pull <ep>` restores it from the media store.
+3. Write `publish.shorts.description` from the film's description (see above),
+   then upload both, as above.
 4. Thumbnail: pull a frame with `node lib/build.mjs <ep> --at=<seconds>`, or run
    `/youtube thumbnail` for a brief.
 5. Add the long film to the set's playlist.
@@ -134,8 +157,7 @@ Neither of these touches the channel; they write recommendations.
 
 ## Open items
 
-**Episode 8 has no vertical cut yet** — its speech clips exist, the Veo pass and
-the compositor step do not.
+**All 14 episodes published.** All 14 episodes have both their 16:9 film and their 3x vertical Short published on YouTube (`@drawnexplainers`).
 
 **Captions.** `timing.json` holds a Whisper transcript with word onsets for every
 shot — an accurate caption source, better than YouTube's auto-captions, and

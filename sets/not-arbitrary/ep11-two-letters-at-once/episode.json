@@ -6,7 +6,7 @@
   "thesis": "Three signs designed in the last seventy years are each two letters written one on top of the other. The peace sign is the flag-semaphore signals for N and D - both flags held low and out, and one up and one down - laid over each other and set in a circle by Gerald Holtom in 1958, for nuclear disarmament. The Bluetooth logo is the initials of Harald Bluetooth, the tenth-century Danish king an Intel engineer named the radio after, written in the runes of his own stone and bound onto a single stem, the way rune carvers had joined letters for centuries. And the rupee sign, chosen by India in 2010, is a Roman R without its upright - which is also the Devanagari letter for the same sound, hanging from its line, with the line doubled. They only look like abstract designs because nobody reads the alphabets they are written in as alphabets.",
   "runtimeSeconds": 164.8,
   "renderedAt": "2026-09-28",
-  "status": "rendered",
+  "status": "published",
   "author": {
     "model": "Claude Opus 5.5",
     "note": "Written by a subagent following the drawn-explainer skill, while the parent agent made episode 12 in the same working tree. The user asked for this episode; the subject was chosen by the author from a shortlist the parent gave (designed symbols, the Alexandrian editing marks, cuneiform) after checking all four gates against the sources, and narrowed from the parent's peace sign / Bluetooth / euro to peace sign / Bluetooth / rupee."
@@ -89,11 +89,14 @@
         "history",
         "explainer",
         "animation"
-      ]
+      ],
+      "videoId": "RZbB3dVT8Ec",
+      "url": "https://www.youtube.com/watch?v=RZbB3dVT8Ec",
+      "uploadedAt": "2026-11-07"
     },
     "shorts": {
       "title": "The peace sign is two flag signals laid on top of each other",
-      "description": "Both flags low and out is N. One up and one down is D. Gerald Holtom laid one over the other in 1958, put a circle round them, and made the peace sign - for nuclear disarmament.\n\nThe full film: (link the long version once uploaded)\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "Both flags low and out is N. One up and one down is D. Gerald Holtom laid one over the other in 1958, put a circle round them, and made the peace sign - for nuclear disarmament.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=RZbB3dVT8Ec\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "peace sign",
         "semaphore",
@@ -102,7 +105,10 @@
         "design",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4 (not yet made - tools/make-speech-clips-v3.mjs, then tools/Notebook-Compositor)"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "VyAXiggHGD8",
+      "url": "https://www.youtube.com/watch?v=VyAXiggHGD8",
+      "uploadedAt": "2026-11-07"
     },
     "tiktok": {
       "caption": "The peace sign is two letters: N and D in flag semaphore, laid on top of each other. The Bluetooth logo is a Viking king's initials in runes. The rupee sign is an R that is also a Devanagari letter.",

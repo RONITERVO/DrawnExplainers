@@ -88,7 +88,7 @@
     },
     "shorts": {
       "title": "The flat sign is a lowercase b",
-      "description": "A round b for the soft note, a square b for the hard one. The round one is still the flat; the square one broke into the natural and the sharp.\n\nThe full film: https://www.youtube.com/watch?v=Bv2A3Eb1lBY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "A thousand years ago a monk in Arezzo ruled lines across a page so a singer could finally tell how far a tune went up. One ruled line looks like every other, so he wrote a letter at the head of one to say which note it was, and inked one line red and another yellow. He called them litterae clavis — the key letters. Which is all the word clef has ever meant.\n\nThe treble clef is that letter G, written ten thousand times by a hand that stopped lifting the pen. The bass clef is an F that came out unrecognisable. And the two marks that tell you what to play are the same letter as each other: a round b for the soft note, a square b for the hard one. Extend the square's sides and you have a sharp. Extend them less and you have a natural.\n\nYou never learned a new set of symbols. You learned three letters, drawn by people in a hurry.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=Bv2A3Eb1lBY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "music theory",
         "music notation",
@@ -100,7 +100,11 @@
         "etymology",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "nTo-e9ZY8nI",
+      "url": "https://www.youtube.com/watch?v=nTo-e9ZY8nI",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "The treble clef is a letter G. The flat is a letter b. Nobody designed any of it.",
