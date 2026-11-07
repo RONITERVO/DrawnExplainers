@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "externalId": "s14.close",
+  "text": "Every Japanese sentence still mixes all three: characters whole, worn down, and cut.",
+  "durationMs": 6400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 15
+    },
+    {
+      "startMs": 150,
+      "endMs": 960,
+      "startChar": 15,
+      "endChar": 24
+    },
+    {
+      "startMs": 960,
+      "endMs": 1600,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 1600,
+      "endMs": 2000,
+      "startChar": 30,
+      "endChar": 36
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2520,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2800,
+      "startChar": 40,
+      "endChar": 47
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3280,
+      "startChar": 47,
+      "endChar": 58
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3360,
+      "startChar": 58,
+      "endChar": 65
+    },
+    {
+      "startMs": 3360,
+      "endMs": 4720,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5120,
+      "startChar": 70,
+      "endChar": 76
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5640,
+      "startChar": 76,
+      "endChar": 80
+    },
+    {
+      "startMs": 5640,
+      "endMs": 5920,
+      "startChar": 80,
+      "endChar": 84
+    }
+  ]
+}

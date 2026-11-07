@@ -9,7 +9,7 @@ import { spawn } from 'node:child_process';
 const rl = createInterface({ input: stdin, output: stdout });
 const clean = x => String(x).trim().replace(/^"(.*)"$/, '$1');
 try {
-  console.log('\nNotebook compositor 3.0.0\n');
+  console.log('\nNotebook compositor 3.1.0\n');
   const episode = resolve(clean(process.argv[2] ?? await rl.question('Episode directory (full path): ')));
   const cfgPath = join(episode, 'vertical-notebook.json');
   const cfg = existsSync(cfgPath) ? JSON.parse(readFileSync(cfgPath, 'utf8').replace(/^\uFEFF/, '')) : {};
@@ -30,6 +30,8 @@ try {
   const mode = clean(await rl.question('[P]review first 3 clips or [F]ull episode? [P]: ')).toLowerCase() || 'p';
   if (!['p', 'f'].includes(mode)) throw new Error('Enter P or F.');
   if (mode === 'p') args.push('--limit', '3', '--preset', 'veryfast', '--output-dir', 'vertical-notebook-preview');
+  const speed = clean(await rl.question('Also write a faster cut, e.g. 1.5 or 3 for TikTok? Speed [none]: '));
+  if (speed && speed !== '1') args.push('--speed', speed);
   console.log('Existing changed outputs are protected. Use --overwrite in the documented CLI only when replacement is intentional.');
   rl.close();
   const script = join(dirname(fileURLToPath(import.meta.url)), 'make-vertical-notebook.mjs');

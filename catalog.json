@@ -1,6 +1,6 @@
 {
   "project": "Drawn Explainers",
-  "updated": "2026-09-12",
+  "updated": "2026-09-28",
   "conventions": {
     "runtimeRange": "90-180 seconds",
     "resolution": "1920x1080",
@@ -30,7 +30,7 @@
           "video": "sets/not-arbitrary/ep01-chinese-characters/out.mp4",
           "detail": "sets/not-arbitrary/ep01-chinese-characters/episode.json",
           "url": "https://www.youtube.com/watch?v=zUz68z1PctI",
-          "shortsUrl": "https://www.youtube.com/watch?v=tbmFCJL6DAU"
+          "shortsUrl": "https://www.youtube.com/watch?v=hwroHaiXjMg"
         },
         {
           "episode": 2,
@@ -41,7 +41,8 @@
           "renderedAt": "2026-09-10",
           "video": "sets/not-arbitrary/ep02-alphabet-origins/out.mp4",
           "detail": "sets/not-arbitrary/ep02-alphabet-origins/episode.json",
-          "url": "https://www.youtube.com/watch?v=Fil6nN2nGVw"
+          "url": "https://www.youtube.com/watch?v=Fil6nN2nGVw",
+          "shortsUrl": "https://www.youtube.com/watch?v=SVvAFCCdVlE"
         },
         {
           "episode": 3,
@@ -52,7 +53,8 @@
           "renderedAt": "2026-09-10",
           "video": "sets/not-arbitrary/ep03-card-suits/out.mp4",
           "detail": "sets/not-arbitrary/ep03-card-suits/episode.json",
-          "url": "https://www.youtube.com/watch?v=7adWRWyDWD8"
+          "url": "https://www.youtube.com/watch?v=7adWRWyDWD8",
+          "shortsUrl": "https://www.youtube.com/watch?v=uAxMZFIIBEw"
         },
         {
           "episode": 4,
@@ -63,7 +65,8 @@
           "renderedAt": "2026-09-10",
           "video": "sets/not-arbitrary/ep04-music-notation/out.mp4",
           "detail": "sets/not-arbitrary/ep04-music-notation/episode.json",
-          "url": "https://www.youtube.com/watch?v=Bv2A3Eb1lBY"
+          "url": "https://www.youtube.com/watch?v=Bv2A3Eb1lBY",
+          "shortsUrl": "https://www.youtube.com/watch?v=nTo-e9ZY8nI"
         },
         {
           "episode": 5,
@@ -74,7 +77,8 @@
           "renderedAt": "2026-09-11",
           "video": "sets/not-arbitrary/ep05-chess-pieces/out.mp4",
           "detail": "sets/not-arbitrary/ep05-chess-pieces/episode.json",
-          "url": "https://www.youtube.com/watch?v=ALHyBvuqyKY"
+          "url": "https://www.youtube.com/watch?v=ALHyBvuqyKY",
+          "shortsUrl": "https://www.youtube.com/watch?v=eThQ9lf7WoU"
         },
         {
           "episode": 6,
@@ -85,7 +89,8 @@
           "renderedAt": "2026-09-11",
           "video": "sets/not-arbitrary/ep06-circuit-symbols/out.mp4",
           "detail": "sets/not-arbitrary/ep06-circuit-symbols/episode.json",
-          "url": "https://www.youtube.com/watch?v=2PSmqRYAZ8I"
+          "url": "https://www.youtube.com/watch?v=2PSmqRYAZ8I",
+          "shortsUrl": "https://www.youtube.com/watch?v=BYaQE6YUuHU"
         },
         {
           "episode": 7,
@@ -96,7 +101,8 @@
           "renderedAt": "2026-09-11",
           "video": "sets/not-arbitrary/ep07-roman-numerals/out.mp4",
           "detail": "sets/not-arbitrary/ep07-roman-numerals/episode.json",
-          "url": "https://www.youtube.com/watch?v=CX1r-etFD0E"
+          "url": "https://www.youtube.com/watch?v=CX1r-etFD0E",
+          "shortsUrl": "https://www.youtube.com/watch?v=6DuPKEEpF8I"
         },
         {
           "episode": 8,
@@ -107,7 +113,80 @@
           "renderedAt": "2026-09-12",
           "video": "sets/not-arbitrary/ep08-symbols-are-handwriting/out.mp4",
           "detail": "sets/not-arbitrary/ep08-symbols-are-handwriting/episode.json",
-          "url": "https://www.youtube.com/watch?v=eXy2vaV9cnM"
+          "url": "https://www.youtube.com/watch?v=eXy2vaV9cnM",
+          "shortsUrl": "https://www.youtube.com/watch?v=3zKCW2HgAGE"
+        },
+        {
+          "episode": 9,
+          "slug": "ep09-horse-on-its-tail",
+          "title": "The Horse Is Standing on Its Tail",
+          "runtimeSeconds": 150.92,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep09-horse-on-its-tail/out.mp4",
+          "detail": "sets/not-arbitrary/ep09-horse-on-its-tail/episode.json",
+          "url": "https://www.youtube.com/watch?v=nJs1yG3q8uY",
+          "shortsUrl": "https://www.youtube.com/watch?v=LXymUakyoyg"
+        },
+        {
+          "episode": 10,
+          "slug": "ep10-one-hook-five-letters",
+          "title": "Five Letters That Are One Letter",
+          "runtimeSeconds": 150.16,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep10-one-hook-five-letters/out.mp4",
+          "detail": "sets/not-arbitrary/ep10-one-hook-five-letters/episode.json",
+          "url": "https://www.youtube.com/watch?v=lzAT6dE9FB8",
+          "shortsUrl": "https://www.youtube.com/watch?v=h9DhkAc-dXg"
+        },
+        {
+          "episode": 11,
+          "slug": "ep11-two-letters-at-once",
+          "title": "The Peace Sign Is Two Letters",
+          "runtimeSeconds": 164.8,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep11-two-letters-at-once/out.mp4",
+          "detail": "sets/not-arbitrary/ep11-two-letters-at-once/episode.json",
+          "url": "https://www.youtube.com/watch?v=RZbB3dVT8Ec",
+          "shortsUrl": "https://www.youtube.com/watch?v=VyAXiggHGD8"
+        },
+        {
+          "episode": 12,
+          "slug": "ep12-capitals-in-a-hurry",
+          "title": "Lowercase Is a Capital in a Hurry",
+          "runtimeSeconds": 155.64,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep12-capitals-in-a-hurry/out.mp4",
+          "detail": "sets/not-arbitrary/ep12-capitals-in-a-hurry/episode.json",
+          "url": "https://www.youtube.com/watch?v=T9ZjMevLwJ0",
+          "shortsUrl": "https://www.youtube.com/watch?v=iYzVnXUSTGc"
+        },
+        {
+          "episode": 13,
+          "slug": "ep13-worn-and-cut",
+          "title": "Japanese Letters Are Chinese Characters, Worn Down or Cut",
+          "runtimeSeconds": 151.76,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep13-worn-and-cut/out.mp4",
+          "detail": "sets/not-arbitrary/ep13-worn-and-cut/episode.json",
+          "url": "https://www.youtube.com/watch?v=HiMpD_xVE0Y",
+          "shortsUrl": "https://www.youtube.com/watch?v=hOoTNTZOF2I"
+        },
+        {
+          "episode": 14,
+          "slug": "ep14-the-moon-is-meat",
+          "title": "The Moon in 'Liver' Is Meat",
+          "runtimeSeconds": 159.6,
+          "status": "published",
+          "renderedAt": "2026-09-28",
+          "video": "sets/not-arbitrary/ep14-the-moon-is-meat/out.mp4",
+          "detail": "sets/not-arbitrary/ep14-the-moon-is-meat/episode.json",
+          "url": "https://www.youtube.com/watch?v=hqRMWDD1Da0",
+          "shortsUrl": "https://www.youtube.com/watch?v=p8C3-A9FFmk"
         }
       ]
     }

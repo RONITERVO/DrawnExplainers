@@ -1,0 +1,121 @@
+{
+  "set": "not-arbitrary",
+  "episode": 12,
+  "slug": "ep12-capitals-in-a-hurry",
+  "title": "Lowercase Is a Capital in a Hurry",
+  "thesis": "Every lowercase letter is a Roman capital written by somebody in a hurry. Two habits of a pen did the work - a curve is quicker than a corner, and one stroke is quicker than two - and the stages are still on record: the M's corners rounded into arches; the E rounded, its bar floated loose inside the curve for a few hundred years, then ran into it and closed the loop; the R's pen ran straight from the loop into the leg instead of lifting, and the leg shrank to a flick; and the tall stroke of d is not the D's stem at all but the little overshoot where the pen began its curve, grown long and stood up straight. It was already happening at Herculaneum before AD 79. Charlemagne's scribes standardised the small letters around 800, Gothic buried them, and they came back by mistake: Renaissance humanists took ninth-century books for ancient Roman ones and copied them, and printers kept the result in the lower of their two type cases.",
+  "runtimeSeconds": 155.64,
+  "renderedAt": "2026-09-28",
+  "status": "published",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written directly, in parallel with episode 11, which a subagent made at the user's request. Subject chosen by the author."
+  },
+  "sourcing": {
+    "primary": "Wikipedia, 'Letter case' (History): 'Originally alphabets were written entirely in majuscule letters ... When written quickly with a pen, these tended to turn into rounder and much simpler forms. It is from these that the first minuscule hands developed.' And: 'papyri from Herculaneum dating before 79 CE ... have been found that have been written in old Roman cursive, where the early forms of minuscule letters d, h and r, for example, can already be recognised' (citing the papyrologist Knut Kleve). The same article's 'Type cases' section is the source for upper and lower case: the capitals' case 'stood at a steeper angle at the back of the desk, with the case for the small letters ... more easily reached at a shallower angle below it'.",
+    "supporting": [
+      "Juan-José Marcos, Fonts for Latin Paleography: User's manual (6th ed., 2024), the palaeography manual linked from Wikipedia's script articles, read for corroboration. Uncial is 'a transformed capital writing in which the ascenders are curved and the angles rounded', with curves 'considered to be easier and faster to write than straight lines and angles'; Old Roman cursive's 'main characteristic was the attempt to reduce the number of strokes per letter'; New Roman cursive gives 'practically a complete minuscule alphabet'; half-uncial 'is the ancestor of our lower-case scripts', its evolution 'attributed to a desire for greater speed'. For E specifically: uncial E 'is formed with a curved stroke, and its arm (medial tongue) does not connect with the top curve'; half-uncial 'e whose top has now been closed'. For D: uncial ∂ and half-uncial 'd with an upright stem'.",
+      "Wikipedia, 'R': 'In handwriting, it was common not to close the bottom of the loop but continue into the leg, saving an extra pen stroke. The loop-leg stroke shortened into the simple arc used in the Carolingian minuscule and until today.'",
+      "Wikipedia, 'D': 'In handwriting, it was common to start the arc to the left of the vertical stroke, resulting in a serif at the top of the arc. This serif was extended while the rest of the letter was reduced, resulting in an angled stroke and loop. The angled stroke slowly developed into a vertical stroke.' That paragraph is uncited on Wikipedia; the manual independently attests the two end forms it connects (uncial ∂, half-uncial upright d), and Wikipedia's Carolingian article notes that 'the letter d often appears in an uncial form with an ascender slanting to the left'.",
+      "Wikipedia, 'Roman cursive': 'The angles of standard letters were written as curves in Roman cursive due to ease of tracing curvatures', and 'the number of strokes required to inscribe differing letters was significantly reduced'.",
+      "Wikipedia, 'Carolingian minuscule' and the manual's Caroline chapter: Alcuin at Aachen 782-796; used c. 800-1200; 'most of contemporary knowledge of classical literature derives from copies made in the scriptoria of Charlemagne'; superseded by blackletter.",
+      "Wikipedia, 'Carolingian minuscule' and 'Humanist minuscule', and the manual's humanist chapter, all three independently: the humanists 'took these old Carolingian manuscripts to be ancient Roman originals, and used them as bases for their Renaissance hand' (Wikipedia); 'They called this style antiqua, as they thought this was the style used by ancient Romans in their books' (Marcos). From there the printers of Italy cut it as type, 'the basis of our modern lowercase typefaces'."
+    ],
+    "whyThisIsNotFolkEtymology": "There is no popular rival account to displace here - most people have simply never been told that small letters came from capitals - so the risk is not folklore but over-claiming. The general derivation is stated by every source read; the stages drawn for E, R and D are attested forms named in the sources (uncial e with its loose tongue, the open-loop cursive R, the uncial ∂ with its slanted ascender), and the causes narrated are the causes the sources give (curves easier than angles; fewer strokes; a pen that does not lift). Where the evidence is thinnest - the D's overshoot, which rests on one uncited Wikipedia paragraph - the film shows only the attested forms it connects, and says 'began as a tiny overshoot' rather than naming a date or a scribe.",
+    "refused": [
+      "The name 'roman' type as coming from the humanists' mistake. Wikipedia's 'Roman type' says the style paired Roman inscriptional capitals with Carolingian minuscules, but does not say the name came from the misdating, so the film does not say it either.",
+      "Charlemagne keeping writing tablets under his pillow and never learning to write well (Einhard, Vita Karoli Magni 25; quoted in the manual). True and well known, and cut for time: it is about the man, not the letters.",
+      "A, B, G and H as further threads. G has a documented mechanism (Wikipedia: the spur that distinguishes G from C 'raised to the top of the loop', the stroke extended downward) but its forms pass through the flat-topped half-uncial ᵹ, which does not read as a g to a modern eye; A and B have messier histories (Old Roman cursive b is written back to front, per the manual); H appears only as the Herculaneum evidence.",
+      "Any claim that the capitals' shapes come from the chisel. The film says Rome carved them in stone, which is true, and does not say the chisel made them what they are (the brush-first account of serifs is a separate argument).",
+      "Dates for Gothic, beyond the caption's '1200s to 1400s', and for the exact moment the humanist hand began (Poggio, first decade of the 15th century): the film says 'for two centuries' and leaves the rest to the screen."
+    ]
+  },
+  "gates": {
+    "drawable": "Four real morphs, all traveling. M narrows its middle V into the retraced stem of m while its corners round into shoulders. E rounds into the uncial e with its bar floating loose, then the curve's end drops onto the bar and the loop closes. R's loop stops short of the stem and runs into the leg, then the whole loop-and-leg shrinks to r's shoulder. D's overshoot grows up and to the left into uncial ∂'s slanted ascender while the letter shrinks into a bowl, then the ascender stands up as d's stem.",
+    "trueNotFolk": "See sourcing: the thesis is stated in Wikipedia's Letter case article and in the palaeography manual; each stage is an attested form; the turn is attested three times over.",
+    "genuinelyDifferentShapes": "No tidy-ups. The d's stem changes sides of the letter; the r loses its bowl and leg; the e closes a loop the E never had; the m trades points for arches. The episode does not spend its non-morph allowance.",
+    "topology": "M is one stroke of nine anchors in both states - the M's middle V is already a down-and-up, so it becomes the retrace of m's middle stem without a split. E is body (5) and bar (2) in all three states; the body's first anchor walks from the E's top-right corner to the bar's right end, which is what closes the eye. R is stem (3) and loop-and-leg (5). D is old stem (4) and arc (5): the arc's first anchor is the overshoot and becomes the ascender's tip, and the capital's stem becomes the upper-left of the bowl - the one correspondence the film exists to show. Every run keeps its direction in every state."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS, concurrency 2 (shared with episode 11)",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 162s bed at -18.5 LUFS, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 4670 frames in 40s",
+    "loudness": "-13.6 LUFS integrated, LRA 3.9"
+  },
+  "musicPrompt": "Sparse solo hammered dulcimer, struck very softly with felt hammers and long natural decay, wide space between the notes, no repeating melody. A low soft bowed double bass holding long quiet tones underneath. Faint dry room tone, like a quiet scriptorium. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean first time; 373 script words. Four differences, all artifacts: 'eight hundred' to '800'; 'lower case' to 'lowercase'; and two possessive s's that Whisper did not hear - 'capital's stem' and 'Charlemagne's scribes' - both before a word beginning with s, where the two sibilants merge in ordinary speech. The meaning is carried either way, and a listener hears the same merge in any speaker.",
+    "defectsFound": [],
+    "writtenAround": "Every letter the script names is 'the capital M', 'the capital E', 'the capital R', 'the capital D' or 'a small d' - a carrier word before it and never at the end of a sentence (an earlier draft ended a sentence on the letter D). The first draft ran to 386 words, estimated 170.5s and 180.5s at Kore's slowest measured rate; it was cut to 373 before any synthesis."
+  },
+  "notes": {
+    "budget": "373 words over 15 shots estimated 165.1s. Speech 146.0s, film 155.6s - 5.7% under, the third plain-English script in a row to land 4-6% under the 2.4 words/second midpoint. Kore ran at 2.56.",
+    "craft7": "Every letter's shot ends with its whole chain on the page, tied: capital, the attested middle form, the small letter. The red marks point at what the voice is about - the M's three corners, the R's pen lift, the E's loose bar, the D's stem (struck out as the wrong guess) and its overshoot - and they stay on the ghost as the copy leaves.",
+    "turn": "Shot 8, 'None of this waited for the Middle Ages', at 69s of 156. The first half is how the letters changed; the second is when and how they survived - first century, Charlemagne, Gothic, and the humanists' mistake, which is the best fact in the film and is crossed out on screen in the set's way: 'ancient Roman' struck, 'about 800' written under it.",
+    "onScreenWords": "The four letters are never shown in the film's narration order, M E R D, which reads as a word no one wants on a title card. Every row on screen uses D E M R. Worth checking any row of letters on screen for an accidental word before rendering.",
+    "rhyme": "Episode 8's clerks, who stopped lifting the pen between e and t, are the same hand that closed this film's e. The recap's middle row - uncial ∂, uncial e, the open-loop R - is a quiet callback for anyone who watched episode 10's letters change shape through the same centuries.",
+    "newInLib": "triptych() in lib/scene-kit.mjs: the three-state chain with its hold-the-centre rule, which episodes 9, 10 and 12 each wrote by hand. This film was written against a local copy and then switched to the kit version, re-rendered, and checked frame for frame at the chain moments. travel() is used with emerge 0.35 rather than 0.18 - see toolchainFeedback."
+  },
+  "toolchainFeedback": {
+    "emergeScalesWithDistance": "emerge 0.18 worked for episodes 9-10, where copies travelled 500-650px. Here, with triptych moves of about 480px and letters about 150px wide, a copy reached full opacity while still overlapping its source, and every move opened on a doubled letter (EE, RR, DD) - visible only in frames pulled from the rendered film at the start of a move. 0.35 fixed it. The right value depends on the ratio of the mark's width to the travel distance; travel() could compute it from its own from/to and a width hint rather than taking a constant.",
+    "triptychHelper": "Promoted to lib/ as triptych() as part of this episode, with the hold-the-centre rule built in; it returns the three x positions so captions can follow the states.",
+    "patchByString": "Patching scene.mjs through a Node script with exact-string replacement failed silently-then-loudly on an escaped quote ('Charlemagne\\'s') and applied nothing; the Edit tool on the same text worked. Harmless, but a reminder to check that a patch applied before rendering previews from it.",
+    "sources": "Wikipedia's per-letter paragraphs on how lowercase forms developed are often uncited. The palaeography manual linked from those same articles (Marcos) was the fastest way to corroborate them, and it reads as a PDF with the Read tool's pages parameter."
+  },
+  "publish": {
+    "youtube": {
+      "title": "Lowercase letters are capitals written in a hurry",
+      "description": "Every small letter you type is a Roman capital, written by somebody in a hurry. Two habits of a pen did the work: a curve is quicker than a corner, and one stroke is quicker than two.\n\nThe capital M lost its three corners and became two arches. The E rounded off, and for a few hundred years its middle bar floated loose inside the curve, until the pen ran it straight into the curve and closed the loop. The R's pen stopped lifting between the loop and the leg, and then the leg shrank to a flick. And the tall stroke of a small d was never the D's stem at all: it began as the tiny overshoot where the pen started its curve, grew until it was the tallest part of the letter, and stood up straight.\n\nNone of this waited for the Middle Ages - scrolls buried at Herculaneum by Vesuvius in AD 79 already show early forms of d, h and r. Around 800, Charlemagne's scribes settled the small letters into one clear hand, and most of the Roman books we still have survive in copies they made. Gothic script buried it for two centuries, and it came back by mistake: Renaissance scholars found those ninth-century books and took them for ancient Roman ones, so they copied the letters, and printers kept the metal type for them in the tray below the capitals. That is why we call them lower case.\n\nSources: Wikipedia's articles on Letter case, Roman cursive, Uncial, Carolingian minuscule, Humanist minuscule, D and R; Juan-José Marcos, Fonts for Latin Paleography (2024).\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "lowercase",
+        "typography",
+        "alphabet",
+        "history of writing",
+        "calligraphy",
+        "palaeography",
+        "carolingian minuscule",
+        "letters",
+        "etymology",
+        "explainer",
+        "animation",
+        "latin"
+      ],
+      "videoId": "T9ZjMevLwJ0",
+      "url": "https://www.youtube.com/watch?v=T9ZjMevLwJ0",
+      "uploadedAt": "2026-11-07"
+    },
+    "shorts": {
+      "title": "The tall stroke of a small d was never the capital D's stem",
+      "description": "It started as the tiny overshoot where a Roman pen began the curve of D. Writers let it grow and let the rest shrink, until it was the tallest part of the letter - and then it stood up straight.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=T9ZjMevLwJ0\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "lowercase",
+        "typography",
+        "alphabet",
+        "calligraphy",
+        "history",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "iYzVnXUSTGc",
+      "url": "https://www.youtube.com/watch?v=iYzVnXUSTGc",
+      "uploadedAt": "2026-11-07"
+    },
+    "tiktok": {
+      "caption": "Lowercase letters are capitals written in a hurry - and the tall stroke of a small d was never the D's stem. We call them lower case because printers kept them in the lower tray.",
+      "hook": "First 3 seconds: the capitals D E M R written in a row, then their small letters appearing beneath them, tied by dashed lines."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-letters.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep12-capitals-in-a-hurry"
+}

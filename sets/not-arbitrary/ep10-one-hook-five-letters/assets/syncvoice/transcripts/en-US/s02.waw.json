@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "externalId": "s02.waw",
+  "text": "Start in Phoenicia, about three thousand years ago. One letter of the alphabet there was named after a hook, and it was drawn like a small forked stick.",
+  "durationMs": 12280,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 20
+    },
+    {
+      "startMs": 225,
+      "endMs": 1680,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1680,
+      "endMs": 2560,
+      "startChar": 26,
+      "endChar": 32
+    },
+    {
+      "startMs": 2560,
+      "endMs": 2960,
+      "startChar": 32,
+      "endChar": 41
+    },
+    {
+      "startMs": 2960,
+      "endMs": 3600,
+      "startChar": 41,
+      "endChar": 47
+    },
+    {
+      "startMs": 3600,
+      "endMs": 3840,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4080,
+      "startChar": 52,
+      "endChar": 56
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4320,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5760,
+      "startChar": 63,
+      "endChar": 66
+    },
+    {
+      "startMs": 5760,
+      "endMs": 5840,
+      "startChar": 66,
+      "endChar": 70
+    },
+    {
+      "startMs": 5840,
+      "endMs": 5920,
+      "startChar": 70,
+      "endChar": 79
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6600,
+      "startChar": 79,
+      "endChar": 85
+    },
+    {
+      "startMs": 6600,
+      "endMs": 7000,
+      "startChar": 85,
+      "endChar": 89
+    },
+    {
+      "startMs": 7000,
+      "endMs": 7200,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7640,
+      "startChar": 95,
+      "endChar": 101
+    },
+    {
+      "startMs": 7640,
+      "endMs": 7860,
+      "startChar": 101,
+      "endChar": 103
+    },
+    {
+      "startMs": 7860,
+      "endMs": 8080,
+      "startChar": 103,
+      "endChar": 109
+    },
+    {
+      "startMs": 8080,
+      "endMs": 8720,
+      "startChar": 109,
+      "endChar": 113
+    },
+    {
+      "startMs": 8720,
+      "endMs": 8800,
+      "startChar": 113,
+      "endChar": 116
+    },
+    {
+      "startMs": 8800,
+      "endMs": 9440,
+      "startChar": 116,
+      "endChar": 120
+    },
+    {
+      "startMs": 9440,
+      "endMs": 9640,
+      "startChar": 120,
+      "endChar": 126
+    },
+    {
+      "startMs": 9640,
+      "endMs": 10200,
+      "startChar": 126,
+      "endChar": 131
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10400,
+      "startChar": 131,
+      "endChar": 133
+    },
+    {
+      "startMs": 10400,
+      "endMs": 10600,
+      "startChar": 133,
+      "endChar": 139
+    },
+    {
+      "startMs": 10600,
+      "endMs": 11160,
+      "startChar": 139,
+      "endChar": 146
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11600,
+      "startChar": 146,
+      "endChar": 152
+    }
+  ]
+}

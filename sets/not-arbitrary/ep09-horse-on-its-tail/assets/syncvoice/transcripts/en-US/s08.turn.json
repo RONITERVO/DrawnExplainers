@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "externalId": "s08.turn",
+  "text": "The reason is the page. Books in ancient China were strips of bamboo, each about as wide as a finger, tied side by side with cord.",
+  "durationMs": 10840,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1320,
+      "startChar": 18,
+      "endChar": 24
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1920,
+      "startChar": 24,
+      "endChar": 30
+    },
+    {
+      "startMs": 1920,
+      "endMs": 1995,
+      "startChar": 30,
+      "endChar": 33
+    },
+    {
+      "startMs": 1995,
+      "endMs": 2070,
+      "startChar": 33,
+      "endChar": 41
+    },
+    {
+      "startMs": 2070,
+      "endMs": 3480,
+      "startChar": 41,
+      "endChar": 47
+    },
+    {
+      "startMs": 3480,
+      "endMs": 3960,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4240,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4840,
+      "startChar": 59,
+      "endChar": 62
+    },
+    {
+      "startMs": 4840,
+      "endMs": 5000,
+      "startChar": 62,
+      "endChar": 70
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5340,
+      "startChar": 70,
+      "endChar": 75
+    },
+    {
+      "startMs": 5340,
+      "endMs": 5680,
+      "startChar": 75,
+      "endChar": 81
+    },
+    {
+      "startMs": 5680,
+      "endMs": 5755,
+      "startChar": 81,
+      "endChar": 84
+    },
+    {
+      "startMs": 5755,
+      "endMs": 7080,
+      "startChar": 84,
+      "endChar": 89
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7440,
+      "startChar": 89,
+      "endChar": 92
+    },
+    {
+      "startMs": 7440,
+      "endMs": 7540,
+      "startChar": 92,
+      "endChar": 94
+    },
+    {
+      "startMs": 7540,
+      "endMs": 7640,
+      "startChar": 94,
+      "endChar": 102
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8200,
+      "startChar": 102,
+      "endChar": 107
+    },
+    {
+      "startMs": 8200,
+      "endMs": 8275,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 8275,
+      "endMs": 9360,
+      "startChar": 112,
+      "endChar": 115
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9520,
+      "startChar": 115,
+      "endChar": 120
+    },
+    {
+      "startMs": 9520,
+      "endMs": 9960,
+      "startChar": 120,
+      "endChar": 125
+    },
+    {
+      "startMs": 9960,
+      "endMs": 10160,
+      "startChar": 125,
+      "endChar": 130
+    }
+  ]
+}

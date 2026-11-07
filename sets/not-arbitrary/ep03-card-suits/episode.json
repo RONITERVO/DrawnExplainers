@@ -64,7 +64,7 @@
     },
     "shorts": {
       "title": "The club on a playing card is an acorn",
-      "description": "German decks were suited with acorns and leaves. France cut the same shapes from a stencil in two colours, and the acorn came out of it as a club.\n\nThe full film: https://www.youtube.com/watch?v=7adWRWyDWD8\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "Five hundred years ago German card makers took their suits from the forest and the hunt: an acorn, a leaf, a hawking bell, and a heart. Then the French found a faster way to print them — one outline, one stencil, one colour — and a stencil cannot cut a detail. It can only cut a hole.\n\nWhat came through the hole is the deck you own. The little foot at the bottom of a spade is the leaf's stem.\n\nAnd the names are stranger still: England took the pictures from France and the words from Italy, which is why you are holding a leaf and calling it a sword.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=7adWRWyDWD8\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "playing cards",
         "card suits",
@@ -76,7 +76,11 @@
         "spades",
         "clubs"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "uAxMZFIIBEw",
+      "url": "https://www.youtube.com/watch?v=uAxMZFIIBEw",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "The club on a playing card is an acorn. The spade is a leaf. A stencil did this 500 years ago.",

@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "externalId": "s14.recap",
+  "text": "Three pictures: the moon in the sky, a slice of meat, and a boat going forward, squeezed into one shape.",
+  "durationMs": 9600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 6
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 6,
+      "endChar": 16
+    },
+    {
+      "startMs": 150,
+      "endMs": 655,
+      "startChar": 16,
+      "endChar": 20
+    },
+    {
+      "startMs": 655,
+      "endMs": 1160,
+      "startChar": 20,
+      "endChar": 25
+    },
+    {
+      "startMs": 1160,
+      "endMs": 2000,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2100,
+      "startChar": 28,
+      "endChar": 32
+    },
+    {
+      "startMs": 2100,
+      "endMs": 2200,
+      "startChar": 32,
+      "endChar": 37
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2520,
+      "startChar": 37,
+      "endChar": 39
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2840,
+      "startChar": 39,
+      "endChar": 45
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3960,
+      "startChar": 45,
+      "endChar": 48
+    },
+    {
+      "startMs": 3960,
+      "endMs": 4200,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 4200,
+      "endMs": 4680,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 4680,
+      "endMs": 5060,
+      "startChar": 58,
+      "endChar": 60
+    },
+    {
+      "startMs": 5060,
+      "endMs": 5440,
+      "startChar": 60,
+      "endChar": 65
+    },
+    {
+      "startMs": 5440,
+      "endMs": 6160,
+      "startChar": 65,
+      "endChar": 71
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6520,
+      "startChar": 71,
+      "endChar": 80
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7200,
+      "startChar": 80,
+      "endChar": 89
+    },
+    {
+      "startMs": 7200,
+      "endMs": 8160,
+      "startChar": 89,
+      "endChar": 94
+    },
+    {
+      "startMs": 8160,
+      "endMs": 8560,
+      "startChar": 94,
+      "endChar": 98
+    },
+    {
+      "startMs": 8560,
+      "endMs": 8960,
+      "startChar": 98,
+      "endChar": 104
+    }
+  ]
+}

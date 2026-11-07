@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s11.rupee",
+  "text": "The newest joins two alphabets instead of two words. In twenty ten, India chose a rupee sign from over three thousand entries, drawn by a young designer, Udaya Kumar.",
+  "durationMs": 13680,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 472,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 472,
+      "endMs": 943,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 943,
+      "endMs": 1415,
+      "startChar": 11,
+      "endChar": 17
+    },
+    {
+      "startMs": 1415,
+      "endMs": 1887,
+      "startChar": 17,
+      "endChar": 21
+    },
+    {
+      "startMs": 1887,
+      "endMs": 2359,
+      "startChar": 21,
+      "endChar": 31
+    },
+    {
+      "startMs": 2359,
+      "endMs": 2830,
+      "startChar": 31,
+      "endChar": 39
+    },
+    {
+      "startMs": 2830,
+      "endMs": 3302,
+      "startChar": 39,
+      "endChar": 42
+    },
+    {
+      "startMs": 3302,
+      "endMs": 3774,
+      "startChar": 42,
+      "endChar": 46
+    },
+    {
+      "startMs": 3774,
+      "endMs": 4246,
+      "startChar": 46,
+      "endChar": 53
+    },
+    {
+      "startMs": 4246,
+      "endMs": 4717,
+      "startChar": 53,
+      "endChar": 56
+    },
+    {
+      "startMs": 4717,
+      "endMs": 5189,
+      "startChar": 56,
+      "endChar": 63
+    },
+    {
+      "startMs": 5189,
+      "endMs": 5661,
+      "startChar": 63,
+      "endChar": 68
+    },
+    {
+      "startMs": 5661,
+      "endMs": 6132,
+      "startChar": 68,
+      "endChar": 74
+    },
+    {
+      "startMs": 6132,
+      "endMs": 6604,
+      "startChar": 74,
+      "endChar": 80
+    },
+    {
+      "startMs": 6604,
+      "endMs": 7076,
+      "startChar": 80,
+      "endChar": 82
+    },
+    {
+      "startMs": 7076,
+      "endMs": 7548,
+      "startChar": 82,
+      "endChar": 88
+    },
+    {
+      "startMs": 7548,
+      "endMs": 8019,
+      "startChar": 88,
+      "endChar": 93
+    },
+    {
+      "startMs": 8019,
+      "endMs": 8491,
+      "startChar": 93,
+      "endChar": 98
+    },
+    {
+      "startMs": 8491,
+      "endMs": 8963,
+      "startChar": 98,
+      "endChar": 103
+    },
+    {
+      "startMs": 8963,
+      "endMs": 9434,
+      "startChar": 103,
+      "endChar": 109
+    },
+    {
+      "startMs": 9434,
+      "endMs": 9906,
+      "startChar": 109,
+      "endChar": 118
+    },
+    {
+      "startMs": 9906,
+      "endMs": 10378,
+      "startChar": 118,
+      "endChar": 127
+    },
+    {
+      "startMs": 10378,
+      "endMs": 10850,
+      "startChar": 127,
+      "endChar": 133
+    },
+    {
+      "startMs": 10850,
+      "endMs": 11321,
+      "startChar": 133,
+      "endChar": 136
+    },
+    {
+      "startMs": 11321,
+      "endMs": 11793,
+      "startChar": 136,
+      "endChar": 138
+    },
+    {
+      "startMs": 11793,
+      "endMs": 12265,
+      "startChar": 138,
+      "endChar": 144
+    },
+    {
+      "startMs": 12265,
+      "endMs": 12737,
+      "startChar": 144,
+      "endChar": 154
+    },
+    {
+      "startMs": 12737,
+      "endMs": 13208,
+      "startChar": 154,
+      "endChar": 160
+    },
+    {
+      "startMs": 13208,
+      "endMs": 13680,
+      "startChar": 160,
+      "endChar": 166
+    }
+  ]
+}

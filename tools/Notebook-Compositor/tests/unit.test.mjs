@@ -6,7 +6,8 @@ import { tmpdir } from 'node:os';
 import { fileURLToPath } from 'node:url';
 import { DEFAULTS, mergeConfig, validateConfig, geometry, contain, rate, buildWords,
   planClips, selectClips, revealPage, graphemes, frameBoundaryCS, smootherstep,
-  motion, dustPGM, makeGraph, parseArgs, pageText, matchFile, wordsForClip, concatDurations } from '../tools/make-vertical-notebook.mjs';
+  motion, dustPGM, makeGraph, parseArgs, pageText, matchFile, wordsForClip, concatDurations,
+  speedPlan, speedLabel, atempoChain } from '../tools/make-vertical-notebook.mjs';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const fixture = name => JSON.parse(readFileSync(join(root, 'examples', 'episode-1-data', name), 'utf8'));
 const manifest = fixture('clip-index.json'), timing = fixture('timing.json');
@@ -159,6 +160,19 @@ test('concat duration microseconds use cumulative endpoints and bounded quantiza
     assert.ok(Math.abs(seconds - frames / fps.value) < 0.00000051);
     assert.equal(Math.round(seconds * fps.timeScale), frames * fps.d);
   });
+});
+test('speed cut: in-range atempo chain, frame-grid sample count, bounded config', () => {
+  assert.equal(atempoChain(3), 'atempo=2,atempo=1.5');
+  assert.equal(atempoChain(4), 'atempo=2,atempo=2');
+  assert.equal(atempoChain(1.5), 'atempo=1.5');
+  assert.equal(atempoChain(0.5), 'atempo=0.5');
+  const fps = rate('30'), total = planned.clips.reduce((s, p) => s + p.frames, 0);
+  assert.deepEqual(speedPlan(total, 3, fps, 48000), { frames: 1243, samples: 1243 * 1600 });
+  assert.equal(speedPlan(2, 4, fps, 48000).frames, 1);
+  assert.equal(speedLabel(3), '3x'); assert.equal(speedLabel(1.5), '1.5x');
+  assert.equal(config({ speed: 3 }).speed, 3);
+  for (const speed of [0, 0.25, 5, NaN, '3']) assert.throws(() => config({ speed }), /speed/);
+  assert.equal(parseArgs(['--speed', '3']).speed, '3');
 });
 test('padded override indices are rejected instead of being silently ignored', () => {
   assert.throws(() => config({ clips: { '001': { position: 'bottom' } } }), /canonical indices/);

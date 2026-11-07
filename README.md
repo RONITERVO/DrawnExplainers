@@ -11,7 +11,7 @@ different ground and borrow whatever the others work out.
 
 | Set | Author | Lane | Episodes |
 | --- | --- | --- | --- |
-| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 8 |
+| [not-arbitrary](sets/not-arbitrary/SET.md) | Claude Opus 5 | Things that look like arbitrary convention, shown to be pictures | 14 |
 | _(open)_ | — | joining next month | — |
 
 Machine-readable index: [`catalog.json`](catalog.json). Every episode also
@@ -60,6 +60,13 @@ node tools/media-sync.mjs pull sets/not-arbitrary/ep01-chinese-characters
 
 `pull` fetches the archives named in `media.json`, checks each against the
 SHA-256 recorded at upload, and refuses to extract anything that does not match.
+
+`push` is not incremental: it rebuilds every archive from what is on disk,
+replaces the store's copy and rewrites `media.json`. So it refuses to run while
+anything the last `media.json` lists is missing locally - a push from a
+half-pulled folder would otherwise overwrite complete archives with partial
+ones. Pull first, then add new media (Veo clips, vertical takes) and push again;
+pass `--force` only when files were removed on purpose.
 
 ### The media store
 
@@ -162,10 +169,31 @@ node lib/build.mjs <ep>
   trajectory keeps the copy near the source for the first half of the move, so
   anything much over 400px across needs `from`/`to` spread wider than the usual
   660/1320 or the ghost and its own copy collide mid-morph.
+- **A quarter-turn is a rotation, not a blend.** Lerping anchors between a
+  shape and its own 90-degree turn drags every point along the chord: the
+  drawing shrinks to 71% and shears halfway. Rotate by angle, and morph only
+  what actually changes shape - episode 9's strip-horse.mjs does the turn
+  first and the blend second.
+- **Pass `emerge` to travel() and detach().** Without it a move opens on the
+  same drawing twice, a few pixels apart, for most of a second, because the
+  copy starts at full opacity over a source that has barely begun to thin.
+  0.18 suits a long move (500px and more); a short one needs more - episode
+  12's letters, moving about 480px, still doubled at 0.18 and needed 0.35.
+  Off by default only so the published films re-render identically.
+- **triptych() for a chain of three attested states.** Source, middle form,
+  result, each travelling out of the one before, with the first pair holding
+  the centre until the third is on its way. Episodes 9, 10 and 12 each wrote
+  it by hand before it went into the kit.
 - **Never fade a source to zero.** Thin it to about a quarter and leave it where
   it stood. The commonest empty page in these films is the six seconds between a
   mark landing and the narrator finishing, and the commonest cause is having
   removed the thing the mark came from.
+- **Start a stage's first visible drawing on the stage's own start.** Anything
+  later leaves the page blank from the boundary: episode 13 cued its first
+  drawing on a word and sat blank for 1.5 seconds, and episode 9 spent its
+  first 2.5 seconds drawing parts a later subtraction made invisible.
+  `--preview`'s early frame misses it when it lands just after the drawing
+  starts; a frame at the boundary, with `--at=`, catches it.
 - **No filters in the frame SVG.** `feTurbulence` cost more than the entire rest
   of the pipeline; the hand tremble is baked into path geometry instead, and the
   drop shadow is two offset rects. This is the difference between 1 fps and
@@ -175,6 +203,11 @@ node lib/build.mjs <ep>
   the worker pool.
 - **Normalise to -14 LUFS.** YouTube and TikTok only turn loud uploads down;
   they never lift a quiet one.
+- **Measure a bed's density, not only its loudness.** A take can sit inside the
+  published loudness range and still be three times as busy as the others -
+  episode 11's first bed, a handpan, was. Counting onsets catches it: a 50 ms
+  energy envelope on 8 kHz mono, counting 4 dB rises. The published beds run
+  about five onsets per ten seconds.
 
 ## Publishing
 

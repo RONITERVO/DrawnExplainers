@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s11.charlemagne",
+  "text": "Around the year eight hundred, Charlemagne's scribes settled these small letters into one clear hand, and most of the Roman books we still have survive in copies they made.",
+  "durationMs": 11400,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 393,
+      "startChar": 0,
+      "endChar": 7
+    },
+    {
+      "startMs": 393,
+      "endMs": 786,
+      "startChar": 7,
+      "endChar": 11
+    },
+    {
+      "startMs": 786,
+      "endMs": 1179,
+      "startChar": 11,
+      "endChar": 16
+    },
+    {
+      "startMs": 1179,
+      "endMs": 1572,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1572,
+      "endMs": 1966,
+      "startChar": 22,
+      "endChar": 31
+    },
+    {
+      "startMs": 1966,
+      "endMs": 2359,
+      "startChar": 31,
+      "endChar": 45
+    },
+    {
+      "startMs": 2359,
+      "endMs": 2752,
+      "startChar": 45,
+      "endChar": 53
+    },
+    {
+      "startMs": 2752,
+      "endMs": 3145,
+      "startChar": 53,
+      "endChar": 61
+    },
+    {
+      "startMs": 3145,
+      "endMs": 3538,
+      "startChar": 61,
+      "endChar": 67
+    },
+    {
+      "startMs": 3538,
+      "endMs": 3931,
+      "startChar": 67,
+      "endChar": 73
+    },
+    {
+      "startMs": 3931,
+      "endMs": 4324,
+      "startChar": 73,
+      "endChar": 81
+    },
+    {
+      "startMs": 4324,
+      "endMs": 4717,
+      "startChar": 81,
+      "endChar": 86
+    },
+    {
+      "startMs": 4717,
+      "endMs": 5110,
+      "startChar": 86,
+      "endChar": 90
+    },
+    {
+      "startMs": 5110,
+      "endMs": 5503,
+      "startChar": 90,
+      "endChar": 96
+    },
+    {
+      "startMs": 5503,
+      "endMs": 5897,
+      "startChar": 96,
+      "endChar": 102
+    },
+    {
+      "startMs": 5897,
+      "endMs": 6290,
+      "startChar": 102,
+      "endChar": 106
+    },
+    {
+      "startMs": 6290,
+      "endMs": 6683,
+      "startChar": 106,
+      "endChar": 111
+    },
+    {
+      "startMs": 6683,
+      "endMs": 7076,
+      "startChar": 111,
+      "endChar": 114
+    },
+    {
+      "startMs": 7076,
+      "endMs": 7469,
+      "startChar": 114,
+      "endChar": 118
+    },
+    {
+      "startMs": 7469,
+      "endMs": 7862,
+      "startChar": 118,
+      "endChar": 124
+    },
+    {
+      "startMs": 7862,
+      "endMs": 8255,
+      "startChar": 124,
+      "endChar": 130
+    },
+    {
+      "startMs": 8255,
+      "endMs": 8648,
+      "startChar": 130,
+      "endChar": 133
+    },
+    {
+      "startMs": 8648,
+      "endMs": 9041,
+      "startChar": 133,
+      "endChar": 139
+    },
+    {
+      "startMs": 9041,
+      "endMs": 9434,
+      "startChar": 139,
+      "endChar": 144
+    },
+    {
+      "startMs": 9434,
+      "endMs": 9828,
+      "startChar": 144,
+      "endChar": 152
+    },
+    {
+      "startMs": 9828,
+      "endMs": 10221,
+      "startChar": 152,
+      "endChar": 155
+    },
+    {
+      "startMs": 10221,
+      "endMs": 10614,
+      "startChar": 155,
+      "endChar": 162
+    },
+    {
+      "startMs": 10614,
+      "endMs": 11007,
+      "startChar": 162,
+      "endChar": 167
+    },
+    {
+      "startMs": 11007,
+      "endMs": 11400,
+      "startChar": 167,
+      "endChar": 172
+    }
+  ]
+}

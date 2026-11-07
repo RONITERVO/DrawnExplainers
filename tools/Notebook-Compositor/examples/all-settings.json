@@ -99,9 +99,10 @@
     "preset": "medium",
     "crf": 18,
     "threads": 5,
-    "filterThreads": 2
+    "filterThreads": 8
   },
   "verify": "decode",
+  "speed": 1,
   "processTimeoutSeconds": 1800,
   "maxClipSeconds": 600,
   "clips": {}

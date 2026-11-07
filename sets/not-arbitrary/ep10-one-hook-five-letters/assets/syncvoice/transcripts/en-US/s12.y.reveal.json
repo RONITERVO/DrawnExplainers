@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "externalId": "s12.y.reveal",
+  "text": "Nothing about it changed. The letter that still looks most like the original is the one that arrived last, and French and Spanish name it after Greece.",
+  "durationMs": 10600,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 8
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 8,
+      "endChar": 14
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 14,
+      "endChar": 17
+    },
+    {
+      "startMs": 225,
+      "endMs": 300,
+      "startChar": 17,
+      "endChar": 26
+    },
+    {
+      "startMs": 300,
+      "endMs": 910,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 910,
+      "endMs": 1520,
+      "startChar": 30,
+      "endChar": 37
+    },
+    {
+      "startMs": 1520,
+      "endMs": 1640,
+      "startChar": 37,
+      "endChar": 42
+    },
+    {
+      "startMs": 1640,
+      "endMs": 2520,
+      "startChar": 42,
+      "endChar": 48
+    },
+    {
+      "startMs": 2520,
+      "endMs": 3160,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3160,
+      "endMs": 3560,
+      "startChar": 54,
+      "endChar": 59
+    },
+    {
+      "startMs": 3560,
+      "endMs": 4120,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 4120,
+      "endMs": 4220,
+      "startChar": 64,
+      "endChar": 68
+    },
+    {
+      "startMs": 4220,
+      "endMs": 4320,
+      "startChar": 68,
+      "endChar": 77
+    },
+    {
+      "startMs": 4320,
+      "endMs": 5120,
+      "startChar": 77,
+      "endChar": 80
+    },
+    {
+      "startMs": 5120,
+      "endMs": 5360,
+      "startChar": 80,
+      "endChar": 84
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5600,
+      "startChar": 84,
+      "endChar": 88
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5780,
+      "startChar": 88,
+      "endChar": 93
+    },
+    {
+      "startMs": 5780,
+      "endMs": 5960,
+      "startChar": 93,
+      "endChar": 101
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6520,
+      "startChar": 101,
+      "endChar": 107
+    },
+    {
+      "startMs": 6520,
+      "endMs": 7080,
+      "startChar": 107,
+      "endChar": 111
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7160,
+      "startChar": 111,
+      "endChar": 118
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7700,
+      "startChar": 118,
+      "endChar": 122
+    },
+    {
+      "startMs": 7700,
+      "endMs": 8240,
+      "startChar": 122,
+      "endChar": 130
+    },
+    {
+      "startMs": 8240,
+      "endMs": 9080,
+      "startChar": 130,
+      "endChar": 135
+    },
+    {
+      "startMs": 9080,
+      "endMs": 9280,
+      "startChar": 135,
+      "endChar": 138
+    },
+    {
+      "startMs": 9280,
+      "endMs": 9480,
+      "startChar": 138,
+      "endChar": 144
+    },
+    {
+      "startMs": 9480,
+      "endMs": 9880,
+      "startChar": 144,
+      "endChar": 151
+    }
+  ]
+}

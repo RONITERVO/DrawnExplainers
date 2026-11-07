@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "project": {
+    "id": "not-arbitrary-ep14",
+    "name": "Not Arbitrary 14 — The Moon in 'Liver' Is Meat",
+    "sourceLocale": "en-US",
+    "targetEngine": "custom"
+  },
+  "entries": [
+    {
+      "externalId": "s01.hook",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "Look at the Chinese words for liver, lung, elbow and belly. Every one of them has the character for the moon down its left side.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, unhurried, a little conspiratorial. Let the four body parts breathe as a list, then land 'the moon' with a small smile."
+    },
+    {
+      "externalId": "s02.three",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "None of them has anything to do with the moon. That shape is three different pictures, squeezed over two thousand years into the same four strokes.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain and clear. A small pause after 'the moon', then a little lift on 'three different pictures'."
+    },
+    {
+      "externalId": "s03.moon",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "The first really is the moon. The oldest Chinese writing, cut into bone more than three thousand years ago, draws it as a crescent.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gentle. A small stress on 'really'."
+    },
+    {
+      "externalId": "s04.frame",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "As the script grew square, the curve became a frame, with two short bars inside it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Unhurried, as if watching it happen."
+    },
+    {
+      "externalId": "s05.meat",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "The second is a piece of meat. Its oldest drawings show a slice, with lines across it. Squeezed into the side of a character, it stood up straight and lost its curves, until it matched the moon.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Dry and a little amused on 'a piece of meat'. Then matter of fact, building slightly to 'until it matched the moon'."
+    },
+    {
+      "externalId": "s06.body",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "That is why so much of the body is written with it. A liver, a lung, an elbow and a belly are all meat.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm. Land 'are all meat' simply, with no lift."
+    },
+    {
+      "externalId": "s07.boat",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "The third is a boat: a long hull, with bars across it.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "The turn of the film. Slow down, and a definite pause after 'The third is a boat'."
+    },
+    {
+      "externalId": "s08.front",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "The character for 'in front' began as a foot, standing in a boat that is moving forward.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Light and pleased with the picture. Say 'in front' as an ordinary English phrase."
+    },
+    {
+      "externalId": "s09.clerks",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "More than two thousand years ago, clerks simplifying the script to write it faster shrank the foot to two ticks and a line, and the boat to the moon's four strokes.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Plain, steady narration. A small beat before 'and the boat to the moon's four strokes'."
+    },
+    {
+      "externalId": "s10.emperor",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "And when the first emperor of China took a word for 'I' that only an emperor could use, it was written with a boat as well.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A little wry. The word 'I' is the pronoun, said clearly in the middle of the sentence."
+    },
+    {
+      "externalId": "s11.dictionary",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "Careful printers still told the three apart. China's great dictionary of seventeen sixteen prints three versions: the moon's bars stop short, the meat's bars reach across, and the boat has two dots.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "A new thread, so lift slightly. Give the three versions the same shape, one after another."
+    },
+    {
+      "externalId": "s12.today",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "In the twentieth century, China and Japan made all three identical, and the shape they chose was the meat's. Taiwan and Hong Kong still print the meat apart.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Matter of fact, with a small dry smile on 'the shape they chose was the meat's'."
+    },
+    {
+      "externalId": "s13.names",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "And in Japan and in Korea, the meat has kept a name of its own. In both languages, it means the meat moon.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Warm, a small smile on 'the meat moon'."
+    },
+    {
+      "externalId": "s14.recap",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "Three pictures: the moon in the sky, a slice of meat, and a boat going forward, squeezed into one shape.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Gather it up. Warm, not a summary read."
+    },
+    {
+      "externalId": "s15.close",
+      "scene": "moon",
+      "speaker": "Narrator",
+      "text": "So the moon in the word for liver was never the moon. Today, the moon itself is printed like meat.",
+      "locale": "en-US",
+      "voice": "Kore",
+      "direction": "Land it and stop, no lift at the end - but say the final words, 'printed like meat', fully and clearly."
+    }
+  ]
+}

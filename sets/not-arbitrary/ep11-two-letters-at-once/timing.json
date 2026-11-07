@@ -1,0 +1,1950 @@
+{
+  "s01.hook": {
+    "durationMs": 8080,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "see",
+        "startMs": 260,
+        "endMs": 660
+      },
+      {
+        "word": "these",
+        "startMs": 660,
+        "endMs": 980
+      },
+      {
+        "word": "three",
+        "startMs": 980,
+        "endMs": 1240
+      },
+      {
+        "word": "signs",
+        "startMs": 1240,
+        "endMs": 1740
+      },
+      {
+        "word": "almost",
+        "startMs": 1740,
+        "endMs": 2140
+      },
+      {
+        "word": "every",
+        "startMs": 2140,
+        "endMs": 2600
+      },
+      {
+        "word": "day.",
+        "startMs": 2600,
+        "endMs": 2940
+      },
+      {
+        "word": "Every",
+        "startMs": 3320,
+        "endMs": 3920
+      },
+      {
+        "word": "one",
+        "startMs": 3920,
+        "endMs": 4120
+      },
+      {
+        "word": "of",
+        "startMs": 4120,
+        "endMs": 4260
+      },
+      {
+        "word": "them",
+        "startMs": 4260,
+        "endMs": 4440
+      },
+      {
+        "word": "is",
+        "startMs": 4440,
+        "endMs": 4720
+      },
+      {
+        "word": "two",
+        "startMs": 4720,
+        "endMs": 5020
+      },
+      {
+        "word": "letters,",
+        "startMs": 5020,
+        "endMs": 5500
+      },
+      {
+        "word": "written",
+        "startMs": 5660,
+        "endMs": 6000
+      },
+      {
+        "word": "one",
+        "startMs": 6000,
+        "endMs": 6520
+      },
+      {
+        "word": "on",
+        "startMs": 6520,
+        "endMs": 6920
+      },
+      {
+        "word": "top",
+        "startMs": 6920,
+        "endMs": 7180
+      },
+      {
+        "word": "of",
+        "startMs": 7180,
+        "endMs": 7320
+      },
+      {
+        "word": "the",
+        "startMs": 7320,
+        "endMs": 7440
+      },
+      {
+        "word": "other.",
+        "startMs": 7440,
+        "endMs": 7660
+      }
+    ],
+    "heard": "You see these three signs almost every day. Every one of them is two letters, written one on top of the other.",
+    "script": "You see these three signs almost every day. Every one of them is two letters, written one on top of the other."
+  },
+  "s02.holtom": {
+    "durationMs": 11000,
+    "words": [
+      {
+        "word": "Start",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "with",
+        "startMs": 420,
+        "endMs": 840
+      },
+      {
+        "word": "the",
+        "startMs": 840,
+        "endMs": 1060
+      },
+      {
+        "word": "peace",
+        "startMs": 1060,
+        "endMs": 1260
+      },
+      {
+        "word": "sign.",
+        "startMs": 1260,
+        "endMs": 1620
+      },
+      {
+        "word": "In",
+        "startMs": 2020,
+        "endMs": 2500
+      },
+      {
+        "word": "1958,",
+        "startMs": 2500,
+        "endMs": 3260
+      },
+      {
+        "word": "a",
+        "startMs": 3920,
+        "endMs": 3960
+      },
+      {
+        "word": "designer",
+        "startMs": 3960,
+        "endMs": 4440
+      },
+      {
+        "word": "named",
+        "startMs": 4440,
+        "endMs": 4980
+      },
+      {
+        "word": "Gerald",
+        "startMs": 4980,
+        "endMs": 5520
+      },
+      {
+        "word": "Haltom",
+        "startMs": 5520,
+        "endMs": 6200
+      },
+      {
+        "word": "drew",
+        "startMs": 6200,
+        "endMs": 6860
+      },
+      {
+        "word": "it",
+        "startMs": 6860,
+        "endMs": 7100
+      },
+      {
+        "word": "for",
+        "startMs": 7100,
+        "endMs": 7300
+      },
+      {
+        "word": "the",
+        "startMs": 7300,
+        "endMs": 7480
+      },
+      {
+        "word": "first",
+        "startMs": 7480,
+        "endMs": 7820
+      },
+      {
+        "word": "big",
+        "startMs": 7820,
+        "endMs": 8140
+      },
+      {
+        "word": "march",
+        "startMs": 8140,
+        "endMs": 8580
+      },
+      {
+        "word": "against",
+        "startMs": 8580,
+        "endMs": 9020
+      },
+      {
+        "word": "nuclear",
+        "startMs": 9020,
+        "endMs": 9480
+      },
+      {
+        "word": "weapons",
+        "startMs": 9480,
+        "endMs": 10040
+      },
+      {
+        "word": "in",
+        "startMs": 10040,
+        "endMs": 10340
+      },
+      {
+        "word": "Britain.",
+        "startMs": 10340,
+        "endMs": 10580
+      }
+    ],
+    "heard": "Start with the peace sign. In 1958, a designer named Gerald Haltom drew it for the first big march against nuclear weapons in Britain.",
+    "script": "Start with the peace sign. In nineteen fifty-eight, a designer named Gerald Holtom drew it for the first big march against nuclear weapons in Britain."
+  },
+  "s03.flags": {
+    "durationMs": 14400,
+    "words": [
+      {
+        "word": "He",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "spelled",
+        "startMs": 180,
+        "endMs": 600
+      },
+      {
+        "word": "out",
+        "startMs": 600,
+        "endMs": 940
+      },
+      {
+        "word": "nuclear",
+        "startMs": 940,
+        "endMs": 1580
+      },
+      {
+        "word": "disarmament,",
+        "startMs": 1580,
+        "endMs": 2640
+      },
+      {
+        "word": "the",
+        "startMs": 2800,
+        "endMs": 3060
+      },
+      {
+        "word": "way",
+        "startMs": 3060,
+        "endMs": 3300
+      },
+      {
+        "word": "sailors",
+        "startMs": 3300,
+        "endMs": 3800
+      },
+      {
+        "word": "signal",
+        "startMs": 3800,
+        "endMs": 4320
+      },
+      {
+        "word": "between",
+        "startMs": 4320,
+        "endMs": 4660
+      },
+      {
+        "word": "ships.",
+        "startMs": 4660,
+        "endMs": 5100
+      },
+      {
+        "word": "Both",
+        "startMs": 5380,
+        "endMs": 6060
+      },
+      {
+        "word": "flags",
+        "startMs": 6060,
+        "endMs": 6480
+      },
+      {
+        "word": "held",
+        "startMs": 6480,
+        "endMs": 6840
+      },
+      {
+        "word": "low",
+        "startMs": 6840,
+        "endMs": 7200
+      },
+      {
+        "word": "and",
+        "startMs": 7200,
+        "endMs": 7540
+      },
+      {
+        "word": "out",
+        "startMs": 7540,
+        "endMs": 7860
+      },
+      {
+        "word": "is",
+        "startMs": 7860,
+        "endMs": 8280
+      },
+      {
+        "word": "the",
+        "startMs": 8280,
+        "endMs": 8400
+      },
+      {
+        "word": "first",
+        "startMs": 8400,
+        "endMs": 8660
+      },
+      {
+        "word": "letter",
+        "startMs": 8660,
+        "endMs": 8940
+      },
+      {
+        "word": "of",
+        "startMs": 8940,
+        "endMs": 9220
+      },
+      {
+        "word": "nuclear.",
+        "startMs": 9220,
+        "endMs": 9540
+      },
+      {
+        "word": "One",
+        "startMs": 10120,
+        "endMs": 10600
+      },
+      {
+        "word": "up",
+        "startMs": 10600,
+        "endMs": 10960
+      },
+      {
+        "word": "and",
+        "startMs": 10960,
+        "endMs": 11300
+      },
+      {
+        "word": "one",
+        "startMs": 11300,
+        "endMs": 11500
+      },
+      {
+        "word": "down",
+        "startMs": 11500,
+        "endMs": 11800
+      },
+      {
+        "word": "is",
+        "startMs": 11800,
+        "endMs": 12200
+      },
+      {
+        "word": "the",
+        "startMs": 12200,
+        "endMs": 12340
+      },
+      {
+        "word": "first",
+        "startMs": 12340,
+        "endMs": 12600
+      },
+      {
+        "word": "letter",
+        "startMs": 12600,
+        "endMs": 12880
+      },
+      {
+        "word": "of",
+        "startMs": 12880,
+        "endMs": 13260
+      },
+      {
+        "word": "disarmament.",
+        "startMs": 13260,
+        "endMs": 14000
+      }
+    ],
+    "heard": "He spelled out nuclear disarmament, the way sailors signal between ships. Both flags held low and out is the first letter of nuclear. One up and one down is the first letter of disarmament.",
+    "script": "He spelled out nuclear disarmament the way sailors signal between ships. Both flags held low and out is the first letter of nuclear. One up and one down is the first letter of disarmament."
+  },
+  "s04.circle": {
+    "durationMs": 8880,
+    "words": [
+      {
+        "word": "he",
+        "startMs": 0,
+        "endMs": 120
+      },
+      {
+        "word": "laid",
+        "startMs": 120,
+        "endMs": 520
+      },
+      {
+        "word": "one",
+        "startMs": 520,
+        "endMs": 1040
+      },
+      {
+        "word": "signal",
+        "startMs": 1040,
+        "endMs": 1660
+      },
+      {
+        "word": "on",
+        "startMs": 1660,
+        "endMs": 2140
+      },
+      {
+        "word": "top",
+        "startMs": 2140,
+        "endMs": 2480
+      },
+      {
+        "word": "of",
+        "startMs": 2480,
+        "endMs": 2780
+      },
+      {
+        "word": "the",
+        "startMs": 2780,
+        "endMs": 2920
+      },
+      {
+        "word": "other",
+        "startMs": 2920,
+        "endMs": 3180
+      },
+      {
+        "word": "and",
+        "startMs": 3180,
+        "endMs": 3940
+      },
+      {
+        "word": "set",
+        "startMs": 3940,
+        "endMs": 4220
+      },
+      {
+        "word": "them",
+        "startMs": 4220,
+        "endMs": 4500
+      },
+      {
+        "word": "inside",
+        "startMs": 4500,
+        "endMs": 5100
+      },
+      {
+        "word": "a",
+        "startMs": 5100,
+        "endMs": 5480
+      },
+      {
+        "word": "circle,",
+        "startMs": 5480,
+        "endMs": 5920
+      },
+      {
+        "word": "which",
+        "startMs": 6200,
+        "endMs": 6680
+      },
+      {
+        "word": "stood",
+        "startMs": 6680,
+        "endMs": 7040
+      },
+      {
+        "word": "for",
+        "startMs": 7040,
+        "endMs": 7540
+      },
+      {
+        "word": "the",
+        "startMs": 7540,
+        "endMs": 7840
+      },
+      {
+        "word": "whole",
+        "startMs": 7840,
+        "endMs": 8080
+      },
+      {
+        "word": "earth.",
+        "startMs": 8080,
+        "endMs": 8360
+      }
+    ],
+    "heard": "he laid one signal on top of the other and set them inside a circle, which stood for the whole earth.",
+    "script": "He laid one signal on top of the other, and set them inside a circle, which stood for the whole Earth."
+  },
+  "s05.folk": {
+    "durationMs": 11080,
+    "words": [
+      {
+        "word": "About",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "ten",
+        "startMs": 340,
+        "endMs": 840
+      },
+      {
+        "word": "years",
+        "startMs": 840,
+        "endMs": 1220
+      },
+      {
+        "word": "later,",
+        "startMs": 1220,
+        "endMs": 1660
+      },
+      {
+        "word": "pamphlets",
+        "startMs": 2280,
+        "endMs": 2700
+      },
+      {
+        "word": "in",
+        "startMs": 2700,
+        "endMs": 2880
+      },
+      {
+        "word": "America",
+        "startMs": 2880,
+        "endMs": 3300
+      },
+      {
+        "word": "called",
+        "startMs": 3300,
+        "endMs": 3840
+      },
+      {
+        "word": "it",
+        "startMs": 3840,
+        "endMs": 4040
+      },
+      {
+        "word": "a",
+        "startMs": 4040,
+        "endMs": 4300
+      },
+      {
+        "word": "broken",
+        "startMs": 4300,
+        "endMs": 4700
+      },
+      {
+        "word": "cross",
+        "startMs": 4700,
+        "endMs": 5320
+      },
+      {
+        "word": "or",
+        "startMs": 5320,
+        "endMs": 5920
+      },
+      {
+        "word": "a",
+        "startMs": 5920,
+        "endMs": 6240
+      },
+      {
+        "word": "witch's",
+        "startMs": 6240,
+        "endMs": 6720
+      },
+      {
+        "word": "foot.",
+        "startMs": 6720,
+        "endMs": 6960
+      },
+      {
+        "word": "It",
+        "startMs": 7120,
+        "endMs": 7740
+      },
+      {
+        "word": "was",
+        "startMs": 7740,
+        "endMs": 7980
+      },
+      {
+        "word": "never",
+        "startMs": 7980,
+        "endMs": 8380
+      },
+      {
+        "word": "either.",
+        "startMs": 8380,
+        "endMs": 8800
+      },
+      {
+        "word": "It",
+        "startMs": 9080,
+        "endMs": 9620
+      },
+      {
+        "word": "is",
+        "startMs": 9620,
+        "endMs": 9960
+      },
+      {
+        "word": "two",
+        "startMs": 9960,
+        "endMs": 10200
+      },
+      {
+        "word": "flags.",
+        "startMs": 10200,
+        "endMs": 10620
+      }
+    ],
+    "heard": "About ten years later, pamphlets in America called it a broken cross or a witch's foot. It was never either. It is two flags.",
+    "script": "About ten years later, pamphlets in America called it a broken cross, or a witch's foot. It was never either. It is two flags."
+  },
+  "s06.despair": {
+    "durationMs": 15320,
+    "words": [
+      {
+        "word": "Its",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "designer",
+        "startMs": 240,
+        "endMs": 840
+      },
+      {
+        "word": "gave",
+        "startMs": 840,
+        "endMs": 1320
+      },
+      {
+        "word": "it",
+        "startMs": 1320,
+        "endMs": 1520
+      },
+      {
+        "word": "one",
+        "startMs": 1520,
+        "endMs": 1840
+      },
+      {
+        "word": "more",
+        "startMs": 1840,
+        "endMs": 2160
+      },
+      {
+        "word": "meaning.",
+        "startMs": 2160,
+        "endMs": 2480
+      },
+      {
+        "word": "He",
+        "startMs": 3010,
+        "endMs": 3360
+      },
+      {
+        "word": "wrote",
+        "startMs": 3360,
+        "endMs": 3620
+      },
+      {
+        "word": "that",
+        "startMs": 3620,
+        "endMs": 3920
+      },
+      {
+        "word": "he",
+        "startMs": 3920,
+        "endMs": 4160
+      },
+      {
+        "word": "had",
+        "startMs": 4160,
+        "endMs": 4440
+      },
+      {
+        "word": "drawn",
+        "startMs": 4440,
+        "endMs": 4860
+      },
+      {
+        "word": "himself",
+        "startMs": 4860,
+        "endMs": 5360
+      },
+      {
+        "word": "in",
+        "startMs": 5360,
+        "endMs": 5820
+      },
+      {
+        "word": "despair,",
+        "startMs": 5820,
+        "endMs": 6420
+      },
+      {
+        "word": "arms",
+        "startMs": 7160,
+        "endMs": 7540
+      },
+      {
+        "word": "stretched",
+        "startMs": 7540,
+        "endMs": 8180
+      },
+      {
+        "word": "down",
+        "startMs": 8180,
+        "endMs": 8720
+      },
+      {
+        "word": "and",
+        "startMs": 8720,
+        "endMs": 9060
+      },
+      {
+        "word": "out,",
+        "startMs": 9060,
+        "endMs": 9460
+      },
+      {
+        "word": "formalized",
+        "startMs": 10200,
+        "endMs": 10900
+      },
+      {
+        "word": "the",
+        "startMs": 10900,
+        "endMs": 11120
+      },
+      {
+        "word": "drawing",
+        "startMs": 11120,
+        "endMs": 11500
+      },
+      {
+        "word": "into",
+        "startMs": 11500,
+        "endMs": 11960
+      },
+      {
+        "word": "a",
+        "startMs": 11960,
+        "endMs": 12300
+      },
+      {
+        "word": "line,",
+        "startMs": 12300,
+        "endMs": 12640
+      },
+      {
+        "word": "and",
+        "startMs": 12900,
+        "endMs": 13360
+      },
+      {
+        "word": "put",
+        "startMs": 13360,
+        "endMs": 13640
+      },
+      {
+        "word": "a",
+        "startMs": 13640,
+        "endMs": 14020
+      },
+      {
+        "word": "circle",
+        "startMs": 14020,
+        "endMs": 14380
+      },
+      {
+        "word": "round",
+        "startMs": 14380,
+        "endMs": 14640
+      },
+      {
+        "word": "it.",
+        "startMs": 14640,
+        "endMs": 14940
+      }
+    ],
+    "heard": "Its designer gave it one more meaning. He wrote that he had drawn himself in despair, arms stretched down and out, formalized the drawing into a line, and put a circle round it.",
+    "script": "Its designer gave it one more meaning. He wrote that he had drawn himself in despair, arms stretched down and out, formalised the drawing into a line, and put a circle round it."
+  },
+  "s07.harald": {
+    "durationMs": 15000,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "Bluetooth",
+        "startMs": 180,
+        "endMs": 560
+      },
+      {
+        "word": "sign",
+        "startMs": 560,
+        "endMs": 1180
+      },
+      {
+        "word": "uses",
+        "startMs": 1180,
+        "endMs": 1620
+      },
+      {
+        "word": "a",
+        "startMs": 1620,
+        "endMs": 1980
+      },
+      {
+        "word": "far",
+        "startMs": 1980,
+        "endMs": 2380
+      },
+      {
+        "word": "older",
+        "startMs": 2380,
+        "endMs": 2860
+      },
+      {
+        "word": "alphabet.",
+        "startMs": 2860,
+        "endMs": 3300
+      },
+      {
+        "word": "In",
+        "startMs": 3740,
+        "endMs": 4240
+      },
+      {
+        "word": "1997,",
+        "startMs": 4240,
+        "endMs": 4940
+      },
+      {
+        "word": "an",
+        "startMs": 5580,
+        "endMs": 5760
+      },
+      {
+        "word": "engineer",
+        "startMs": 5760,
+        "endMs": 6280
+      },
+      {
+        "word": "at",
+        "startMs": 6280,
+        "endMs": 6680
+      },
+      {
+        "word": "Intel",
+        "startMs": 6680,
+        "endMs": 7100
+      },
+      {
+        "word": "named",
+        "startMs": 7100,
+        "endMs": 7600
+      },
+      {
+        "word": "a",
+        "startMs": 7600,
+        "endMs": 7900
+      },
+      {
+        "word": "new",
+        "startMs": 7900,
+        "endMs": 8140
+      },
+      {
+        "word": "radio",
+        "startMs": 8140,
+        "endMs": 8580
+      },
+      {
+        "word": "after",
+        "startMs": 8580,
+        "endMs": 9080
+      },
+      {
+        "word": "a",
+        "startMs": 9080,
+        "endMs": 9360
+      },
+      {
+        "word": "Danish",
+        "startMs": 9360,
+        "endMs": 9660
+      },
+      {
+        "word": "king",
+        "startMs": 9660,
+        "endMs": 10040
+      },
+      {
+        "word": "who",
+        "startMs": 10040,
+        "endMs": 10580
+      },
+      {
+        "word": "had",
+        "startMs": 10580,
+        "endMs": 10800
+      },
+      {
+        "word": "united",
+        "startMs": 10800,
+        "endMs": 11280
+      },
+      {
+        "word": "his",
+        "startMs": 11280,
+        "endMs": 11640
+      },
+      {
+        "word": "country,",
+        "startMs": 11640,
+        "endMs": 12020
+      },
+      {
+        "word": "as",
+        "startMs": 12280,
+        "endMs": 12720
+      },
+      {
+        "word": "the",
+        "startMs": 12720,
+        "endMs": 12880
+      },
+      {
+        "word": "radio",
+        "startMs": 12880,
+        "endMs": 13240
+      },
+      {
+        "word": "would",
+        "startMs": 13240,
+        "endMs": 13660
+      },
+      {
+        "word": "unite",
+        "startMs": 13660,
+        "endMs": 14100
+      },
+      {
+        "word": "machines.",
+        "startMs": 14100,
+        "endMs": 14520
+      }
+    ],
+    "heard": "The Bluetooth sign uses a far older alphabet. In 1997, an engineer at Intel named a new radio after a Danish king who had united his country, as the radio would unite machines.",
+    "script": "The Bluetooth sign uses a far older alphabet. In nineteen ninety-seven, an engineer at Intel named a new radio after a Danish king who had united his country, as the radio would unite machines."
+  },
+  "s08.stone": {
+    "durationMs": 9880,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "king",
+        "startMs": 140,
+        "endMs": 380
+      },
+      {
+        "word": "was",
+        "startMs": 380,
+        "endMs": 780
+      },
+      {
+        "word": "Harold",
+        "startMs": 780,
+        "endMs": 1200
+      },
+      {
+        "word": "Bluetooth.",
+        "startMs": 1200,
+        "endMs": 1620
+      },
+      {
+        "word": "The",
+        "startMs": 2000,
+        "endMs": 2500
+      },
+      {
+        "word": "engineer",
+        "startMs": 2500,
+        "endMs": 2900
+      },
+      {
+        "word": "had",
+        "startMs": 2900,
+        "endMs": 3280
+      },
+      {
+        "word": "found",
+        "startMs": 3280,
+        "endMs": 3620
+      },
+      {
+        "word": "him",
+        "startMs": 3620,
+        "endMs": 3880
+      },
+      {
+        "word": "in",
+        "startMs": 3880,
+        "endMs": 4040
+      },
+      {
+        "word": "a",
+        "startMs": 4040,
+        "endMs": 4160
+      },
+      {
+        "word": "photograph",
+        "startMs": 4160,
+        "endMs": 4600
+      },
+      {
+        "word": "of",
+        "startMs": 4600,
+        "endMs": 5000
+      },
+      {
+        "word": "a",
+        "startMs": 5000,
+        "endMs": 5140
+      },
+      {
+        "word": "runestone,",
+        "startMs": 5140,
+        "endMs": 5560
+      },
+      {
+        "word": "and",
+        "startMs": 5780,
+        "endMs": 6180
+      },
+      {
+        "word": "Harold's",
+        "startMs": 6180,
+        "endMs": 6720
+      },
+      {
+        "word": "name",
+        "startMs": 6720,
+        "endMs": 6960
+      },
+      {
+        "word": "is",
+        "startMs": 6960,
+        "endMs": 7260
+      },
+      {
+        "word": "still",
+        "startMs": 7260,
+        "endMs": 7660
+      },
+      {
+        "word": "the",
+        "startMs": 7660,
+        "endMs": 7920
+      },
+      {
+        "word": "first",
+        "startMs": 7920,
+        "endMs": 8320
+      },
+      {
+        "word": "word",
+        "startMs": 8320,
+        "endMs": 8720
+      },
+      {
+        "word": "carved",
+        "startMs": 8720,
+        "endMs": 9140
+      },
+      {
+        "word": "on",
+        "startMs": 9140,
+        "endMs": 9380
+      },
+      {
+        "word": "it.",
+        "startMs": 9380,
+        "endMs": 9520
+      }
+    ],
+    "heard": "The king was Harold Bluetooth. The engineer had found him in a photograph of a runestone, and Harold's name is still the first word carved on it.",
+    "script": "The king was Harald Bluetooth. The engineer had found him in a photograph of a runestone, and Harald's name is still the first word carved on it."
+  },
+  "s09.bind": {
+    "durationMs": 11520,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "logo",
+        "startMs": 140,
+        "endMs": 420
+      },
+      {
+        "word": "is",
+        "startMs": 420,
+        "endMs": 860
+      },
+      {
+        "word": "his",
+        "startMs": 860,
+        "endMs": 1120
+      },
+      {
+        "word": "initials",
+        "startMs": 1120,
+        "endMs": 1760
+      },
+      {
+        "word": "in",
+        "startMs": 1760,
+        "endMs": 1980
+      },
+      {
+        "word": "those",
+        "startMs": 1980,
+        "endMs": 2280
+      },
+      {
+        "word": "runes,",
+        "startMs": 2280,
+        "endMs": 2680
+      },
+      {
+        "word": "the",
+        "startMs": 2840,
+        "endMs": 3180
+      },
+      {
+        "word": "one",
+        "startMs": 3180,
+        "endMs": 3400
+      },
+      {
+        "word": "for",
+        "startMs": 3400,
+        "endMs": 3640
+      },
+      {
+        "word": "Harold",
+        "startMs": 3640,
+        "endMs": 3980
+      },
+      {
+        "word": "and",
+        "startMs": 3980,
+        "endMs": 4460
+      },
+      {
+        "word": "the",
+        "startMs": 4460,
+        "endMs": 4660
+      },
+      {
+        "word": "one",
+        "startMs": 4660,
+        "endMs": 4860
+      },
+      {
+        "word": "for",
+        "startMs": 4860,
+        "endMs": 5080
+      },
+      {
+        "word": "Bluetooth,",
+        "startMs": 5080,
+        "endMs": 5420
+      },
+      {
+        "word": "on",
+        "startMs": 5880,
+        "endMs": 5920
+      },
+      {
+        "word": "a",
+        "startMs": 5920,
+        "endMs": 6060
+      },
+      {
+        "word": "single",
+        "startMs": 6060,
+        "endMs": 6440
+      },
+      {
+        "word": "stem.",
+        "startMs": 6440,
+        "endMs": 6820
+      },
+      {
+        "word": "Rune",
+        "startMs": 7260,
+        "endMs": 7820
+      },
+      {
+        "word": "carvers",
+        "startMs": 7820,
+        "endMs": 8240
+      },
+      {
+        "word": "were",
+        "startMs": 8240,
+        "endMs": 8480
+      },
+      {
+        "word": "joining",
+        "startMs": 8480,
+        "endMs": 8940
+      },
+      {
+        "word": "letters",
+        "startMs": 8940,
+        "endMs": 9320
+      },
+      {
+        "word": "that",
+        "startMs": 9320,
+        "endMs": 9600
+      },
+      {
+        "word": "way",
+        "startMs": 9600,
+        "endMs": 9840
+      },
+      {
+        "word": "long",
+        "startMs": 9840,
+        "endMs": 10140
+      },
+      {
+        "word": "before",
+        "startMs": 10140,
+        "endMs": 10520
+      },
+      {
+        "word": "he",
+        "startMs": 10520,
+        "endMs": 10700
+      },
+      {
+        "word": "was",
+        "startMs": 10700,
+        "endMs": 10840
+      },
+      {
+        "word": "born.",
+        "startMs": 10840,
+        "endMs": 11100
+      }
+    ],
+    "heard": "The logo is his initials in those runes, the one for Harold and the one for Bluetooth, on a single stem. Rune carvers were joining letters that way long before he was born.",
+    "script": "The logo is his initials in those runes, the one for Harald and the one for Bluetooth, on a single stem. Rune carvers were joining letters that way long before he was born."
+  },
+  "s10.phone": {
+    "durationMs": 8080,
+    "words": [
+      {
+        "word": "So",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "nearly",
+        "startMs": 340,
+        "endMs": 1040
+      },
+      {
+        "word": "every",
+        "startMs": 1040,
+        "endMs": 1720
+      },
+      {
+        "word": "phone",
+        "startMs": 1720,
+        "endMs": 2060
+      },
+      {
+        "word": "now",
+        "startMs": 2060,
+        "endMs": 2280
+      },
+      {
+        "word": "carries",
+        "startMs": 2280,
+        "endMs": 2640
+      },
+      {
+        "word": "the",
+        "startMs": 2640,
+        "endMs": 2820
+      },
+      {
+        "word": "initials",
+        "startMs": 2820,
+        "endMs": 3260
+      },
+      {
+        "word": "of",
+        "startMs": 3260,
+        "endMs": 3340
+      },
+      {
+        "word": "a",
+        "startMs": 3340,
+        "endMs": 3440
+      },
+      {
+        "word": "Viking",
+        "startMs": 3440,
+        "endMs": 3700
+      },
+      {
+        "word": "king.",
+        "startMs": 3700,
+        "endMs": 4080
+      },
+      {
+        "word": "In",
+        "startMs": 4240,
+        "endMs": 4700
+      },
+      {
+        "word": "an",
+        "startMs": 4700,
+        "endMs": 4840
+      },
+      {
+        "word": "alphabet,",
+        "startMs": 4840,
+        "endMs": 5200
+      },
+      {
+        "word": "almost",
+        "startMs": 5200,
+        "endMs": 5860
+      },
+      {
+        "word": "nobody",
+        "startMs": 5860,
+        "endMs": 6480
+      },
+      {
+        "word": "who",
+        "startMs": 6480,
+        "endMs": 6800
+      },
+      {
+        "word": "uses",
+        "startMs": 6800,
+        "endMs": 7080
+      },
+      {
+        "word": "it",
+        "startMs": 7080,
+        "endMs": 7300
+      },
+      {
+        "word": "can",
+        "startMs": 7300,
+        "endMs": 7440
+      },
+      {
+        "word": "read.",
+        "startMs": 7440,
+        "endMs": 7700
+      }
+    ],
+    "heard": "So nearly every phone now carries the initials of a Viking king. In an alphabet, almost nobody who uses it can read.",
+    "script": "So nearly every phone now carries the initials of a Viking king, in an alphabet almost nobody who uses it can read."
+  },
+  "s11.rupee": {
+    "durationMs": 13680,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "newest",
+        "startMs": 180,
+        "endMs": 580
+      },
+      {
+        "word": "joins",
+        "startMs": 580,
+        "endMs": 1380
+      },
+      {
+        "word": "two",
+        "startMs": 1380,
+        "endMs": 1800
+      },
+      {
+        "word": "alphabets",
+        "startMs": 1800,
+        "endMs": 2620
+      },
+      {
+        "word": "instead",
+        "startMs": 2620,
+        "endMs": 3060
+      },
+      {
+        "word": "of",
+        "startMs": 3060,
+        "endMs": 3280
+      },
+      {
+        "word": "two",
+        "startMs": 3280,
+        "endMs": 3480
+      },
+      {
+        "word": "words.",
+        "startMs": 3480,
+        "endMs": 3880
+      },
+      {
+        "word": "In",
+        "startMs": 4420,
+        "endMs": 4620
+      },
+      {
+        "word": "2010,",
+        "startMs": 4620,
+        "endMs": 5160
+      },
+      {
+        "word": "India",
+        "startMs": 5520,
+        "endMs": 5980
+      },
+      {
+        "word": "chose",
+        "startMs": 5980,
+        "endMs": 6440
+      },
+      {
+        "word": "a",
+        "startMs": 6440,
+        "endMs": 6720
+      },
+      {
+        "word": "rupee",
+        "startMs": 6720,
+        "endMs": 7060
+      },
+      {
+        "word": "sign",
+        "startMs": 7060,
+        "endMs": 7420
+      },
+      {
+        "word": "from",
+        "startMs": 7420,
+        "endMs": 7740
+      },
+      {
+        "word": "over",
+        "startMs": 7740,
+        "endMs": 8120
+      },
+      {
+        "word": "3",
+        "startMs": 8120,
+        "endMs": 8560
+      },
+      {
+        "word": ",000",
+        "startMs": 8560,
+        "endMs": 9320
+      },
+      {
+        "word": "entries,",
+        "startMs": 9320,
+        "endMs": 9900
+      },
+      {
+        "word": "drawn",
+        "startMs": 10100,
+        "endMs": 10580
+      },
+      {
+        "word": "by",
+        "startMs": 10580,
+        "endMs": 11020
+      },
+      {
+        "word": "a",
+        "startMs": 11020,
+        "endMs": 11260
+      },
+      {
+        "word": "young",
+        "startMs": 11260,
+        "endMs": 11480
+      },
+      {
+        "word": "designer,",
+        "startMs": 11480,
+        "endMs": 12000
+      },
+      {
+        "word": "Udaya",
+        "startMs": 12400,
+        "endMs": 12920
+      },
+      {
+        "word": "Kumar.",
+        "startMs": 12920,
+        "endMs": 13160
+      }
+    ],
+    "heard": "The newest joins two alphabets instead of two words. In 2010, India chose a rupee sign from over 3,000 entries, drawn by a young designer, Udaya Kumar.",
+    "script": "The newest joins two alphabets instead of two words. In twenty ten, India chose a rupee sign from over three thousand entries, drawn by a young designer, Udaya Kumar."
+  },
+  "s12.ra": {
+    "durationMs": 13000,
+    "words": [
+      {
+        "word": "Take",
+        "startMs": 0,
+        "endMs": 240
+      },
+      {
+        "word": "the",
+        "startMs": 240,
+        "endMs": 500
+      },
+      {
+        "word": "upright",
+        "startMs": 500,
+        "endMs": 1020
+      },
+      {
+        "word": "away",
+        "startMs": 1020,
+        "endMs": 1540
+      },
+      {
+        "word": "from",
+        "startMs": 1540,
+        "endMs": 1860
+      },
+      {
+        "word": "the",
+        "startMs": 1860,
+        "endMs": 2020
+      },
+      {
+        "word": "letter",
+        "startMs": 2020,
+        "endMs": 2240
+      },
+      {
+        "word": "R,",
+        "startMs": 2240,
+        "endMs": 2580
+      },
+      {
+        "word": "and",
+        "startMs": 2760,
+        "endMs": 3300
+      },
+      {
+        "word": "what",
+        "startMs": 3300,
+        "endMs": 3500
+      },
+      {
+        "word": "is",
+        "startMs": 3500,
+        "endMs": 3660
+      },
+      {
+        "word": "left",
+        "startMs": 3660,
+        "endMs": 4020
+      },
+      {
+        "word": "is",
+        "startMs": 4020,
+        "endMs": 4460
+      },
+      {
+        "word": "also",
+        "startMs": 4460,
+        "endMs": 4900
+      },
+      {
+        "word": "the",
+        "startMs": 4900,
+        "endMs": 5280
+      },
+      {
+        "word": "Devanagari",
+        "startMs": 5280,
+        "endMs": 6020
+      },
+      {
+        "word": "letter",
+        "startMs": 6020,
+        "endMs": 6300
+      },
+      {
+        "word": "for",
+        "startMs": 6300,
+        "endMs": 6580
+      },
+      {
+        "word": "the",
+        "startMs": 6580,
+        "endMs": 6740
+      },
+      {
+        "word": "same",
+        "startMs": 6740,
+        "endMs": 6920
+      },
+      {
+        "word": "sound,",
+        "startMs": 6920,
+        "endMs": 7320
+      },
+      {
+        "word": "hanging",
+        "startMs": 7520,
+        "endMs": 7980
+      },
+      {
+        "word": "from",
+        "startMs": 7980,
+        "endMs": 8400
+      },
+      {
+        "word": "its",
+        "startMs": 8400,
+        "endMs": 8600
+      },
+      {
+        "word": "line.",
+        "startMs": 8600,
+        "endMs": 8960
+      },
+      {
+        "word": "Readers",
+        "startMs": 9620,
+        "endMs": 10260
+      },
+      {
+        "word": "of",
+        "startMs": 10260,
+        "endMs": 10540
+      },
+      {
+        "word": "either",
+        "startMs": 10540,
+        "endMs": 10960
+      },
+      {
+        "word": "script",
+        "startMs": 10960,
+        "endMs": 11360
+      },
+      {
+        "word": "find",
+        "startMs": 11360,
+        "endMs": 11860
+      },
+      {
+        "word": "their",
+        "startMs": 11860,
+        "endMs": 12160
+      },
+      {
+        "word": "own",
+        "startMs": 12160,
+        "endMs": 12420
+      },
+      {
+        "word": "letter.",
+        "startMs": 12420,
+        "endMs": 12700
+      }
+    ],
+    "heard": "Take the upright away from the letter R, and what is left is also the Devanagari letter for the same sound, hanging from its line. Readers of either script find their own letter.",
+    "script": "Take the upright away from the letter R, and what is left is also the Devanagari letter for the same sound, hanging from its line. Readers of either script find their own letter."
+  },
+  "s13.recap": {
+    "durationMs": 12760,
+    "words": [
+      {
+        "word": "two",
+        "startMs": 0,
+        "endMs": 180
+      },
+      {
+        "word": "words,",
+        "startMs": 180,
+        "endMs": 680
+      },
+      {
+        "word": "a",
+        "startMs": 920,
+        "endMs": 1340
+      },
+      {
+        "word": "king's",
+        "startMs": 1340,
+        "endMs": 1700
+      },
+      {
+        "word": "name,",
+        "startMs": 1700,
+        "endMs": 2000
+      },
+      {
+        "word": "and",
+        "startMs": 2260,
+        "endMs": 2680
+      },
+      {
+        "word": "two",
+        "startMs": 2680,
+        "endMs": 3060
+      },
+      {
+        "word": "alphabets.",
+        "startMs": 3060,
+        "endMs": 3840
+      },
+      {
+        "word": "Each",
+        "startMs": 4380,
+        "endMs": 5100
+      },
+      {
+        "word": "time",
+        "startMs": 5100,
+        "endMs": 5500
+      },
+      {
+        "word": "someone",
+        "startMs": 5500,
+        "endMs": 5980
+      },
+      {
+        "word": "needed",
+        "startMs": 5980,
+        "endMs": 6380
+      },
+      {
+        "word": "one",
+        "startMs": 6380,
+        "endMs": 6860
+      },
+      {
+        "word": "small",
+        "startMs": 6860,
+        "endMs": 7360
+      },
+      {
+        "word": "mark",
+        "startMs": 7360,
+        "endMs": 7800
+      },
+      {
+        "word": "to",
+        "startMs": 7800,
+        "endMs": 8120
+      },
+      {
+        "word": "carry",
+        "startMs": 8120,
+        "endMs": 8400
+      },
+      {
+        "word": "a",
+        "startMs": 8400,
+        "endMs": 8560
+      },
+      {
+        "word": "name",
+        "startMs": 8560,
+        "endMs": 8820
+      },
+      {
+        "word": "and",
+        "startMs": 8820,
+        "endMs": 9400
+      },
+      {
+        "word": "found",
+        "startMs": 9400,
+        "endMs": 9680
+      },
+      {
+        "word": "two",
+        "startMs": 9680,
+        "endMs": 10040
+      },
+      {
+        "word": "letters",
+        "startMs": 10040,
+        "endMs": 10460
+      },
+      {
+        "word": "that",
+        "startMs": 10460,
+        "endMs": 10840
+      },
+      {
+        "word": "would",
+        "startMs": 10840,
+        "endMs": 11000
+      },
+      {
+        "word": "fit",
+        "startMs": 11000,
+        "endMs": 11320
+      },
+      {
+        "word": "inside",
+        "startMs": 11320,
+        "endMs": 11760
+      },
+      {
+        "word": "each",
+        "startMs": 11760,
+        "endMs": 12100
+      },
+      {
+        "word": "other.",
+        "startMs": 12100,
+        "endMs": 12340
+      }
+    ],
+    "heard": "two words, a king's name, and two alphabets. Each time someone needed one small mark to carry a name and found two letters that would fit inside each other.",
+    "script": "Two words, a king's name, and two alphabets. Each time, someone needed one small mark to carry a name, and found two letters that would fit inside each other."
+  },
+  "s14.close": {
+    "durationMs": 2960,
+    "words": [
+      {
+        "word": "You",
+        "startMs": 0,
+        "endMs": 200
+      },
+      {
+        "word": "have",
+        "startMs": 200,
+        "endMs": 480
+      },
+      {
+        "word": "been",
+        "startMs": 480,
+        "endMs": 800
+      },
+      {
+        "word": "reading",
+        "startMs": 800,
+        "endMs": 1180
+      },
+      {
+        "word": "letters",
+        "startMs": 1180,
+        "endMs": 1620
+      },
+      {
+        "word": "all",
+        "startMs": 1620,
+        "endMs": 2080
+      },
+      {
+        "word": "along.",
+        "startMs": 2080,
+        "endMs": 2500
+      }
+    ],
+    "heard": "You have been reading letters all along.",
+    "script": "You have been reading letters all along."
+  }
+}

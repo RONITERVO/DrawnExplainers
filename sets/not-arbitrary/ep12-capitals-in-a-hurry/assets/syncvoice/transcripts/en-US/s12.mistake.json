@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "externalId": "s12.mistake",
+  "text": "Then the hand was buried under spiky Gothic script for two centuries, and it came back by mistake. Renaissance scholars found those old books and took them for ancient Roman ones.",
+  "durationMs": 12080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 14
+    },
+    {
+      "startMs": 225,
+      "endMs": 1120,
+      "startChar": 14,
+      "endChar": 18
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1400,
+      "startChar": 18,
+      "endChar": 25
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1920,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 1920,
+      "endMs": 2240,
+      "startChar": 31,
+      "endChar": 37
+    },
+    {
+      "startMs": 2240,
+      "endMs": 2840,
+      "startChar": 37,
+      "endChar": 44
+    },
+    {
+      "startMs": 2840,
+      "endMs": 3280,
+      "startChar": 44,
+      "endChar": 51
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3520,
+      "startChar": 51,
+      "endChar": 55
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3760,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 3760,
+      "endMs": 4080,
+      "startChar": 59,
+      "endChar": 70
+    },
+    {
+      "startMs": 4080,
+      "endMs": 4720,
+      "startChar": 70,
+      "endChar": 74
+    },
+    {
+      "startMs": 4720,
+      "endMs": 5100,
+      "startChar": 74,
+      "endChar": 77
+    },
+    {
+      "startMs": 5100,
+      "endMs": 5480,
+      "startChar": 77,
+      "endChar": 82
+    },
+    {
+      "startMs": 5480,
+      "endMs": 5960,
+      "startChar": 82,
+      "endChar": 87
+    },
+    {
+      "startMs": 5960,
+      "endMs": 6240,
+      "startChar": 87,
+      "endChar": 90
+    },
+    {
+      "startMs": 6240,
+      "endMs": 6400,
+      "startChar": 90,
+      "endChar": 99
+    },
+    {
+      "startMs": 6400,
+      "endMs": 7040,
+      "startChar": 99,
+      "endChar": 111
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7120,
+      "startChar": 111,
+      "endChar": 120
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7240,
+      "startChar": 120,
+      "endChar": 126
+    },
+    {
+      "startMs": 7240,
+      "endMs": 8200,
+      "startChar": 126,
+      "endChar": 132
+    },
+    {
+      "startMs": 8200,
+      "endMs": 9120,
+      "startChar": 132,
+      "endChar": 136
+    },
+    {
+      "startMs": 9120,
+      "endMs": 9360,
+      "startChar": 136,
+      "endChar": 142
+    },
+    {
+      "startMs": 9360,
+      "endMs": 9560,
+      "startChar": 142,
+      "endChar": 146
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9760,
+      "startChar": 146,
+      "endChar": 151
+    },
+    {
+      "startMs": 9760,
+      "endMs": 10200,
+      "startChar": 151,
+      "endChar": 156
+    },
+    {
+      "startMs": 10200,
+      "endMs": 10440,
+      "startChar": 156,
+      "endChar": 160
+    },
+    {
+      "startMs": 10440,
+      "endMs": 10720,
+      "startChar": 160,
+      "endChar": 168
+    },
+    {
+      "startMs": 10720,
+      "endMs": 11160,
+      "startChar": 168,
+      "endChar": 174
+    },
+    {
+      "startMs": 11160,
+      "endMs": 11440,
+      "startChar": 174,
+      "endChar": 179
+    }
+  ]
+}

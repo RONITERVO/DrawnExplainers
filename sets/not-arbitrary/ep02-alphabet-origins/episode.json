@@ -50,7 +50,7 @@
     },
     "shorts": {
       "title": "The ox that became A was drawn 3,800 years ago",
-      "description": "Aleph was an ox head, horns up. It tipped on its side in Greek and finished upside down in Latin, and the horns have been underneath ever since.\n\nThe full film: https://www.youtube.com/watch?v=Fil6nN2nGVw\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "Around 3,800 years ago someone in the Sinai drew an ox head. Two horns, a narrow face. Turn it over and you are looking at the letter A.\n\nThis one also covers B (a house), M (water) and O (an eye) — and the strange moment where Chinese and the Sinai, with no contact between them, both drew water the same way.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=Fil6nN2nGVw\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "alphabet",
         "etymology",
@@ -60,7 +60,11 @@
         "history",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "SVvAFCCdVlE",
+      "url": "https://www.youtube.com/watch?v=SVvAFCCdVlE",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "The letter A is an ox head. Someone drew it 3,800 years ago and we just turned it upside down.",

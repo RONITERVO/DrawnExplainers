@@ -44,7 +44,7 @@
     },
     "shorts": {
       "title": "从 is two people, one behind the other",
-      "description": "人 is a person mid-stride. Put one behind another and you get 从 — to follow. Drawn on paper and moved, without lifting, until it is the character.\n\nThe full film: https://www.youtube.com/watch?v=zUz68z1PctI\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "山 is three peaks with the middle one tallest. 水 is a current with droplets thrown off either side. 人 is a person mid-stride — and put one person behind another and you get 从, to follow.\n\nNone of it is arbitrary. It is drawings, stacked and simplified, for three thousand years.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=zUz68z1PctI\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "chinese",
         "hanzi",
@@ -54,10 +54,18 @@
         "linguistics",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4",
-      "videoId": "tbmFCJL6DAU",
-      "url": "https://www.youtube.com/watch?v=tbmFCJL6DAU",
-      "uploadedAt": "2026-09-11"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "superseded": {
+        "videoId": "tbmFCJL6DAU",
+        "url": "https://www.youtube.com/watch?v=tbmFCJL6DAU",
+        "source": "vertical-notebook/vertical-full.mp4",
+        "uploadedAt": "2026-09-11",
+        "note": "1x cut; deleted from the channel by 2026-09-29, replaced by the 3x cut"
+      },
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "hwroHaiXjMg",
+      "url": "https://www.youtube.com/watch?v=hwroHaiXjMg",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "人 is a walking person. Put one behind another and you get 从 — to follow. Chinese characters are drawings.",

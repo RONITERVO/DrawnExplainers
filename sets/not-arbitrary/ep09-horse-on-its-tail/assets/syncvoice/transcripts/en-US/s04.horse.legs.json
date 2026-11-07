@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "externalId": "s04.horse.legs",
+  "text": "Over the centuries that followed, the legs came back down underneath it. But the neck stayed upright, and the mane still streams out sideways, the way it would on a horse standing on its tail.",
+  "durationMs": 13560,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 9
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 9,
+      "endChar": 19
+    },
+    {
+      "startMs": 225,
+      "endMs": 1200,
+      "startChar": 19,
+      "endChar": 24
+    },
+    {
+      "startMs": 1200,
+      "endMs": 1400,
+      "startChar": 24,
+      "endChar": 34
+    },
+    {
+      "startMs": 1400,
+      "endMs": 1720,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2040,
+      "startChar": 38,
+      "endChar": 43
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2880,
+      "startChar": 43,
+      "endChar": 48
+    },
+    {
+      "startMs": 2880,
+      "endMs": 3240,
+      "startChar": 48,
+      "endChar": 53
+    },
+    {
+      "startMs": 3240,
+      "endMs": 3520,
+      "startChar": 53,
+      "endChar": 58
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3800,
+      "startChar": 58,
+      "endChar": 69
+    },
+    {
+      "startMs": 3800,
+      "endMs": 4280,
+      "startChar": 69,
+      "endChar": 73
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4560,
+      "startChar": 73,
+      "endChar": 77
+    },
+    {
+      "startMs": 4560,
+      "endMs": 4635,
+      "startChar": 77,
+      "endChar": 81
+    },
+    {
+      "startMs": 4635,
+      "endMs": 5240,
+      "startChar": 81,
+      "endChar": 86
+    },
+    {
+      "startMs": 5240,
+      "endMs": 5920,
+      "startChar": 86,
+      "endChar": 93
+    },
+    {
+      "startMs": 5920,
+      "endMs": 6440,
+      "startChar": 93,
+      "endChar": 102
+    },
+    {
+      "startMs": 6440,
+      "endMs": 7160,
+      "startChar": 102,
+      "endChar": 106
+    },
+    {
+      "startMs": 7160,
+      "endMs": 7400,
+      "startChar": 106,
+      "endChar": 110
+    },
+    {
+      "startMs": 7400,
+      "endMs": 7640,
+      "startChar": 110,
+      "endChar": 115
+    },
+    {
+      "startMs": 7640,
+      "endMs": 8240,
+      "startChar": 115,
+      "endChar": 121
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8680,
+      "startChar": 121,
+      "endChar": 129
+    },
+    {
+      "startMs": 8680,
+      "endMs": 9320,
+      "startChar": 129,
+      "endChar": 133
+    },
+    {
+      "startMs": 9320,
+      "endMs": 9560,
+      "startChar": 133,
+      "endChar": 143
+    },
+    {
+      "startMs": 9560,
+      "endMs": 9920,
+      "startChar": 143,
+      "endChar": 147
+    },
+    {
+      "startMs": 9920,
+      "endMs": 10280,
+      "startChar": 147,
+      "endChar": 151
+    },
+    {
+      "startMs": 10280,
+      "endMs": 10500,
+      "startChar": 151,
+      "endChar": 154
+    },
+    {
+      "startMs": 10500,
+      "endMs": 10720,
+      "startChar": 154,
+      "endChar": 160
+    },
+    {
+      "startMs": 10720,
+      "endMs": 11240,
+      "startChar": 160,
+      "endChar": 163
+    },
+    {
+      "startMs": 11240,
+      "endMs": 11340,
+      "startChar": 163,
+      "endChar": 165
+    },
+    {
+      "startMs": 11340,
+      "endMs": 11440,
+      "startChar": 165,
+      "endChar": 171
+    },
+    {
+      "startMs": 11440,
+      "endMs": 12040,
+      "startChar": 171,
+      "endChar": 180
+    },
+    {
+      "startMs": 12040,
+      "endMs": 12300,
+      "startChar": 180,
+      "endChar": 183
+    },
+    {
+      "startMs": 12300,
+      "endMs": 12560,
+      "startChar": 183,
+      "endChar": 187
+    },
+    {
+      "startMs": 12560,
+      "endMs": 12920,
+      "startChar": 187,
+      "endChar": 192
+    }
+  ]
+}

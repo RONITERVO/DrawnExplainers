@@ -1,0 +1,1835 @@
+{
+  "s01.hook": {
+    "durationMs": 13440,
+    "words": [
+      {
+        "word": "Japanese",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "writes",
+        "startMs": 420,
+        "endMs": 1000
+      },
+      {
+        "word": "its",
+        "startMs": 1000,
+        "endMs": 1340
+      },
+      {
+        "word": "syllables",
+        "startMs": 1340,
+        "endMs": 1760
+      },
+      {
+        "word": "in",
+        "startMs": 1760,
+        "endMs": 2240
+      },
+      {
+        "word": "two",
+        "startMs": 2240,
+        "endMs": 2720
+      },
+      {
+        "word": "sets",
+        "startMs": 2720,
+        "endMs": 3180
+      },
+      {
+        "word": "of",
+        "startMs": 3180,
+        "endMs": 3340
+      },
+      {
+        "word": "letters,",
+        "startMs": 3340,
+        "endMs": 3680
+      },
+      {
+        "word": "and",
+        "startMs": 3900,
+        "endMs": 4280
+      },
+      {
+        "word": "both",
+        "startMs": 4280,
+        "endMs": 4560
+      },
+      {
+        "word": "sets",
+        "startMs": 4560,
+        "endMs": 4960
+      },
+      {
+        "word": "are",
+        "startMs": 4960,
+        "endMs": 5320
+      },
+      {
+        "word": "Chinese",
+        "startMs": 5320,
+        "endMs": 5800
+      },
+      {
+        "word": "characters",
+        "startMs": 5800,
+        "endMs": 6420
+      },
+      {
+        "word": "in",
+        "startMs": 6420,
+        "endMs": 6700
+      },
+      {
+        "word": "disguise.",
+        "startMs": 6700,
+        "endMs": 7080
+      },
+      {
+        "word": "One",
+        "startMs": 7580,
+        "endMs": 8140
+      },
+      {
+        "word": "set",
+        "startMs": 8140,
+        "endMs": 8500
+      },
+      {
+        "word": "was",
+        "startMs": 8500,
+        "endMs": 8880
+      },
+      {
+        "word": "written",
+        "startMs": 8880,
+        "endMs": 9360
+      },
+      {
+        "word": "too",
+        "startMs": 9360,
+        "endMs": 9820
+      },
+      {
+        "word": "fast.",
+        "startMs": 9820,
+        "endMs": 10300
+      },
+      {
+        "word": "The",
+        "startMs": 10580,
+        "endMs": 11040
+      },
+      {
+        "word": "other",
+        "startMs": 11040,
+        "endMs": 11280
+      },
+      {
+        "word": "was",
+        "startMs": 11280,
+        "endMs": 11920
+      },
+      {
+        "word": "cut",
+        "startMs": 11920,
+        "endMs": 12300
+      },
+      {
+        "word": "into",
+        "startMs": 12300,
+        "endMs": 12600
+      },
+      {
+        "word": "pieces.",
+        "startMs": 12600,
+        "endMs": 12920
+      }
+    ],
+    "heard": "Japanese writes its syllables in two sets of letters, and both sets are Chinese characters in disguise. One set was written too fast. The other was cut into pieces.",
+    "script": "Japanese writes its syllables in two sets of letters, and both sets are Chinese characters in disguise. One set was written too fast. The other was cut into pieces."
+  },
+  "s02.borrow": {
+    "durationMs": 13560,
+    "words": [
+      {
+        "word": "Japan",
+        "startMs": 0,
+        "endMs": 460
+      },
+      {
+        "word": "first",
+        "startMs": 460,
+        "endMs": 860
+      },
+      {
+        "word": "wrote",
+        "startMs": 860,
+        "endMs": 1240
+      },
+      {
+        "word": "with",
+        "startMs": 1240,
+        "endMs": 1480
+      },
+      {
+        "word": "borrowed",
+        "startMs": 1480,
+        "endMs": 1900
+      },
+      {
+        "word": "Chinese",
+        "startMs": 1900,
+        "endMs": 2280
+      },
+      {
+        "word": "characters,",
+        "startMs": 2280,
+        "endMs": 2880
+      },
+      {
+        "word": "and",
+        "startMs": 3120,
+        "endMs": 3540
+      },
+      {
+        "word": "for",
+        "startMs": 3540,
+        "endMs": 3740
+      },
+      {
+        "word": "its",
+        "startMs": 3740,
+        "endMs": 3880
+      },
+      {
+        "word": "own",
+        "startMs": 3880,
+        "endMs": 4140
+      },
+      {
+        "word": "words,",
+        "startMs": 4140,
+        "endMs": 4580
+      },
+      {
+        "word": "it",
+        "startMs": 4860,
+        "endMs": 4900
+      },
+      {
+        "word": "often",
+        "startMs": 4900,
+        "endMs": 5220
+      },
+      {
+        "word": "used",
+        "startMs": 5220,
+        "endMs": 5580
+      },
+      {
+        "word": "them",
+        "startMs": 5580,
+        "endMs": 5780
+      },
+      {
+        "word": "only",
+        "startMs": 5780,
+        "endMs": 6120
+      },
+      {
+        "word": "for",
+        "startMs": 6120,
+        "endMs": 6320
+      },
+      {
+        "word": "their",
+        "startMs": 6320,
+        "endMs": 6500
+      },
+      {
+        "word": "sounds.",
+        "startMs": 6500,
+        "endMs": 6880
+      },
+      {
+        "word": "The",
+        "startMs": 7080,
+        "endMs": 7480
+      },
+      {
+        "word": "way",
+        "startMs": 7480,
+        "endMs": 7600
+      },
+      {
+        "word": "you",
+        "startMs": 7600,
+        "endMs": 7760
+      },
+      {
+        "word": "might",
+        "startMs": 7760,
+        "endMs": 7960
+      },
+      {
+        "word": "write,",
+        "startMs": 7960,
+        "endMs": 8280
+      },
+      {
+        "word": "I",
+        "startMs": 8700,
+        "endMs": 8760
+      },
+      {
+        "word": "can",
+        "startMs": 8760,
+        "endMs": 9180
+      },
+      {
+        "word": "see,",
+        "startMs": 9180,
+        "endMs": 9540
+      },
+      {
+        "word": "with",
+        "startMs": 9780,
+        "endMs": 10100
+      },
+      {
+        "word": "a",
+        "startMs": 10100,
+        "endMs": 10240
+      },
+      {
+        "word": "picture",
+        "startMs": 10240,
+        "endMs": 10560
+      },
+      {
+        "word": "of",
+        "startMs": 10560,
+        "endMs": 10780
+      },
+      {
+        "word": "an",
+        "startMs": 10780,
+        "endMs": 10900
+      },
+      {
+        "word": "eye,",
+        "startMs": 10900,
+        "endMs": 11260
+      },
+      {
+        "word": "a",
+        "startMs": 11540,
+        "endMs": 11740
+      },
+      {
+        "word": "tin",
+        "startMs": 11740,
+        "endMs": 11920
+      },
+      {
+        "word": "can,",
+        "startMs": 11920,
+        "endMs": 12240
+      },
+      {
+        "word": "and",
+        "startMs": 12400,
+        "endMs": 12720
+      },
+      {
+        "word": "the",
+        "startMs": 12720,
+        "endMs": 12960
+      },
+      {
+        "word": "sea.",
+        "startMs": 12960,
+        "endMs": 13140
+      }
+    ],
+    "heard": "Japan first wrote with borrowed Chinese characters, and for its own words, it often used them only for their sounds. The way you might write, I can see, with a picture of an eye, a tin can, and the sea.",
+    "script": "Japan first wrote with borrowed Chinese characters, and for its own words it often used them only for their sounds, the way you might write 'I can see' with a picture of an eye, a tin can and the sea."
+  },
+  "s03.twenty": {
+    "durationMs": 10120,
+    "words": [
+      {
+        "word": "It",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "worked,",
+        "startMs": 160,
+        "endMs": 520
+      },
+      {
+        "word": "but",
+        "startMs": 680,
+        "endMs": 980
+      },
+      {
+        "word": "it",
+        "startMs": 980,
+        "endMs": 1340
+      },
+      {
+        "word": "took",
+        "startMs": 1340,
+        "endMs": 1620
+      },
+      {
+        "word": "a",
+        "startMs": 1620,
+        "endMs": 1780
+      },
+      {
+        "word": "lot",
+        "startMs": 1780,
+        "endMs": 2060
+      },
+      {
+        "word": "of",
+        "startMs": 2060,
+        "endMs": 2260
+      },
+      {
+        "word": "ink.",
+        "startMs": 2260,
+        "endMs": 2600
+      },
+      {
+        "word": "One",
+        "startMs": 3180,
+        "endMs": 3500
+      },
+      {
+        "word": "8th",
+        "startMs": 3500,
+        "endMs": 3900
+      },
+      {
+        "word": "century",
+        "startMs": 3900,
+        "endMs": 4200
+      },
+      {
+        "word": "book",
+        "startMs": 4200,
+        "endMs": 4540
+      },
+      {
+        "word": "of",
+        "startMs": 4540,
+        "endMs": 4700
+      },
+      {
+        "word": "poems",
+        "startMs": 4700,
+        "endMs": 5100
+      },
+      {
+        "word": "uses",
+        "startMs": 5100,
+        "endMs": 5620
+      },
+      {
+        "word": "almost",
+        "startMs": 5620,
+        "endMs": 6100
+      },
+      {
+        "word": "20",
+        "startMs": 6100,
+        "endMs": 6800
+      },
+      {
+        "word": "different",
+        "startMs": 6800,
+        "endMs": 7340
+      },
+      {
+        "word": "characters",
+        "startMs": 7340,
+        "endMs": 7860
+      },
+      {
+        "word": "for",
+        "startMs": 7860,
+        "endMs": 8260
+      },
+      {
+        "word": "the",
+        "startMs": 8260,
+        "endMs": 8540
+      },
+      {
+        "word": "very",
+        "startMs": 8540,
+        "endMs": 8900
+      },
+      {
+        "word": "same",
+        "startMs": 8900,
+        "endMs": 9300
+      },
+      {
+        "word": "syllable.",
+        "startMs": 9300,
+        "endMs": 9680
+      }
+    ],
+    "heard": "It worked, but it took a lot of ink. One 8th century book of poems uses almost 20 different characters for the very same syllable.",
+    "script": "It worked, but it took a lot of ink. One eighth-century book of poems uses almost twenty different characters for the very same syllable."
+  },
+  "s04.monks": {
+    "durationMs": 8600,
+    "words": [
+      {
+        "word": "Buddhist",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "monks",
+        "startMs": 300,
+        "endMs": 720
+      },
+      {
+        "word": "adding",
+        "startMs": 720,
+        "endMs": 1220
+      },
+      {
+        "word": "reading",
+        "startMs": 1220,
+        "endMs": 1600
+      },
+      {
+        "word": "notes",
+        "startMs": 1600,
+        "endMs": 1920
+      },
+      {
+        "word": "to",
+        "startMs": 1920,
+        "endMs": 2120
+      },
+      {
+        "word": "Chinese",
+        "startMs": 2120,
+        "endMs": 2480
+      },
+      {
+        "word": "scriptures",
+        "startMs": 2480,
+        "endMs": 2900
+      },
+      {
+        "word": "needed",
+        "startMs": 2900,
+        "endMs": 3440
+      },
+      {
+        "word": "a",
+        "startMs": 3440,
+        "endMs": 3660
+      },
+      {
+        "word": "shorthand,",
+        "startMs": 3660,
+        "endMs": 4100
+      },
+      {
+        "word": "so",
+        "startMs": 4300,
+        "endMs": 4720
+      },
+      {
+        "word": "they",
+        "startMs": 4720,
+        "endMs": 4900
+      },
+      {
+        "word": "kept",
+        "startMs": 4900,
+        "endMs": 5200
+      },
+      {
+        "word": "one",
+        "startMs": 5200,
+        "endMs": 5620
+      },
+      {
+        "word": "small",
+        "startMs": 5620,
+        "endMs": 6000
+      },
+      {
+        "word": "piece",
+        "startMs": 6000,
+        "endMs": 6320
+      },
+      {
+        "word": "of",
+        "startMs": 6320,
+        "endMs": 6460
+      },
+      {
+        "word": "each",
+        "startMs": 6460,
+        "endMs": 6640
+      },
+      {
+        "word": "character",
+        "startMs": 6640,
+        "endMs": 7060
+      },
+      {
+        "word": "and",
+        "startMs": 7060,
+        "endMs": 7520
+      },
+      {
+        "word": "dropped",
+        "startMs": 7520,
+        "endMs": 7780
+      },
+      {
+        "word": "the",
+        "startMs": 7780,
+        "endMs": 7960
+      },
+      {
+        "word": "rest.",
+        "startMs": 7960,
+        "endMs": 8240
+      }
+    ],
+    "heard": "Buddhist monks adding reading notes to Chinese scriptures needed a shorthand, so they kept one small piece of each character and dropped the rest.",
+    "script": "Buddhist monks, adding reading notes to Chinese scriptures, needed a shorthand. So they kept one small piece of each character and dropped the rest."
+  },
+  "s05.kata.ka": {
+    "durationMs": 10160,
+    "words": [
+      {
+        "word": "From",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "a",
+        "startMs": 160,
+        "endMs": 300
+      },
+      {
+        "word": "character",
+        "startMs": 300,
+        "endMs": 680
+      },
+      {
+        "word": "that",
+        "startMs": 680,
+        "endMs": 1060
+      },
+      {
+        "word": "means",
+        "startMs": 1060,
+        "endMs": 1540
+      },
+      {
+        "word": "add,",
+        "startMs": 1540,
+        "endMs": 2200
+      },
+      {
+        "word": "they",
+        "startMs": 2480,
+        "endMs": 2740
+      },
+      {
+        "word": "kept",
+        "startMs": 2740,
+        "endMs": 3120
+      },
+      {
+        "word": "the",
+        "startMs": 3120,
+        "endMs": 3400
+      },
+      {
+        "word": "left",
+        "startMs": 3400,
+        "endMs": 3660
+      },
+      {
+        "word": "-hand",
+        "startMs": 3660,
+        "endMs": 3860
+      },
+      {
+        "word": "side.",
+        "startMs": 3860,
+        "endMs": 4200
+      },
+      {
+        "word": "That",
+        "startMs": 4580,
+        "endMs": 5180
+      },
+      {
+        "word": "piece",
+        "startMs": 5180,
+        "endMs": 5500
+      },
+      {
+        "word": "became",
+        "startMs": 5500,
+        "endMs": 5900
+      },
+      {
+        "word": "a",
+        "startMs": 5900,
+        "endMs": 6280
+      },
+      {
+        "word": "letter",
+        "startMs": 6280,
+        "endMs": 6520
+      },
+      {
+        "word": "of",
+        "startMs": 6520,
+        "endMs": 6860
+      },
+      {
+        "word": "its",
+        "startMs": 6860,
+        "endMs": 7020
+      },
+      {
+        "word": "own,",
+        "startMs": 7020,
+        "endMs": 7240
+      },
+      {
+        "word": "and",
+        "startMs": 7380,
+        "endMs": 7820
+      },
+      {
+        "word": "it",
+        "startMs": 7820,
+        "endMs": 8000
+      },
+      {
+        "word": "has",
+        "startMs": 8000,
+        "endMs": 8220
+      },
+      {
+        "word": "hardly",
+        "startMs": 8220,
+        "endMs": 8680
+      },
+      {
+        "word": "changed",
+        "startMs": 8680,
+        "endMs": 9280
+      },
+      {
+        "word": "since.",
+        "startMs": 9280,
+        "endMs": 9760
+      }
+    ],
+    "heard": "From a character that means add, they kept the left-hand side. That piece became a letter of its own, and it has hardly changed since.",
+    "script": "From a character that means 'add', they kept the left-hand side. That piece became a letter of its own, and it has hardly changed since."
+  },
+  "s06.kata.u": {
+    "durationMs": 7080,
+    "words": [
+      {
+        "word": "From",
+        "startMs": 0,
+        "endMs": 360
+      },
+      {
+        "word": "a",
+        "startMs": 360,
+        "endMs": 580
+      },
+      {
+        "word": "character",
+        "startMs": 580,
+        "endMs": 1040
+      },
+      {
+        "word": "meaning",
+        "startMs": 1040,
+        "endMs": 1580
+      },
+      {
+        "word": "roof,",
+        "startMs": 1580,
+        "endMs": 2200
+      },
+      {
+        "word": "they",
+        "startMs": 2480,
+        "endMs": 2820
+      },
+      {
+        "word": "kept",
+        "startMs": 2820,
+        "endMs": 3220
+      },
+      {
+        "word": "the",
+        "startMs": 3220,
+        "endMs": 3500
+      },
+      {
+        "word": "roof",
+        "startMs": 3500,
+        "endMs": 3820
+      },
+      {
+        "word": "itself,",
+        "startMs": 3820,
+        "endMs": 4320
+      },
+      {
+        "word": "the",
+        "startMs": 4520,
+        "endMs": 4820
+      },
+      {
+        "word": "little",
+        "startMs": 4820,
+        "endMs": 5020
+      },
+      {
+        "word": "shelter",
+        "startMs": 5020,
+        "endMs": 5480
+      },
+      {
+        "word": "drawn",
+        "startMs": 5480,
+        "endMs": 5960
+      },
+      {
+        "word": "across",
+        "startMs": 5960,
+        "endMs": 6260
+      },
+      {
+        "word": "the",
+        "startMs": 6260,
+        "endMs": 6500
+      },
+      {
+        "word": "top.",
+        "startMs": 6500,
+        "endMs": 6740
+      }
+    ],
+    "heard": "From a character meaning roof, they kept the roof itself, the little shelter drawn across the top.",
+    "script": "From a character meaning 'roof', they kept the roof itself, the little shelter drawn across the top."
+  },
+  "s07.kata.ri": {
+    "durationMs": 13240,
+    "words": [
+      {
+        "word": "And",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "from",
+        "startMs": 300,
+        "endMs": 620
+      },
+      {
+        "word": "the",
+        "startMs": 620,
+        "endMs": 820
+      },
+      {
+        "word": "character",
+        "startMs": 820,
+        "endMs": 1260
+      },
+      {
+        "word": "for",
+        "startMs": 1260,
+        "endMs": 1560
+      },
+      {
+        "word": "profit,",
+        "startMs": 1560,
+        "endMs": 2040
+      },
+      {
+        "word": "which",
+        "startMs": 2460,
+        "endMs": 2580
+      },
+      {
+        "word": "is",
+        "startMs": 2580,
+        "endMs": 2840
+      },
+      {
+        "word": "grain",
+        "startMs": 2840,
+        "endMs": 3360
+      },
+      {
+        "word": "standing",
+        "startMs": 3360,
+        "endMs": 3960
+      },
+      {
+        "word": "beside",
+        "startMs": 3960,
+        "endMs": 4380
+      },
+      {
+        "word": "a",
+        "startMs": 4380,
+        "endMs": 4620
+      },
+      {
+        "word": "knife,",
+        "startMs": 4620,
+        "endMs": 5000
+      },
+      {
+        "word": "they",
+        "startMs": 5580,
+        "endMs": 5680
+      },
+      {
+        "word": "kept",
+        "startMs": 5680,
+        "endMs": 6040
+      },
+      {
+        "word": "the",
+        "startMs": 6040,
+        "endMs": 6280
+      },
+      {
+        "word": "knife.",
+        "startMs": 6280,
+        "endMs": 6620
+      },
+      {
+        "word": "So",
+        "startMs": 6880,
+        "endMs": 7600
+      },
+      {
+        "word": "two",
+        "startMs": 7600,
+        "endMs": 8000
+      },
+      {
+        "word": "of",
+        "startMs": 8000,
+        "endMs": 8300
+      },
+      {
+        "word": "these",
+        "startMs": 8300,
+        "endMs": 8540
+      },
+      {
+        "word": "letters",
+        "startMs": 8540,
+        "endMs": 8860
+      },
+      {
+        "word": "are",
+        "startMs": 8860,
+        "endMs": 9140
+      },
+      {
+        "word": "still",
+        "startMs": 9140,
+        "endMs": 9560
+      },
+      {
+        "word": "pictures,",
+        "startMs": 9560,
+        "endMs": 10120
+      },
+      {
+        "word": "a",
+        "startMs": 10580,
+        "endMs": 10960
+      },
+      {
+        "word": "roof",
+        "startMs": 10960,
+        "endMs": 11320
+      },
+      {
+        "word": "and",
+        "startMs": 11320,
+        "endMs": 12120
+      },
+      {
+        "word": "a",
+        "startMs": 12120,
+        "endMs": 12540
+      },
+      {
+        "word": "knife.",
+        "startMs": 12540,
+        "endMs": 12780
+      }
+    ],
+    "heard": "And from the character for profit, which is grain standing beside a knife, they kept the knife. So two of these letters are still pictures, a roof and a knife.",
+    "script": "And from the character for 'profit', which is grain standing beside a knife, they kept the knife. So two of these letters are still pictures: a roof, and a knife."
+  },
+  "s08.turn": {
+    "durationMs": 14520,
+    "words": [
+      {
+        "word": "Meanwhile,",
+        "startMs": 0,
+        "endMs": 420
+      },
+      {
+        "word": "at",
+        "startMs": 820,
+        "endMs": 1000
+      },
+      {
+        "word": "court,",
+        "startMs": 1000,
+        "endMs": 1340
+      },
+      {
+        "word": "people",
+        "startMs": 1800,
+        "endMs": 2080
+      },
+      {
+        "word": "wrote",
+        "startMs": 2080,
+        "endMs": 2440
+      },
+      {
+        "word": "the",
+        "startMs": 2440,
+        "endMs": 2660
+      },
+      {
+        "word": "same",
+        "startMs": 2660,
+        "endMs": 3000
+      },
+      {
+        "word": "characters",
+        "startMs": 3000,
+        "endMs": 3620
+      },
+      {
+        "word": "whole,",
+        "startMs": 3620,
+        "endMs": 4080
+      },
+      {
+        "word": "but",
+        "startMs": 4280,
+        "endMs": 4580
+      },
+      {
+        "word": "with",
+        "startMs": 4580,
+        "endMs": 4860
+      },
+      {
+        "word": "a",
+        "startMs": 4860,
+        "endMs": 5000
+      },
+      {
+        "word": "brush",
+        "startMs": 5000,
+        "endMs": 5400
+      },
+      {
+        "word": "and",
+        "startMs": 5400,
+        "endMs": 5860
+      },
+      {
+        "word": "at",
+        "startMs": 5860,
+        "endMs": 6120
+      },
+      {
+        "word": "speed.",
+        "startMs": 6120,
+        "endMs": 6560
+      },
+      {
+        "word": "Written",
+        "startMs": 6900,
+        "endMs": 7680
+      },
+      {
+        "word": "that",
+        "startMs": 7680,
+        "endMs": 8000
+      },
+      {
+        "word": "fast,",
+        "startMs": 8000,
+        "endMs": 8440
+      },
+      {
+        "word": "a",
+        "startMs": 8740,
+        "endMs": 8960
+      },
+      {
+        "word": "character",
+        "startMs": 8960,
+        "endMs": 9420
+      },
+      {
+        "word": "stops",
+        "startMs": 9420,
+        "endMs": 10020
+      },
+      {
+        "word": "being",
+        "startMs": 10020,
+        "endMs": 10380
+      },
+      {
+        "word": "separate",
+        "startMs": 10380,
+        "endMs": 10820
+      },
+      {
+        "word": "strokes",
+        "startMs": 10820,
+        "endMs": 11300
+      },
+      {
+        "word": "and",
+        "startMs": 11300,
+        "endMs": 11820
+      },
+      {
+        "word": "becomes",
+        "startMs": 11820,
+        "endMs": 12360
+      },
+      {
+        "word": "one",
+        "startMs": 12360,
+        "endMs": 12960
+      },
+      {
+        "word": "flowing",
+        "startMs": 12960,
+        "endMs": 13540
+      },
+      {
+        "word": "gesture.",
+        "startMs": 13540,
+        "endMs": 14080
+      }
+    ],
+    "heard": "Meanwhile, at court, people wrote the same characters whole, but with a brush and at speed. Written that fast, a character stops being separate strokes and becomes one flowing gesture.",
+    "script": "Meanwhile, at court, people wrote the same characters whole, but with a brush and at speed. Written that fast, a character stops being separate strokes and becomes one flowing gesture."
+  },
+  "s09.hira.ka": {
+    "durationMs": 9520,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "character",
+        "startMs": 140,
+        "endMs": 620
+      },
+      {
+        "word": "for",
+        "startMs": 620,
+        "endMs": 1180
+      },
+      {
+        "word": "Add",
+        "startMs": 1180,
+        "endMs": 1900
+      },
+      {
+        "word": "kept",
+        "startMs": 1900,
+        "endMs": 2680
+      },
+      {
+        "word": "its",
+        "startMs": 2680,
+        "endMs": 3020
+      },
+      {
+        "word": "left",
+        "startMs": 3020,
+        "endMs": 3300
+      },
+      {
+        "word": "side",
+        "startMs": 3300,
+        "endMs": 3760
+      },
+      {
+        "word": "almost",
+        "startMs": 3760,
+        "endMs": 4260
+      },
+      {
+        "word": "as",
+        "startMs": 4260,
+        "endMs": 4700
+      },
+      {
+        "word": "it",
+        "startMs": 4700,
+        "endMs": 4820
+      },
+      {
+        "word": "was,",
+        "startMs": 4820,
+        "endMs": 5120
+      },
+      {
+        "word": "while",
+        "startMs": 5300,
+        "endMs": 5760
+      },
+      {
+        "word": "its",
+        "startMs": 5760,
+        "endMs": 5980
+      },
+      {
+        "word": "little",
+        "startMs": 5980,
+        "endMs": 6280
+      },
+      {
+        "word": "box",
+        "startMs": 6280,
+        "endMs": 6740
+      },
+      {
+        "word": "shrank",
+        "startMs": 6740,
+        "endMs": 7360
+      },
+      {
+        "word": "to",
+        "startMs": 7360,
+        "endMs": 7720
+      },
+      {
+        "word": "a",
+        "startMs": 7720,
+        "endMs": 8060
+      },
+      {
+        "word": "flick",
+        "startMs": 8060,
+        "endMs": 8380
+      },
+      {
+        "word": "of",
+        "startMs": 8380,
+        "endMs": 8680
+      },
+      {
+        "word": "the",
+        "startMs": 8680,
+        "endMs": 8800
+      },
+      {
+        "word": "brush.",
+        "startMs": 8800,
+        "endMs": 9120
+      }
+    ],
+    "heard": "The character for Add kept its left side almost as it was, while its little box shrank to a flick of the brush.",
+    "script": "The character for 'add' kept its left side almost as it was, while its little box shrank to a flick of the brush."
+  },
+  "s10.hira.u": {
+    "durationMs": 7360,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 160
+      },
+      {
+        "word": "roof",
+        "startMs": 160,
+        "endMs": 500
+      },
+      {
+        "word": "shrank",
+        "startMs": 500,
+        "endMs": 1080
+      },
+      {
+        "word": "to",
+        "startMs": 1080,
+        "endMs": 1400
+      },
+      {
+        "word": "a",
+        "startMs": 1400,
+        "endMs": 1580
+      },
+      {
+        "word": "single",
+        "startMs": 1580,
+        "endMs": 1920
+      },
+      {
+        "word": "dot,",
+        "startMs": 1920,
+        "endMs": 2340
+      },
+      {
+        "word": "and",
+        "startMs": 2500,
+        "endMs": 3060
+      },
+      {
+        "word": "everything",
+        "startMs": 3060,
+        "endMs": 3660
+      },
+      {
+        "word": "underneath",
+        "startMs": 3660,
+        "endMs": 4300
+      },
+      {
+        "word": "it",
+        "startMs": 4300,
+        "endMs": 4660
+      },
+      {
+        "word": "ran",
+        "startMs": 4660,
+        "endMs": 5140
+      },
+      {
+        "word": "together",
+        "startMs": 5140,
+        "endMs": 5640
+      },
+      {
+        "word": "into",
+        "startMs": 5640,
+        "endMs": 6100
+      },
+      {
+        "word": "one",
+        "startMs": 6100,
+        "endMs": 6560
+      },
+      {
+        "word": "curve.",
+        "startMs": 6560,
+        "endMs": 6980
+      }
+    ],
+    "heard": "The roof shrank to a single dot, and everything underneath it ran together into one curve.",
+    "script": "The roof shrank to a single dot, and everything underneath it ran together into one curve."
+  },
+  "s11.hira.ri": {
+    "durationMs": 6400,
+    "words": [
+      {
+        "word": "The",
+        "startMs": 0,
+        "endMs": 140
+      },
+      {
+        "word": "grain",
+        "startMs": 140,
+        "endMs": 560
+      },
+      {
+        "word": "and",
+        "startMs": 560,
+        "endMs": 940
+      },
+      {
+        "word": "the",
+        "startMs": 940,
+        "endMs": 1080
+      },
+      {
+        "word": "knife",
+        "startMs": 1080,
+        "endMs": 1460
+      },
+      {
+        "word": "each",
+        "startMs": 1460,
+        "endMs": 2000
+      },
+      {
+        "word": "wore",
+        "startMs": 2000,
+        "endMs": 2380
+      },
+      {
+        "word": "down",
+        "startMs": 2380,
+        "endMs": 2780
+      },
+      {
+        "word": "to",
+        "startMs": 2780,
+        "endMs": 3040
+      },
+      {
+        "word": "a",
+        "startMs": 3040,
+        "endMs": 3200
+      },
+      {
+        "word": "single",
+        "startMs": 3200,
+        "endMs": 3600
+      },
+      {
+        "word": "stroke,",
+        "startMs": 3600,
+        "endMs": 4160
+      },
+      {
+        "word": "standing",
+        "startMs": 4440,
+        "endMs": 5020
+      },
+      {
+        "word": "side",
+        "startMs": 5020,
+        "endMs": 5560
+      },
+      {
+        "word": "by",
+        "startMs": 5560,
+        "endMs": 5720
+      },
+      {
+        "word": "side.",
+        "startMs": 5720,
+        "endMs": 6080
+      }
+    ],
+    "heard": "The grain and the knife each wore down to a single stroke, standing side by side.",
+    "script": "The grain and the knife each wore down to a single stroke, standing side by side."
+  },
+  "s12.genji": {
+    "durationMs": 11920,
+    "words": [
+      {
+        "word": "That",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "flowing",
+        "startMs": 300,
+        "endMs": 760
+      },
+      {
+        "word": "set",
+        "startMs": 760,
+        "endMs": 1240
+      },
+      {
+        "word": "became",
+        "startMs": 1240,
+        "endMs": 1720
+      },
+      {
+        "word": "the",
+        "startMs": 1720,
+        "endMs": 2060
+      },
+      {
+        "word": "writing",
+        "startMs": 2060,
+        "endMs": 2400
+      },
+      {
+        "word": "of",
+        "startMs": 2400,
+        "endMs": 2680
+      },
+      {
+        "word": "the",
+        "startMs": 2680,
+        "endMs": 2820
+      },
+      {
+        "word": "women",
+        "startMs": 2820,
+        "endMs": 3100
+      },
+      {
+        "word": "at",
+        "startMs": 3100,
+        "endMs": 3360
+      },
+      {
+        "word": "court,",
+        "startMs": 3360,
+        "endMs": 3680
+      },
+      {
+        "word": "and",
+        "startMs": 3880,
+        "endMs": 4460
+      },
+      {
+        "word": "a",
+        "startMs": 4460,
+        "endMs": 4660
+      },
+      {
+        "word": "thousand",
+        "startMs": 4660,
+        "endMs": 5160
+      },
+      {
+        "word": "years",
+        "startMs": 5160,
+        "endMs": 5620
+      },
+      {
+        "word": "ago,",
+        "startMs": 5620,
+        "endMs": 5980
+      },
+      {
+        "word": "one",
+        "startMs": 6280,
+        "endMs": 6580
+      },
+      {
+        "word": "of",
+        "startMs": 6580,
+        "endMs": 6700
+      },
+      {
+        "word": "them",
+        "startMs": 6700,
+        "endMs": 6940
+      },
+      {
+        "word": "used",
+        "startMs": 6940,
+        "endMs": 7300
+      },
+      {
+        "word": "it",
+        "startMs": 7300,
+        "endMs": 7500
+      },
+      {
+        "word": "to",
+        "startMs": 7500,
+        "endMs": 7680
+      },
+      {
+        "word": "write",
+        "startMs": 7680,
+        "endMs": 7980
+      },
+      {
+        "word": "the",
+        "startMs": 7980,
+        "endMs": 8220
+      },
+      {
+        "word": "tale",
+        "startMs": 8220,
+        "endMs": 8580
+      },
+      {
+        "word": "of",
+        "startMs": 8580,
+        "endMs": 8800
+      },
+      {
+        "word": "Genji,",
+        "startMs": 8800,
+        "endMs": 9240
+      },
+      {
+        "word": "often",
+        "startMs": 9520,
+        "endMs": 9940
+      },
+      {
+        "word": "called",
+        "startMs": 9940,
+        "endMs": 10360
+      },
+      {
+        "word": "the",
+        "startMs": 10360,
+        "endMs": 10640
+      },
+      {
+        "word": "first",
+        "startMs": 10640,
+        "endMs": 11000
+      },
+      {
+        "word": "novel.",
+        "startMs": 11000,
+        "endMs": 11500
+      }
+    ],
+    "heard": "That flowing set became the writing of the women at court, and a thousand years ago, one of them used it to write the tale of Genji, often called the first novel.",
+    "script": "That flowing set became the writing of the women at court, and a thousand years ago one of them used it to write The Tale of Genji, often called the first novel."
+  },
+  "s13.recap": {
+    "durationMs": 10280,
+    "words": [
+      {
+        "word": "Three",
+        "startMs": 0,
+        "endMs": 260
+      },
+      {
+        "word": "characters",
+        "startMs": 260,
+        "endMs": 940
+      },
+      {
+        "word": "and",
+        "startMs": 940,
+        "endMs": 1620
+      },
+      {
+        "word": "two",
+        "startMs": 1620,
+        "endMs": 2020
+      },
+      {
+        "word": "letters",
+        "startMs": 2020,
+        "endMs": 2420
+      },
+      {
+        "word": "from",
+        "startMs": 2420,
+        "endMs": 2720
+      },
+      {
+        "word": "each,",
+        "startMs": 2720,
+        "endMs": 3000
+      },
+      {
+        "word": "one",
+        "startMs": 3340,
+        "endMs": 3820
+      },
+      {
+        "word": "worn",
+        "startMs": 3820,
+        "endMs": 4300
+      },
+      {
+        "word": "down",
+        "startMs": 4300,
+        "endMs": 4680
+      },
+      {
+        "word": "by",
+        "startMs": 4680,
+        "endMs": 4980
+      },
+      {
+        "word": "a",
+        "startMs": 4980,
+        "endMs": 5160
+      },
+      {
+        "word": "hurrying",
+        "startMs": 5160,
+        "endMs": 5720
+      },
+      {
+        "word": "brush,",
+        "startMs": 5720,
+        "endMs": 6120
+      },
+      {
+        "word": "one",
+        "startMs": 6380,
+        "endMs": 6940
+      },
+      {
+        "word": "cut",
+        "startMs": 6940,
+        "endMs": 7300
+      },
+      {
+        "word": "to",
+        "startMs": 7300,
+        "endMs": 7520
+      },
+      {
+        "word": "a",
+        "startMs": 7520,
+        "endMs": 7700
+      },
+      {
+        "word": "single",
+        "startMs": 7700,
+        "endMs": 8000
+      },
+      {
+        "word": "piece",
+        "startMs": 8000,
+        "endMs": 8420
+      },
+      {
+        "word": "by",
+        "startMs": 8420,
+        "endMs": 8720
+      },
+      {
+        "word": "a",
+        "startMs": 8720,
+        "endMs": 8920
+      },
+      {
+        "word": "monk",
+        "startMs": 8920,
+        "endMs": 9180
+      },
+      {
+        "word": "short",
+        "startMs": 9180,
+        "endMs": 9520
+      },
+      {
+        "word": "of",
+        "startMs": 9520,
+        "endMs": 9700
+      },
+      {
+        "word": "room.",
+        "startMs": 9700,
+        "endMs": 9920
+      }
+    ],
+    "heard": "Three characters and two letters from each, one worn down by a hurrying brush, one cut to a single piece by a monk short of room.",
+    "script": "Three characters, and two letters from each: one worn down by a hurrying brush, one cut to a single piece by a monk short of room."
+  },
+  "s14.close": {
+    "durationMs": 6400,
+    "words": [
+      {
+        "word": "Every",
+        "startMs": 0,
+        "endMs": 340
+      },
+      {
+        "word": "Japanese",
+        "startMs": 340,
+        "endMs": 740
+      },
+      {
+        "word": "sentence",
+        "startMs": 740,
+        "endMs": 1260
+      },
+      {
+        "word": "still",
+        "startMs": 1260,
+        "endMs": 1900
+      },
+      {
+        "word": "mixes",
+        "startMs": 1900,
+        "endMs": 2300
+      },
+      {
+        "word": "all",
+        "startMs": 2300,
+        "endMs": 2740
+      },
+      {
+        "word": "three,",
+        "startMs": 2740,
+        "endMs": 3120
+      },
+      {
+        "word": "characters",
+        "startMs": 3400,
+        "endMs": 4040
+      },
+      {
+        "word": "whole,",
+        "startMs": 4040,
+        "endMs": 4480
+      },
+      {
+        "word": "worn",
+        "startMs": 4740,
+        "endMs": 5060
+      },
+      {
+        "word": "down,",
+        "startMs": 5060,
+        "endMs": 5420
+      },
+      {
+        "word": "and",
+        "startMs": 5580,
+        "endMs": 5840
+      },
+      {
+        "word": "cut.",
+        "startMs": 5840,
+        "endMs": 6100
+      }
+    ],
+    "heard": "Every Japanese sentence still mixes all three, characters whole, worn down, and cut.",
+    "script": "Every Japanese sentence still mixes all three: characters whole, worn down, and cut."
+  }
+}

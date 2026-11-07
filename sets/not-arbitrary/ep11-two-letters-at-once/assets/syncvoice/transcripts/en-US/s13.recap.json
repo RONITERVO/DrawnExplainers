@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "externalId": "s13.recap",
+  "text": "Two words, a king's name, and two alphabets. Each time, someone needed one small mark to carry a name, and found two letters that would fit inside each other.",
+  "durationMs": 12760,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 150,
+      "endMs": 555,
+      "startChar": 11,
+      "endChar": 13
+    },
+    {
+      "startMs": 555,
+      "endMs": 960,
+      "startChar": 13,
+      "endChar": 20
+    },
+    {
+      "startMs": 960,
+      "endMs": 1720,
+      "startChar": 20,
+      "endChar": 26
+    },
+    {
+      "startMs": 1720,
+      "endMs": 2200,
+      "startChar": 26,
+      "endChar": 30
+    },
+    {
+      "startMs": 2200,
+      "endMs": 2800,
+      "startChar": 30,
+      "endChar": 34
+    },
+    {
+      "startMs": 2800,
+      "endMs": 3200,
+      "startChar": 34,
+      "endChar": 45
+    },
+    {
+      "startMs": 3200,
+      "endMs": 4000,
+      "startChar": 45,
+      "endChar": 50
+    },
+    {
+      "startMs": 4000,
+      "endMs": 4075,
+      "startChar": 50,
+      "endChar": 56
+    },
+    {
+      "startMs": 4075,
+      "endMs": 4400,
+      "startChar": 56,
+      "endChar": 64
+    },
+    {
+      "startMs": 4400,
+      "endMs": 6120,
+      "startChar": 64,
+      "endChar": 71
+    },
+    {
+      "startMs": 6120,
+      "endMs": 6640,
+      "startChar": 71,
+      "endChar": 75
+    },
+    {
+      "startMs": 6640,
+      "endMs": 7040,
+      "startChar": 75,
+      "endChar": 81
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7480,
+      "startChar": 81,
+      "endChar": 86
+    },
+    {
+      "startMs": 7480,
+      "endMs": 7740,
+      "startChar": 86,
+      "endChar": 89
+    },
+    {
+      "startMs": 7740,
+      "endMs": 8000,
+      "startChar": 89,
+      "endChar": 95
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8240,
+      "startChar": 95,
+      "endChar": 97
+    },
+    {
+      "startMs": 8240,
+      "endMs": 8480,
+      "startChar": 97,
+      "endChar": 103
+    },
+    {
+      "startMs": 8480,
+      "endMs": 8740,
+      "startChar": 103,
+      "endChar": 107
+    },
+    {
+      "startMs": 8740,
+      "endMs": 9000,
+      "startChar": 107,
+      "endChar": 113
+    },
+    {
+      "startMs": 9000,
+      "endMs": 9840,
+      "startChar": 113,
+      "endChar": 117
+    },
+    {
+      "startMs": 9840,
+      "endMs": 10160,
+      "startChar": 117,
+      "endChar": 125
+    },
+    {
+      "startMs": 10160,
+      "endMs": 10680,
+      "startChar": 125,
+      "endChar": 130
+    },
+    {
+      "startMs": 10680,
+      "endMs": 10780,
+      "startChar": 130,
+      "endChar": 136
+    },
+    {
+      "startMs": 10780,
+      "endMs": 10880,
+      "startChar": 136,
+      "endChar": 140
+    },
+    {
+      "startMs": 10880,
+      "endMs": 11480,
+      "startChar": 140,
+      "endChar": 147
+    },
+    {
+      "startMs": 11480,
+      "endMs": 11720,
+      "startChar": 147,
+      "endChar": 152
+    },
+    {
+      "startMs": 11720,
+      "endMs": 11960,
+      "startChar": 152,
+      "endChar": 158
+    }
+  ]
+}

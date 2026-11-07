@@ -111,7 +111,7 @@
     },
     "shorts": {
       "title": "There is an elephant on your chessboard",
-      "description": "Chess begins in India as a picture of an army: foot soldiers, horses, chariots, elephants. The elephant never left. You call it a bishop.\n\nThe full film: https://www.youtube.com/watch?v=ALHyBvuqyKY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "description": "Chess begins in India as a picture of an army: foot soldiers, horses, chariots and elephants. Every piece on the board is still one of those four.\n\nThe elephant was carved as an elephant, with a rider on its back. In Persian the word is pil; the Arabs made that al fil. Then the game crossed into lands where nobody carved living things, so a carver made the elephant without making an elephant — he kept the tusks and dropped the rest. What arrived in Europe was a block of ivory with two points on top, and nobody there knew the word or the animal.\n\nSo every country guessed. England guessed a bishop's hat. France guessed a jester's cap and calls the piece the fool to this day. Russia never had to guess: it has called it the elephant the whole time.\n\nThe chariot went the same way, and most of Europe put a castle on the board. England did not — it kept the Persian word for a chariot, and that word is rook. The only people who still say it think it means a castle.\n\nThe pieces crossed intact. The meanings did not. And one wrong guess changed the game itself: the square beside the king never held a queen, it held the king's counsellor, who moved one square diagonally and was the weakest thing on the board for five hundred years. Europe had no viziers. Europe had queens.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=ALHyBvuqyKY\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
       "tags": [
         "chess",
         "chess pieces",
@@ -124,7 +124,11 @@
         "chess queen",
         "animation"
       ],
-      "source": "vertical-notebook/vertical-full.mp4"
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "derivedFrom": "publish.youtube.description",
+      "videoId": "eThQ9lf7WoU",
+      "url": "https://www.youtube.com/watch?v=eThQ9lf7WoU",
+      "uploadedAt": "2026-09-28"
     },
     "tiktok": {
       "caption": "The bishop is an elephant. The rook is a chariot. The queen is a mistranslated civil servant.",

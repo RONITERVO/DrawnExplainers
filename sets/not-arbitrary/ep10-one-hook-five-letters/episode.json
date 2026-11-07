@@ -1,0 +1,121 @@
+{
+  "set": "not-arbitrary",
+  "episode": 10,
+  "slug": "ep10-one-hook-five-letters",
+  "title": "Five Letters That Are One Letter",
+  "thesis": "F, U, V, W and Y all descend from one Phoenician letter, named after a hook and drawn like a forked stick. The Greeks took it twice: one copy kept its shape and went to the end of the alphabet (upsilon), the other kept its sixth place and had its shape changed, squaring off beside epsilon (digamma). Rome turned the second into F - still sixth in line - and took the first without its stem as V, which spelled both a vowel and a w. Medieval hands wrote it pointed at the start of a word and rounded elsewhere until printers gave each shape one job, U and V; English and German scribes wrote it twice for a sound Latin had lost, W; and Rome borrowed upsilon a second time, unchanged, as Y. Every split came when a language needed a sound it had no letter for and reached for the nearest one it already had.",
+  "runtimeSeconds": 150.16,
+  "renderedAt": "2026-09-28",
+  "status": "published",
+  "author": {
+    "model": "Claude Opus 5.5",
+    "note": "Written directly rather than by a subagent, following the drawn-explainer skill. Subject chosen by the author; the user asked for episode 10 to make an even set."
+  },
+  "sourcing": {
+    "primary": "Wikipedia's letter articles, read from source: Waw ('It is the origin of Greek Ϝ (digamma) and Υ (upsilon); Latin F, V and later the derived Y, U, and W'), Digamma, Upsilon, F, U, V, W and Y. The load-bearing passage for the shape change is Digamma's: 'Of the two Greek reflexes of waw, digamma retained the alphabetic position, but had its shape modified, while the upsilon retained the original shape but was placed in a new alphabetic position. Early Crete had an archaic form of digamma somewhat closer to the original Phoenician ... The shape [oblique digamma], during the archaic period, underwent a development parallel to that of epsilon ... with the arms becoming orthogonal and the lower end of the stem being shed off.' That article cites L. H. Jeffery, The Local Scripts of Archaic Greece (1961) and Daniels and Bright, The World's Writing Systems (1996).",
+    "supporting": [
+      "F: 'the letter F entered the Roman alphabet attached to a sound which the Greeks did not have' (via the Etruscan digraph FH).",
+      "V: 'a stemless variant shape of the upsilon was borrowed in early times as U, taking the form of modern-day V ... to represent the same /u/ sound, as well as the consonantal /w/'; 'via was pronounced /ˈwia/'. The on-screen VINVM is the Latin spelling of the word English 'wine' descends from (Digamma: 'Latin vīnum, which is the origin of English wine').",
+      "U and V: 'During the late Middle Ages, two minuscule forms developed ... The pointed form v was written at the beginning of a word, while a rounded form u was used in the middle or end, regardless of sound. So ... have and upon were printed haue and vpon' - which is what the screen shows.",
+      "W: 'The Germanic /w/ phoneme was therefore written as VV or uu by the earliest writers of Old English and Old High German in the 7th or 8th centuries ... It is from this uu digraph that the modern name double U derives.' Latin had lost /w/: 'From the 1st century AD on ... consonantal /w/ developed into /β/'.",
+      "Y: 'It dates back to the Latin of the first century BC, when upsilon was introduced a second time, this time with its foot'; 'In Latin, Y was named I graeca (Greek I) ... i grec in French ... i griega'.",
+      "The alphabetic order: waw is the sixth Phoenician letter, digamma the sixth Greek, F the sixth Latin. The film's 'still sixth in line, exactly where the hook stood' is that, counted.",
+      "Every letterform was traced from the Wikimedia Commons glyphs the Digamma article displays (Phoenician waw.svg, Greek Digamma 02.svg, Greek Digamma oblique.svg, Greek Epsilon archaic.svg), with coordinates read from their path data. Nothing in the digamma chain is an invented in-between: its four states are four attested forms."
+    ],
+    "whyThisIsNotFolkEtymology": "The genealogy is not an interpretation - it is the standard history of the Latin alphabet, stated in every one of the five letters' articles and in the source letter's. What is uncertain is the picture: the F article says waw 'probably originally depicted either a hook or a club'. The film therefore never claims the letter IS a hook. It says the letter was named after one (waw means hook, which is certain) and draws the hook as its name, beside the letter, with no morph between them. The episode's 'is' claim is the one the evidence supports: these five letters are that one letter.",
+    "refused": [
+      "Accents as letters written small (the umlaut is an e, the cedilla a z, the ring on å an o) - listed as ready after episode 9, and refused here on gate 2 after reading further. The umlaut article's own editors note that deriving the two dots from the two strokes of a Kurrent e is 'unreferenced' and 'contradicted by the occasional use of the two dots in the 14th century, long before the development of Kurrent'; the tilde was already out. That leaves only the cedilla as a documented shape derivation, which is one morph, not a film. The dots stand for an e; they are not shown to be one.",
+      "♂ and ♀ as contracted Greek letters, the account the skill itself names as the scholarly one. Wikipedia's Astronomical symbols article supports it only for Jupiter (zeta) and Saturn (kappa-rho); Mercury is a caduceus, Venus is 'perhaps a necklace or mirror', and a 12th-century Byzantine diagram draws Mars as 'a shield crossed by a spear'. The gender symbols are exactly the two it does not settle.",
+      "A straight sequel to episode 2 - R a head, K a palm, L a goad. The letter articles hedge each ('believed', 'likely', 'usually considered'), and E, T and N are disputed or unsourced. The waw lineage is stronger than any of them and gives the film a single object to follow.",
+      "Specific dates for the u/v split (1386 for the first distinction, 1762 for the French Academy): Wikipedia flags that sentence 'better source needed', so the film says 'late Middle Ages' and 'printers' and shows haue and vpon instead.",
+      "The Latin pronunciation of 'veni, vidi, vici' as 'weni, widi, wiki' - true and well known, but narrating Latin through Gemini is the accent trap the set already paid for, and VINVM on screen carries the same point."
+    ]
+  },
+  "gates": {
+    "drawable": "Four real morphs and one deliberate non-morph. The fork swings both arms a quarter-turn about the top of its stem (waw to the Cretan digamma), the stem grows up between them (the oblique digamma), and the arms square off beside an epsilon that does the same (F). Upsilon's stem shrinks into its fork until the arms meet at the foot (V), and the foot rounds (U). Two V push together until they share an apex (W). Upsilon borrowed a second time travels across the page unchanged (Y).",
+    "trueNotFolk": "See sourcing. Every state is an attested form, every step is stated in the letter articles, and the one uncertain thing - what waw depicted - is shown as a name, not morphed.",
+    "genuinelyDifferentShapes": "A Y becomes an F, a V, a U and half of a W. The one shot that does not morph is Y, and its argument is exactly that nothing changed: the letter that looks most like the original arrived last. The screen brings the Phoenician original back above the Greek and Latin forms to show it. Episode 9 did not spend its non-morph allowance and this one spends it once.",
+    "topology": "The fork is three runs in all four states (stem, upper arm, lower arm), and the stem's two upper anchors coincide until the oblique form grows the stem up between the arms' roots - so nothing splits. Upsilon is left arm, right arm and stem, the stem collapsing onto the foot rather than fading. Every run is indexed root-to-tip or tip-to-foot in every state. The first leg of the fork is a rotation by angle, not a blend, for the reason episode 9 found."
+  },
+  "pipeline": {
+    "narration": "SyncVoice (gemini-2.5-flash-native-audio-preview-12-2025, voice Kore) via D:/Projects/Utilities/textToSpeechUsingRateLimitlessTTS",
+    "alignment": "Whisper large-v3-turbo on CUDA, word_timestamps",
+    "music": "Lyria RealTime (models/lyria-realtime-exp), 156s bed at -18.9 LUFS, sidechain-ducked under the voice",
+    "render": "resvg + 24 worker threads -> libx264, 4505 frames in 38s",
+    "loudness": "-13.5 LUFS integrated, LRA 3.6"
+  },
+  "musicPrompt": "Sparse solo celesta, played very softly with long natural decay and wide space between the notes, no repeating melody. A low soft viola holding long quiet tones underneath. Faint dry room tone, like a quiet study. Curious and patient, a little old, never grand or ceremonial. Instrumental only, no vocals, no drums, no melodic hook that competes with a speaking voice.",
+  "qa": {
+    "method": "Whisper transcript per shot diffed against the script, before any drawing",
+    "result": "clean first time; 360 script words. Differences are normalisation only: 'three thousand' to '3,000' in s01 and s02, and 'double u' to 'W' in s10 - Whisper writing the letter's name as the letter. The shot cues nothing on either.",
+    "defectsFound": [],
+    "writtenAround": "This is the set's most letter-heavy film and the one most exposed to Gemini dropping isolated letters, so the script names a single letter exactly once ('It is the letter F, and it is still sixth in line'), mid-sentence with a carrier phrase, and lets the screen carry every other letter. The Phoenician name of the source letter, waw, is never spoken: it would be heard - by Whisper and by a listener - as 'wow'."
+  },
+  "notes": {
+    "budget": "360 words over 14 shots estimated 159.2s. Speech came in at 141.0s and the film at 150.2s - 5.7% under. Kore ran at 2.55 words/second, faster again than episode 9's 2.50; two short, plain-English scripts in a row both landed at the fast end of the measured range.",
+    "craft7": "The source is never removed. From shot 3 the page is a family tree: the Phoenician letter climbs to the top and thins, its two Greek copies travel down and out beneath it, and they stay tied to it for the rest of that stage. Every later stage keeps its source as a ghost with a dashed tie - except the U/V split, where the pointed shape stays at full strength because it did not go anywhere: it is still a letter.",
+    "turn": "Shot 8, 'For more than a thousand years, one letter did both jobs', at 78s of 150. The first half is the ancient split, into Greek and then Latin; the second half is the medieval one, inside Latin, and haue and vpon on screen show a single letter doing both jobs in words everyone can still read.",
+    "rhyme": "Episode 2 ended on four letters that were pictures; this one is the fifth, and the one that had the most children. Episode 9's quarter-turn comes back as the first move of the fork.",
+    "newInLib": "Nothing new. travel() with the `emerge` option added in episode 9, and ghost: 1 for the one split where the source is still a letter in its own right."
+  },
+  "toolchainFeedback": {
+    "attestedStatesAsAnchors": "Reading coordinates straight out of the Commons SVG path data (the glyphs Wikipedia displays for each historical form) made every state of the digamma chain a traced form rather than a guess. It is quick - a grep for the d= attribute - and it answers gate 2 for the in-betweens as well as the endpoints. Worth doing for any mark with documented intermediates.",
+    "letterNames": "Whisper normalises a spoken letter name to the letter ('double u' became 'W'). Like number normalisation this is harmless, but beat() must be cued on what timing.json holds, and a QA diff that flags it should be read as normalisation, not a dropped word.",
+    "emergeInSplits": "A source that splits into two copies at once is not something travel() or detach() can express - each draws its own copy of the source. The split was hand-written with the same emerge rule. If another episode needs a one-to-many split, a travel() that takes a list of destinations would be the right shape for it.",
+    "budget": "Two plain-English scripts running 4-6% under the estimate suggests the 2.4 midpoint is slightly slow for this style of writing. Aim a little longer than 160s when the script is short-sentenced and has no foreign words."
+  },
+  "publish": {
+    "youtube": {
+      "title": "F, U, V, W and Y are the same letter",
+      "description": "Five letters on your keyboard descend from one Phoenician letter, named after a hook and drawn like a small forked stick.\n\nThe Greeks took it twice. One copy kept its shape and was added at the end of the alphabet - upsilon. The other kept its sixth place and had its shape changed, its arms squaring off the same way its neighbour epsilon's did - digamma. Rome turned that one into F, which is still the sixth letter, exactly where the hook stood.\n\nThe other copy reached Rome without its stem, as V, and spelled both a vowel and a w: Latin VINVM was said 'weenum', and it is where 'wine' comes from. For more than a thousand years one letter did both jobs; medieval scribes wrote it pointed at the start of a word and rounded everywhere else, so 'upon' was printed 'vpon' and 'have' was 'haue', until printers gave each shape a single job - U and V. English and German scribes, needing a w that Latin had lost, wrote it twice side by side, and we still call that a double u. And in the first century BC Rome borrowed upsilon a second time, unchanged, to spell Greek words: Y, which French and Spanish still call the Greek i.\n\nEvery split came when a language needed a sound it had no letter for, and reached for the nearest one it already had.\n\nSources: Wikipedia's articles on Waw, Digamma, Upsilon, F, U, V, W and Y; the digamma forms follow L. H. Jeffery, The Local Scripts of Archaic Greece (1961).\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "alphabet",
+        "history of the alphabet",
+        "etymology",
+        "typography",
+        "letters",
+        "phoenician alphabet",
+        "greek alphabet",
+        "latin alphabet",
+        "linguistics",
+        "explainer",
+        "animation",
+        "writing systems"
+      ],
+      "videoId": "lzAT6dE9FB8",
+      "url": "https://www.youtube.com/watch?v=lzAT6dE9FB8",
+      "uploadedAt": "2026-11-07"
+    },
+    "shorts": {
+      "title": "The letter F is still sixth in line, where it stood 3,000 years ago",
+      "description": "A Phoenician letter shaped like a forked stick, sixth in the alphabet. The Greeks squared off its arms; Rome made it F. Four more of your letters came from the same one.\n\nThe full film, at normal speed: https://www.youtube.com/watch?v=lzAT6dE9FB8\n\nNot Arbitrary: things that look like meaningless convention, shown to be pictures.",
+      "tags": [
+        "alphabet",
+        "etymology",
+        "typography",
+        "history",
+        "letters",
+        "animation"
+      ],
+      "source": "vertical-notebook/vertical-full-3x.mp4",
+      "videoId": "h9DhkAc-dXg",
+      "url": "https://www.youtube.com/watch?v=h9DhkAc-dXg",
+      "uploadedAt": "2026-11-07"
+    },
+    "tiktok": {
+      "caption": "F, U, V, W and Y are one letter - a Phoenician letter named after a hook, split five ways over three thousand years. F is still sixth in the alphabet, exactly where it started.",
+      "hook": "First 3 seconds: F U V W Y written in a row, then tied up to a single red forked stick above them."
+    }
+  },
+  "files": {
+    "video": "out.mp4",
+    "script": ".syncvoice/project.json",
+    "scene": "scene.mjs",
+    "workingDrawings": [
+      "strip-letters.mjs"
+    ],
+    "timing": "timing.json",
+    "music": "music.wav"
+  },
+  "rebuild": "node lib/build.mjs sets/not-arbitrary/ep10-one-hook-five-letters"
+}

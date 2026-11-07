@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "externalId": "s05.meat",
+  "text": "The second is a piece of meat. Its oldest drawings show a slice, with lines across it. Squeezed into the side of a character, it stood up straight and lost its curves, until it matched the moon.",
+  "durationMs": 15240,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 412,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 412,
+      "endMs": 824,
+      "startChar": 4,
+      "endChar": 11
+    },
+    {
+      "startMs": 824,
+      "endMs": 1236,
+      "startChar": 11,
+      "endChar": 14
+    },
+    {
+      "startMs": 1236,
+      "endMs": 1648,
+      "startChar": 14,
+      "endChar": 16
+    },
+    {
+      "startMs": 1648,
+      "endMs": 2059,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 2059,
+      "endMs": 2471,
+      "startChar": 22,
+      "endChar": 25
+    },
+    {
+      "startMs": 2471,
+      "endMs": 2883,
+      "startChar": 25,
+      "endChar": 31
+    },
+    {
+      "startMs": 2883,
+      "endMs": 3295,
+      "startChar": 31,
+      "endChar": 35
+    },
+    {
+      "startMs": 3295,
+      "endMs": 3707,
+      "startChar": 35,
+      "endChar": 42
+    },
+    {
+      "startMs": 3707,
+      "endMs": 4119,
+      "startChar": 42,
+      "endChar": 51
+    },
+    {
+      "startMs": 4119,
+      "endMs": 4531,
+      "startChar": 51,
+      "endChar": 56
+    },
+    {
+      "startMs": 4531,
+      "endMs": 4943,
+      "startChar": 56,
+      "endChar": 58
+    },
+    {
+      "startMs": 4943,
+      "endMs": 5355,
+      "startChar": 58,
+      "endChar": 65
+    },
+    {
+      "startMs": 5355,
+      "endMs": 5766,
+      "startChar": 65,
+      "endChar": 70
+    },
+    {
+      "startMs": 5766,
+      "endMs": 6178,
+      "startChar": 70,
+      "endChar": 76
+    },
+    {
+      "startMs": 6178,
+      "endMs": 6590,
+      "startChar": 76,
+      "endChar": 83
+    },
+    {
+      "startMs": 6590,
+      "endMs": 7002,
+      "startChar": 83,
+      "endChar": 87
+    },
+    {
+      "startMs": 7002,
+      "endMs": 7414,
+      "startChar": 87,
+      "endChar": 96
+    },
+    {
+      "startMs": 7414,
+      "endMs": 7826,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 7826,
+      "endMs": 8238,
+      "startChar": 101,
+      "endChar": 105
+    },
+    {
+      "startMs": 8238,
+      "endMs": 8650,
+      "startChar": 105,
+      "endChar": 110
+    },
+    {
+      "startMs": 8650,
+      "endMs": 9062,
+      "startChar": 110,
+      "endChar": 113
+    },
+    {
+      "startMs": 9062,
+      "endMs": 9474,
+      "startChar": 113,
+      "endChar": 115
+    },
+    {
+      "startMs": 9474,
+      "endMs": 9885,
+      "startChar": 115,
+      "endChar": 126
+    },
+    {
+      "startMs": 9885,
+      "endMs": 10297,
+      "startChar": 126,
+      "endChar": 129
+    },
+    {
+      "startMs": 10297,
+      "endMs": 10709,
+      "startChar": 129,
+      "endChar": 135
+    },
+    {
+      "startMs": 10709,
+      "endMs": 11121,
+      "startChar": 135,
+      "endChar": 138
+    },
+    {
+      "startMs": 11121,
+      "endMs": 11533,
+      "startChar": 138,
+      "endChar": 147
+    },
+    {
+      "startMs": 11533,
+      "endMs": 11945,
+      "startChar": 147,
+      "endChar": 151
+    },
+    {
+      "startMs": 11945,
+      "endMs": 12357,
+      "startChar": 151,
+      "endChar": 156
+    },
+    {
+      "startMs": 12357,
+      "endMs": 12769,
+      "startChar": 156,
+      "endChar": 160
+    },
+    {
+      "startMs": 12769,
+      "endMs": 13181,
+      "startChar": 160,
+      "endChar": 168
+    },
+    {
+      "startMs": 13181,
+      "endMs": 13592,
+      "startChar": 168,
+      "endChar": 174
+    },
+    {
+      "startMs": 13592,
+      "endMs": 14004,
+      "startChar": 174,
+      "endChar": 177
+    },
+    {
+      "startMs": 14004,
+      "endMs": 14416,
+      "startChar": 177,
+      "endChar": 185
+    },
+    {
+      "startMs": 14416,
+      "endMs": 14828,
+      "startChar": 185,
+      "endChar": 189
+    },
+    {
+      "startMs": 14828,
+      "endMs": 15240,
+      "startChar": 189,
+      "endChar": 194
+    }
+  ]
+}

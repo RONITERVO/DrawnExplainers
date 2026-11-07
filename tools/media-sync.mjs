@@ -1,6 +1,8 @@
 // Push an episode's media to the media store and record what went where.
 //
-//   node tools/media-sync.mjs push <episode-dir>     upload + write media.json
+//   node tools/media-sync.mjs push <episode-dir>     upload + write media.json; refuses while
+//                                                    anything media.json lists is not on disk
+//   node tools/media-sync.mjs push <episode-dir> --force   ...and drop those files from the store
 //   node tools/media-sync.mjs pull <episode-dir>     fetch everything media.json lists
 //   node tools/media-sync.mjs check <episode-dir>    verify local files against it
 //   node tools/media-sync.mjs status                 every episode at a glance
@@ -23,16 +25,21 @@ const REMOTE = process.env.MEDIA_REMOTE || 'gdrive:DrawnExplainers';
 const RCLONE = process.env.RCLONE
   || 'C:/Users/ronit/AppData/Local/Microsoft/WinGet/Packages/Rclone.Rclone_Microsoft.Winget.Source_8wekyb3d8bbwe/rclone-v1.75.1-windows-amd64/rclone.exe';
 
-// What goes to the media store, grouped into one archive each. Order matters
-// only for reporting.
+// A Veo original lives in out-clips-talking-face*-only-video/, so it also
+// starts with the clips prefix. It belongs to veo alone: episodes 1-8 were
+// pushed before this was fixed and carry their originals in both archives.
+const isVeo = f => /face-only-video/.test(f) && !/-muted\//.test(f);
+
+// What goes to the media store, grouped into one archive each. A file belongs
+// to one group at most (push enforces it). Order matters only for reporting.
 const GROUPS = [
   { name: 'audio', match: f => f === 'music.wav' || f.startsWith('assets/syncvoice/audio/'),
     why: 'irreplaceable - Lyria has no seed, Gemini TTS is not deterministic' },
   { name: 'render', match: f => ['out.mp4', 'narration.wav', 'mixed.wav'].includes(f),
     why: 'regenerable: node lib/build.mjs <ep>' },
-  { name: 'veo', match: f => /face-only-video/.test(f) && !/-muted\//.test(f),
+  { name: 'veo', match: isVeo,
     why: 'irreplaceable - Google video generation, costs money, never identical' },
-  { name: 'clips', match: f => f.startsWith('out-clips-talking-face'),
+  { name: 'clips', match: f => f.startsWith('out-clips-talking-face') && !isVeo(f),
     why: 'regenerable: node tools/make-speech-clips-v3.mjs, then mute/derive passes' },
   { name: 'vertical', match: f => f.startsWith('vertical-notebook/'),
     why: 'regenerable: tools/Notebook-Compositor' },
@@ -55,10 +62,41 @@ function listLocal(epDir) {
     .filter(f => existsSync(join(epDir, f)));
 }
 
-function push(epDir) {
+function push(epDir, { force = false } = {}) {
   const slug = basename(epDir);
   const files = listLocal(epDir);
   if (!files.length) { console.log(`${slug}: nothing to push`); return; }
+
+  // A push rebuilds every archive from what is on disk, overwrites the store's
+  // copy and rewrites media.json from scratch. So anything the last push
+  // recorded that is not on disk now would leave the store for good: a whole
+  // missing group silently, a partly missing one by overwriting the complete
+  // archive with the partial one.
+  const mPath = join(epDir, 'media.json');
+  if (existsSync(mPath)) {
+    const prev = JSON.parse(readFileSync(mPath, 'utf8'));
+    const gone = [...new Set(Object.values(prev.groups).flatMap(g => g.files))]
+      .filter(f => !existsSync(join(epDir, f)));
+    if (gone.length && !force) {
+      console.error(`${slug}: refusing to push - ${gone.length} file(s) in media.json are not on disk:`);
+      for (const f of gone.slice(0, 5)) console.error(`    ${f}`);
+      if (gone.length > 5) console.error(`    ... and ${gone.length - 5} more`);
+      console.error('  A push replaces the store\'s archives with what is on disk, so they would be dropped from it.');
+      console.error(`  fix: node tools/media-sync.mjs pull ${epDir}   (then push again)`);
+      console.error(`  or, if they were removed on purpose: node tools/media-sync.mjs push ${epDir} --force`);
+      process.exitCode = 1;
+      return;
+    }
+    if (gone.length) console.log(`${slug}: --force: dropping ${gone.length} file(s) that are no longer on disk from the store`);
+  }
+
+  const owner = new Map();
+  for (const g of GROUPS) {
+    for (const f of files.filter(g.match)) {
+      if (owner.has(f)) throw new Error(`${f} matches both the ${owner.get(f)} and ${g.name} groups; it would be uploaded twice`);
+      owner.set(f, g.name);
+    }
+  }
 
   const manifest = { slug, remote: `${REMOTE}/${slug}`, updated: new Date().toISOString().slice(0, 10), groups: {} };
   const tmp = join(epDir, '.media-tmp');
@@ -152,16 +190,21 @@ function check(epDir) {
   }
 }
 
-const [cmd, target] = process.argv.slice(2);
+const argv = process.argv.slice(2);
+const flags = argv.filter(a => a.startsWith('--'));
+const [cmd, target] = argv.filter(a => !a.startsWith('--'));
+const force = flags.includes('--force');
 const eps = () => execSync('git ls-files "sets/*/*/episode.json"', { encoding: 'utf8' })
   .split('\n').filter(Boolean).map(f => resolve(f, '..'));
 
-if (cmd === 'push' && target) push(resolve(target));
-else if (cmd === 'pull' && target) pull(resolve(target));
-else if (cmd === 'check' && target) check(resolve(target));
-else if (cmd === 'status') for (const d of eps()) check(d);
+const badFlags = flags.some(f => f !== '--force') || (force && cmd !== 'push');
+if (!badFlags && cmd === 'push' && target) push(resolve(target), { force });
+else if (!badFlags && cmd === 'pull' && target) pull(resolve(target));
+else if (!badFlags && cmd === 'check' && target) check(resolve(target));
+else if (!badFlags && cmd === 'status') for (const d of eps()) check(d);
 else {
-  console.error('usage: node tools/media-sync.mjs push|pull|check <episode-dir>');
+  console.error('usage: node tools/media-sync.mjs push <episode-dir> [--force]');
+  console.error('       node tools/media-sync.mjs pull|check <episode-dir>');
   console.error('       node tools/media-sync.mjs status');
   process.exit(2);
 }

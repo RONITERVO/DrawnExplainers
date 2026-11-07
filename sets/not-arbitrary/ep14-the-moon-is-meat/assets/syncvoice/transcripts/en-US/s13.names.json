@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "externalId": "s13.names",
+  "text": "And in Japan and in Korea, the meat has kept a name of its own. In both languages, it means the meat moon.",
+  "durationMs": 8960,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 4
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 4,
+      "endChar": 7
+    },
+    {
+      "startMs": 150,
+      "endMs": 225,
+      "startChar": 7,
+      "endChar": 13
+    },
+    {
+      "startMs": 225,
+      "endMs": 1440,
+      "startChar": 13,
+      "endChar": 17
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1800,
+      "startChar": 17,
+      "endChar": 20
+    },
+    {
+      "startMs": 1800,
+      "endMs": 2000,
+      "startChar": 20,
+      "endChar": 27
+    },
+    {
+      "startMs": 2000,
+      "endMs": 2320,
+      "startChar": 27,
+      "endChar": 31
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2640,
+      "startChar": 31,
+      "endChar": 36
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3520,
+      "startChar": 36,
+      "endChar": 40
+    },
+    {
+      "startMs": 3520,
+      "endMs": 3720,
+      "startChar": 40,
+      "endChar": 45
+    },
+    {
+      "startMs": 3720,
+      "endMs": 3940,
+      "startChar": 45,
+      "endChar": 47
+    },
+    {
+      "startMs": 3940,
+      "endMs": 4160,
+      "startChar": 47,
+      "endChar": 52
+    },
+    {
+      "startMs": 4160,
+      "endMs": 4400,
+      "startChar": 52,
+      "endChar": 55
+    },
+    {
+      "startMs": 4400,
+      "endMs": 4640,
+      "startChar": 55,
+      "endChar": 59
+    },
+    {
+      "startMs": 4640,
+      "endMs": 5000,
+      "startChar": 59,
+      "endChar": 64
+    },
+    {
+      "startMs": 5000,
+      "endMs": 5180,
+      "startChar": 64,
+      "endChar": 67
+    },
+    {
+      "startMs": 5180,
+      "endMs": 5360,
+      "startChar": 67,
+      "endChar": 72
+    },
+    {
+      "startMs": 5360,
+      "endMs": 5435,
+      "startChar": 72,
+      "endChar": 83
+    },
+    {
+      "startMs": 5435,
+      "endMs": 7120,
+      "startChar": 83,
+      "endChar": 86
+    },
+    {
+      "startMs": 7120,
+      "endMs": 7320,
+      "startChar": 86,
+      "endChar": 92
+    },
+    {
+      "startMs": 7320,
+      "endMs": 7880,
+      "startChar": 92,
+      "endChar": 96
+    },
+    {
+      "startMs": 7880,
+      "endMs": 8120,
+      "startChar": 96,
+      "endChar": 101
+    },
+    {
+      "startMs": 8120,
+      "endMs": 8440,
+      "startChar": 101,
+      "endChar": 106
+    }
+  ]
+}

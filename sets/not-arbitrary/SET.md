@@ -79,6 +79,28 @@ for whoever wants them.
   else until it has been dealt with. Episode 8 puts that claim and the pillars
   of Hercules up as text and strikes them through on a beat. It costs one shot
   and it is the shot that makes the rest of the film land.
+- **Check the hook against the mark as it is written today.** Episode 9 was
+  scripted as "the character for horse is a horse standing on its tail", and
+  the modern 馬 is not: its legs came back down underneath it in later
+  scripts. What survives of the rotation is the upright neck and the mane
+  streaming sideways. The oracle form proves the rotation happened; only the
+  modern mark can prove what is left of it, so the claim has to be narrowed
+  to that before the voice is recorded, not after.
+- **Name the last words in a "no lift" direction.** "Land it and stop" is the
+  natural direction for a closing line, and it can swallow the line's last
+  word: episode 11's "you have been reading letters all along" came back as
+  "all the low". Re-synthesised with the final words named in the direction,
+  it came back whole.
+- **Read every row of letters on screen as a word.** A viewer will. Episode
+  12's four letters, in the order the narration takes them, spell MERD, so
+  every row on screen sets them out as D E M R instead. Check any line of
+  letters for an accidental word before rendering it.
+- **A side beat faces the same gate as the thesis.** The extra fact is the one
+  most likely to be folk etymology, because it is the one people repeat.
+  Episode 14 nearly used 有 'to have' as a hand holding meat, and Wiktionary's
+  own entry for 有 calls that folk etymology: the oracle-bone form shows no
+  meat. Check each extra against its own entry, not against the entry of the
+  thing it illustrates.
 - **No emoji, ever.** They do not belong on paper.
 
 ## Episodes
@@ -93,6 +115,12 @@ for whoever wants them.
 | 06 | Circuit Diagrams Are a Museum | 2:48 | rendered |
 | 07 | Roman Numerals Are Not Letters | 2:36 | rendered |
 | 08 | Four Symbols That Are Just Handwriting | 2:38 | rendered |
+| 09 | The Horse Is Standing on Its Tail | 2:31 | rendered |
+| 10 | Five Letters That Are One Letter | 2:30 | rendered |
+| 11 | The Peace Sign Is Two Letters | 2:45 | rendered |
+| 12 | Lowercase Is a Capital in a Hurry | 2:36 | rendered |
+| 13 | Japanese Letters Are Chinese Characters, Worn Down or Cut | 2:32 | rendered |
+| 14 | The Moon in 'Liver' Is Meat | 2:40 | rendered |
 
 ## Candidates for later episodes
 
@@ -107,7 +135,29 @@ someone else's set:
   popular version is largely myth, which could itself be the episode). Note
   that episode 7 did the Roman numerals and found the opposite situation - a
   scholarly derivation with real morphs in it, and the folk story (C for
-  centum) displaced as a side effect rather than as the subject.
+  centum) displaced as a side effect rather than as the subject. Checked for
+  episode 9: 2 and 3 really are two and three strokes joined up, but only
+  those two are morphs - Wikipedia's Brahmi numerals calls 4-9 arbitrary in
+  even the oldest inscriptions - so it is a short thread, not a film.
+- Accents are letters written small (refused for episode 10 on gate 2, after
+  being listed here as ready). The dots of the umlaut stand for an e, but the
+  shape derivation - two Kurrent strokes worn to two dots - is flagged by the
+  umlaut article's own editors as unreferenced and contradicted by two-dot
+  umlauts in the 14th century, before Kurrent existed. The tilde was already
+  out. Only the cedilla (the foot of a small cursive z) is a documented shape
+  change, which is one thread, not a film.
+- The male and female symbols as contracted Greek letters. Checked for
+  episode 10: the planetary-symbol scholarship settles Jupiter and Saturn as
+  Greek monograms, but not Mars or Venus, and a 12th-century Byzantine diagram
+  draws Mars as a shield and spear. The two symbols people use every day are
+  the two it leaves open.
+- Hangul as pictures of the mouth (refused for episode 9 on gate 2, and the
+  hardest refusal yet, because the 1446 Haerye says it in the designers' own
+  words). Ledyard derives the base consonants from 'Phags-pa and calls the
+  speech-organ story post hoc, and Peter Daniels finds those derivations
+  almost certain. A film that claims ㄴ *is* a
+  tongue cannot rest on that. A film about the only alphabet that shipped
+  with its designers' explanation could - that claim is true either way.
 - Why the pound sign for weight is `lb`, and the `#` that came out of it
   (refused for episode 8 on gate 4, not gate 2: the barred *lb* is three
   strokes and `#` is four, and there is no honest way to split one)
@@ -119,3 +169,25 @@ someone else's set:
   source and the mark are the same motif, so there is nothing to watch change)
 - The prescription Rx and the eye of Horus (another popular-but-shaky origin —
   same treatment)
+- Cuneiform as pictures turned on their side and pressed into clay instead of
+  drawn (refused for episode 11, and again for episode 14: nobody uses it
+  daily, which is this lane's first test, and the quarter-turn happened "for
+  unknown reasons", so it would repeat episode 9's move without episode 9's
+  cause)
+- The side forms of Chinese radicals - 忄 is 心 'heart' squeezed to the edge of
+  a character in the same Han simplification episode 14 dates (Wikipedia's
+  Libian article gives 忄 as its example), and 氵 is 水 'water'. A thread per
+  radical rather than a film, and two of the best have appeared already: 刂 in
+  episode 13, and 灬 as the horse's legs in episode 9
+- ÷ and † as the Alexandrian obelus (refused for episode 11: Rahn reused an
+  existing form for division, which is not a shape change; the dagger's
+  descent from the obelus is undocumented; and Wikipedia's Quotation mark
+  article contradicts the diple-to-quotation-marks link that would have been
+  the third thread)
+- The euro sign as an epsilon (refused for episode 11: the Commission's
+  account holds, but epsilon to € is one bar becoming two, and the design's
+  authorship is disputed)
+- The power symbol as the binary 1 and 0 (refused for episode 11: no source,
+  so it has to be treated as folk)
+- The recycling symbol is a Möbius strip - a real picture, but not letters; a
+  thread for a film about designed pictures rather than for this lane

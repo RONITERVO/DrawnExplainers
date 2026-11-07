@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "externalId": "s10.phone",
+  "text": "So nearly every phone now carries the initials of a Viking king, in an alphabet almost nobody who uses it can read.",
+  "durationMs": 8080,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 3
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 3,
+      "endChar": 10
+    },
+    {
+      "startMs": 150,
+      "endMs": 1440,
+      "startChar": 10,
+      "endChar": 16
+    },
+    {
+      "startMs": 1440,
+      "endMs": 1840,
+      "startChar": 16,
+      "endChar": 22
+    },
+    {
+      "startMs": 1840,
+      "endMs": 2120,
+      "startChar": 22,
+      "endChar": 26
+    },
+    {
+      "startMs": 2120,
+      "endMs": 2320,
+      "startChar": 26,
+      "endChar": 34
+    },
+    {
+      "startMs": 2320,
+      "endMs": 2520,
+      "startChar": 34,
+      "endChar": 38
+    },
+    {
+      "startMs": 2520,
+      "endMs": 2720,
+      "startChar": 38,
+      "endChar": 47
+    },
+    {
+      "startMs": 2720,
+      "endMs": 3000,
+      "startChar": 47,
+      "endChar": 50
+    },
+    {
+      "startMs": 3000,
+      "endMs": 3280,
+      "startChar": 50,
+      "endChar": 52
+    },
+    {
+      "startMs": 3280,
+      "endMs": 3440,
+      "startChar": 52,
+      "endChar": 59
+    },
+    {
+      "startMs": 3440,
+      "endMs": 3840,
+      "startChar": 59,
+      "endChar": 65
+    },
+    {
+      "startMs": 3840,
+      "endMs": 4040,
+      "startChar": 65,
+      "endChar": 68
+    },
+    {
+      "startMs": 4040,
+      "endMs": 4240,
+      "startChar": 68,
+      "endChar": 71
+    },
+    {
+      "startMs": 4240,
+      "endMs": 4315,
+      "startChar": 71,
+      "endChar": 80
+    },
+    {
+      "startMs": 4315,
+      "endMs": 5560,
+      "startChar": 80,
+      "endChar": 87
+    },
+    {
+      "startMs": 5560,
+      "endMs": 6160,
+      "startChar": 87,
+      "endChar": 94
+    },
+    {
+      "startMs": 6160,
+      "endMs": 6680,
+      "startChar": 94,
+      "endChar": 98
+    },
+    {
+      "startMs": 6680,
+      "endMs": 6880,
+      "startChar": 98,
+      "endChar": 103
+    },
+    {
+      "startMs": 6880,
+      "endMs": 7040,
+      "startChar": 103,
+      "endChar": 106
+    },
+    {
+      "startMs": 7040,
+      "endMs": 7200,
+      "startChar": 106,
+      "endChar": 110
+    },
+    {
+      "startMs": 7200,
+      "endMs": 7480,
+      "startChar": 110,
+      "endChar": 115
+    }
+  ]
+}

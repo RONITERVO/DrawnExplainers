@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "externalId": "s02.stone",
+  "text": "Rome carved its capitals in stone, all straight lines and sharp corners. But nobody writes a shopping list with a chisel.",
+  "durationMs": 9000,
+  "cues": [
+    {
+      "startMs": 0,
+      "endMs": 75,
+      "startChar": 0,
+      "endChar": 5
+    },
+    {
+      "startMs": 75,
+      "endMs": 150,
+      "startChar": 5,
+      "endChar": 12
+    },
+    {
+      "startMs": 150,
+      "endMs": 1120,
+      "startChar": 12,
+      "endChar": 16
+    },
+    {
+      "startMs": 1120,
+      "endMs": 1320,
+      "startChar": 16,
+      "endChar": 25
+    },
+    {
+      "startMs": 1320,
+      "endMs": 1880,
+      "startChar": 25,
+      "endChar": 28
+    },
+    {
+      "startMs": 1880,
+      "endMs": 2040,
+      "startChar": 28,
+      "endChar": 35
+    },
+    {
+      "startMs": 2040,
+      "endMs": 2640,
+      "startChar": 35,
+      "endChar": 39
+    },
+    {
+      "startMs": 2640,
+      "endMs": 3200,
+      "startChar": 39,
+      "endChar": 48
+    },
+    {
+      "startMs": 3200,
+      "endMs": 3680,
+      "startChar": 48,
+      "endChar": 54
+    },
+    {
+      "startMs": 3680,
+      "endMs": 4280,
+      "startChar": 54,
+      "endChar": 58
+    },
+    {
+      "startMs": 4280,
+      "endMs": 4520,
+      "startChar": 58,
+      "endChar": 64
+    },
+    {
+      "startMs": 4520,
+      "endMs": 4920,
+      "startChar": 64,
+      "endChar": 73
+    },
+    {
+      "startMs": 4920,
+      "endMs": 5260,
+      "startChar": 73,
+      "endChar": 77
+    },
+    {
+      "startMs": 5260,
+      "endMs": 5600,
+      "startChar": 77,
+      "endChar": 84
+    },
+    {
+      "startMs": 5600,
+      "endMs": 5675,
+      "startChar": 84,
+      "endChar": 91
+    },
+    {
+      "startMs": 5675,
+      "endMs": 6378,
+      "startChar": 91,
+      "endChar": 93
+    },
+    {
+      "startMs": 6378,
+      "endMs": 7080,
+      "startChar": 93,
+      "endChar": 102
+    },
+    {
+      "startMs": 7080,
+      "endMs": 7680,
+      "startChar": 102,
+      "endChar": 107
+    },
+    {
+      "startMs": 7680,
+      "endMs": 7840,
+      "startChar": 107,
+      "endChar": 112
+    },
+    {
+      "startMs": 7840,
+      "endMs": 8000,
+      "startChar": 112,
+      "endChar": 114
+    },
+    {
+      "startMs": 8000,
+      "endMs": 8200,
+      "startChar": 114,
+      "endChar": 121
+    }
+  ]
+}
